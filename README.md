@@ -45,9 +45,9 @@ import seaborn as sns
 ```
 The importing, cleaning, and analysis was conducted in four Jupyter Labs notebooks
 
-* [Consumer Price Index (HPI)](CPI.ipynb)
+* [Consumer Price Index (CPI)](CPI.ipynb)
 * [House Price Index (HPI) and Median House Price](HPI-MedianHP.ipynb)
-* [Migration](Migrationk.ipynb)
+* [Migration](Migration.ipynb)
 * [Correlations](Correlations.ipynb)
 
 ## Migration
