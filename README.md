@@ -9,19 +9,41 @@ The objectives of this project are to:
 3. Identify trends within and between variables
 4. Identify correlation between variables within and between certain states
 
-## Data
+## Data Sources:
 
-The datasets for this project were pulled from a variety of state and federal websites. See below for a full list of sources.
+The datasets for this project were pulled from a variety of state, federal, and corporate websites. They are the following:
+
+#### CPI
+* [Department of Finance](https://dof.ca.gov/forecasting/economics/economic-indicators/inflation/)
+* [Texas.gov](https://data.texas.gov/dataset/Key-Economic-Indicators/karz-jr5v/about_data)
+
+#### HPI, Median Home Prices, and Geographic Data
+* [Federal Housing Finance Agency](https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx)
+* [Zillow](https://www.zillow.com/research/data/)
+* [Simplemaps.com](https://simplemaps.com/data/us-cities)
+
+#### Migration
+* [Census.gov](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
+
+Most of the subject entities provided the datasets in `.xls` or `.csv` format. A portion of the data prep and cleaning occured in Excel utilizing the `=TOCOL()` and `transpose` functions to reorganize the data.
+
+### Importing and Cleaning 
+
+All datasets were read into Python Pandas dataframes using the `read_csv` function and cleaned using functions such as `.strip()`, among others. 
+Unneeded colums were dropped using `.drop()` and `.isin()` was used to filter unneeded data such as years and quarters outside of the study from rows. Nulls were dropped with `.dropna()`.
 
 ## Migration
 
-#### Necessary Libraries
+#### Necessary Libraries and Dependencies
 
 ```python
 from pathlib import Path
 import pandas as pd
+import hvplot.pandas
 import plotly.express as px
 import numpy as np
+import seaborn as sns
+%matplotlib inline
 ```
 #### Goal
 
@@ -61,11 +83,7 @@ fig = px.choropleth(mm_totals,
 ```
 Here, 'locations=state' tells the function to plot the values from our 'state' column onto a map of the United States, as assigned by `scope=usa`. Next, assigning `net_migration` to `color` will show us the change in net migration for each state by color variation. Fixing the `range_color` to a set range serves to highlight the change in `net_migration` over all ten years, rather than one year at a time. Lastly, by setting `animation_frame` to `year` we will achieve an animated graph showing how migration changes between each year. Here is a snapshot of 2022:
 
-I can't figure how to get the image in here, its in the images folder.
-
-![test](images/2022_net_migration.png)
-
-
+<img src="images/2022_net_migration.png" alt="drawing" width="600"/>
 
 The graph generated with plotly.express tells a compelling story of how drastic inter-state migration trends have become since 2020. These numerical findings for each state will be used again when mapping the correlation between migration and our other variables.
 
@@ -114,13 +132,4 @@ What we found is that CPI, HPI, and Migration are strongly correlated in Florida
 ## Sources:
 
 #### CPI
-[Department of Finance](https://dof.ca.gov/forecasting/economics/economic-indicators/inflation/)
-[Data.texas.gov] (https://data.texas.gov/dataset/Key-Economic-Indicators/karz-jr5v/about_data)
-
-#### HPI, Median Home Prices, and Geographic Data
-[Federal Housing Finance Agency](https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx)
-[Zillow](https://www.zillow.com/research/data/)
-[Simplemaps.com](https://simplemaps.com/data/us-cities)
-
-#### Migration
-[Census.gov](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
+* [Department of Finance](https://dof.ca.gov/forecasting/economics/economic-indicators/inflation/)
