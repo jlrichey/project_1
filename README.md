@@ -61,8 +61,6 @@ We found a direct correlation between inflation, migration, and housing prices i
 
 
 
-We found that 
-
 <img src="images/all_states_all_variables_correlation.png" alt="drawing" width="500"/>
 <img src="images/California_Correlation_Heatmap.png" alt="drawing" width="500"/>
 
