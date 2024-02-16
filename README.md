@@ -54,20 +54,18 @@ import seaborn as sns
 
 ### What is the impact of migration and inflation on housing prices?
 
-We found that 
+We found a direct correlation between inflation, migration, and housing prices in Texas and Florida. As population and inflation rose, so did home values accordingly. In comparison, despite negative net migration over the past ten years, California home prices have still risen. We found that home prices were not correlated to inflation rates and home values but are likely part of a complex causality
 
-<img src="images/2021_net_migration.png" alt="drawing" width="500"/>
+<img src="images/Florida_Correlation.png" alt="drawing" width="500"/>
 <img src="images/2022_net_migration.png" alt="drawing" width="500"/>
-<img src="images/inflation_line_plot.png" alt="drawing" width="500"/>
 
 
-### Are the factors of inflation, migration, and housing prices correlated?
 
 We found that 
 
 <img src="images/all_states_all_variables_correlation.png" alt="drawing" width="500"/>
 <img src="images/California_Correlation_Heatmap.png" alt="drawing" width="500"/>
-<img src="images/Florida_Correlation.png" alt="drawing" width="500"/>
+
 <img src="images/Texas_Correlation.png" alt="drawing" width="500"/>
 
 
@@ -89,7 +87,8 @@ We found that
 
 We found that 
 
-
+<img src="images/2021_net_migration.png" alt="drawing" width="500"/>
+<img src="images/inflation_line_plot.png" alt="drawing" width="500"/>
 
 
 
