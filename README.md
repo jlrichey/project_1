@@ -56,27 +56,18 @@ import seaborn as sns
 
 We found a direct correlation between inflation, migration, and housing prices in Texas and Florida. As population and inflation rose, so did home values accordingly. In comparison, despite negative net migration over the past ten years, California home prices have still risen. We found that home prices were not correlated to inflation rates and home values but are likely part of a complex causality
 
-<img src="images/Florida_Correlation.png" alt="drawing" width="500"/>
-<img src="images/2022_net_migration.png" alt="drawing" width="500"/>
-
-
-
 <img src="images/all_states_all_variables_correlation.png" alt="drawing" width="500"/>
-<img src="images/California_Correlation_Heatmap.png" alt="drawing" width="500"/>
 
-<img src="images/Texas_Correlation.png" alt="drawing" width="500"/>
+<img src="images/cum_median_hp_appreciation.png" alt="drawing" width="500"/>
 
 
 ### Are certain states more impacted by migration and inflation than others? 
 
 Based on our findings, all states were impacted by migration. Five states stood out as especially significant in terms of net migration. Those states with the greatest change in net migration were California, Florida, Texas, New York, and Illinois. We selected the top three for further study. We then looked at the inflation in the three states and observed that they were trending consistantly with the US national average inflation.
 
+<img src="images/2022_net_migration.png" alt="drawing" width="500"/>
 
-<img src="images/cum_median_hp_appreciation.png" alt="drawing" width="500"/>
-<img src="images/y2y_hpi_all.png" alt="drawing" width="500"/>
-
-<img src="images/fl_med_hp_2012.png" alt="drawing" width="500"/>
-<img src="images/fl_med_hp_2023.png" alt="drawing" width="500"/>
+<img src="images/inflation_line_plot.png" alt="drawing" width="500"/>
 
 
 ### What are some common trends between these three factors over the last 10 years?
@@ -84,12 +75,45 @@ Based on our findings, all states were impacted by migration. Five states stood 
 The most obvious trend that was identified between these three factors was a significant spike over the years of 2021 and 2022. Florida and Texas, with the largest incoming migration, also saw the highest increase and continuation of home appreciation rates. California with the largest net migration exodus experienced the most substantial fall in home price appreciation of the subject group, even outpacing the national average from 2021 to 2022.
 
 This dynamic played out notably in Florida as demonstrated in the plot below. 
+<img src="images/fl_med_price_metro.png" alt="drawing" width="500"/>
+
+<img src="images/y2y_hpi_all.png" alt="drawing" width="500"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="images/2021_net_migration.png" alt="drawing" width="500"/>
-<img src="images/inflation_line_plot.png" alt="drawing" width="500"/>
 
 
 
+
+
+<img src="images/fl_med_hp_2023.png" alt="drawing" width="500"/>
+
+
+<img src="images/Florida_Correlation.png" alt="drawing" width="500"/>
+
+
+
+
+<img src="images/California_Correlation_Heatmap.png" alt="drawing" width="500"/>
+
+<img src="images/Texas_Correlation.png" alt="drawing" width="500"/>
 
 
 
