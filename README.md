@@ -56,8 +56,10 @@ import seaborn as sns
 
 We found a direct correlation between inflation, migration, and housing prices in Texas and Florida. As population and inflation rose, so did home values accordingly. In comparison, despite negative net migration over the past ten years, California home prices have still risen. We found that home prices were not correlated to inflation rates and home values but are likely part of a complex causality
 
+As the heatmap shows, California is the outlier among otherwise correlated variables. 
 <img src="images/all_states_all_variables_correlation.png" alt="drawing" width="500"/>
 
+Home prices in all three states continue to appreciate. Even in California despite its negative net migration. 
 <img src="images/cum_median_hp_appreciation.png" alt="drawing" width="500"/>
 
 
@@ -65,10 +67,11 @@ We found a direct correlation between inflation, migration, and housing prices i
 
 Based on our findings, all states were impacted by migration. Five states stood out as especially significant in terms of net migration. Those states with the greatest change in net migration were California, Florida, Texas, New York, and Illinois. We selected the top three for further study. We then looked at the inflation in the three states and observed that they were trending consistantly with the US national average inflation.
 
+As the graph shows, the five most impacted states were Florida and Texas with the highest immigration, and California, New York, and Illinois with the highest emmigration. (listed in order of magnitude) 
 <img src="images/2022_net_migration.png" alt="drawing" width="500"/>
 
+All three states follow the national average as show below. 
 <img src="images/inflation_line_plot.png" alt="drawing" width="500"/>
-
 
 ### What are some common trends between these three factors over the last 10 years?
 
@@ -77,133 +80,8 @@ The most obvious trend that was identified between these three factors was a sig
 This dynamic played out notably in Florida as demonstrated in the plot below. 
 <img src="images/fl_med_price_metro.png" alt="drawing" width="500"/>
 
+As noted in the line graph below, California's fall in home price appreciation was so substantial that it was the only state in our study to finish, in 2022, lower than it was ten years prior in 2012.
 <img src="images/y2y_hpi_all.png" alt="drawing" width="500"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="images/2021_net_migration.png" alt="drawing" width="500"/>
-
-
-
-
-
-<img src="images/fl_med_hp_2023.png" alt="drawing" width="500"/>
-
-
-<img src="images/Florida_Correlation.png" alt="drawing" width="500"/>
-
-
-
-
-<img src="images/California_Correlation_Heatmap.png" alt="drawing" width="500"/>
-
-<img src="images/Texas_Correlation.png" alt="drawing" width="500"/>
-
-
-
-
-
-
-
-
-
-## Migration
-
-
-#### Goal
-
-The goal of this section is to identify and quantify migration trends between states over the ten year period. At the end of this analysis we will know precisely each state's net migration for each year.
-
-#### Organizating the Data
-
-Ten csv files are read in and concatenated to create a dataframe containing all migration totals for each state between 2012 and 2022. Unfortunately, 2020 data is not included. Census.gov claims the migration data for this year is not available due to the pandemic at that time.
-
-Next, the data is cleaned and organized. Since all ten csv files are from the same source and have the same format, this requires only dropping null values and changing the state names for the 'state' and 'prev_state' columns to the state abbreviation. This step is important for plotting our data because the library 'plotly.express' requires state names to be listed as state abbreviations in order to populate a national 'choropleth' map.
-
-#### Analysis
-
-Since the objective of this section is to quantify migration trends between states over the given time period, we next group our dataframe by 'state' and 'year', sum the 'migration' column and assign the values to a new variable. This will give us the gross migration for each year and each state. We then repeat this step grouping by 'prev_state' and 'year' to give us the gross emmigration for each state over the time period.
-
-We now have two variables, one containing the gross immigration and one containing the gross emmigration. Concatenating these into a new dataframe gives us the total immigration and emmigration for each state and each year. We now clean this new dataframe by dropping the redundant 'year' column and unnecessary 'prev_state' column.
-
-Next, finding the total net migration for each state and each year is as simple as creating a new column in our dataframe, 'net_migration' that is equal to 'total_immigration' - 'total_emigration'.
-
-#### Plotting
-
-The 'choropleth' function of the plotly.express library will give us an overlay of our data on a United States map as long as we assign our variables correctly.
-
-```python
-fig = px.choropleth(mm_totals,
-    locations='state',
-    locationmode="USA-states",
-    scope="usa",
-    color='net_migration', # display 'net_migration' between states 
-    color_continuous_scale="Viridis_r",
-    width = 800,
-    height = 500,
-    labels = {'net_migration':'Net Migration'},
-    animation_frame='year', # animates the change in net migration between years
-    range_color = [-300000,250000] # fixes the color range of 'net_migration' for uniform display
-)
-```
-Here, 'locations=state' tells the function to plot the values from our 'state' column onto a map of the United States, as assigned by `scope=usa`. Next, assigning `net_migration` to `color` will show us the change in net migration for each state by color variation. Fixing the `range_color` to a set range serves to highlight the change in `net_migration` over all ten years, rather than one year at a time. Lastly, by setting `animation_frame` to `year` we will achieve an animated graph showing how migration changes between each year. Here is a snapshot of 2022:
-
-<img src="images/2022_net_migration.png" alt="drawing" width="600"/>
-
-The graph generated with plotly.express tells a compelling story of how drastic inter-state migration trends have become since 2020. These numerical findings for each state will be used again when mapping the correlation between migration and our other variables.
-
-
-
-## Correlation
-
-#### Necessary Libraries
-
-```python
-from pathlib import Path
-import pandas as pd
-import plotly.express as px
-import numpy as np
-import hvplot.pandas
-import seaborn as sns
-```
-
-#### Goal
-
-The goal of this section of the project is to identify if the trends we've uncovered within each state for each variable are correlated to eachother. 
-
-#### Organizating the Data
-
-The first portion of this notebook is copied from the other notebooks for each variable, CPI, HPI and Migration. This is because the cleaning process is the same and we want to use the same values we used for the final analysis of the other sections.
-
-The new code section of this notebook is labeled and begins with concatenating all inflation dataframes. Next, we sort the migration data for each state included in our analysis, CA, TX, and FL and assign them into seperate dataframes for each state. We then drop all other columns except for net migration. Lastly, we do the same for each state's home appreciation values from the HPI section and concatenate all dataframes for all states and variables together. Renaming each column is important here so we are able to interpret our correlation map later.
-
-#### Analysis
-
-We then run the `.corr` function on our combined dataframe and plot the correlation using seaborn. Here is the outcome:
-
-See images folder
-
-
-Since this master heatmap looks busy and contains variables that don't necessarily need to be correlated, new heatmaps for each state are warranted. This is accomplished by assigning all state variables to new respective  state dataframes and rerunning the correlation and heatmap steps. Here is the plot for Florida variables:
-
-
-See images folder
 
 #### Outcome
 
