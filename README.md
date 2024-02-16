@@ -56,19 +56,19 @@ import seaborn as sns
 
 We found that 
 
-<img src="images/2022_net_migration.png" alt="drawing" width="600"/>
+<img src="images/2021_net_migration.png" alt="drawing" width="500"/>
+<img src="images/2022_net_migration.png" alt="drawing" width="500"/>
+<img src="images/inflation_line_plot.png" alt="drawing" width="500"/>
 
 
 ### Are the factors of inflation, migration, and housing prices correlated?
 
 We found that 
 
-<img src="images/all_states_all_variables_correlation.png" alt="drawing" width="600"/>
-<img src="images/California_Correlation_Heatmap.png" alt="drawing" width="600"/>
-<img src="images/all_variable_correlation.png" alt="drawing" width="600"/>
-<img src="images/Florida_Correlation.png" alt="drawing" width="600"/>
-<img src="images/Texas_Correlation_Heatmap.png" alt="drawing" width="600"/>
-<img src="images/CA_correlation.png" alt="drawing" width="600"/>
+<img src="images/all_states_all_variables_correlation.png" alt="drawing" width="500"/>
+<img src="images/California_Correlation_Heatmap.png" alt="drawing" width="500"/>
+<img src="images/Florida_Correlation.png" alt="drawing" width="500"/>
+<img src="images/Texas_Correlation.png" alt="drawing" width="500"/>
 
 
 
@@ -78,7 +78,12 @@ We found that
 
 We found that 
 
-<img src="images/YWY_hpi_all.png" alt="drawing" width="600"/>
+<img src="images/cum_median_hp_appreciation.png" alt="drawing" width="500"/>
+<img src="images/Y2Y_hpi_all.png" alt="drawing" width="500"/>
+
+
+<img src="images/fl_med_hp_2012.png" alt="drawing" width="500"/>
+<img src="images/fl_med_hp_2023.png" alt="drawing" width="500"/>
 
 
 ### What are some common trends between these three factors over the last 10 years?
