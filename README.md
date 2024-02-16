@@ -79,8 +79,7 @@ We found that
 We found that 
 
 <img src="images/cum_median_hp_appreciation.png" alt="drawing" width="500"/>
-<img src="images/Y2Y_hpi_all.png" alt="drawing" width="500"/>
-
+<img src="images/y2y_hpi_all.png" alt="drawing" width="500"/>
 
 <img src="images/fl_med_hp_2012.png" alt="drawing" width="500"/>
 <img src="images/fl_med_hp_2023.png" alt="drawing" width="500"/>
