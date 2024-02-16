@@ -32,7 +32,14 @@ Most of the subject entities provided the datasets in `.xls` or `.csv` format. A
 All datasets were read into Python Pandas dataframes using the `read_csv` function and cleaned using functions such as `.strip()`, among others. 
 Unneeded colums were dropped using `.drop()` and `.isin()` was used to filter unneeded data such as years and quarters outside of the study from rows. Nulls were dropped with `.dropna()`.
 
-### Necessary Libraries and Dependencies
+The importing, cleaning, and analysis was conducted in four Jupyter Labs notebooks...
+
+* [Consumer Price Index (CPI)](CPI.ipynb)
+* [House Price Index (HPI) and Median House Price](HPI-MedianHP.ipynb)
+* [Migration](Migration.ipynb)
+* [Correlations](Correlations.ipynb)
+
+...utilizing the following libraries and dependencies.
 
 ```python
 from pathlib import Path
@@ -43,12 +50,53 @@ import numpy as np
 import seaborn as sns
 %matplotlib inline
 ```
-The importing, cleaning, and analysis was conducted in four Jupyter Labs notebooks
+## Summary of Major Findings
 
-* [Consumer Price Index (CPI)](CPI.ipynb)
-* [House Price Index (HPI) and Median House Price](HPI-MedianHP.ipynb)
-* [Migration](Migration.ipynb)
-* [Correlations](Correlations.ipynb)
+### What is the impact of migration and inflation on housing prices?
+
+We found that 
+
+<img src="images/2022_net_migration.png" alt="drawing" width="600"/>
+
+
+### Are the factors of inflation, migration, and housing prices correlated?
+
+We found that 
+
+<img src="images/all_states_all_variables_correlation.png" alt="drawing" width="600"/>
+<img src="images/California_Correlation_Heatmap.png" alt="drawing" width="600"/>
+<img src="images/all_variable_correlation.png" alt="drawing" width="600"/>
+<img src="images/Florida_Correlation.png" alt="drawing" width="600"/>
+<img src="images/Texas_Correlation_Heatmap.png" alt="drawing" width="600"/>
+<img src="images/CA_correlation.png" alt="drawing" width="600"/>
+
+
+
+
+
+### Are certain states more impacted by migration and inflation than others? 
+
+We found that 
+
+<img src="images/YWY_hpi_all.png" alt="drawing" width="600"/>
+
+
+### What are some common trends between these three factors over the last 10 years?
+
+We found that 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Migration
 
