@@ -2,26 +2,27 @@
 
 ## Objectives:
 
-The objective of this project is to:
+The objectives of this project are to:
 
-1. Read in, clean and organize US CPI, HPI and Migration data
+1. Read in, clean, and organize US CPI, HPI, Migration, and Median House Price data
 2. Quantify each variable between 2012 and 2022
-3. Identify trends within and between variabels
+3. Identify trends within and between variables
 4. Identify correlation between variables within and between certain states
 
 ## Data
 
-The data for this project was pulled from a variety of state and federal websites. See below for a full list of sources.
+The datasets for this project were pulled from a variety of state and federal websites. See below for a full list of sources.
 
 ## Migration
 
 #### Necessary Libraries
 
-`from pathlib import Path
+```python
+from pathlib import Path
 import pandas as pd
 import plotly.express as px
 import numpy as np
-`
+```
 #### Goal
 
 The goal of this section is to identify and quantify migration trends between states over the ten year period. At the end of this analysis we will know precisely each state's net migration for each year.
@@ -44,24 +45,25 @@ Next, finding the total net migration for each state and each year is as simple 
 
 The 'choropleth' function of the plotly.express library will give us an overlay of our data on a United States map as long as we assign our variables correctly.
 
-`fig = px.choropleth(mm_totals,
-                    locations='state', 
-                    locationmode="USA-states", 
-                    scope="usa",
-                    color='net_migration', # display 'net_migration' between states 
-                    color_continuous_scale="Viridis_r",
-                    width = 800,
-                    height = 500,
-                    labels = {'net_migration':'Net Migration'},
-                    animation_frame='year', # animates the change in net migration between years
-                    range_color = [-300000,250000] # fixes the color range of 'net_migration' for uniform display
-                   )
-`
-Here, 'locations=state' tells the function to plot the values from our 'state' column onto a map of the United States, as assigned by 'scope=usa'. Next, assigning 'net_migration' to 'color' will show us the change in net migration for each state by color variation. Fixing the 'range_color' to a set range serves to highlight the change in 'net_migration' over all ten years, rather than one year at a time. Lastly, by setting 'animation_frame' to 'year' we will achieve an animated graph showing how migration changes between each year. Here is a snapshot of 2022:
+```python
+fig = px.choropleth(mm_totals,
+    locations='state',
+    locationmode="USA-states",
+    scope="usa",
+    color='net_migration', # display 'net_migration' between states 
+    color_continuous_scale="Viridis_r",
+    width = 800,
+    height = 500,
+    labels = {'net_migration':'Net Migration'},
+    animation_frame='year', # animates the change in net migration between years
+    range_color = [-300000,250000] # fixes the color range of 'net_migration' for uniform display
+)
+```
+Here, 'locations=state' tells the function to plot the values from our 'state' column onto a map of the United States, as assigned by `scope=usa`. Next, assigning `net_migration` to `color` will show us the change in net migration for each state by color variation. Fixing the `range_color` to a set range serves to highlight the change in `net_migration` over all ten years, rather than one year at a time. Lastly, by setting `animation_frame` to `year` we will achieve an animated graph showing how migration changes between each year. Here is a snapshot of 2022:
 
-I can't figure how to get the image in here, its in the 'images' folder.
+I can't figure how to get the image in here, its in the images folder.
 
-
+![test](images/2022_net_migration.png)
 
 
 
@@ -73,13 +75,14 @@ The graph generated with plotly.express tells a compelling story of how drastic 
 
 #### Necessary Libraries
 
-`from pathlib import Path
+```python
+from pathlib import Path
 import pandas as pd
 import plotly.express as px
 import numpy as np
 import hvplot.pandas
 import seaborn as sns
-`
+```
 
 #### Goal
 

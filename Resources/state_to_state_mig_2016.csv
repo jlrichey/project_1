@@ -1,0 +1,2602 @@
+﻿migration_year,current_state,prev_state,migration
+2016,Alabama,Alabama,N/A
+2016,Alabama,Alaska,576
+2016,Alabama,Arizona,1022
+2016,Alabama,Arkansas,495
+2016,Alabama,California,6611
+2016,Alabama,Colorado,2177
+2016,Alabama,Connecticut,566
+2016,Alabama,Delaware,0
+2016,Alabama,District of Columbia ,97
+2016,Alabama,Florida,16631
+2016,Alabama,Georgia,23008
+2016,Alabama,Hawaii,1695
+2016,Alabama,Idaho,212
+2016,Alabama,Illinois,3707
+2016,Alabama,Indiana,1445
+2016,Alabama,Iowa,671
+2016,Alabama,Kansas,1261
+2016,Alabama,Kentucky,1590
+2016,Alabama,Louisiana,1508
+2016,Alabama,Maine,151
+2016,Alabama,Maryland,1903
+2016,Alabama,Massachusetts,330
+2016,Alabama,Michigan,2195
+2016,Alabama,Minnesota,122
+2016,Alabama,Mississippi,7602
+2016,Alabama,Missouri,2746
+2016,Alabama,Montana,294
+2016,Alabama,Nebraska,33
+2016,Alabama,Nevada,254
+2016,Alabama,New Hampshire,0
+2016,Alabama,New Jersey,812
+2016,Alabama,New Mexico,826
+2016,Alabama,New York,3047
+2016,Alabama,North Carolina,6419
+2016,Alabama,North Dakota,0
+2016,Alabama,Ohio,2694
+2016,Alabama,Oklahoma,1169
+2016,Alabama,Oregon,498
+2016,Alabama,Pennsylvania,1008
+2016,Alabama,Rhode Island,0
+2016,Alabama,South Carolina,2952
+2016,Alabama,South Dakota,52
+2016,Alabama,Tennessee,9960
+2016,Alabama,Texas,7689
+2016,Alabama,Utah,525
+2016,Alabama,Vermont,0
+2016,Alabama,Virginia,3535
+2016,Alabama,Washington,677
+2016,Alabama,West Virginia,42
+2016,Alabama,Wisconsin,874
+2016,Alabama,Wyoming,539
+2016,Alaska,Alabama,423
+2016,Alaska,Alaska,N/A
+2016,Alaska,Arizona,1176
+2016,Alaska,Arkansas,65
+2016,Alaska,California,3593
+2016,Alaska,Colorado,1401
+2016,Alaska,Connecticut,0
+2016,Alaska,Delaware,79
+2016,Alaska,District of Columbia ,0
+2016,Alaska,Florida,1100
+2016,Alaska,Georgia,2208
+2016,Alaska,Hawaii,561
+2016,Alaska,Idaho,361
+2016,Alaska,Illinois,715
+2016,Alaska,Indiana,126
+2016,Alaska,Iowa,142
+2016,Alaska,Kansas,1831
+2016,Alaska,Kentucky,703
+2016,Alaska,Louisiana,273
+2016,Alaska,Maine,147
+2016,Alaska,Maryland,0
+2016,Alaska,Massachusetts,44
+2016,Alaska,Michigan,133
+2016,Alaska,Minnesota,236
+2016,Alaska,Mississippi,92
+2016,Alaska,Missouri,281
+2016,Alaska,Montana,832
+2016,Alaska,Nebraska,0
+2016,Alaska,Nevada,534
+2016,Alaska,New Hampshire,32
+2016,Alaska,New Jersey,270
+2016,Alaska,New Mexico,198
+2016,Alaska,New York,910
+2016,Alaska,North Carolina,714
+2016,Alaska,North Dakota,58
+2016,Alaska,Ohio,100
+2016,Alaska,Oklahoma,806
+2016,Alaska,Oregon,1301
+2016,Alaska,Pennsylvania,574
+2016,Alaska,Rhode Island,0
+2016,Alaska,South Carolina,281
+2016,Alaska,South Dakota,370
+2016,Alaska,Tennessee,243
+2016,Alaska,Texas,1675
+2016,Alaska,Utah,725
+2016,Alaska,Vermont,86
+2016,Alaska,Virginia,462
+2016,Alaska,Washington,4888
+2016,Alaska,West Virginia,0
+2016,Alaska,Wisconsin,260
+2016,Alaska,Wyoming,291
+2016,Arizona,Alabama,894
+2016,Arizona,Alaska,1946
+2016,Arizona,Arizona,N/A
+2016,Arizona,Arkansas,1205
+2016,Arizona,California,64756
+2016,Arizona,Colorado,11895
+2016,Arizona,Connecticut,1596
+2016,Arizona,Delaware,420
+2016,Arizona,District of Columbia ,276
+2016,Arizona,Florida,9306
+2016,Arizona,Georgia,4242
+2016,Arizona,Hawaii,2339
+2016,Arizona,Idaho,2775
+2016,Arizona,Illinois,13387
+2016,Arizona,Indiana,5443
+2016,Arizona,Iowa,2649
+2016,Arizona,Kansas,3383
+2016,Arizona,Kentucky,1105
+2016,Arizona,Louisiana,679
+2016,Arizona,Maine,355
+2016,Arizona,Maryland,1467
+2016,Arizona,Massachusetts,4028
+2016,Arizona,Michigan,6525
+2016,Arizona,Minnesota,5461
+2016,Arizona,Mississippi,568
+2016,Arizona,Missouri,3708
+2016,Arizona,Montana,2414
+2016,Arizona,Nebraska,1312
+2016,Arizona,Nevada,7350
+2016,Arizona,New Hampshire,224
+2016,Arizona,New Jersey,3971
+2016,Arizona,New Mexico,9453
+2016,Arizona,New York,3029
+2016,Arizona,North Carolina,4605
+2016,Arizona,North Dakota,1662
+2016,Arizona,Ohio,3839
+2016,Arizona,Oklahoma,7494
+2016,Arizona,Oregon,9279
+2016,Arizona,Pennsylvania,4651
+2016,Arizona,Rhode Island,51
+2016,Arizona,South Carolina,1768
+2016,Arizona,South Dakota,2408
+2016,Arizona,Tennessee,1834
+2016,Arizona,Texas,14923
+2016,Arizona,Utah,9979
+2016,Arizona,Vermont,817
+2016,Arizona,Virginia,8809
+2016,Arizona,Washington,13897
+2016,Arizona,West Virginia,1419
+2016,Arizona,Wisconsin,6736
+2016,Arizona,Wyoming,925
+2016,Arkansas,Alabama,2057
+2016,Arkansas,Alaska,103
+2016,Arkansas,Arizona,836
+2016,Arkansas,Arkansas,N/A
+2016,Arkansas,California,4026
+2016,Arkansas,Colorado,3459
+2016,Arkansas,Connecticut,186
+2016,Arkansas,Delaware,0
+2016,Arkansas,District of Columbia ,69
+2016,Arkansas,Florida,1351
+2016,Arkansas,Georgia,2683
+2016,Arkansas,Hawaii,241
+2016,Arkansas,Idaho,0
+2016,Arkansas,Illinois,2594
+2016,Arkansas,Indiana,335
+2016,Arkansas,Iowa,1115
+2016,Arkansas,Kansas,979
+2016,Arkansas,Kentucky,1356
+2016,Arkansas,Louisiana,3530
+2016,Arkansas,Maine,178
+2016,Arkansas,Maryland,319
+2016,Arkansas,Massachusetts,302
+2016,Arkansas,Michigan,928
+2016,Arkansas,Minnesota,449
+2016,Arkansas,Mississippi,3699
+2016,Arkansas,Missouri,6911
+2016,Arkansas,Montana,36
+2016,Arkansas,Nebraska,1411
+2016,Arkansas,Nevada,1194
+2016,Arkansas,New Hampshire,0
+2016,Arkansas,New Jersey,250
+2016,Arkansas,New Mexico,225
+2016,Arkansas,New York,590
+2016,Arkansas,North Carolina,939
+2016,Arkansas,North Dakota,39
+2016,Arkansas,Ohio,192
+2016,Arkansas,Oklahoma,5773
+2016,Arkansas,Oregon,389
+2016,Arkansas,Pennsylvania,1146
+2016,Arkansas,Rhode Island,0
+2016,Arkansas,South Carolina,70
+2016,Arkansas,South Dakota,0
+2016,Arkansas,Tennessee,2635
+2016,Arkansas,Texas,13487
+2016,Arkansas,Utah,619
+2016,Arkansas,Vermont,0
+2016,Arkansas,Virginia,1333
+2016,Arkansas,Washington,2257
+2016,Arkansas,West Virginia,75
+2016,Arkansas,Wisconsin,539
+2016,Arkansas,Wyoming,178
+2016,California,Alabama,3045
+2016,California,Alaska,4206
+2016,California,Arizona,33757
+2016,California,Arkansas,4282
+2016,California,California,N/A
+2016,California,Colorado,22540
+2016,California,Connecticut,2932
+2016,California,Delaware,1372
+2016,California,District of Columbia ,6319
+2016,California,Florida,25354
+2016,California,Georgia,14663
+2016,California,Hawaii,14239
+2016,California,Idaho,3598
+2016,California,Illinois,21539
+2016,California,Indiana,7073
+2016,California,Iowa,3826
+2016,California,Kansas,3293
+2016,California,Kentucky,4206
+2016,California,Louisiana,4933
+2016,California,Maine,2513
+2016,California,Maryland,10637
+2016,California,Massachusetts,14062
+2016,California,Michigan,11442
+2016,California,Minnesota,10897
+2016,California,Mississippi,3174
+2016,California,Missouri,7580
+2016,California,Montana,1272
+2016,California,Nebraska,1876
+2016,California,Nevada,24656
+2016,California,New Hampshire,889
+2016,California,New Jersey,11988
+2016,California,New Mexico,8087
+2016,California,New York,40877
+2016,California,North Carolina,14268
+2016,California,North Dakota,2664
+2016,California,Ohio,9652
+2016,California,Oklahoma,6023
+2016,California,Oregon,18919
+2016,California,Pennsylvania,13090
+2016,California,Rhode Island,2265
+2016,California,South Carolina,5137
+2016,California,South Dakota,1333
+2016,California,Tennessee,6158
+2016,California,Texas,39109
+2016,California,Utah,11114
+2016,California,Vermont,400
+2016,California,Virginia,14348
+2016,California,Washington,27973
+2016,California,West Virginia,1150
+2016,California,Wisconsin,7354
+2016,California,Wyoming,2674
+2016,Colorado,Alabama,2328
+2016,Colorado,Alaska,1698
+2016,Colorado,Arizona,13015
+2016,Colorado,Arkansas,808
+2016,Colorado,California,26909
+2016,Colorado,Colorado,N/A
+2016,Colorado,Connecticut,2882
+2016,Colorado,Delaware,0
+2016,Colorado,District of Columbia ,1360
+2016,Colorado,Florida,13546
+2016,Colorado,Georgia,6128
+2016,Colorado,Hawaii,2795
+2016,Colorado,Idaho,1565
+2016,Colorado,Illinois,11369
+2016,Colorado,Indiana,2672
+2016,Colorado,Iowa,3243
+2016,Colorado,Kansas,4634
+2016,Colorado,Kentucky,1736
+2016,Colorado,Louisiana,3361
+2016,Colorado,Maine,390
+2016,Colorado,Maryland,3467
+2016,Colorado,Massachusetts,2196
+2016,Colorado,Michigan,4285
+2016,Colorado,Minnesota,3725
+2016,Colorado,Mississippi,1319
+2016,Colorado,Missouri,6246
+2016,Colorado,Montana,1334
+2016,Colorado,Nebraska,3050
+2016,Colorado,Nevada,4366
+2016,Colorado,New Hampshire,1360
+2016,Colorado,New Jersey,2731
+2016,Colorado,New Mexico,5073
+2016,Colorado,New York,8612
+2016,Colorado,North Carolina,6059
+2016,Colorado,North Dakota,1801
+2016,Colorado,Ohio,3674
+2016,Colorado,Oklahoma,3828
+2016,Colorado,Oregon,3473
+2016,Colorado,Pennsylvania,4586
+2016,Colorado,Rhode Island,63
+2016,Colorado,South Carolina,1945
+2016,Colorado,South Dakota,1735
+2016,Colorado,Tennessee,4035
+2016,Colorado,Texas,20725
+2016,Colorado,Utah,3642
+2016,Colorado,Vermont,647
+2016,Colorado,Virginia,7148
+2016,Colorado,Washington,4487
+2016,Colorado,West Virginia,309
+2016,Colorado,Wisconsin,3243
+2016,Colorado,Wyoming,3657
+2016,Connecticut,Alabama,1102
+2016,Connecticut,Alaska,331
+2016,Connecticut,Arizona,309
+2016,Connecticut,Arkansas,960
+2016,Connecticut,California,3979
+2016,Connecticut,Colorado,562
+2016,Connecticut,Connecticut,N/A
+2016,Connecticut,Delaware,0
+2016,Connecticut,District of Columbia ,433
+2016,Connecticut,Florida,4629
+2016,Connecticut,Georgia,1129
+2016,Connecticut,Hawaii,449
+2016,Connecticut,Idaho,0
+2016,Connecticut,Illinois,1733
+2016,Connecticut,Indiana,488
+2016,Connecticut,Iowa,162
+2016,Connecticut,Kansas,329
+2016,Connecticut,Kentucky,43
+2016,Connecticut,Louisiana,330
+2016,Connecticut,Maine,941
+2016,Connecticut,Maryland,1716
+2016,Connecticut,Massachusetts,8519
+2016,Connecticut,Michigan,614
+2016,Connecticut,Minnesota,780
+2016,Connecticut,Mississippi,0
+2016,Connecticut,Missouri,248
+2016,Connecticut,Montana,0
+2016,Connecticut,Nebraska,0
+2016,Connecticut,Nevada,34
+2016,Connecticut,New Hampshire,750
+2016,Connecticut,New Jersey,4496
+2016,Connecticut,New Mexico,0
+2016,Connecticut,New York,22160
+2016,Connecticut,North Carolina,1651
+2016,Connecticut,North Dakota,64
+2016,Connecticut,Ohio,1124
+2016,Connecticut,Oklahoma,45
+2016,Connecticut,Oregon,62
+2016,Connecticut,Pennsylvania,3427
+2016,Connecticut,Rhode Island,3255
+2016,Connecticut,South Carolina,1054
+2016,Connecticut,South Dakota,0
+2016,Connecticut,Tennessee,394
+2016,Connecticut,Texas,2679
+2016,Connecticut,Utah,0
+2016,Connecticut,Vermont,1131
+2016,Connecticut,Virginia,2320
+2016,Connecticut,Washington,631
+2016,Connecticut,West Virginia,286
+2016,Connecticut,Wisconsin,237
+2016,Connecticut,Wyoming,0
+2016,Deleware,Alabama,148
+2016,Deleware,Alaska,80
+2016,Deleware,Arizona,22
+2016,Deleware,Arkansas,0
+2016,Deleware,California,598
+2016,Deleware,Colorado,106
+2016,Deleware,Connecticut,1263
+2016,Deleware,Delaware,N/A
+2016,Deleware,District of Columbia ,113
+2016,Deleware,Florida,708
+2016,Deleware,Georgia,293
+2016,Deleware,Hawaii,68
+2016,Deleware,Idaho,30
+2016,Deleware,Illinois,953
+2016,Deleware,Indiana,26
+2016,Deleware,Iowa,0
+2016,Deleware,Kansas,0
+2016,Deleware,Kentucky,36
+2016,Deleware,Louisiana,0
+2016,Deleware,Maine,116
+2016,Deleware,Maryland,6985
+2016,Deleware,Massachusetts,509
+2016,Deleware,Michigan,11
+2016,Deleware,Minnesota,0
+2016,Deleware,Mississippi,105
+2016,Deleware,Missouri,230
+2016,Deleware,Montana,94
+2016,Deleware,Nebraska,0
+2016,Deleware,Nevada,27
+2016,Deleware,New Hampshire,0
+2016,Deleware,New Jersey,5656
+2016,Deleware,New Mexico,0
+2016,Deleware,New York,2218
+2016,Deleware,North Carolina,338
+2016,Deleware,North Dakota,0
+2016,Deleware,Ohio,272
+2016,Deleware,Oklahoma,0
+2016,Deleware,Oregon,0
+2016,Deleware,Pennsylvania,10139
+2016,Deleware,Rhode Island,0
+2016,Deleware,South Carolina,212
+2016,Deleware,South Dakota,23
+2016,Deleware,Tennessee,34
+2016,Deleware,Texas,515
+2016,Deleware,Utah,0
+2016,Deleware,Vermont,112
+2016,Deleware,Virginia,1021
+2016,Deleware,Washington,181
+2016,Deleware,West Virginia,158
+2016,Deleware,Wisconsin,0
+2016,Deleware,Wyoming,0
+2016,District of Columbia ,Alabama,140
+2016,District of Columbia ,Alaska,77
+2016,District of Columbia ,Arizona,744
+2016,District of Columbia ,Arkansas,0
+2016,District of Columbia ,California,3908
+2016,District of Columbia ,Colorado,531
+2016,District of Columbia ,Connecticut,1225
+2016,District of Columbia ,Delaware,278
+2016,District of Columbia ,District of Columbia ,N/A
+2016,District of Columbia ,Florida,2717
+2016,District of Columbia ,Georgia,1105
+2016,District of Columbia ,Hawaii,103
+2016,District of Columbia ,Idaho,0
+2016,District of Columbia ,Illinois,2418
+2016,District of Columbia ,Indiana,957
+2016,District of Columbia ,Iowa,218
+2016,District of Columbia ,Kansas,0
+2016,District of Columbia ,Kentucky,233
+2016,District of Columbia ,Louisiana,197
+2016,District of Columbia ,Maine,118
+2016,District of Columbia ,Maryland,12778
+2016,District of Columbia ,Massachusetts,1974
+2016,District of Columbia ,Michigan,922
+2016,District of Columbia ,Minnesota,542
+2016,District of Columbia ,Mississippi,224
+2016,District of Columbia ,Missouri,566
+2016,District of Columbia ,Montana,17
+2016,District of Columbia ,Nebraska,190
+2016,District of Columbia ,Nevada,356
+2016,District of Columbia ,New Hampshire,168
+2016,District of Columbia ,New Jersey,1494
+2016,District of Columbia ,New Mexico,1
+2016,District of Columbia ,New York,4762
+2016,District of Columbia ,North Carolina,1367
+2016,District of Columbia ,North Dakota,83
+2016,District of Columbia ,Ohio,659
+2016,District of Columbia ,Oklahoma,122
+2016,District of Columbia ,Oregon,125
+2016,District of Columbia ,Pennsylvania,2468
+2016,District of Columbia ,Rhode Island,268
+2016,District of Columbia ,South Carolina,382
+2016,District of Columbia ,South Dakota,0
+2016,District of Columbia ,Tennessee,452
+2016,District of Columbia ,Texas,2213
+2016,District of Columbia ,Utah,249
+2016,District of Columbia ,Vermont,0
+2016,District of Columbia ,Virginia,9847
+2016,District of Columbia ,Washington,418
+2016,District of Columbia ,West Virginia,296
+2016,District of Columbia ,Wisconsin,242
+2016,District of Columbia ,Wyoming,0
+2016,Florida,Alabama,11353
+2016,Florida,Alaska,1852
+2016,Florida,Arizona,10312
+2016,Florida,Arkansas,4136
+2016,Florida,California,28420
+2016,Florida,Colorado,9880
+2016,Florida,Connecticut,15285
+2016,Florida,Delaware,3143
+2016,Florida,District of Columbia ,1752
+2016,Florida,Florida,N/A
+2016,Florida,Georgia,39578
+2016,Florida,Hawaii,1326
+2016,Florida,Idaho,885
+2016,Florida,Illinois,23319
+2016,Florida,Indiana,14370
+2016,Florida,Iowa,6630
+2016,Florida,Kansas,2392
+2016,Florida,Kentucky,8588
+2016,Florida,Louisiana,5375
+2016,Florida,Maine,2859
+2016,Florida,Maryland,17648
+2016,Florida,Massachusetts,19882
+2016,Florida,Michigan,19530
+2016,Florida,Minnesota,6778
+2016,Florida,Mississippi,6621
+2016,Florida,Missouri,11656
+2016,Florida,Montana,677
+2016,Florida,Nebraska,1870
+2016,Florida,Nevada,4273
+2016,Florida,New Hampshire,5292
+2016,Florida,New Jersey,33966
+2016,Florida,New Mexico,3091
+2016,Florida,New York,60472
+2016,Florida,North Carolina,28726
+2016,Florida,North Dakota,1127
+2016,Florida,Ohio,29655
+2016,Florida,Oklahoma,3124
+2016,Florida,Oregon,1258
+2016,Florida,Pennsylvania,30258
+2016,Florida,Rhode Island,4894
+2016,Florida,South Carolina,15904
+2016,Florida,South Dakota,535
+2016,Florida,Tennessee,18647
+2016,Florida,Texas,31153
+2016,Florida,Utah,3531
+2016,Florida,Vermont,1627
+2016,Florida,Virginia,29485
+2016,Florida,Washington,6152
+2016,Florida,West Virginia,3979
+2016,Florida,Wisconsin,11298
+2016,Florida,Wyoming,454
+2016,Georgia,Alabama,18276
+2016,Georgia,Alaska,1287
+2016,Georgia,Arizona,3901
+2016,Georgia,Arkansas,2388
+2016,Georgia,California,18948
+2016,Georgia,Colorado,3337
+2016,Georgia,Connecticut,6077
+2016,Georgia,Delaware,1294
+2016,Georgia,District of Columbia ,1473
+2016,Georgia,Florida,44846
+2016,Georgia,Georgia,N/A
+2016,Georgia,Hawaii,768
+2016,Georgia,Idaho,935
+2016,Georgia,Illinois,7630
+2016,Georgia,Indiana,1872
+2016,Georgia,Iowa,2123
+2016,Georgia,Kansas,2003
+2016,Georgia,Kentucky,4049
+2016,Georgia,Louisiana,6951
+2016,Georgia,Maine,815
+2016,Georgia,Maryland,6600
+2016,Georgia,Massachusetts,5727
+2016,Georgia,Michigan,4744
+2016,Georgia,Minnesota,3166
+2016,Georgia,Mississippi,5796
+2016,Georgia,Missouri,3775
+2016,Georgia,Montana,294
+2016,Georgia,Nebraska,566
+2016,Georgia,Nevada,900
+2016,Georgia,New Hampshire,577
+2016,Georgia,New Jersey,5201
+2016,Georgia,New Mexico,1188
+2016,Georgia,New York,24772
+2016,Georgia,North Carolina,17750
+2016,Georgia,North Dakota,436
+2016,Georgia,Ohio,11319
+2016,Georgia,Oklahoma,1932
+2016,Georgia,Oregon,2212
+2016,Georgia,Pennsylvania,8370
+2016,Georgia,Rhode Island,399
+2016,Georgia,South Carolina,11199
+2016,Georgia,South Dakota,336
+2016,Georgia,Tennessee,20161
+2016,Georgia,Texas,19994
+2016,Georgia,Utah,923
+2016,Georgia,Vermont,730
+2016,Georgia,Virginia,11597
+2016,Georgia,Washington,3270
+2016,Georgia,West Virginia,838
+2016,Georgia,Wisconsin,1273
+2016,Georgia,Wyoming,22
+2016,Hawaii,Alabama,1182
+2016,Hawaii,Alaska,672
+2016,Hawaii,Arizona,1852
+2016,Hawaii,Arkansas,155
+2016,Hawaii,California,13047
+2016,Hawaii,Colorado,1643
+2016,Hawaii,Connecticut,269
+2016,Hawaii,Delaware,54
+2016,Hawaii,District of Columbia ,458
+2016,Hawaii,Florida,2113
+2016,Hawaii,Georgia,2487
+2016,Hawaii,Hawaii,N/A
+2016,Hawaii,Idaho,94
+2016,Hawaii,Illinois,2301
+2016,Hawaii,Indiana,930
+2016,Hawaii,Iowa,50
+2016,Hawaii,Kansas,706
+2016,Hawaii,Kentucky,265
+2016,Hawaii,Louisiana,305
+2016,Hawaii,Maine,0
+2016,Hawaii,Maryland,1098
+2016,Hawaii,Massachusetts,487
+2016,Hawaii,Michigan,379
+2016,Hawaii,Minnesota,464
+2016,Hawaii,Mississippi,48
+2016,Hawaii,Missouri,204
+2016,Hawaii,Montana,282
+2016,Hawaii,Nebraska,190
+2016,Hawaii,Nevada,1491
+2016,Hawaii,New Hampshire,0
+2016,Hawaii,New Jersey,723
+2016,Hawaii,New Mexico,841
+2016,Hawaii,New York,1654
+2016,Hawaii,North Carolina,2395
+2016,Hawaii,North Dakota,0
+2016,Hawaii,Ohio,602
+2016,Hawaii,Oklahoma,0
+2016,Hawaii,Oregon,883
+2016,Hawaii,Pennsylvania,836
+2016,Hawaii,Rhode Island,340
+2016,Hawaii,South Carolina,2528
+2016,Hawaii,South Dakota,0
+2016,Hawaii,Tennessee,1582
+2016,Hawaii,Texas,4485
+2016,Hawaii,Utah,589
+2016,Hawaii,Vermont,83
+2016,Hawaii,Virginia,2033
+2016,Hawaii,Washington,4355
+2016,Hawaii,West Virginia,20
+2016,Hawaii,Wisconsin,54
+2016,Hawaii,Wyoming,0
+2016,Idaho,Alabama,0
+2016,Idaho,Alaska,1638
+2016,Idaho,Arizona,4322
+2016,Idaho,Arkansas,341
+2016,Idaho,California,17019
+2016,Idaho,Colorado,3072
+2016,Idaho,Connecticut,49
+2016,Idaho,Delaware,0
+2016,Idaho,District of Columbia ,0
+2016,Idaho,Florida,1356
+2016,Idaho,Georgia,458
+2016,Idaho,Hawaii,1113
+2016,Idaho,Idaho,N/A
+2016,Idaho,Illinois,757
+2016,Idaho,Indiana,158
+2016,Idaho,Iowa,480
+2016,Idaho,Kansas,133
+2016,Idaho,Kentucky,188
+2016,Idaho,Louisiana,379
+2016,Idaho,Maine,200
+2016,Idaho,Maryland,281
+2016,Idaho,Massachusetts,423
+2016,Idaho,Michigan,382
+2016,Idaho,Minnesota,426
+2016,Idaho,Mississippi,0
+2016,Idaho,Missouri,390
+2016,Idaho,Montana,1425
+2016,Idaho,Nebraska,65
+2016,Idaho,Nevada,3300
+2016,Idaho,New Hampshire,46
+2016,Idaho,New Jersey,284
+2016,Idaho,New Mexico,1508
+2016,Idaho,New York,671
+2016,Idaho,North Carolina,2116
+2016,Idaho,North Dakota,708
+2016,Idaho,Ohio,381
+2016,Idaho,Oklahoma,178
+2016,Idaho,Oregon,2836
+2016,Idaho,Pennsylvania,1062
+2016,Idaho,Rhode Island,0
+2016,Idaho,South Carolina,93
+2016,Idaho,South Dakota,142
+2016,Idaho,Tennessee,60
+2016,Idaho,Texas,2606
+2016,Idaho,Utah,7405
+2016,Idaho,Vermont,0
+2016,Idaho,Virginia,401
+2016,Idaho,Washington,9303
+2016,Idaho,West Virginia,122
+2016,Idaho,Wisconsin,249
+2016,Idaho,Wyoming,3030
+2016,Illinois,Alabama,2022
+2016,Illinois,Alaska,578
+2016,Illinois,Arizona,5251
+2016,Illinois,Arkansas,1288
+2016,Illinois,California,15163
+2016,Illinois,Colorado,3257
+2016,Illinois,Connecticut,1297
+2016,Illinois,Delaware,205
+2016,Illinois,District of Columbia ,1083
+2016,Illinois,Florida,13021
+2016,Illinois,Georgia,6739
+2016,Illinois,Hawaii,627
+2016,Illinois,Idaho,724
+2016,Illinois,Illinois,N/A
+2016,Illinois,Indiana,15203
+2016,Illinois,Iowa,9541
+2016,Illinois,Kansas,2683
+2016,Illinois,Kentucky,3791
+2016,Illinois,Louisiana,1219
+2016,Illinois,Maine,180
+2016,Illinois,Maryland,2140
+2016,Illinois,Massachusetts,3651
+2016,Illinois,Michigan,8176
+2016,Illinois,Minnesota,3566
+2016,Illinois,Mississippi,1608
+2016,Illinois,Missouri,16251
+2016,Illinois,Montana,530
+2016,Illinois,Nebraska,1214
+2016,Illinois,Nevada,1476
+2016,Illinois,New Hampshire,741
+2016,Illinois,New Jersey,2733
+2016,Illinois,New Mexico,309
+2016,Illinois,New York,7566
+2016,Illinois,North Carolina,4379
+2016,Illinois,North Dakota,372
+2016,Illinois,Ohio,7260
+2016,Illinois,Oklahoma,732
+2016,Illinois,Oregon,1025
+2016,Illinois,Pennsylvania,3809
+2016,Illinois,Rhode Island,358
+2016,Illinois,South Carolina,954
+2016,Illinois,South Dakota,447
+2016,Illinois,Tennessee,6928
+2016,Illinois,Texas,13290
+2016,Illinois,Utah,1211
+2016,Illinois,Vermont,919
+2016,Illinois,Virginia,7822
+2016,Illinois,Washington,3628
+2016,Illinois,West Virginia,880
+2016,Illinois,Wisconsin,15595
+2016,Illinois,Wyoming,271
+2016,Indiana,Alabama,1133
+2016,Indiana,Alaska,495
+2016,Indiana,Arizona,1185
+2016,Indiana,Arkansas,1308
+2016,Indiana,California,6970
+2016,Indiana,Colorado,1513
+2016,Indiana,Connecticut,884
+2016,Indiana,Delaware,401
+2016,Indiana,District of Columbia ,64
+2016,Indiana,Florida,10994
+2016,Indiana,Georgia,4503
+2016,Indiana,Hawaii,1426
+2016,Indiana,Idaho,217
+2016,Indiana,Illinois,29883
+2016,Indiana,Indiana,N/A
+2016,Indiana,Iowa,1496
+2016,Indiana,Kansas,1520
+2016,Indiana,Kentucky,9978
+2016,Indiana,Louisiana,584
+2016,Indiana,Maine,712
+2016,Indiana,Maryland,1521
+2016,Indiana,Massachusetts,926
+2016,Indiana,Michigan,8950
+2016,Indiana,Minnesota,1989
+2016,Indiana,Mississippi,1568
+2016,Indiana,Missouri,2363
+2016,Indiana,Montana,0
+2016,Indiana,Nebraska,108
+2016,Indiana,Nevada,480
+2016,Indiana,New Hampshire,575
+2016,Indiana,New Jersey,4923
+2016,Indiana,New Mexico,645
+2016,Indiana,New York,2583
+2016,Indiana,North Carolina,4496
+2016,Indiana,North Dakota,498
+2016,Indiana,Ohio,13303
+2016,Indiana,Oklahoma,645
+2016,Indiana,Oregon,1386
+2016,Indiana,Pennsylvania,2165
+2016,Indiana,Rhode Island,0
+2016,Indiana,South Carolina,1630
+2016,Indiana,South Dakota,0
+2016,Indiana,Tennessee,2979
+2016,Indiana,Texas,9403
+2016,Indiana,Utah,254
+2016,Indiana,Vermont,119
+2016,Indiana,Virginia,3188
+2016,Indiana,Washington,1203
+2016,Indiana,West Virginia,156
+2016,Indiana,Wisconsin,2460
+2016,Indiana,Wyoming,0
+2016,Iowa,Alabama,395
+2016,Iowa,Alaska,662
+2016,Iowa,Arizona,1556
+2016,Iowa,Arkansas,315
+2016,Iowa,California,2380
+2016,Iowa,Colorado,3478
+2016,Iowa,Connecticut,60
+2016,Iowa,Delaware,0
+2016,Iowa,District of Columbia ,14
+2016,Iowa,Florida,1749
+2016,Iowa,Georgia,866
+2016,Iowa,Hawaii,30
+2016,Iowa,Idaho,566
+2016,Iowa,Illinois,14948
+2016,Iowa,Indiana,1876
+2016,Iowa,Iowa,N/A
+2016,Iowa,Kansas,1871
+2016,Iowa,Kentucky,1255
+2016,Iowa,Louisiana,573
+2016,Iowa,Maine,410
+2016,Iowa,Maryland,538
+2016,Iowa,Massachusetts,170
+2016,Iowa,Michigan,944
+2016,Iowa,Minnesota,7633
+2016,Iowa,Mississippi,594
+2016,Iowa,Missouri,6509
+2016,Iowa,Montana,301
+2016,Iowa,Nebraska,6812
+2016,Iowa,Nevada,702
+2016,Iowa,New Hampshire,77
+2016,Iowa,New Jersey,1028
+2016,Iowa,New Mexico,412
+2016,Iowa,New York,807
+2016,Iowa,North Carolina,1755
+2016,Iowa,North Dakota,1008
+2016,Iowa,Ohio,1261
+2016,Iowa,Oklahoma,754
+2016,Iowa,Oregon,16
+2016,Iowa,Pennsylvania,710
+2016,Iowa,Rhode Island,25
+2016,Iowa,South Carolina,138
+2016,Iowa,South Dakota,1192
+2016,Iowa,Tennessee,1256
+2016,Iowa,Texas,3437
+2016,Iowa,Utah,496
+2016,Iowa,Vermont,137
+2016,Iowa,Virginia,663
+2016,Iowa,Washington,1662
+2016,Iowa,West Virginia,203
+2016,Iowa,Wisconsin,3848
+2016,Iowa,Wyoming,171
+2016,Kansas,Alabama,879
+2016,Kansas,Alaska,291
+2016,Kansas,Arizona,2664
+2016,Kansas,Arkansas,1526
+2016,Kansas,California,4526
+2016,Kansas,Colorado,5355
+2016,Kansas,Connecticut,0
+2016,Kansas,Delaware,0
+2016,Kansas,District of Columbia ,94
+2016,Kansas,Florida,2944
+2016,Kansas,Georgia,2403
+2016,Kansas,Hawaii,245
+2016,Kansas,Idaho,97
+2016,Kansas,Illinois,2545
+2016,Kansas,Indiana,735
+2016,Kansas,Iowa,2467
+2016,Kansas,Kansas,N/A
+2016,Kansas,Kentucky,525
+2016,Kansas,Louisiana,402
+2016,Kansas,Maine,0
+2016,Kansas,Maryland,672
+2016,Kansas,Massachusetts,1237
+2016,Kansas,Michigan,152
+2016,Kansas,Minnesota,1192
+2016,Kansas,Mississippi,251
+2016,Kansas,Missouri,22577
+2016,Kansas,Montana,683
+2016,Kansas,Nebraska,2821
+2016,Kansas,Nevada,247
+2016,Kansas,New Hampshire,0
+2016,Kansas,New Jersey,900
+2016,Kansas,New Mexico,401
+2016,Kansas,New York,2807
+2016,Kansas,North Carolina,1625
+2016,Kansas,North Dakota,373
+2016,Kansas,Ohio,735
+2016,Kansas,Oklahoma,5607
+2016,Kansas,Oregon,570
+2016,Kansas,Pennsylvania,465
+2016,Kansas,Rhode Island,384
+2016,Kansas,South Carolina,176
+2016,Kansas,South Dakota,584
+2016,Kansas,Tennessee,1754
+2016,Kansas,Texas,10102
+2016,Kansas,Utah,845
+2016,Kansas,Vermont,71
+2016,Kansas,Virginia,1812
+2016,Kansas,Washington,1885
+2016,Kansas,West Virginia,0
+2016,Kansas,Wisconsin,125
+2016,Kansas,Wyoming,79
+2016,Kentucky,Alabama,2272
+2016,Kentucky,Alaska,361
+2016,Kentucky,Arizona,1177
+2016,Kentucky,Arkansas,756
+2016,Kentucky,California,6594
+2016,Kentucky,Colorado,2721
+2016,Kentucky,Connecticut,329
+2016,Kentucky,Delaware,0
+2016,Kentucky,District of Columbia ,0
+2016,Kentucky,Florida,9255
+2016,Kentucky,Georgia,4845
+2016,Kentucky,Hawaii,103
+2016,Kentucky,Idaho,0
+2016,Kentucky,Illinois,6394
+2016,Kentucky,Indiana,10990
+2016,Kentucky,Iowa,709
+2016,Kentucky,Kansas,1503
+2016,Kentucky,Kentucky,N/A
+2016,Kentucky,Louisiana,1358
+2016,Kentucky,Maine,411
+2016,Kentucky,Maryland,1087
+2016,Kentucky,Massachusetts,530
+2016,Kentucky,Michigan,3005
+2016,Kentucky,Minnesota,947
+2016,Kentucky,Mississippi,1710
+2016,Kentucky,Missouri,2379
+2016,Kentucky,Montana,30
+2016,Kentucky,Nebraska,103
+2016,Kentucky,Nevada,695
+2016,Kentucky,New Hampshire,679
+2016,Kentucky,New Jersey,572
+2016,Kentucky,New Mexico,101
+2016,Kentucky,New York,3404
+2016,Kentucky,North Carolina,3557
+2016,Kentucky,North Dakota,282
+2016,Kentucky,Ohio,13426
+2016,Kentucky,Oklahoma,600
+2016,Kentucky,Oregon,285
+2016,Kentucky,Pennsylvania,2084
+2016,Kentucky,Rhode Island,0
+2016,Kentucky,South Carolina,1375
+2016,Kentucky,South Dakota,318
+2016,Kentucky,Tennessee,12132
+2016,Kentucky,Texas,5585
+2016,Kentucky,Utah,874
+2016,Kentucky,Vermont,0
+2016,Kentucky,Virginia,3145
+2016,Kentucky,Washington,313
+2016,Kentucky,West Virginia,2929
+2016,Kentucky,Wisconsin,1313
+2016,Kentucky,Wyoming,0
+2016,Louisiana,Alabama,5658
+2016,Louisiana,Alaska,359
+2016,Louisiana,Arizona,857
+2016,Louisiana,Arkansas,1471
+2016,Louisiana,California,4654
+2016,Louisiana,Colorado,2529
+2016,Louisiana,Connecticut,192
+2016,Louisiana,Delaware,0
+2016,Louisiana,District of Columbia ,54
+2016,Louisiana,Florida,3597
+2016,Louisiana,Georgia,3280
+2016,Louisiana,Hawaii,292
+2016,Louisiana,Idaho,464
+2016,Louisiana,Illinois,2556
+2016,Louisiana,Indiana,270
+2016,Louisiana,Iowa,1315
+2016,Louisiana,Kansas,1497
+2016,Louisiana,Kentucky,276
+2016,Louisiana,Louisiana,N/A
+2016,Louisiana,Maine,35
+2016,Louisiana,Maryland,248
+2016,Louisiana,Massachusetts,1024
+2016,Louisiana,Michigan,1026
+2016,Louisiana,Minnesota,415
+2016,Louisiana,Mississippi,8208
+2016,Louisiana,Missouri,1005
+2016,Louisiana,Montana,606
+2016,Louisiana,Nebraska,145
+2016,Louisiana,Nevada,112
+2016,Louisiana,New Hampshire,0
+2016,Louisiana,New Jersey,552
+2016,Louisiana,New Mexico,158
+2016,Louisiana,New York,1882
+2016,Louisiana,North Carolina,4565
+2016,Louisiana,North Dakota,0
+2016,Louisiana,Ohio,1373
+2016,Louisiana,Oklahoma,1807
+2016,Louisiana,Oregon,607
+2016,Louisiana,Pennsylvania,965
+2016,Louisiana,Rhode Island,170
+2016,Louisiana,South Carolina,992
+2016,Louisiana,South Dakota,118
+2016,Louisiana,Tennessee,2184
+2016,Louisiana,Texas,21925
+2016,Louisiana,Utah,280
+2016,Louisiana,Vermont,122
+2016,Louisiana,Virginia,2548
+2016,Louisiana,Washington,1516
+2016,Louisiana,West Virginia,586
+2016,Louisiana,Wisconsin,714
+2016,Louisiana,Wyoming,162
+2016,Maine,Alabama,471
+2016,Maine,Alaska,7
+2016,Maine,Arizona,257
+2016,Maine,Arkansas,0
+2016,Maine,California,1315
+2016,Maine,Colorado,407
+2016,Maine,Connecticut,1664
+2016,Maine,Delaware,26
+2016,Maine,District of Columbia ,162
+2016,Maine,Florida,2967
+2016,Maine,Georgia,248
+2016,Maine,Hawaii,579
+2016,Maine,Idaho,13
+2016,Maine,Illinois,448
+2016,Maine,Indiana,114
+2016,Maine,Iowa,473
+2016,Maine,Kansas,41
+2016,Maine,Kentucky,429
+2016,Maine,Louisiana,118
+2016,Maine,Maine,N/A
+2016,Maine,Maryland,332
+2016,Maine,Massachusetts,7799
+2016,Maine,Michigan,256
+2016,Maine,Minnesota,224
+2016,Maine,Mississippi,0
+2016,Maine,Missouri,1163
+2016,Maine,Montana,26
+2016,Maine,Nebraska,0
+2016,Maine,Nevada,0
+2016,Maine,New Hampshire,5649
+2016,Maine,New Jersey,1888
+2016,Maine,New Mexico,160
+2016,Maine,New York,1896
+2016,Maine,North Carolina,1042
+2016,Maine,North Dakota,429
+2016,Maine,Ohio,236
+2016,Maine,Oklahoma,143
+2016,Maine,Oregon,188
+2016,Maine,Pennsylvania,986
+2016,Maine,Rhode Island,1150
+2016,Maine,South Carolina,345
+2016,Maine,South Dakota,0
+2016,Maine,Tennessee,461
+2016,Maine,Texas,610
+2016,Maine,Utah,589
+2016,Maine,Vermont,661
+2016,Maine,Virginia,1276
+2016,Maine,Washington,907
+2016,Maine,West Virginia,107
+2016,Maine,Wisconsin,328
+2016,Maine,Wyoming,0
+2016,Maryland,Alabama,1241
+2016,Maryland,Alaska,53
+2016,Maryland,Arizona,940
+2016,Maryland,Arkansas,349
+2016,Maryland,California,6348
+2016,Maryland,Colorado,2210
+2016,Maryland,Connecticut,707
+2016,Maryland,Delaware,5674
+2016,Maryland,District of Columbia ,19754
+2016,Maryland,Florida,10887
+2016,Maryland,Georgia,6942
+2016,Maryland,Hawaii,1595
+2016,Maryland,Idaho,108
+2016,Maryland,Illinois,1193
+2016,Maryland,Indiana,468
+2016,Maryland,Iowa,326
+2016,Maryland,Kansas,655
+2016,Maryland,Kentucky,701
+2016,Maryland,Louisiana,406
+2016,Maryland,Maine,281
+2016,Maryland,Maryland,N/A
+2016,Maryland,Massachusetts,2559
+2016,Maryland,Michigan,2149
+2016,Maryland,Minnesota,661
+2016,Maryland,Mississippi,1246
+2016,Maryland,Missouri,515
+2016,Maryland,Montana,65
+2016,Maryland,Nebraska,427
+2016,Maryland,Nevada,512
+2016,Maryland,New Hampshire,61
+2016,Maryland,New Jersey,7411
+2016,Maryland,New Mexico,1416
+2016,Maryland,New York,11622
+2016,Maryland,North Carolina,7845
+2016,Maryland,North Dakota,62
+2016,Maryland,Ohio,4295
+2016,Maryland,Oklahoma,382
+2016,Maryland,Oregon,522
+2016,Maryland,Pennsylvania,13462
+2016,Maryland,Rhode Island,928
+2016,Maryland,South Carolina,1651
+2016,Maryland,South Dakota,198
+2016,Maryland,Tennessee,2288
+2016,Maryland,Texas,5229
+2016,Maryland,Utah,387
+2016,Maryland,Vermont,347
+2016,Maryland,Virginia,23926
+2016,Maryland,Washington,2176
+2016,Maryland,West Virginia,4744
+2016,Maryland,Wisconsin,723
+2016,Maryland,Wyoming,0
+2016,Massachusetts,Alabama,681
+2016,Massachusetts,Alaska,115
+2016,Massachusetts,Arizona,2511
+2016,Massachusetts,Arkansas,388
+2016,Massachusetts,California,12831
+2016,Massachusetts,Colorado,3046
+2016,Massachusetts,Connecticut,11229
+2016,Massachusetts,Delaware,308
+2016,Massachusetts,District of Columbia ,1398
+2016,Massachusetts,Florida,11295
+2016,Massachusetts,Georgia,2517
+2016,Massachusetts,Hawaii,457
+2016,Massachusetts,Idaho,96
+2016,Massachusetts,Illinois,6227
+2016,Massachusetts,Indiana,1282
+2016,Massachusetts,Iowa,378
+2016,Massachusetts,Kansas,1021
+2016,Massachusetts,Kentucky,689
+2016,Massachusetts,Louisiana,890
+2016,Massachusetts,Maine,3360
+2016,Massachusetts,Maryland,2836
+2016,Massachusetts,Massachusetts,N/A
+2016,Massachusetts,Michigan,1629
+2016,Massachusetts,Minnesota,561
+2016,Massachusetts,Mississippi,50
+2016,Massachusetts,Missouri,1259
+2016,Massachusetts,Montana,0
+2016,Massachusetts,Nebraska,598
+2016,Massachusetts,Nevada,355
+2016,Massachusetts,New Hampshire,10579
+2016,Massachusetts,New Jersey,5980
+2016,Massachusetts,New Mexico,799
+2016,Massachusetts,New York,21876
+2016,Massachusetts,North Carolina,3661
+2016,Massachusetts,North Dakota,0
+2016,Massachusetts,Ohio,2259
+2016,Massachusetts,Oklahoma,1180
+2016,Massachusetts,Oregon,699
+2016,Massachusetts,Pennsylvania,7188
+2016,Massachusetts,Rhode Island,9776
+2016,Massachusetts,South Carolina,1720
+2016,Massachusetts,South Dakota,137
+2016,Massachusetts,Tennessee,780
+2016,Massachusetts,Texas,3446
+2016,Massachusetts,Utah,524
+2016,Massachusetts,Vermont,3226
+2016,Massachusetts,Virginia,4166
+2016,Massachusetts,Washington,1463
+2016,Massachusetts,West Virginia,292
+2016,Massachusetts,Wisconsin,1484
+2016,Massachusetts,Wyoming,166
+2016,Michigan,Alabama,2287
+2016,Michigan,Alaska,285
+2016,Michigan,Arizona,4061
+2016,Michigan,Arkansas,806
+2016,Michigan,California,8001
+2016,Michigan,Colorado,2120
+2016,Michigan,Connecticut,912
+2016,Michigan,Delaware,286
+2016,Michigan,District of Columbia ,642
+2016,Michigan,Florida,14302
+2016,Michigan,Georgia,6090
+2016,Michigan,Hawaii,410
+2016,Michigan,Idaho,2441
+2016,Michigan,Illinois,13818
+2016,Michigan,Indiana,10775
+2016,Michigan,Iowa,613
+2016,Michigan,Kansas,669
+2016,Michigan,Kentucky,2351
+2016,Michigan,Louisiana,643
+2016,Michigan,Maine,444
+2016,Michigan,Maryland,2091
+2016,Michigan,Massachusetts,2604
+2016,Michigan,Michigan,N/A
+2016,Michigan,Minnesota,2661
+2016,Michigan,Mississippi,2885
+2016,Michigan,Missouri,3217
+2016,Michigan,Montana,1156
+2016,Michigan,Nebraska,963
+2016,Michigan,Nevada,1742
+2016,Michigan,New Hampshire,384
+2016,Michigan,New Jersey,2295
+2016,Michigan,New Mexico,85
+2016,Michigan,New York,6627
+2016,Michigan,North Carolina,5848
+2016,Michigan,North Dakota,120
+2016,Michigan,Ohio,16222
+2016,Michigan,Oklahoma,984
+2016,Michigan,Oregon,743
+2016,Michigan,Pennsylvania,3144
+2016,Michigan,Rhode Island,447
+2016,Michigan,South Carolina,2129
+2016,Michigan,South Dakota,80
+2016,Michigan,Tennessee,5154
+2016,Michigan,Texas,10484
+2016,Michigan,Utah,718
+2016,Michigan,Vermont,424
+2016,Michigan,Virginia,1989
+2016,Michigan,Washington,1849
+2016,Michigan,West Virginia,435
+2016,Michigan,Wisconsin,5058
+2016,Michigan,Wyoming,1380
+2016,Minnesota,Alabama,115
+2016,Minnesota,Alaska,334
+2016,Minnesota,Arizona,4475
+2016,Minnesota,Arkansas,484
+2016,Minnesota,California,6232
+2016,Minnesota,Colorado,4691
+2016,Minnesota,Connecticut,407
+2016,Minnesota,Delaware,65
+2016,Minnesota,District of Columbia ,239
+2016,Minnesota,Florida,2999
+2016,Minnesota,Georgia,2468
+2016,Minnesota,Hawaii,393
+2016,Minnesota,Idaho,407
+2016,Minnesota,Illinois,9753
+2016,Minnesota,Indiana,1769
+2016,Minnesota,Iowa,5329
+2016,Minnesota,Kansas,2295
+2016,Minnesota,Kentucky,491
+2016,Minnesota,Louisiana,488
+2016,Minnesota,Maine,115
+2016,Minnesota,Maryland,730
+2016,Minnesota,Massachusetts,1141
+2016,Minnesota,Michigan,2240
+2016,Minnesota,Minnesota,N/A
+2016,Minnesota,Mississippi,137
+2016,Minnesota,Missouri,2321
+2016,Minnesota,Montana,541
+2016,Minnesota,Nebraska,1973
+2016,Minnesota,Nevada,561
+2016,Minnesota,New Hampshire,175
+2016,Minnesota,New Jersey,417
+2016,Minnesota,New Mexico,255
+2016,Minnesota,New York,1626
+2016,Minnesota,North Carolina,1307
+2016,Minnesota,North Dakota,10745
+2016,Minnesota,Ohio,2570
+2016,Minnesota,Oklahoma,1542
+2016,Minnesota,Oregon,1060
+2016,Minnesota,Pennsylvania,1180
+2016,Minnesota,Rhode Island,0
+2016,Minnesota,South Carolina,403
+2016,Minnesota,South Dakota,5127
+2016,Minnesota,Tennessee,1393
+2016,Minnesota,Texas,4849
+2016,Minnesota,Utah,1828
+2016,Minnesota,Vermont,40
+2016,Minnesota,Virginia,1071
+2016,Minnesota,Washington,2666
+2016,Minnesota,West Virginia,331
+2016,Minnesota,Wisconsin,18683
+2016,Minnesota,Wyoming,846
+2016,Mississippi,Alabama,5125
+2016,Mississippi,Alaska,0
+2016,Mississippi,Arizona,544
+2016,Mississippi,Arkansas,3244
+2016,Mississippi,California,4317
+2016,Mississippi,Colorado,441
+2016,Mississippi,Connecticut,101
+2016,Mississippi,Delaware,0
+2016,Mississippi,District of Columbia ,182
+2016,Mississippi,Florida,4046
+2016,Mississippi,Georgia,2150
+2016,Mississippi,Hawaii,389
+2016,Mississippi,Idaho,908
+2016,Mississippi,Illinois,3383
+2016,Mississippi,Indiana,814
+2016,Mississippi,Iowa,163
+2016,Mississippi,Kansas,203
+2016,Mississippi,Kentucky,1623
+2016,Mississippi,Louisiana,5777
+2016,Mississippi,Maine,0
+2016,Mississippi,Maryland,519
+2016,Mississippi,Massachusetts,58
+2016,Mississippi,Michigan,1298
+2016,Mississippi,Minnesota,81
+2016,Mississippi,Mississippi,N/A
+2016,Mississippi,Missouri,1034
+2016,Mississippi,Montana,29
+2016,Mississippi,Nebraska,721
+2016,Mississippi,Nevada,465
+2016,Mississippi,New Hampshire,82
+2016,Mississippi,New Jersey,199
+2016,Mississippi,New Mexico,155
+2016,Mississippi,New York,570
+2016,Mississippi,North Carolina,2485
+2016,Mississippi,North Dakota,24
+2016,Mississippi,Ohio,1204
+2016,Mississippi,Oklahoma,765
+2016,Mississippi,Oregon,617
+2016,Mississippi,Pennsylvania,737
+2016,Mississippi,Rhode Island,12
+2016,Mississippi,South Carolina,1129
+2016,Mississippi,South Dakota,0
+2016,Mississippi,Tennessee,10017
+2016,Mississippi,Texas,4046
+2016,Mississippi,Utah,48
+2016,Mississippi,Vermont,0
+2016,Mississippi,Virginia,1230
+2016,Mississippi,Washington,1989
+2016,Mississippi,West Virginia,260
+2016,Mississippi,Wisconsin,1455
+2016,Mississippi,Wyoming,0
+2016,Missouri,Alabama,2283
+2016,Missouri,Alaska,1288
+2016,Missouri,Arizona,2958
+2016,Missouri,Arkansas,8523
+2016,Missouri,California,7037
+2016,Missouri,Colorado,4960
+2016,Missouri,Connecticut,445
+2016,Missouri,Delaware,651
+2016,Missouri,District of Columbia ,266
+2016,Missouri,Florida,5881
+2016,Missouri,Georgia,3902
+2016,Missouri,Hawaii,508
+2016,Missouri,Idaho,535
+2016,Missouri,Illinois,25906
+2016,Missouri,Indiana,2622
+2016,Missouri,Iowa,5799
+2016,Missouri,Kansas,19812
+2016,Missouri,Kentucky,2895
+2016,Missouri,Louisiana,2873
+2016,Missouri,Maine,221
+2016,Missouri,Maryland,1244
+2016,Missouri,Massachusetts,688
+2016,Missouri,Michigan,4371
+2016,Missouri,Minnesota,1893
+2016,Missouri,Mississippi,2988
+2016,Missouri,Missouri,N/A
+2016,Missouri,Montana,0
+2016,Missouri,Nebraska,2764
+2016,Missouri,Nevada,1194
+2016,Missouri,New Hampshire,142
+2016,Missouri,New Jersey,630
+2016,Missouri,New Mexico,1045
+2016,Missouri,New York,2519
+2016,Missouri,North Carolina,1802
+2016,Missouri,North Dakota,815
+2016,Missouri,Ohio,3333
+2016,Missouri,Oklahoma,4221
+2016,Missouri,Oregon,1734
+2016,Missouri,Pennsylvania,3053
+2016,Missouri,Rhode Island,117
+2016,Missouri,South Carolina,2490
+2016,Missouri,South Dakota,838
+2016,Missouri,Tennessee,4026
+2016,Missouri,Texas,11488
+2016,Missouri,Utah,1272
+2016,Missouri,Vermont,61
+2016,Missouri,Virginia,2918
+2016,Missouri,Washington,2916
+2016,Missouri,West Virginia,514
+2016,Missouri,Wisconsin,1828
+2016,Missouri,Wyoming,540
+2016,Montana,Alabama,296
+2016,Montana,Alaska,608
+2016,Montana,Arizona,1416
+2016,Montana,Arkansas,340
+2016,Montana,California,5173
+2016,Montana,Colorado,2521
+2016,Montana,Connecticut,69
+2016,Montana,Delaware,0
+2016,Montana,District of Columbia ,0
+2016,Montana,Florida,714
+2016,Montana,Georgia,390
+2016,Montana,Hawaii,18
+2016,Montana,Idaho,1744
+2016,Montana,Illinois,1171
+2016,Montana,Indiana,284
+2016,Montana,Iowa,114
+2016,Montana,Kansas,240
+2016,Montana,Kentucky,43
+2016,Montana,Louisiana,285
+2016,Montana,Maine,11
+2016,Montana,Maryland,750
+2016,Montana,Massachusetts,77
+2016,Montana,Michigan,234
+2016,Montana,Minnesota,2089
+2016,Montana,Mississippi,359
+2016,Montana,Missouri,158
+2016,Montana,Montana,N/A
+2016,Montana,Nebraska,115
+2016,Montana,Nevada,979
+2016,Montana,New Hampshire,21
+2016,Montana,New Jersey,0
+2016,Montana,New Mexico,694
+2016,Montana,New York,142
+2016,Montana,North Carolina,350
+2016,Montana,North Dakota,1378
+2016,Montana,Ohio,174
+2016,Montana,Oklahoma,919
+2016,Montana,Oregon,1636
+2016,Montana,Pennsylvania,428
+2016,Montana,Rhode Island,0
+2016,Montana,South Carolina,288
+2016,Montana,South Dakota,160
+2016,Montana,Tennessee,138
+2016,Montana,Texas,2177
+2016,Montana,Utah,1343
+2016,Montana,Vermont,114
+2016,Montana,Virginia,0
+2016,Montana,Washington,5132
+2016,Montana,West Virginia,110
+2016,Montana,Wisconsin,939
+2016,Montana,Wyoming,1434
+2016,Nebraska,Alabama,227
+2016,Nebraska,Alaska,549
+2016,Nebraska,Arizona,1264
+2016,Nebraska,Arkansas,568
+2016,Nebraska,California,3661
+2016,Nebraska,Colorado,5557
+2016,Nebraska,Connecticut,1269
+2016,Nebraska,Delaware,46
+2016,Nebraska,District of Columbia ,70
+2016,Nebraska,Florida,2364
+2016,Nebraska,Georgia,861
+2016,Nebraska,Hawaii,155
+2016,Nebraska,Idaho,442
+2016,Nebraska,Illinois,2415
+2016,Nebraska,Indiana,381
+2016,Nebraska,Iowa,5863
+2016,Nebraska,Kansas,3393
+2016,Nebraska,Kentucky,182
+2016,Nebraska,Louisiana,126
+2016,Nebraska,Maine,22
+2016,Nebraska,Maryland,669
+2016,Nebraska,Massachusetts,143
+2016,Nebraska,Michigan,660
+2016,Nebraska,Minnesota,1656
+2016,Nebraska,Mississippi,455
+2016,Nebraska,Missouri,2193
+2016,Nebraska,Montana,164
+2016,Nebraska,Nebraska,N/A
+2016,Nebraska,Nevada,589
+2016,Nebraska,New Hampshire,255
+2016,Nebraska,New Jersey,852
+2016,Nebraska,New Mexico,386
+2016,Nebraska,New York,585
+2016,Nebraska,North Carolina,466
+2016,Nebraska,North Dakota,676
+2016,Nebraska,Ohio,297
+2016,Nebraska,Oklahoma,751
+2016,Nebraska,Oregon,314
+2016,Nebraska,Pennsylvania,483
+2016,Nebraska,Rhode Island,988
+2016,Nebraska,South Carolina,502
+2016,Nebraska,South Dakota,1617
+2016,Nebraska,Tennessee,270
+2016,Nebraska,Texas,2702
+2016,Nebraska,Utah,1064
+2016,Nebraska,Vermont,0
+2016,Nebraska,Virginia,935
+2016,Nebraska,Washington,812
+2016,Nebraska,West Virginia,45
+2016,Nebraska,Wisconsin,223
+2016,Nebraska,Wyoming,1281
+2016,Nevada,Alabama,394
+2016,Nevada,Alaska,562
+2016,Nevada,Arizona,5741
+2016,Nevada,Arkansas,534
+2016,Nevada,California,45482
+2016,Nevada,Colorado,3293
+2016,Nevada,Connecticut,499
+2016,Nevada,Delaware,97
+2016,Nevada,District of Columbia ,0
+2016,Nevada,Florida,4997
+2016,Nevada,Georgia,2474
+2016,Nevada,Hawaii,6067
+2016,Nevada,Idaho,1013
+2016,Nevada,Illinois,2963
+2016,Nevada,Indiana,835
+2016,Nevada,Iowa,737
+2016,Nevada,Kansas,727
+2016,Nevada,Kentucky,1268
+2016,Nevada,Louisiana,714
+2016,Nevada,Maine,493
+2016,Nevada,Maryland,258
+2016,Nevada,Massachusetts,391
+2016,Nevada,Michigan,2272
+2016,Nevada,Minnesota,1320
+2016,Nevada,Mississippi,138
+2016,Nevada,Missouri,1151
+2016,Nevada,Montana,664
+2016,Nevada,Nebraska,492
+2016,Nevada,Nevada,N/A
+2016,Nevada,New Hampshire,221
+2016,Nevada,New Jersey,2467
+2016,Nevada,New Mexico,1406
+2016,Nevada,New York,4742
+2016,Nevada,North Carolina,1268
+2016,Nevada,North Dakota,333
+2016,Nevada,Ohio,1074
+2016,Nevada,Oklahoma,221
+2016,Nevada,Oregon,906
+2016,Nevada,Pennsylvania,1016
+2016,Nevada,Rhode Island,218
+2016,Nevada,South Carolina,1310
+2016,Nevada,South Dakota,777
+2016,Nevada,Tennessee,1189
+2016,Nevada,Texas,3343
+2016,Nevada,Utah,3260
+2016,Nevada,Vermont,37
+2016,Nevada,Virginia,1307
+2016,Nevada,Washington,4639
+2016,Nevada,West Virginia,14
+2016,Nevada,Wisconsin,889
+2016,Nevada,Wyoming,1686
+2016,New Hampshire,Alabama,174
+2016,New Hampshire,Alaska,740
+2016,New Hampshire,Arizona,678
+2016,New Hampshire,Arkansas,0
+2016,New Hampshire,California,953
+2016,New Hampshire,Colorado,1008
+2016,New Hampshire,Connecticut,2435
+2016,New Hampshire,Delaware,0
+2016,New Hampshire,District of Columbia ,83
+2016,New Hampshire,Florida,2128
+2016,New Hampshire,Georgia,1174
+2016,New Hampshire,Hawaii,360
+2016,New Hampshire,Idaho,125
+2016,New Hampshire,Illinois,144
+2016,New Hampshire,Indiana,197
+2016,New Hampshire,Iowa,237
+2016,New Hampshire,Kansas,317
+2016,New Hampshire,Kentucky,0
+2016,New Hampshire,Louisiana,29
+2016,New Hampshire,Maine,3353
+2016,New Hampshire,Maryland,647
+2016,New Hampshire,Massachusetts,21063
+2016,New Hampshire,Michigan,409
+2016,New Hampshire,Minnesota,247
+2016,New Hampshire,Mississippi,368
+2016,New Hampshire,Missouri,364
+2016,New Hampshire,Montana,32
+2016,New Hampshire,Nebraska,90
+2016,New Hampshire,Nevada,398
+2016,New Hampshire,New Hampshire,N/A
+2016,New Hampshire,New Jersey,396
+2016,New Hampshire,New Mexico,0
+2016,New Hampshire,New York,3869
+2016,New Hampshire,North Carolina,1113
+2016,New Hampshire,North Dakota,0
+2016,New Hampshire,Ohio,416
+2016,New Hampshire,Oklahoma,67
+2016,New Hampshire,Oregon,0
+2016,New Hampshire,Pennsylvania,1799
+2016,New Hampshire,Rhode Island,932
+2016,New Hampshire,South Carolina,0
+2016,New Hampshire,South Dakota,0
+2016,New Hampshire,Tennessee,95
+2016,New Hampshire,Texas,1527
+2016,New Hampshire,Utah,613
+2016,New Hampshire,Vermont,2789
+2016,New Hampshire,Virginia,696
+2016,New Hampshire,Washington,11
+2016,New Hampshire,West Virginia,297
+2016,New Hampshire,Wisconsin,84
+2016,New Hampshire,Wyoming,0
+2016,New Jersey,Alabama,48
+2016,New Jersey,Alaska,299
+2016,New Jersey,Arizona,1013
+2016,New Jersey,Arkansas,137
+2016,New Jersey,California,8239
+2016,New Jersey,Colorado,1364
+2016,New Jersey,Connecticut,3884
+2016,New Jersey,Delaware,1809
+2016,New Jersey,District of Columbia ,736
+2016,New Jersey,Florida,10399
+2016,New Jersey,Georgia,2985
+2016,New Jersey,Hawaii,551
+2016,New Jersey,Idaho,0
+2016,New Jersey,Illinois,1633
+2016,New Jersey,Indiana,1147
+2016,New Jersey,Iowa,110
+2016,New Jersey,Kansas,560
+2016,New Jersey,Kentucky,138
+2016,New Jersey,Louisiana,567
+2016,New Jersey,Maine,483
+2016,New Jersey,Maryland,5168
+2016,New Jersey,Massachusetts,3458
+2016,New Jersey,Michigan,1445
+2016,New Jersey,Minnesota,508
+2016,New Jersey,Mississippi,267
+2016,New Jersey,Missouri,1410
+2016,New Jersey,Montana,479
+2016,New Jersey,Nebraska,290
+2016,New Jersey,Nevada,365
+2016,New Jersey,New Hampshire,112
+2016,New Jersey,New Jersey,N/A
+2016,New Jersey,New Mexico,141
+2016,New Jersey,New York,48558
+2016,New Jersey,North Carolina,3436
+2016,New Jersey,North Dakota,263
+2016,New Jersey,Ohio,2166
+2016,New Jersey,Oklahoma,285
+2016,New Jersey,Oregon,192
+2016,New Jersey,Pennsylvania,23566
+2016,New Jersey,Rhode Island,129
+2016,New Jersey,South Carolina,1520
+2016,New Jersey,South Dakota,318
+2016,New Jersey,Tennessee,1608
+2016,New Jersey,Texas,5554
+2016,New Jersey,Utah,104
+2016,New Jersey,Vermont,360
+2016,New Jersey,Virginia,5341
+2016,New Jersey,Washington,534
+2016,New Jersey,West Virginia,350
+2016,New Jersey,Wisconsin,330
+2016,New Jersey,Wyoming,0
+2016,New Mexico,Alabama,732
+2016,New Mexico,Alaska,749
+2016,New Mexico,Arizona,7350
+2016,New Mexico,Arkansas,552
+2016,New Mexico,California,4939
+2016,New Mexico,Colorado,4293
+2016,New Mexico,Connecticut,305
+2016,New Mexico,Delaware,308
+2016,New Mexico,District of Columbia ,105
+2016,New Mexico,Florida,2411
+2016,New Mexico,Georgia,894
+2016,New Mexico,Hawaii,429
+2016,New Mexico,Idaho,382
+2016,New Mexico,Illinois,452
+2016,New Mexico,Indiana,324
+2016,New Mexico,Iowa,105
+2016,New Mexico,Kansas,292
+2016,New Mexico,Kentucky,338
+2016,New Mexico,Louisiana,469
+2016,New Mexico,Maine,353
+2016,New Mexico,Maryland,1546
+2016,New Mexico,Massachusetts,482
+2016,New Mexico,Michigan,1390
+2016,New Mexico,Minnesota,811
+2016,New Mexico,Mississippi,0
+2016,New Mexico,Missouri,1700
+2016,New Mexico,Montana,170
+2016,New Mexico,Nebraska,0
+2016,New Mexico,Nevada,1319
+2016,New Mexico,New Hampshire,629
+2016,New Mexico,New Jersey,397
+2016,New Mexico,New Mexico,N/A
+2016,New Mexico,New York,1638
+2016,New Mexico,North Carolina,987
+2016,New Mexico,North Dakota,0
+2016,New Mexico,Ohio,869
+2016,New Mexico,Oklahoma,1022
+2016,New Mexico,Oregon,884
+2016,New Mexico,Pennsylvania,1748
+2016,New Mexico,Rhode Island,3
+2016,New Mexico,South Carolina,585
+2016,New Mexico,South Dakota,10
+2016,New Mexico,Tennessee,1723
+2016,New Mexico,Texas,17155
+2016,New Mexico,Utah,625
+2016,New Mexico,Vermont,0
+2016,New Mexico,Virginia,801
+2016,New Mexico,Washington,1843
+2016,New Mexico,West Virginia,153
+2016,New Mexico,Wisconsin,332
+2016,New Mexico,Wyoming,198
+2016,New York,Alabama,402
+2016,New York,Alaska,421
+2016,New York,Arizona,4971
+2016,New York,Arkansas,755
+2016,New York,California,22626
+2016,New York,Colorado,3463
+2016,New York,Connecticut,16339
+2016,New York,Delaware,1069
+2016,New York,District of Columbia ,3042
+2016,New York,Florida,23515
+2016,New York,Georgia,5180
+2016,New York,Hawaii,1534
+2016,New York,Idaho,573
+2016,New York,Illinois,8949
+2016,New York,Indiana,2462
+2016,New York,Iowa,375
+2016,New York,Kansas,479
+2016,New York,Kentucky,1688
+2016,New York,Louisiana,2095
+2016,New York,Maine,1596
+2016,New York,Maryland,8332
+2016,New York,Massachusetts,17877
+2016,New York,Michigan,3551
+2016,New York,Minnesota,1309
+2016,New York,Mississippi,802
+2016,New York,Missouri,2918
+2016,New York,Montana,132
+2016,New York,Nebraska,181
+2016,New York,Nevada,435
+2016,New York,New Hampshire,2044
+2016,New York,New Jersey,33747
+2016,New York,New Mexico,665
+2016,New York,New York,N/A
+2016,New York,North Carolina,9471
+2016,New York,North Dakota,306
+2016,New York,Ohio,6648
+2016,New York,Oklahoma,1396
+2016,New York,Oregon,2506
+2016,New York,Pennsylvania,22933
+2016,New York,Rhode Island,1006
+2016,New York,South Carolina,4716
+2016,New York,South Dakota,159
+2016,New York,Tennessee,3661
+2016,New York,Texas,9368
+2016,New York,Utah,1068
+2016,New York,Vermont,3895
+2016,New York,Virginia,10761
+2016,New York,Washington,4929
+2016,New York,West Virginia,1503
+2016,New York,Wisconsin,2787
+2016,New York,Wyoming,83
+2016,North Carolina,Alabama,3491
+2016,North Carolina,Alaska,2059
+2016,North Carolina,Arizona,3539
+2016,North Carolina,Arkansas,1135
+2016,North Carolina,California,17653
+2016,North Carolina,Colorado,4285
+2016,North Carolina,Connecticut,7425
+2016,North Carolina,Delaware,955
+2016,North Carolina,District of Columbia ,1737
+2016,North Carolina,Florida,32234
+2016,North Carolina,Georgia,24882
+2016,North Carolina,Hawaii,1365
+2016,North Carolina,Idaho,1267
+2016,North Carolina,Illinois,8568
+2016,North Carolina,Indiana,4211
+2016,North Carolina,Iowa,480
+2016,North Carolina,Kansas,2245
+2016,North Carolina,Kentucky,3409
+2016,North Carolina,Louisiana,2562
+2016,North Carolina,Maine,1324
+2016,North Carolina,Maryland,9671
+2016,North Carolina,Massachusetts,5116
+2016,North Carolina,Michigan,6818
+2016,North Carolina,Minnesota,1782
+2016,North Carolina,Mississippi,1509
+2016,North Carolina,Missouri,4563
+2016,North Carolina,Montana,139
+2016,North Carolina,Nebraska,164
+2016,North Carolina,Nevada,2111
+2016,North Carolina,New Hampshire,1548
+2016,North Carolina,New Jersey,11706
+2016,North Carolina,New Mexico,462
+2016,North Carolina,New York,29702
+2016,North Carolina,North Carolina,N/A
+2016,North Carolina,North Dakota,668
+2016,North Carolina,Ohio,9665
+2016,North Carolina,Oklahoma,2997
+2016,North Carolina,Oregon,1263
+2016,North Carolina,Pennsylvania,13506
+2016,North Carolina,Rhode Island,897
+2016,North Carolina,South Carolina,32088
+2016,North Carolina,South Dakota,743
+2016,North Carolina,Tennessee,8233
+2016,North Carolina,Texas,11981
+2016,North Carolina,Utah,1271
+2016,North Carolina,Vermont,608
+2016,North Carolina,Virginia,35641
+2016,North Carolina,Washington,4751
+2016,North Carolina,West Virginia,3722
+2016,North Carolina,Wisconsin,2600
+2016,North Carolina,Wyoming,145
+2016,North Dakota,Alabama,193
+2016,North Dakota,Alaska,151
+2016,North Dakota,Arizona,681
+2016,North Dakota,Arkansas,144
+2016,North Dakota,California,1797
+2016,North Dakota,Colorado,500
+2016,North Dakota,Connecticut,34
+2016,North Dakota,Delaware,0
+2016,North Dakota,District of Columbia ,0
+2016,North Dakota,Florida,230
+2016,North Dakota,Georgia,196
+2016,North Dakota,Hawaii,16
+2016,North Dakota,Idaho,513
+2016,North Dakota,Illinois,631
+2016,North Dakota,Indiana,132
+2016,North Dakota,Iowa,149
+2016,North Dakota,Kansas,181
+2016,North Dakota,Kentucky,86
+2016,North Dakota,Louisiana,249
+2016,North Dakota,Maine,0
+2016,North Dakota,Maryland,0
+2016,North Dakota,Massachusetts,62
+2016,North Dakota,Michigan,369
+2016,North Dakota,Minnesota,11684
+2016,North Dakota,Mississippi,422
+2016,North Dakota,Missouri,563
+2016,North Dakota,Montana,1307
+2016,North Dakota,Nebraska,922
+2016,North Dakota,Nevada,183
+2016,North Dakota,New Hampshire,385
+2016,North Dakota,New Jersey,576
+2016,North Dakota,New Mexico,144
+2016,North Dakota,New York,133
+2016,North Dakota,North Carolina,162
+2016,North Dakota,North Dakota,N/A
+2016,North Dakota,Ohio,174
+2016,North Dakota,Oklahoma,339
+2016,North Dakota,Oregon,347
+2016,North Dakota,Pennsylvania,28
+2016,North Dakota,Rhode Island,0
+2016,North Dakota,South Carolina,0
+2016,North Dakota,South Dakota,2377
+2016,North Dakota,Tennessee,177
+2016,North Dakota,Texas,1378
+2016,North Dakota,Utah,38
+2016,North Dakota,Vermont,0
+2016,North Dakota,Virginia,251
+2016,North Dakota,Washington,709
+2016,North Dakota,West Virginia,144
+2016,North Dakota,Wisconsin,556
+2016,North Dakota,Wyoming,342
+2016,Ohio,Alabama,3101
+2016,Ohio,Alaska,169
+2016,Ohio,Arizona,2620
+2016,Ohio,Arkansas,873
+2016,Ohio,California,11777
+2016,Ohio,Colorado,3265
+2016,Ohio,Connecticut,1340
+2016,Ohio,Delaware,452
+2016,Ohio,District of Columbia ,784
+2016,Ohio,Florida,15087
+2016,Ohio,Georgia,3987
+2016,Ohio,Hawaii,771
+2016,Ohio,Idaho,31
+2016,Ohio,Illinois,12463
+2016,Ohio,Indiana,11578
+2016,Ohio,Iowa,389
+2016,Ohio,Kansas,1622
+2016,Ohio,Kentucky,10952
+2016,Ohio,Louisiana,2017
+2016,Ohio,Maine,509
+2016,Ohio,Maryland,2611
+2016,Ohio,Massachusetts,2462
+2016,Ohio,Michigan,13107
+2016,Ohio,Minnesota,2793
+2016,Ohio,Mississippi,605
+2016,Ohio,Missouri,2206
+2016,Ohio,Montana,617
+2016,Ohio,Nebraska,410
+2016,Ohio,Nevada,2132
+2016,Ohio,New Hampshire,1068
+2016,Ohio,New Jersey,4520
+2016,Ohio,New Mexico,551
+2016,Ohio,New York,9518
+2016,Ohio,North Carolina,8822
+2016,Ohio,North Dakota,292
+2016,Ohio,Ohio,N/A
+2016,Ohio,Oklahoma,2210
+2016,Ohio,Oregon,1483
+2016,Ohio,Pennsylvania,14425
+2016,Ohio,Rhode Island,667
+2016,Ohio,South Carolina,2487
+2016,Ohio,South Dakota,217
+2016,Ohio,Tennessee,7805
+2016,Ohio,Texas,8712
+2016,Ohio,Utah,1622
+2016,Ohio,Vermont,435
+2016,Ohio,Virginia,5844
+2016,Ohio,Washington,3423
+2016,Ohio,West Virginia,8726
+2016,Ohio,Wisconsin,1660
+2016,Ohio,Wyoming,179
+2016,Oklahoma,Alabama,176
+2016,Oklahoma,Alaska,328
+2016,Oklahoma,Arizona,1912
+2016,Oklahoma,Arkansas,7396
+2016,Oklahoma,California,11302
+2016,Oklahoma,Colorado,3698
+2016,Oklahoma,Connecticut,391
+2016,Oklahoma,Delaware,185
+2016,Oklahoma,District of Columbia ,254
+2016,Oklahoma,Florida,3155
+2016,Oklahoma,Georgia,2542
+2016,Oklahoma,Hawaii,385
+2016,Oklahoma,Idaho,595
+2016,Oklahoma,Illinois,3007
+2016,Oklahoma,Indiana,1087
+2016,Oklahoma,Iowa,1283
+2016,Oklahoma,Kansas,6048
+2016,Oklahoma,Kentucky,1331
+2016,Oklahoma,Louisiana,1484
+2016,Oklahoma,Maine,82
+2016,Oklahoma,Maryland,569
+2016,Oklahoma,Massachusetts,205
+2016,Oklahoma,Michigan,1577
+2016,Oklahoma,Minnesota,528
+2016,Oklahoma,Mississippi,865
+2016,Oklahoma,Missouri,5253
+2016,Oklahoma,Montana,481
+2016,Oklahoma,Nebraska,145
+2016,Oklahoma,Nevada,627
+2016,Oklahoma,New Hampshire,393
+2016,Oklahoma,New Jersey,424
+2016,Oklahoma,New Mexico,1011
+2016,Oklahoma,New York,2051
+2016,Oklahoma,North Carolina,1909
+2016,Oklahoma,North Dakota,212
+2016,Oklahoma,Ohio,1282
+2016,Oklahoma,Oklahoma,N/A
+2016,Oklahoma,Oregon,635
+2016,Oklahoma,Pennsylvania,1405
+2016,Oklahoma,Rhode Island,0
+2016,Oklahoma,South Carolina,1108
+2016,Oklahoma,South Dakota,194
+2016,Oklahoma,Tennessee,1309
+2016,Oklahoma,Texas,28060
+2016,Oklahoma,Utah,783
+2016,Oklahoma,Vermont,61
+2016,Oklahoma,Virginia,1312
+2016,Oklahoma,Washington,1658
+2016,Oklahoma,West Virginia,174
+2016,Oklahoma,Wisconsin,829
+2016,Oklahoma,Wyoming,299
+2016,Oregon,Alabama,167
+2016,Oregon,Alaska,549
+2016,Oregon,Arizona,4932
+2016,Oregon,Arkansas,921
+2016,Oregon,California,43804
+2016,Oregon,Colorado,3625
+2016,Oregon,Connecticut,1127
+2016,Oregon,Delaware,159
+2016,Oregon,District of Columbia ,606
+2016,Oregon,Florida,3172
+2016,Oregon,Georgia,906
+2016,Oregon,Hawaii,3302
+2016,Oregon,Idaho,4576
+2016,Oregon,Illinois,2245
+2016,Oregon,Indiana,1052
+2016,Oregon,Iowa,215
+2016,Oregon,Kansas,1748
+2016,Oregon,Kentucky,997
+2016,Oregon,Louisiana,769
+2016,Oregon,Maine,419
+2016,Oregon,Maryland,1678
+2016,Oregon,Massachusetts,817
+2016,Oregon,Michigan,993
+2016,Oregon,Minnesota,724
+2016,Oregon,Mississippi,235
+2016,Oregon,Missouri,1194
+2016,Oregon,Montana,2827
+2016,Oregon,Nebraska,644
+2016,Oregon,Nevada,1631
+2016,Oregon,New Hampshire,0
+2016,Oregon,New Jersey,978
+2016,Oregon,New Mexico,2463
+2016,Oregon,New York,2899
+2016,Oregon,North Carolina,2142
+2016,Oregon,North Dakota,402
+2016,Oregon,Ohio,1421
+2016,Oregon,Oklahoma,2185
+2016,Oregon,Oregon,N/A
+2016,Oregon,Pennsylvania,1958
+2016,Oregon,Rhode Island,156
+2016,Oregon,South Carolina,531
+2016,Oregon,South Dakota,608
+2016,Oregon,Tennessee,1168
+2016,Oregon,Texas,5377
+2016,Oregon,Utah,3246
+2016,Oregon,Vermont,158
+2016,Oregon,Virginia,2141
+2016,Oregon,Washington,24207
+2016,Oregon,West Virginia,140
+2016,Oregon,Wisconsin,557
+2016,Oregon,Wyoming,563
+2016,Pennsylvania,Alabama,1978
+2016,Pennsylvania,Alaska,820
+2016,Pennsylvania,Arizona,2076
+2016,Pennsylvania,Arkansas,979
+2016,Pennsylvania,California,12381
+2016,Pennsylvania,Colorado,3434
+2016,Pennsylvania,Connecticut,6629
+2016,Pennsylvania,Delaware,5168
+2016,Pennsylvania,District of Columbia ,1908
+2016,Pennsylvania,Florida,12938
+2016,Pennsylvania,Georgia,5206
+2016,Pennsylvania,Hawaii,588
+2016,Pennsylvania,Idaho,629
+2016,Pennsylvania,Illinois,5341
+2016,Pennsylvania,Indiana,1559
+2016,Pennsylvania,Iowa,936
+2016,Pennsylvania,Kansas,1154
+2016,Pennsylvania,Kentucky,1487
+2016,Pennsylvania,Louisiana,513
+2016,Pennsylvania,Maine,770
+2016,Pennsylvania,Maryland,19747
+2016,Pennsylvania,Massachusetts,8352
+2016,Pennsylvania,Michigan,2283
+2016,Pennsylvania,Minnesota,1557
+2016,Pennsylvania,Mississippi,399
+2016,Pennsylvania,Missouri,1363
+2016,Pennsylvania,Montana,171
+2016,Pennsylvania,Nebraska,1063
+2016,Pennsylvania,Nevada,803
+2016,Pennsylvania,New Hampshire,1259
+2016,Pennsylvania,New Jersey,40118
+2016,Pennsylvania,New Mexico,675
+2016,Pennsylvania,New York,40208
+2016,Pennsylvania,North Carolina,9251
+2016,Pennsylvania,North Dakota,106
+2016,Pennsylvania,Ohio,10700
+2016,Pennsylvania,Oklahoma,1130
+2016,Pennsylvania,Oregon,2511
+2016,Pennsylvania,Pennsylvania,N/A
+2016,Pennsylvania,Rhode Island,1204
+2016,Pennsylvania,South Carolina,1582
+2016,Pennsylvania,South Dakota,162
+2016,Pennsylvania,Tennessee,2746
+2016,Pennsylvania,Texas,12497
+2016,Pennsylvania,Utah,2014
+2016,Pennsylvania,Vermont,604
+2016,Pennsylvania,Virginia,12785
+2016,Pennsylvania,Washington,3772
+2016,Pennsylvania,West Virginia,3979
+2016,Pennsylvania,Wisconsin,2337
+2016,Pennsylvania,Wyoming,188
+2016,Rhode Island,Alabama,53
+2016,Rhode Island,Alaska,0
+2016,Rhode Island,Arizona,360
+2016,Rhode Island,Arkansas,91
+2016,Rhode Island,California,1484
+2016,Rhode Island,Colorado,421
+2016,Rhode Island,Connecticut,4252
+2016,Rhode Island,Delaware,23
+2016,Rhode Island,District of Columbia ,177
+2016,Rhode Island,Florida,2778
+2016,Rhode Island,Georgia,390
+2016,Rhode Island,Hawaii,17
+2016,Rhode Island,Idaho,0
+2016,Rhode Island,Illinois,621
+2016,Rhode Island,Indiana,0
+2016,Rhode Island,Iowa,307
+2016,Rhode Island,Kansas,0
+2016,Rhode Island,Kentucky,41
+2016,Rhode Island,Louisiana,0
+2016,Rhode Island,Maine,209
+2016,Rhode Island,Maryland,623
+2016,Rhode Island,Massachusetts,9077
+2016,Rhode Island,Michigan,696
+2016,Rhode Island,Minnesota,141
+2016,Rhode Island,Mississippi,135
+2016,Rhode Island,Missouri,87
+2016,Rhode Island,Montana,84
+2016,Rhode Island,Nebraska,196
+2016,Rhode Island,Nevada,97
+2016,Rhode Island,New Hampshire,923
+2016,Rhode Island,New Jersey,631
+2016,Rhode Island,New Mexico,0
+2016,Rhode Island,New York,2631
+2016,Rhode Island,North Carolina,812
+2016,Rhode Island,North Dakota,113
+2016,Rhode Island,Ohio,318
+2016,Rhode Island,Oklahoma,58
+2016,Rhode Island,Oregon,90
+2016,Rhode Island,Pennsylvania,900
+2016,Rhode Island,Rhode Island,N/A
+2016,Rhode Island,South Carolina,348
+2016,Rhode Island,South Dakota,121
+2016,Rhode Island,Tennessee,581
+2016,Rhode Island,Texas,1079
+2016,Rhode Island,Utah,60
+2016,Rhode Island,Vermont,337
+2016,Rhode Island,Virginia,714
+2016,Rhode Island,Washington,399
+2016,Rhode Island,West Virginia,0
+2016,Rhode Island,Wisconsin,325
+2016,Rhode Island,Wyoming,0
+2016,South Carolina,Alabama,2823
+2016,South Carolina,Alaska,411
+2016,South Carolina,Arizona,1708
+2016,South Carolina,Arkansas,581
+2016,South Carolina,California,4846
+2016,South Carolina,Colorado,1947
+2016,South Carolina,Connecticut,2941
+2016,South Carolina,Delaware,146
+2016,South Carolina,District of Columbia ,1552
+2016,South Carolina,Florida,13371
+2016,South Carolina,Georgia,16234
+2016,South Carolina,Hawaii,858
+2016,South Carolina,Idaho,47
+2016,South Carolina,Illinois,4512
+2016,South Carolina,Indiana,2816
+2016,South Carolina,Iowa,165
+2016,South Carolina,Kansas,965
+2016,South Carolina,Kentucky,1312
+2016,South Carolina,Louisiana,1495
+2016,South Carolina,Maine,779
+2016,South Carolina,Maryland,6900
+2016,South Carolina,Massachusetts,3027
+2016,South Carolina,Michigan,3206
+2016,South Carolina,Minnesota,621
+2016,South Carolina,Mississippi,760
+2016,South Carolina,Missouri,1168
+2016,South Carolina,Montana,215
+2016,South Carolina,Nebraska,90
+2016,South Carolina,Nevada,180
+2016,South Carolina,New Hampshire,1143
+2016,South Carolina,New Jersey,3664
+2016,South Carolina,New Mexico,139
+2016,South Carolina,New York,10230
+2016,South Carolina,North Carolina,30447
+2016,South Carolina,North Dakota,595
+2016,South Carolina,Ohio,6634
+2016,South Carolina,Oklahoma,1192
+2016,South Carolina,Oregon,663
+2016,South Carolina,Pennsylvania,7865
+2016,South Carolina,Rhode Island,708
+2016,South Carolina,South Carolina,N/A
+2016,South Carolina,South Dakota,590
+2016,South Carolina,Tennessee,3709
+2016,South Carolina,Texas,7373
+2016,South Carolina,Utah,424
+2016,South Carolina,Vermont,0
+2016,South Carolina,Virginia,8081
+2016,South Carolina,Washington,1943
+2016,South Carolina,West Virginia,2403
+2016,South Carolina,Wisconsin,1243
+2016,South Carolina,Wyoming,508
+2016,South Dakota,Alabama,0
+2016,South Dakota,Alaska,346
+2016,South Dakota,Arizona,732
+2016,South Dakota,Arkansas,18
+2016,South Dakota,California,2929
+2016,South Dakota,Colorado,820
+2016,South Dakota,Connecticut,0
+2016,South Dakota,Delaware,0
+2016,South Dakota,District of Columbia ,0
+2016,South Dakota,Florida,758
+2016,South Dakota,Georgia,128
+2016,South Dakota,Hawaii,0
+2016,South Dakota,Idaho,108
+2016,South Dakota,Illinois,757
+2016,South Dakota,Indiana,844
+2016,South Dakota,Iowa,2887
+2016,South Dakota,Kansas,1123
+2016,South Dakota,Kentucky,52
+2016,South Dakota,Louisiana,127
+2016,South Dakota,Maine,0
+2016,South Dakota,Maryland,26
+2016,South Dakota,Massachusetts,271
+2016,South Dakota,Michigan,145
+2016,South Dakota,Minnesota,4991
+2016,South Dakota,Mississippi,125
+2016,South Dakota,Missouri,500
+2016,South Dakota,Montana,468
+2016,South Dakota,Nebraska,1803
+2016,South Dakota,Nevada,98
+2016,South Dakota,New Hampshire,0
+2016,South Dakota,New Jersey,0
+2016,South Dakota,New Mexico,389
+2016,South Dakota,New York,89
+2016,South Dakota,North Carolina,100
+2016,South Dakota,North Dakota,1858
+2016,South Dakota,Ohio,788
+2016,South Dakota,Oklahoma,23
+2016,South Dakota,Oregon,236
+2016,South Dakota,Pennsylvania,147
+2016,South Dakota,Rhode Island,448
+2016,South Dakota,South Carolina,0
+2016,South Dakota,South Dakota,N/A
+2016,South Dakota,Tennessee,147
+2016,South Dakota,Texas,1946
+2016,South Dakota,Utah,662
+2016,South Dakota,Vermont,0
+2016,South Dakota,Virginia,720
+2016,South Dakota,Washington,976
+2016,South Dakota,West Virginia,131
+2016,South Dakota,Wisconsin,1026
+2016,South Dakota,Wyoming,2047
+2016,Tennessee,Alabama,7683
+2016,Tennessee,Alaska,1141
+2016,Tennessee,Arizona,1449
+2016,Tennessee,Arkansas,5583
+2016,Tennessee,California,7996
+2016,Tennessee,Colorado,1692
+2016,Tennessee,Connecticut,2042
+2016,Tennessee,Delaware,185
+2016,Tennessee,District of Columbia ,295
+2016,Tennessee,Florida,14926
+2016,Tennessee,Georgia,16367
+2016,Tennessee,Hawaii,1397
+2016,Tennessee,Idaho,219
+2016,Tennessee,Illinois,9737
+2016,Tennessee,Indiana,6736
+2016,Tennessee,Iowa,646
+2016,Tennessee,Kansas,1597
+2016,Tennessee,Kentucky,12562
+2016,Tennessee,Louisiana,2004
+2016,Tennessee,Maine,2799
+2016,Tennessee,Maryland,794
+2016,Tennessee,Massachusetts,2130
+2016,Tennessee,Michigan,3954
+2016,Tennessee,Minnesota,2484
+2016,Tennessee,Mississippi,8739
+2016,Tennessee,Missouri,3287
+2016,Tennessee,Montana,662
+2016,Tennessee,Nebraska,216
+2016,Tennessee,Nevada,274
+2016,Tennessee,New Hampshire,340
+2016,Tennessee,New Jersey,1659
+2016,Tennessee,New Mexico,159
+2016,Tennessee,New York,4905
+2016,Tennessee,North Carolina,5933
+2016,Tennessee,North Dakota,61
+2016,Tennessee,Ohio,7210
+2016,Tennessee,Oklahoma,1486
+2016,Tennessee,Oregon,647
+2016,Tennessee,Pennsylvania,2723
+2016,Tennessee,Rhode Island,0
+2016,Tennessee,South Carolina,2173
+2016,Tennessee,South Dakota,207
+2016,Tennessee,Tennessee,N/A
+2016,Tennessee,Texas,11827
+2016,Tennessee,Utah,181
+2016,Tennessee,Vermont,309
+2016,Tennessee,Virginia,6681
+2016,Tennessee,Washington,2187
+2016,Tennessee,West Virginia,1249
+2016,Tennessee,Wisconsin,1309
+2016,Tennessee,Wyoming,25
+2016,Texas,Alabama,6915
+2016,Texas,Alaska,2257
+2016,Texas,Arizona,20322
+2016,Texas,Arkansas,11986
+2016,Texas,California,69945
+2016,Texas,Colorado,21596
+2016,Texas,Connecticut,1834
+2016,Texas,Delaware,2012
+2016,Texas,District of Columbia ,1624
+2016,Texas,Florida,31145
+2016,Texas,Georgia,16174
+2016,Texas,Hawaii,3630
+2016,Texas,Idaho,2668
+2016,Texas,Illinois,21848
+2016,Texas,Indiana,10084
+2016,Texas,Iowa,6600
+2016,Texas,Kansas,10670
+2016,Texas,Kentucky,7090
+2016,Texas,Louisiana,27998
+2016,Texas,Maine,1544
+2016,Texas,Maryland,7112
+2016,Texas,Massachusetts,5636
+2016,Texas,Michigan,10036
+2016,Texas,Minnesota,6795
+2016,Texas,Mississippi,8825
+2016,Texas,Missouri,13946
+2016,Texas,Montana,1974
+2016,Texas,Nebraska,6201
+2016,Texas,Nevada,6499
+2016,Texas,New Hampshire,1542
+2016,Texas,New Jersey,8723
+2016,Texas,New Mexico,13041
+2016,Texas,New York,18209
+2016,Texas,North Carolina,12463
+2016,Texas,North Dakota,2026
+2016,Texas,Ohio,9363
+2016,Texas,Oklahoma,30532
+2016,Texas,Oregon,3704
+2016,Texas,Pennsylvania,11769
+2016,Texas,Rhode Island,1361
+2016,Texas,South Carolina,7969
+2016,Texas,South Dakota,860
+2016,Texas,Tennessee,15565
+2016,Texas,Texas,N/A
+2016,Texas,Utah,9082
+2016,Texas,Vermont,252
+2016,Texas,Virginia,19660
+2016,Texas,Washington,14335
+2016,Texas,West Virginia,915
+2016,Texas,Wisconsin,4927
+2016,Texas,Wyoming,732
+2016,Utah,Alabama,125
+2016,Utah,Alaska,2350
+2016,Utah,Arizona,9140
+2016,Utah,Arkansas,1136
+2016,Utah,California,23034
+2016,Utah,Colorado,3615
+2016,Utah,Connecticut,1024
+2016,Utah,Delaware,184
+2016,Utah,District of Columbia ,490
+2016,Utah,Florida,2707
+2016,Utah,Georgia,1541
+2016,Utah,Hawaii,1516
+2016,Utah,Idaho,9520
+2016,Utah,Illinois,1440
+2016,Utah,Indiana,1349
+2016,Utah,Iowa,373
+2016,Utah,Kansas,510
+2016,Utah,Kentucky,1142
+2016,Utah,Louisiana,878
+2016,Utah,Maine,63
+2016,Utah,Maryland,812
+2016,Utah,Massachusetts,390
+2016,Utah,Michigan,1340
+2016,Utah,Minnesota,811
+2016,Utah,Mississippi,186
+2016,Utah,Missouri,2103
+2016,Utah,Montana,1637
+2016,Utah,Nebraska,523
+2016,Utah,Nevada,5181
+2016,Utah,New Hampshire,0
+2016,Utah,New Jersey,702
+2016,Utah,New Mexico,871
+2016,Utah,New York,2511
+2016,Utah,North Carolina,1921
+2016,Utah,North Dakota,1266
+2016,Utah,Ohio,833
+2016,Utah,Oklahoma,1194
+2016,Utah,Oregon,2790
+2016,Utah,Pennsylvania,1992
+2016,Utah,Rhode Island,0
+2016,Utah,South Carolina,766
+2016,Utah,South Dakota,795
+2016,Utah,Tennessee,964
+2016,Utah,Texas,7467
+2016,Utah,Utah,N/A
+2016,Utah,Vermont,221
+2016,Utah,Virginia,1392
+2016,Utah,Washington,5074
+2016,Utah,West Virginia,51
+2016,Utah,Wisconsin,398
+2016,Utah,Wyoming,755
+2016,Vermont,Alabama,0
+2016,Vermont,Alaska,0
+2016,Vermont,Arizona,337
+2016,Vermont,Arkansas,0
+2016,Vermont,California,1018
+2016,Vermont,Colorado,350
+2016,Vermont,Connecticut,1076
+2016,Vermont,Delaware,29
+2016,Vermont,District of Columbia ,62
+2016,Vermont,Florida,876
+2016,Vermont,Georgia,14
+2016,Vermont,Hawaii,41
+2016,Vermont,Idaho,0
+2016,Vermont,Illinois,187
+2016,Vermont,Indiana,3
+2016,Vermont,Iowa,82
+2016,Vermont,Kansas,0
+2016,Vermont,Kentucky,66
+2016,Vermont,Louisiana,0
+2016,Vermont,Maine,988
+2016,Vermont,Maryland,540
+2016,Vermont,Massachusetts,3731
+2016,Vermont,Michigan,59
+2016,Vermont,Minnesota,7
+2016,Vermont,Mississippi,0
+2016,Vermont,Missouri,45
+2016,Vermont,Montana,0
+2016,Vermont,Nebraska,0
+2016,Vermont,Nevada,0
+2016,Vermont,New Hampshire,3285
+2016,Vermont,New Jersey,1393
+2016,Vermont,New Mexico,60
+2016,Vermont,New York,3186
+2016,Vermont,North Carolina,331
+2016,Vermont,North Dakota,41
+2016,Vermont,Ohio,118
+2016,Vermont,Oklahoma,0
+2016,Vermont,Oregon,395
+2016,Vermont,Pennsylvania,1449
+2016,Vermont,Rhode Island,262
+2016,Vermont,South Carolina,38
+2016,Vermont,South Dakota,619
+2016,Vermont,Tennessee,6
+2016,Vermont,Texas,7
+2016,Vermont,Utah,77
+2016,Vermont,Vermont,N/A
+2016,Vermont,Virginia,242
+2016,Vermont,Washington,165
+2016,Vermont,West Virginia,23
+2016,Vermont,Wisconsin,54
+2016,Vermont,Wyoming,0
+2016,Virginia,Alabama,2424
+2016,Virginia,Alaska,1624
+2016,Virginia,Arizona,3584
+2016,Virginia,Arkansas,519
+2016,Virginia,California,17473
+2016,Virginia,Colorado,3269
+2016,Virginia,Connecticut,5158
+2016,Virginia,Delaware,1382
+2016,Virginia,District of Columbia ,8692
+2016,Virginia,Florida,19439
+2016,Virginia,Georgia,6319
+2016,Virginia,Hawaii,3548
+2016,Virginia,Idaho,148
+2016,Virginia,Illinois,7719
+2016,Virginia,Indiana,2276
+2016,Virginia,Iowa,229
+2016,Virginia,Kansas,771
+2016,Virginia,Kentucky,4959
+2016,Virginia,Louisiana,2296
+2016,Virginia,Maine,1232
+2016,Virginia,Maryland,28394
+2016,Virginia,Massachusetts,5442
+2016,Virginia,Michigan,4722
+2016,Virginia,Minnesota,1194
+2016,Virginia,Mississippi,891
+2016,Virginia,Missouri,2786
+2016,Virginia,Montana,106
+2016,Virginia,Nebraska,1950
+2016,Virginia,Nevada,2305
+2016,Virginia,New Hampshire,641
+2016,Virginia,New Jersey,7715
+2016,Virginia,New Mexico,2067
+2016,Virginia,New York,14827
+2016,Virginia,North Carolina,22598
+2016,Virginia,North Dakota,80
+2016,Virginia,Ohio,7689
+2016,Virginia,Oklahoma,3693
+2016,Virginia,Oregon,904
+2016,Virginia,Pennsylvania,14122
+2016,Virginia,Rhode Island,1270
+2016,Virginia,South Carolina,8354
+2016,Virginia,South Dakota,142
+2016,Virginia,Tennessee,7491
+2016,Virginia,Texas,15873
+2016,Virginia,Utah,1507
+2016,Virginia,Vermont,872
+2016,Virginia,Virginia,N/A
+2016,Virginia,Washington,4925
+2016,Virginia,West Virginia,6618
+2016,Virginia,Wisconsin,1877
+2016,Virginia,Wyoming,48
+2016,Washington,Alabama,1465
+2016,Washington,Alaska,5374
+2016,Washington,Arizona,12801
+2016,Washington,Arkansas,823
+2016,Washington,California,51485
+2016,Washington,Colorado,13012
+2016,Washington,Connecticut,1309
+2016,Washington,Delaware,277
+2016,Washington,District of Columbia ,748
+2016,Washington,Florida,9093
+2016,Washington,Georgia,2804
+2016,Washington,Hawaii,4497
+2016,Washington,Idaho,11619
+2016,Washington,Illinois,7422
+2016,Washington,Indiana,1296
+2016,Washington,Iowa,784
+2016,Washington,Kansas,2568
+2016,Washington,Kentucky,2042
+2016,Washington,Louisiana,1109
+2016,Washington,Maine,266
+2016,Washington,Maryland,2733
+2016,Washington,Massachusetts,4715
+2016,Washington,Michigan,4472
+2016,Washington,Minnesota,4153
+2016,Washington,Mississippi,689
+2016,Washington,Missouri,3327
+2016,Washington,Montana,4707
+2016,Washington,Nebraska,1428
+2016,Washington,Nevada,3551
+2016,Washington,New Hampshire,785
+2016,Washington,New Jersey,3287
+2016,Washington,New Mexico,2232
+2016,Washington,New York,7083
+2016,Washington,North Carolina,7250
+2016,Washington,North Dakota,2021
+2016,Washington,Ohio,2834
+2016,Washington,Oklahoma,2041
+2016,Washington,Oregon,32384
+2016,Washington,Pennsylvania,1556
+2016,Washington,Rhode Island,373
+2016,Washington,South Carolina,1374
+2016,Washington,South Dakota,1156
+2016,Washington,Tennessee,3672
+2016,Washington,Texas,16005
+2016,Washington,Utah,5404
+2016,Washington,Vermont,743
+2016,Washington,Virginia,3834
+2016,Washington,Washington,N/A
+2016,Washington,West Virginia,319
+2016,Washington,Wisconsin,1940
+2016,Washington,Wyoming,866
+2016,West Virginia,Alabama,284
+2016,West Virginia,Alaska,11
+2016,West Virginia,Arizona,57
+2016,West Virginia,Arkansas,195
+2016,West Virginia,California,1095
+2016,West Virginia,Colorado,464
+2016,West Virginia,Connecticut,631
+2016,West Virginia,Delaware,0
+2016,West Virginia,District of Columbia ,490
+2016,West Virginia,Florida,1992
+2016,West Virginia,Georgia,1650
+2016,West Virginia,Hawaii,0
+2016,West Virginia,Idaho,48
+2016,West Virginia,Illinois,354
+2016,West Virginia,Indiana,343
+2016,West Virginia,Iowa,64
+2016,West Virginia,Kansas,205
+2016,West Virginia,Kentucky,1654
+2016,West Virginia,Louisiana,357
+2016,West Virginia,Maine,597
+2016,West Virginia,Maryland,7100
+2016,West Virginia,Massachusetts,21
+2016,West Virginia,Michigan,572
+2016,West Virginia,Minnesota,0
+2016,West Virginia,Mississippi,152
+2016,West Virginia,Missouri,123
+2016,West Virginia,Montana,39
+2016,West Virginia,Nebraska,0
+2016,West Virginia,Nevada,293
+2016,West Virginia,New Hampshire,135
+2016,West Virginia,New Jersey,481
+2016,West Virginia,New Mexico,81
+2016,West Virginia,New York,1320
+2016,West Virginia,North Carolina,2419
+2016,West Virginia,North Dakota,134
+2016,West Virginia,Ohio,7281
+2016,West Virginia,Oklahoma,12
+2016,West Virginia,Oregon,0
+2016,West Virginia,Pennsylvania,6226
+2016,West Virginia,Rhode Island,0
+2016,West Virginia,South Carolina,435
+2016,West Virginia,South Dakota,124
+2016,West Virginia,Tennessee,1903
+2016,West Virginia,Texas,1345
+2016,West Virginia,Utah,179
+2016,West Virginia,Vermont,0
+2016,West Virginia,Virginia,6114
+2016,West Virginia,Washington,216
+2016,West Virginia,West Virginia,N/A
+2016,West Virginia,Wisconsin,0
+2016,West Virginia,Wyoming,0
+2016,Wisconsin,Alabama,966
+2016,Wisconsin,Alaska,738
+2016,Wisconsin,Arizona,3364
+2016,Wisconsin,Arkansas,1397
+2016,Wisconsin,California,6830
+2016,Wisconsin,Colorado,4129
+2016,Wisconsin,Connecticut,344
+2016,Wisconsin,Delaware,0
+2016,Wisconsin,District of Columbia ,215
+2016,Wisconsin,Florida,5242
+2016,Wisconsin,Georgia,708
+2016,Wisconsin,Hawaii,323
+2016,Wisconsin,Idaho,1400
+2016,Wisconsin,Illinois,31323
+2016,Wisconsin,Indiana,3481
+2016,Wisconsin,Iowa,3383
+2016,Wisconsin,Kansas,401
+2016,Wisconsin,Kentucky,992
+2016,Wisconsin,Louisiana,745
+2016,Wisconsin,Maine,63
+2016,Wisconsin,Maryland,574
+2016,Wisconsin,Massachusetts,1058
+2016,Wisconsin,Michigan,5433
+2016,Wisconsin,Minnesota,18036
+2016,Wisconsin,Mississippi,90
+2016,Wisconsin,Missouri,1619
+2016,Wisconsin,Montana,159
+2016,Wisconsin,Nebraska,469
+2016,Wisconsin,Nevada,1126
+2016,Wisconsin,New Hampshire,417
+2016,Wisconsin,New Jersey,521
+2016,Wisconsin,New Mexico,710
+2016,Wisconsin,New York,1484
+2016,Wisconsin,North Carolina,1152
+2016,Wisconsin,North Dakota,614
+2016,Wisconsin,Ohio,2129
+2016,Wisconsin,Oklahoma,1404
+2016,Wisconsin,Oregon,1383
+2016,Wisconsin,Pennsylvania,1525
+2016,Wisconsin,Rhode Island,81
+2016,Wisconsin,South Carolina,518
+2016,Wisconsin,South Dakota,872
+2016,Wisconsin,Tennessee,1096
+2016,Wisconsin,Texas,4526
+2016,Wisconsin,Utah,1237
+2016,Wisconsin,Vermont,138
+2016,Wisconsin,Virginia,2235
+2016,Wisconsin,Washington,1634
+2016,Wisconsin,West Virginia,110
+2016,Wisconsin,Wisconsin,N/A
+2016,Wisconsin,Wyoming,420
+2016,Wyoming,Alabama,265
+2016,Wyoming,Alaska,524
+2016,Wyoming,Arizona,352
+2016,Wyoming,Arkansas,77
+2016,Wyoming,California,1586
+2016,Wyoming,Colorado,4227
+2016,Wyoming,Connecticut,0
+2016,Wyoming,Delaware,0
+2016,Wyoming,District of Columbia ,0
+2016,Wyoming,Florida,187
+2016,Wyoming,Georgia,1
+2016,Wyoming,Hawaii,0
+2016,Wyoming,Idaho,1074
+2016,Wyoming,Illinois,150
+2016,Wyoming,Indiana,119
+2016,Wyoming,Iowa,568
+2016,Wyoming,Kansas,291
+2016,Wyoming,Kentucky,437
+2016,Wyoming,Louisiana,150
+2016,Wyoming,Maine,66
+2016,Wyoming,Maryland,7
+2016,Wyoming,Massachusetts,0
+2016,Wyoming,Michigan,325
+2016,Wyoming,Minnesota,473
+2016,Wyoming,Mississippi,0
+2016,Wyoming,Missouri,16
+2016,Wyoming,Montana,1307
+2016,Wyoming,Nebraska,852
+2016,Wyoming,Nevada,111
+2016,Wyoming,New Hampshire,0
+2016,Wyoming,New Jersey,503
+2016,Wyoming,New Mexico,799
+2016,Wyoming,New York,57
+2016,Wyoming,North Carolina,46
+2016,Wyoming,North Dakota,843
+2016,Wyoming,Ohio,318
+2016,Wyoming,Oklahoma,672
+2016,Wyoming,Oregon,609
+2016,Wyoming,Pennsylvania,2660
+2016,Wyoming,Rhode Island,1
+2016,Wyoming,South Carolina,337
+2016,Wyoming,South Dakota,853
+2016,Wyoming,Tennessee,10
+2016,Wyoming,Texas,1914
+2016,Wyoming,Utah,1312
+2016,Wyoming,Vermont,0
+2016,Wyoming,Virginia,90
+2016,Wyoming,Washington,1426
+2016,Wyoming,West Virginia,169
+2016,Wyoming,Wisconsin,687
+2016,Wyoming,Wyoming,N/A

@@ -1,0 +1,2602 @@
+﻿migration_year,current_state,prev_state,migration
+2021,Alabama,Alabama,N/A
+2021,Alabama,Alaska,12
+2021,Alabama,Arizona,1338
+2021,Alabama,Arkansas,1271
+2021,Alabama,California,3369
+2021,Alabama,Colorado,2070
+2021,Alabama,Connecticut,532
+2021,Alabama,Delaware,43
+2021,Alabama,District of Columbia ,275
+2021,Alabama,Florida,22507
+2021,Alabama,Georgia,15873
+2021,Alabama,Hawaii,1349
+2021,Alabama,Idaho,406
+2021,Alabama,Illinois,3399
+2021,Alabama,Indiana,3146
+2021,Alabama,Iowa,444
+2021,Alabama,Kansas,606
+2021,Alabama,Kentucky,1950
+2021,Alabama,Louisiana,3594
+2021,Alabama,Maine,225
+2021,Alabama,Maryland,468
+2021,Alabama,Massachusetts,915
+2021,Alabama,Michigan,3065
+2021,Alabama,Minnesota,499
+2021,Alabama,Mississippi,4186
+2021,Alabama,Missouri,2380
+2021,Alabama,Montana,0
+2021,Alabama,Nebraska,64
+2021,Alabama,Nevada,1150
+2021,Alabama,New Hampshire,0
+2021,Alabama,New Jersey,1965
+2021,Alabama,New Mexico,1061
+2021,Alabama,New York,2085
+2021,Alabama,North Carolina,2613
+2021,Alabama,North Dakota,254
+2021,Alabama,Ohio,1702
+2021,Alabama,Oklahoma,851
+2021,Alabama,Oregon,416
+2021,Alabama,Pennsylvania,1928
+2021,Alabama,Rhode Island,156
+2021,Alabama,South Carolina,424
+2021,Alabama,South Dakota,0
+2021,Alabama,Tennessee,7418
+2021,Alabama,Texas,10616
+2021,Alabama,Utah,436
+2021,Alabama,Vermont,21
+2021,Alabama,Virginia,5382
+2021,Alabama,Washington,1385
+2021,Alabama,West Virginia,315
+2021,Alabama,Wisconsin,1477
+2021,Alabama,Wyoming,0
+2021,Alaska,Alabama,517
+2021,Alaska,Alaska,N/A
+2021,Alaska,Arizona,977
+2021,Alaska,Arkansas,0
+2021,Alaska,California,3808
+2021,Alaska,Colorado,922
+2021,Alaska,Connecticut,0
+2021,Alaska,Delaware,339
+2021,Alaska,District of Columbia ,0
+2021,Alaska,Florida,2163
+2021,Alaska,Georgia,1551
+2021,Alaska,Hawaii,1316
+2021,Alaska,Idaho,503
+2021,Alaska,Illinois,417
+2021,Alaska,Indiana,218
+2021,Alaska,Iowa,0
+2021,Alaska,Kansas,452
+2021,Alaska,Kentucky,1250
+2021,Alaska,Louisiana,0
+2021,Alaska,Maine,0
+2021,Alaska,Maryland,772
+2021,Alaska,Massachusetts,722
+2021,Alaska,Michigan,1024
+2021,Alaska,Minnesota,179
+2021,Alaska,Mississippi,0
+2021,Alaska,Missouri,0
+2021,Alaska,Montana,867
+2021,Alaska,Nebraska,9
+2021,Alaska,Nevada,535
+2021,Alaska,New Hampshire,276
+2021,Alaska,New Jersey,15
+2021,Alaska,New Mexico,1871
+2021,Alaska,New York,70
+2021,Alaska,North Carolina,1396
+2021,Alaska,North Dakota,0
+2021,Alaska,Ohio,12
+2021,Alaska,Oklahoma,929
+2021,Alaska,Oregon,337
+2021,Alaska,Pennsylvania,345
+2021,Alaska,Rhode Island,0
+2021,Alaska,South Carolina,141
+2021,Alaska,South Dakota,221
+2021,Alaska,Tennessee,449
+2021,Alaska,Texas,3563
+2021,Alaska,Utah,210
+2021,Alaska,Vermont,0
+2021,Alaska,Virginia,963
+2021,Alaska,Washington,1840
+2021,Alaska,West Virginia,0
+2021,Alaska,Wisconsin,110
+2021,Alaska,Wyoming,89
+2021,Arizona,Alabama,1485
+2021,Arizona,Alaska,3586
+2021,Arizona,Arizona,N/A
+2021,Arizona,Arkansas,178
+2021,Arizona,California,69432
+2021,Arizona,Colorado,10035
+2021,Arizona,Connecticut,2705
+2021,Arizona,Delaware,1554
+2021,Arizona,District of Columbia ,498
+2021,Arizona,Florida,6748
+2021,Arizona,Georgia,3474
+2021,Arizona,Hawaii,3249
+2021,Arizona,Idaho,6510
+2021,Arizona,Illinois,13018
+2021,Arizona,Indiana,6093
+2021,Arizona,Iowa,2399
+2021,Arizona,Kansas,1597
+2021,Arizona,Kentucky,987
+2021,Arizona,Louisiana,691
+2021,Arizona,Maine,50
+2021,Arizona,Maryland,1463
+2021,Arizona,Massachusetts,1806
+2021,Arizona,Michigan,3642
+2021,Arizona,Minnesota,10891
+2021,Arizona,Mississippi,1890
+2021,Arizona,Missouri,2730
+2021,Arizona,Montana,4728
+2021,Arizona,Nebraska,2288
+2021,Arizona,Nevada,5437
+2021,Arizona,New Hampshire,75
+2021,Arizona,New Jersey,2947
+2021,Arizona,New Mexico,3818
+2021,Arizona,New York,6674
+2021,Arizona,North Carolina,2856
+2021,Arizona,North Dakota,3821
+2021,Arizona,Ohio,4089
+2021,Arizona,Oklahoma,741
+2021,Arizona,Oregon,7318
+2021,Arizona,Pennsylvania,4989
+2021,Arizona,Rhode Island,242
+2021,Arizona,South Carolina,2482
+2021,Arizona,South Dakota,1638
+2021,Arizona,Tennessee,2145
+2021,Arizona,Texas,13312
+2021,Arizona,Utah,8495
+2021,Arizona,Vermont,0
+2021,Arizona,Virginia,1835
+2021,Arizona,Washington,21816
+2021,Arizona,West Virginia,123
+2021,Arizona,Wisconsin,4788
+2021,Arizona,Wyoming,1580
+2021,Arkansas,Alabama,950
+2021,Arkansas,Alaska,145
+2021,Arkansas,Arizona,940
+2021,Arkansas,Arkansas,N/A
+2021,Arkansas,California,5600
+2021,Arkansas,Colorado,4353
+2021,Arkansas,Connecticut,31
+2021,Arkansas,Delaware,68
+2021,Arkansas,District of Columbia ,181
+2021,Arkansas,Florida,1655
+2021,Arkansas,Georgia,708
+2021,Arkansas,Hawaii,250
+2021,Arkansas,Idaho,0
+2021,Arkansas,Illinois,2548
+2021,Arkansas,Indiana,2041
+2021,Arkansas,Iowa,1033
+2021,Arkansas,Kansas,1548
+2021,Arkansas,Kentucky,797
+2021,Arkansas,Louisiana,2557
+2021,Arkansas,Maine,144
+2021,Arkansas,Maryland,130
+2021,Arkansas,Massachusetts,490
+2021,Arkansas,Michigan,3475
+2021,Arkansas,Minnesota,1298
+2021,Arkansas,Mississippi,1535
+2021,Arkansas,Missouri,6754
+2021,Arkansas,Montana,0
+2021,Arkansas,Nebraska,43
+2021,Arkansas,Nevada,500
+2021,Arkansas,New Hampshire,609
+2021,Arkansas,New Jersey,0
+2021,Arkansas,New Mexico,570
+2021,Arkansas,New York,1352
+2021,Arkansas,North Carolina,724
+2021,Arkansas,North Dakota,0
+2021,Arkansas,Ohio,1364
+2021,Arkansas,Oklahoma,4828
+2021,Arkansas,Oregon,143
+2021,Arkansas,Pennsylvania,1188
+2021,Arkansas,Rhode Island,185
+2021,Arkansas,South Carolina,387
+2021,Arkansas,South Dakota,134
+2021,Arkansas,Tennessee,4115
+2021,Arkansas,Texas,16374
+2021,Arkansas,Utah,21
+2021,Arkansas,Vermont,0
+2021,Arkansas,Virginia,1030
+2021,Arkansas,Washington,1876
+2021,Arkansas,West Virginia,75
+2021,Arkansas,Wisconsin,716
+2021,Arkansas,Wyoming,643
+2021,California,Alabama,2710
+2021,California,Alaska,3049
+2021,California,Arizona,27449
+2021,California,Arkansas,2576
+2021,California,California,N/A
+2021,California,Colorado,20353
+2021,California,Connecticut,5189
+2021,California,Delaware,1012
+2021,California,District of Columbia ,4009
+2021,California,Florida,24692
+2021,California,Georgia,9111
+2021,California,Hawaii,7544
+2021,California,Idaho,2799
+2021,California,Illinois,22546
+2021,California,Indiana,3889
+2021,California,Iowa,3435
+2021,California,Kansas,3582
+2021,California,Kentucky,2010
+2021,California,Louisiana,3174
+2021,California,Maine,248
+2021,California,Maryland,5860
+2021,California,Massachusetts,15274
+2021,California,Michigan,9419
+2021,California,Minnesota,6053
+2021,California,Mississippi,1821
+2021,California,Missouri,5200
+2021,California,Montana,2049
+2021,California,Nebraska,2596
+2021,California,Nevada,14826
+2021,California,New Hampshire,1034
+2021,California,New Jersey,9063
+2021,California,New Mexico,3316
+2021,California,New York,32723
+2021,California,North Carolina,9845
+2021,California,North Dakota,1143
+2021,California,Ohio,9529
+2021,California,Oklahoma,4505
+2021,California,Oregon,20219
+2021,California,Pennsylvania,12156
+2021,California,Rhode Island,1446
+2021,California,South Carolina,4148
+2021,California,South Dakota,2092
+2021,California,Tennessee,3405
+2021,California,Texas,33577
+2021,California,Utah,6111
+2021,California,Vermont,778
+2021,California,Virginia,16881
+2021,California,Washington,40456
+2021,California,West Virginia,707
+2021,California,Wisconsin,6455
+2021,California,Wyoming,1338
+2021,Colorado,Alabama,2192
+2021,Colorado,Alaska,3692
+2021,Colorado,Arizona,11880
+2021,Colorado,Arkansas,171
+2021,Colorado,California,33648
+2021,Colorado,Colorado,N/A
+2021,Colorado,Connecticut,1773
+2021,Colorado,Delaware,643
+2021,Colorado,District of Columbia ,2406
+2021,Colorado,Florida,18661
+2021,Colorado,Georgia,6419
+2021,Colorado,Hawaii,2679
+2021,Colorado,Idaho,1128
+2021,Colorado,Illinois,10241
+2021,Colorado,Indiana,1793
+2021,Colorado,Iowa,1136
+2021,Colorado,Kansas,3862
+2021,Colorado,Kentucky,1940
+2021,Colorado,Louisiana,4088
+2021,Colorado,Maine,310
+2021,Colorado,Maryland,2261
+2021,Colorado,Massachusetts,6546
+2021,Colorado,Michigan,3947
+2021,Colorado,Minnesota,4569
+2021,Colorado,Mississippi,1191
+2021,Colorado,Missouri,6225
+2021,Colorado,Montana,741
+2021,Colorado,Nebraska,2350
+2021,Colorado,Nevada,3440
+2021,Colorado,New Hampshire,480
+2021,Colorado,New Jersey,2895
+2021,Colorado,New Mexico,5966
+2021,Colorado,New York,12611
+2021,Colorado,North Carolina,7440
+2021,Colorado,North Dakota,540
+2021,Colorado,Ohio,5514
+2021,Colorado,Oklahoma,3624
+2021,Colorado,Oregon,5642
+2021,Colorado,Pennsylvania,3669
+2021,Colorado,Rhode Island,16
+2021,Colorado,South Carolina,1848
+2021,Colorado,South Dakota,1509
+2021,Colorado,Tennessee,3235
+2021,Colorado,Texas,29754
+2021,Colorado,Utah,5767
+2021,Colorado,Vermont,0
+2021,Colorado,Virginia,6432
+2021,Colorado,Washington,6608
+2021,Colorado,West Virginia,105
+2021,Colorado,Wisconsin,3031
+2021,Colorado,Wyoming,3413
+2021,Connecticut,Alabama,0
+2021,Connecticut,Alaska,0
+2021,Connecticut,Arizona,661
+2021,Connecticut,Arkansas,38
+2021,Connecticut,California,6645
+2021,Connecticut,Colorado,1181
+2021,Connecticut,Connecticut,N/A
+2021,Connecticut,Delaware,488
+2021,Connecticut,District of Columbia ,393
+2021,Connecticut,Florida,6534
+2021,Connecticut,Georgia,1255
+2021,Connecticut,Hawaii,37
+2021,Connecticut,Idaho,353
+2021,Connecticut,Illinois,789
+2021,Connecticut,Indiana,888
+2021,Connecticut,Iowa,490
+2021,Connecticut,Kansas,169
+2021,Connecticut,Kentucky,282
+2021,Connecticut,Louisiana,825
+2021,Connecticut,Maine,134
+2021,Connecticut,Maryland,1419
+2021,Connecticut,Massachusetts,14556
+2021,Connecticut,Michigan,254
+2021,Connecticut,Minnesota,1361
+2021,Connecticut,Mississippi,0
+2021,Connecticut,Missouri,318
+2021,Connecticut,Montana,0
+2021,Connecticut,Nebraska,66
+2021,Connecticut,Nevada,246
+2021,Connecticut,New Hampshire,1947
+2021,Connecticut,New Jersey,6352
+2021,Connecticut,New Mexico,237
+2021,Connecticut,New York,40790
+2021,Connecticut,North Carolina,2366
+2021,Connecticut,North Dakota,0
+2021,Connecticut,Ohio,1181
+2021,Connecticut,Oklahoma,47
+2021,Connecticut,Oregon,96
+2021,Connecticut,Pennsylvania,3119
+2021,Connecticut,Rhode Island,3421
+2021,Connecticut,South Carolina,1771
+2021,Connecticut,South Dakota,216
+2021,Connecticut,Tennessee,556
+2021,Connecticut,Texas,2073
+2021,Connecticut,Utah,451
+2021,Connecticut,Vermont,393
+2021,Connecticut,Virginia,1536
+2021,Connecticut,Washington,665
+2021,Connecticut,West Virginia,19
+2021,Connecticut,Wisconsin,0
+2021,Connecticut,Wyoming,0
+2021,Deleware,Alabama,0
+2021,Deleware,Alaska,0
+2021,Deleware,Arizona,708
+2021,Deleware,Arkansas,0
+2021,Deleware,California,116
+2021,Deleware,Colorado,239
+2021,Deleware,Connecticut,786
+2021,Deleware,Delaware,N/A
+2021,Deleware,District of Columbia ,604
+2021,Deleware,Florida,1650
+2021,Deleware,Georgia,130
+2021,Deleware,Hawaii,70
+2021,Deleware,Idaho,0
+2021,Deleware,Illinois,212
+2021,Deleware,Indiana,201
+2021,Deleware,Iowa,0
+2021,Deleware,Kansas,0
+2021,Deleware,Kentucky,142
+2021,Deleware,Louisiana,15
+2021,Deleware,Maine,0
+2021,Deleware,Maryland,7767
+2021,Deleware,Massachusetts,1037
+2021,Deleware,Michigan,451
+2021,Deleware,Minnesota,90
+2021,Deleware,Mississippi,6
+2021,Deleware,Missouri,424
+2021,Deleware,Montana,0
+2021,Deleware,Nebraska,6
+2021,Deleware,Nevada,96
+2021,Deleware,New Hampshire,29
+2021,Deleware,New Jersey,4008
+2021,Deleware,New Mexico,86
+2021,Deleware,New York,5958
+2021,Deleware,North Carolina,341
+2021,Deleware,North Dakota,0
+2021,Deleware,Ohio,148
+2021,Deleware,Oklahoma,21
+2021,Deleware,Oregon,0
+2021,Deleware,Pennsylvania,12349
+2021,Deleware,Rhode Island,6
+2021,Deleware,South Carolina,572
+2021,Deleware,South Dakota,0
+2021,Deleware,Tennessee,98
+2021,Deleware,Texas,1300
+2021,Deleware,Utah,0
+2021,Deleware,Vermont,0
+2021,Deleware,Virginia,2588
+2021,Deleware,Washington,258
+2021,Deleware,West Virginia,0
+2021,Deleware,Wisconsin,39
+2021,Deleware,Wyoming,0
+2021,District of Columbia ,Alabama,342
+2021,District of Columbia ,Alaska,196
+2021,District of Columbia ,Arizona,674
+2021,District of Columbia ,Arkansas,37
+2021,District of Columbia ,California,3945
+2021,District of Columbia ,Colorado,261
+2021,District of Columbia ,Connecticut,1102
+2021,District of Columbia ,Delaware,3560
+2021,District of Columbia ,District of Columbia ,N/A
+2021,District of Columbia ,Florida,2581
+2021,District of Columbia ,Georgia,1662
+2021,District of Columbia ,Hawaii,0
+2021,District of Columbia ,Idaho,93
+2021,District of Columbia ,Illinois,1736
+2021,District of Columbia ,Indiana,159
+2021,District of Columbia ,Iowa,145
+2021,District of Columbia ,Kansas,503
+2021,District of Columbia ,Kentucky,202
+2021,District of Columbia ,Louisiana,324
+2021,District of Columbia ,Maine,1028
+2021,District of Columbia ,Maryland,7754
+2021,District of Columbia ,Massachusetts,2389
+2021,District of Columbia ,Michigan,607
+2021,District of Columbia ,Minnesota,726
+2021,District of Columbia ,Mississippi,29
+2021,District of Columbia ,Missouri,87
+2021,District of Columbia ,Montana,65
+2021,District of Columbia ,Nebraska,0
+2021,District of Columbia ,Nevada,431
+2021,District of Columbia ,New Hampshire,266
+2021,District of Columbia ,New Jersey,2709
+2021,District of Columbia ,New Mexico,0
+2021,District of Columbia ,New York,3658
+2021,District of Columbia ,North Carolina,1330
+2021,District of Columbia ,North Dakota,0
+2021,District of Columbia ,Ohio,1610
+2021,District of Columbia ,Oklahoma,374
+2021,District of Columbia ,Oregon,426
+2021,District of Columbia ,Pennsylvania,2237
+2021,District of Columbia ,Rhode Island,366
+2021,District of Columbia ,South Carolina,196
+2021,District of Columbia ,South Dakota,0
+2021,District of Columbia ,Tennessee,663
+2021,District of Columbia ,Texas,1498
+2021,District of Columbia ,Utah,24
+2021,District of Columbia ,Vermont,0
+2021,District of Columbia ,Virginia,9003
+2021,District of Columbia ,Washington,1817
+2021,District of Columbia ,West Virginia,568
+2021,District of Columbia ,Wisconsin,307
+2021,District of Columbia ,Wyoming,56
+2021,Florida,Alabama,15159
+2021,Florida,Alaska,2938
+2021,Florida,Arizona,6607
+2021,Florida,Arkansas,4804
+2021,Florida,California,37464
+2021,Florida,Colorado,18468
+2021,Florida,Connecticut,15801
+2021,Florida,Delaware,4732
+2021,Florida,District of Columbia ,1917
+2021,Florida,Florida,N/A
+2021,Florida,Georgia,44723
+2021,Florida,Hawaii,4179
+2021,Florida,Idaho,1309
+2021,Florida,Illinois,34061
+2021,Florida,Indiana,17980
+2021,Florida,Iowa,3735
+2021,Florida,Kansas,3099
+2021,Florida,Kentucky,8385
+2021,Florida,Louisiana,5914
+2021,Florida,Maine,1483
+2021,Florida,Maryland,16166
+2021,Florida,Massachusetts,20586
+2021,Florida,Michigan,24506
+2021,Florida,Minnesota,10156
+2021,Florida,Mississippi,4522
+2021,Florida,Missouri,11010
+2021,Florida,Montana,1041
+2021,Florida,Nebraska,2009
+2021,Florida,Nevada,9332
+2021,Florida,New Hampshire,3079
+2021,Florida,New Jersey,36417
+2021,Florida,New Mexico,2765
+2021,Florida,New York,91758
+2021,Florida,North Carolina,21207
+2021,Florida,North Dakota,3610
+2021,Florida,Ohio,22443
+2021,Florida,Oklahoma,3768
+2021,Florida,Oregon,5937
+2021,Florida,Pennsylvania,29817
+2021,Florida,Rhode Island,2784
+2021,Florida,South Carolina,8393
+2021,Florida,South Dakota,1282
+2021,Florida,Tennessee,18772
+2021,Florida,Texas,28243
+2021,Florida,Utah,7284
+2021,Florida,Vermont,1499
+2021,Florida,Virginia,29153
+2021,Florida,Washington,9611
+2021,Florida,West Virginia,3165
+2021,Florida,Wisconsin,9909
+2021,Florida,Wyoming,1758
+2021,Georgia,Alabama,22228
+2021,Georgia,Alaska,2178
+2021,Georgia,Arizona,3194
+2021,Georgia,Arkansas,1236
+2021,Georgia,California,28908
+2021,Georgia,Colorado,5259
+2021,Georgia,Connecticut,513
+2021,Georgia,Delaware,779
+2021,Georgia,District of Columbia ,920
+2021,Georgia,Florida,49163
+2021,Georgia,Georgia,N/A
+2021,Georgia,Hawaii,2321
+2021,Georgia,Idaho,208
+2021,Georgia,Illinois,5472
+2021,Georgia,Indiana,3897
+2021,Georgia,Iowa,1619
+2021,Georgia,Kansas,2588
+2021,Georgia,Kentucky,7048
+2021,Georgia,Louisiana,7437
+2021,Georgia,Maine,721
+2021,Georgia,Maryland,5135
+2021,Georgia,Massachusetts,3151
+2021,Georgia,Michigan,4923
+2021,Georgia,Minnesota,2038
+2021,Georgia,Mississippi,4992
+2021,Georgia,Missouri,2867
+2021,Georgia,Montana,394
+2021,Georgia,Nebraska,144
+2021,Georgia,Nevada,3464
+2021,Georgia,New Hampshire,1677
+2021,Georgia,New Jersey,10793
+2021,Georgia,New Mexico,1262
+2021,Georgia,New York,14038
+2021,Georgia,North Carolina,14739
+2021,Georgia,North Dakota,85
+2021,Georgia,Ohio,7583
+2021,Georgia,Oklahoma,1672
+2021,Georgia,Oregon,3351
+2021,Georgia,Pennsylvania,5915
+2021,Georgia,Rhode Island,129
+2021,Georgia,South Carolina,14448
+2021,Georgia,South Dakota,0
+2021,Georgia,Tennessee,14689
+2021,Georgia,Texas,21413
+2021,Georgia,Utah,656
+2021,Georgia,Vermont,192
+2021,Georgia,Virginia,10553
+2021,Georgia,Washington,3852
+2021,Georgia,West Virginia,1068
+2021,Georgia,Wisconsin,1580
+2021,Georgia,Wyoming,20
+2021,Hawaii,Alabama,2192
+2021,Hawaii,Alaska,618
+2021,Hawaii,Arizona,1517
+2021,Hawaii,Arkansas,0
+2021,Hawaii,California,16116
+2021,Hawaii,Colorado,2544
+2021,Hawaii,Connecticut,434
+2021,Hawaii,Delaware,0
+2021,Hawaii,District of Columbia ,433
+2021,Hawaii,Florida,2527
+2021,Hawaii,Georgia,3835
+2021,Hawaii,Hawaii,N/A
+2021,Hawaii,Idaho,1638
+2021,Hawaii,Illinois,496
+2021,Hawaii,Indiana,1251
+2021,Hawaii,Iowa,0
+2021,Hawaii,Kansas,462
+2021,Hawaii,Kentucky,0
+2021,Hawaii,Louisiana,616
+2021,Hawaii,Maine,144
+2021,Hawaii,Maryland,1710
+2021,Hawaii,Massachusetts,868
+2021,Hawaii,Michigan,891
+2021,Hawaii,Minnesota,695
+2021,Hawaii,Mississippi,1048
+2021,Hawaii,Missouri,605
+2021,Hawaii,Montana,681
+2021,Hawaii,Nebraska,44
+2021,Hawaii,Nevada,1057
+2021,Hawaii,New Hampshire,130
+2021,Hawaii,New Jersey,2046
+2021,Hawaii,New Mexico,134
+2021,Hawaii,New York,2696
+2021,Hawaii,North Carolina,541
+2021,Hawaii,North Dakota,11
+2021,Hawaii,Ohio,268
+2021,Hawaii,Oklahoma,151
+2021,Hawaii,Oregon,1396
+2021,Hawaii,Pennsylvania,904
+2021,Hawaii,Rhode Island,0
+2021,Hawaii,South Carolina,632
+2021,Hawaii,South Dakota,8
+2021,Hawaii,Tennessee,415
+2021,Hawaii,Texas,6849
+2021,Hawaii,Utah,118
+2021,Hawaii,Vermont,0
+2021,Hawaii,Virginia,5691
+2021,Hawaii,Washington,6655
+2021,Hawaii,West Virginia,138
+2021,Hawaii,Wisconsin,421
+2021,Hawaii,Wyoming,0
+2021,Idaho,Alabama,350
+2021,Idaho,Alaska,4427
+2021,Idaho,Arizona,3020
+2021,Idaho,Arkansas,0
+2021,Idaho,California,27193
+2021,Idaho,Colorado,6211
+2021,Idaho,Connecticut,305
+2021,Idaho,Delaware,0
+2021,Idaho,District of Columbia ,0
+2021,Idaho,Florida,1322
+2021,Idaho,Georgia,421
+2021,Idaho,Hawaii,827
+2021,Idaho,Idaho,N/A
+2021,Idaho,Illinois,374
+2021,Idaho,Indiana,0
+2021,Idaho,Iowa,428
+2021,Idaho,Kansas,611
+2021,Idaho,Kentucky,51
+2021,Idaho,Louisiana,81
+2021,Idaho,Maine,1610
+2021,Idaho,Maryland,467
+2021,Idaho,Massachusetts,0
+2021,Idaho,Michigan,548
+2021,Idaho,Minnesota,706
+2021,Idaho,Mississippi,20
+2021,Idaho,Missouri,642
+2021,Idaho,Montana,1051
+2021,Idaho,Nebraska,960
+2021,Idaho,Nevada,1432
+2021,Idaho,New Hampshire,551
+2021,Idaho,New Jersey,10
+2021,Idaho,New Mexico,857
+2021,Idaho,New York,90
+2021,Idaho,North Carolina,371
+2021,Idaho,North Dakota,782
+2021,Idaho,Ohio,958
+2021,Idaho,Oklahoma,184
+2021,Idaho,Oregon,5707
+2021,Idaho,Pennsylvania,1436
+2021,Idaho,Rhode Island,0
+2021,Idaho,South Carolina,285
+2021,Idaho,South Dakota,417
+2021,Idaho,Tennessee,1206
+2021,Idaho,Texas,3089
+2021,Idaho,Utah,4470
+2021,Idaho,Vermont,0
+2021,Idaho,Virginia,539
+2021,Idaho,Washington,20131
+2021,Idaho,West Virginia,311
+2021,Idaho,Wisconsin,421
+2021,Idaho,Wyoming,1516
+2021,Illinois,Alabama,614
+2021,Illinois,Alaska,618
+2021,Illinois,Arizona,4126
+2021,Illinois,Arkansas,824
+2021,Illinois,California,20488
+2021,Illinois,Colorado,6060
+2021,Illinois,Connecticut,1778
+2021,Illinois,Delaware,66
+2021,Illinois,District of Columbia ,1282
+2021,Illinois,Florida,10647
+2021,Illinois,Georgia,4791
+2021,Illinois,Hawaii,576
+2021,Illinois,Idaho,156
+2021,Illinois,Illinois,N/A
+2021,Illinois,Indiana,18681
+2021,Illinois,Iowa,9580
+2021,Illinois,Kansas,1184
+2021,Illinois,Kentucky,1886
+2021,Illinois,Louisiana,1790
+2021,Illinois,Maine,345
+2021,Illinois,Maryland,3682
+2021,Illinois,Massachusetts,2650
+2021,Illinois,Michigan,9866
+2021,Illinois,Minnesota,2712
+2021,Illinois,Mississippi,2520
+2021,Illinois,Missouri,13596
+2021,Illinois,Montana,431
+2021,Illinois,Nebraska,499
+2021,Illinois,Nevada,2242
+2021,Illinois,New Hampshire,425
+2021,Illinois,New Jersey,3016
+2021,Illinois,New Mexico,160
+2021,Illinois,New York,8092
+2021,Illinois,North Carolina,3739
+2021,Illinois,North Dakota,140
+2021,Illinois,Ohio,4772
+2021,Illinois,Oklahoma,1148
+2021,Illinois,Oregon,1113
+2021,Illinois,Pennsylvania,3838
+2021,Illinois,Rhode Island,1268
+2021,Illinois,South Carolina,1432
+2021,Illinois,South Dakota,560
+2021,Illinois,Tennessee,2849
+2021,Illinois,Texas,15480
+2021,Illinois,Utah,1032
+2021,Illinois,Vermont,51
+2021,Illinois,Virginia,3858
+2021,Illinois,Washington,4163
+2021,Illinois,West Virginia,582
+2021,Illinois,Wisconsin,13130
+2021,Illinois,Wyoming,639
+2021,Indiana,Alabama,1906
+2021,Indiana,Alaska,145
+2021,Indiana,Arizona,1433
+2021,Indiana,Arkansas,419
+2021,Indiana,California,5705
+2021,Indiana,Colorado,1723
+2021,Indiana,Connecticut,721
+2021,Indiana,Delaware,66
+2021,Indiana,District of Columbia ,171
+2021,Indiana,Florida,10336
+2021,Indiana,Georgia,2782
+2021,Indiana,Hawaii,622
+2021,Indiana,Idaho,328
+2021,Indiana,Illinois,37764
+2021,Indiana,Indiana,N/A
+2021,Indiana,Iowa,271
+2021,Indiana,Kansas,1078
+2021,Indiana,Kentucky,13369
+2021,Indiana,Louisiana,258
+2021,Indiana,Maine,55
+2021,Indiana,Maryland,4028
+2021,Indiana,Massachusetts,2949
+2021,Indiana,Michigan,10586
+2021,Indiana,Minnesota,2362
+2021,Indiana,Mississippi,621
+2021,Indiana,Missouri,3180
+2021,Indiana,Montana,184
+2021,Indiana,Nebraska,738
+2021,Indiana,Nevada,1326
+2021,Indiana,New Hampshire,102
+2021,Indiana,New Jersey,880
+2021,Indiana,New Mexico,913
+2021,Indiana,New York,4290
+2021,Indiana,North Carolina,2832
+2021,Indiana,North Dakota,153
+2021,Indiana,Ohio,12606
+2021,Indiana,Oklahoma,790
+2021,Indiana,Oregon,3271
+2021,Indiana,Pennsylvania,3388
+2021,Indiana,Rhode Island,175
+2021,Indiana,South Carolina,1276
+2021,Indiana,South Dakota,54
+2021,Indiana,Tennessee,2684
+2021,Indiana,Texas,6591
+2021,Indiana,Utah,335
+2021,Indiana,Vermont,319
+2021,Indiana,Virginia,3575
+2021,Indiana,Washington,1770
+2021,Indiana,West Virginia,134
+2021,Indiana,Wisconsin,4411
+2021,Indiana,Wyoming,742
+2021,Iowa,Alabama,478
+2021,Iowa,Alaska,101
+2021,Iowa,Arizona,1440
+2021,Iowa,Arkansas,358
+2021,Iowa,California,5558
+2021,Iowa,Colorado,4328
+2021,Iowa,Connecticut,14
+2021,Iowa,Delaware,0
+2021,Iowa,District of Columbia ,0
+2021,Iowa,Florida,4548
+2021,Iowa,Georgia,1306
+2021,Iowa,Hawaii,351
+2021,Iowa,Idaho,592
+2021,Iowa,Illinois,11475
+2021,Iowa,Indiana,1149
+2021,Iowa,Iowa,N/A
+2021,Iowa,Kansas,1188
+2021,Iowa,Kentucky,228
+2021,Iowa,Louisiana,471
+2021,Iowa,Maine,0
+2021,Iowa,Maryland,199
+2021,Iowa,Massachusetts,10
+2021,Iowa,Michigan,293
+2021,Iowa,Minnesota,7893
+2021,Iowa,Mississippi,246
+2021,Iowa,Missouri,3912
+2021,Iowa,Montana,293
+2021,Iowa,Nebraska,8237
+2021,Iowa,Nevada,1546
+2021,Iowa,New Hampshire,123
+2021,Iowa,New Jersey,524
+2021,Iowa,New Mexico,121
+2021,Iowa,New York,909
+2021,Iowa,North Carolina,1039
+2021,Iowa,North Dakota,412
+2021,Iowa,Ohio,1121
+2021,Iowa,Oklahoma,639
+2021,Iowa,Oregon,3244
+2021,Iowa,Pennsylvania,148
+2021,Iowa,Rhode Island,0
+2021,Iowa,South Carolina,426
+2021,Iowa,South Dakota,1909
+2021,Iowa,Tennessee,939
+2021,Iowa,Texas,3903
+2021,Iowa,Utah,794
+2021,Iowa,Vermont,0
+2021,Iowa,Virginia,731
+2021,Iowa,Washington,868
+2021,Iowa,West Virginia,77
+2021,Iowa,Wisconsin,3098
+2021,Iowa,Wyoming,6
+2021,Kansas,Alabama,967
+2021,Kansas,Alaska,56
+2021,Kansas,Arizona,1980
+2021,Kansas,Arkansas,606
+2021,Kansas,California,5779
+2021,Kansas,Colorado,7949
+2021,Kansas,Connecticut,294
+2021,Kansas,Delaware,0
+2021,Kansas,District of Columbia ,0
+2021,Kansas,Florida,2926
+2021,Kansas,Georgia,5167
+2021,Kansas,Hawaii,64
+2021,Kansas,Idaho,345
+2021,Kansas,Illinois,3429
+2021,Kansas,Indiana,1381
+2021,Kansas,Iowa,1637
+2021,Kansas,Kansas,N/A
+2021,Kansas,Kentucky,1242
+2021,Kansas,Louisiana,1850
+2021,Kansas,Maine,0
+2021,Kansas,Maryland,402
+2021,Kansas,Massachusetts,125
+2021,Kansas,Michigan,1532
+2021,Kansas,Minnesota,1962
+2021,Kansas,Mississippi,980
+2021,Kansas,Missouri,24292
+2021,Kansas,Montana,256
+2021,Kansas,Nebraska,3485
+2021,Kansas,Nevada,360
+2021,Kansas,New Hampshire,0
+2021,Kansas,New Jersey,0
+2021,Kansas,New Mexico,2005
+2021,Kansas,New York,3064
+2021,Kansas,North Carolina,2283
+2021,Kansas,North Dakota,337
+2021,Kansas,Ohio,489
+2021,Kansas,Oklahoma,3251
+2021,Kansas,Oregon,906
+2021,Kansas,Pennsylvania,2010
+2021,Kansas,Rhode Island,0
+2021,Kansas,South Carolina,878
+2021,Kansas,South Dakota,339
+2021,Kansas,Tennessee,3275
+2021,Kansas,Texas,6016
+2021,Kansas,Utah,713
+2021,Kansas,Vermont,0
+2021,Kansas,Virginia,2991
+2021,Kansas,Washington,2625
+2021,Kansas,West Virginia,10
+2021,Kansas,Wisconsin,1852
+2021,Kansas,Wyoming,209
+2021,Kentucky,Alabama,2407
+2021,Kentucky,Alaska,214
+2021,Kentucky,Arizona,924
+2021,Kentucky,Arkansas,442
+2021,Kentucky,California,2599
+2021,Kentucky,Colorado,3223
+2021,Kentucky,Connecticut,511
+2021,Kentucky,Delaware,66
+2021,Kentucky,District of Columbia ,391
+2021,Kentucky,Florida,8392
+2021,Kentucky,Georgia,3449
+2021,Kentucky,Hawaii,807
+2021,Kentucky,Idaho,186
+2021,Kentucky,Illinois,4912
+2021,Kentucky,Indiana,11437
+2021,Kentucky,Iowa,756
+2021,Kentucky,Kansas,1043
+2021,Kentucky,Kentucky,N/A
+2021,Kentucky,Louisiana,853
+2021,Kentucky,Maine,0
+2021,Kentucky,Maryland,1499
+2021,Kentucky,Massachusetts,301
+2021,Kentucky,Michigan,2666
+2021,Kentucky,Minnesota,680
+2021,Kentucky,Mississippi,308
+2021,Kentucky,Missouri,2097
+2021,Kentucky,Montana,443
+2021,Kentucky,Nebraska,582
+2021,Kentucky,Nevada,164
+2021,Kentucky,New Hampshire,56
+2021,Kentucky,New Jersey,864
+2021,Kentucky,New Mexico,1028
+2021,Kentucky,New York,3115
+2021,Kentucky,North Carolina,5779
+2021,Kentucky,North Dakota,0
+2021,Kentucky,Ohio,11730
+2021,Kentucky,Oklahoma,1054
+2021,Kentucky,Oregon,275
+2021,Kentucky,Pennsylvania,1254
+2021,Kentucky,Rhode Island,248
+2021,Kentucky,South Carolina,777
+2021,Kentucky,South Dakota,366
+2021,Kentucky,Tennessee,10552
+2021,Kentucky,Texas,6892
+2021,Kentucky,Utah,460
+2021,Kentucky,Vermont,289
+2021,Kentucky,Virginia,2953
+2021,Kentucky,Washington,4721
+2021,Kentucky,West Virginia,2619
+2021,Kentucky,Wisconsin,1253
+2021,Kentucky,Wyoming,56
+2021,Louisiana,Alabama,3717
+2021,Louisiana,Alaska,1249
+2021,Louisiana,Arizona,1691
+2021,Louisiana,Arkansas,3313
+2021,Louisiana,California,3430
+2021,Louisiana,Colorado,1844
+2021,Louisiana,Connecticut,1107
+2021,Louisiana,Delaware,0
+2021,Louisiana,District of Columbia ,325
+2021,Louisiana,Florida,6004
+2021,Louisiana,Georgia,1987
+2021,Louisiana,Hawaii,710
+2021,Louisiana,Idaho,392
+2021,Louisiana,Illinois,2052
+2021,Louisiana,Indiana,282
+2021,Louisiana,Iowa,730
+2021,Louisiana,Kansas,2268
+2021,Louisiana,Kentucky,928
+2021,Louisiana,Louisiana,N/A
+2021,Louisiana,Maine,67
+2021,Louisiana,Maryland,1385
+2021,Louisiana,Massachusetts,341
+2021,Louisiana,Michigan,1423
+2021,Louisiana,Minnesota,815
+2021,Louisiana,Mississippi,7301
+2021,Louisiana,Missouri,801
+2021,Louisiana,Montana,0
+2021,Louisiana,Nebraska,2378
+2021,Louisiana,Nevada,131
+2021,Louisiana,New Hampshire,536
+2021,Louisiana,New Jersey,1357
+2021,Louisiana,New Mexico,0
+2021,Louisiana,New York,1357
+2021,Louisiana,North Carolina,834
+2021,Louisiana,North Dakota,77
+2021,Louisiana,Ohio,738
+2021,Louisiana,Oklahoma,738
+2021,Louisiana,Oregon,421
+2021,Louisiana,Pennsylvania,122
+2021,Louisiana,Rhode Island,1379
+2021,Louisiana,South Carolina,617
+2021,Louisiana,South Dakota,64
+2021,Louisiana,Tennessee,2053
+2021,Louisiana,Texas,21290
+2021,Louisiana,Utah,305
+2021,Louisiana,Vermont,243
+2021,Louisiana,Virginia,995
+2021,Louisiana,Washington,1485
+2021,Louisiana,West Virginia,84
+2021,Louisiana,Wisconsin,295
+2021,Louisiana,Wyoming,283
+2021,Maine,Alabama,20
+2021,Maine,Alaska,127
+2021,Maine,Arizona,121
+2021,Maine,Arkansas,90
+2021,Maine,California,3349
+2021,Maine,Colorado,1229
+2021,Maine,Connecticut,2739
+2021,Maine,Delaware,35
+2021,Maine,District of Columbia ,103
+2021,Maine,Florida,4322
+2021,Maine,Georgia,1180
+2021,Maine,Hawaii,245
+2021,Maine,Idaho,0
+2021,Maine,Illinois,485
+2021,Maine,Indiana,144
+2021,Maine,Iowa,376
+2021,Maine,Kansas,0
+2021,Maine,Kentucky,623
+2021,Maine,Louisiana,83
+2021,Maine,Maine,N/A
+2021,Maine,Maryland,1574
+2021,Maine,Massachusetts,6753
+2021,Maine,Michigan,519
+2021,Maine,Minnesota,298
+2021,Maine,Mississippi,0
+2021,Maine,Missouri,277
+2021,Maine,Montana,14
+2021,Maine,Nebraska,24
+2021,Maine,Nevada,46
+2021,Maine,New Hampshire,5696
+2021,Maine,New Jersey,1010
+2021,Maine,New Mexico,71
+2021,Maine,New York,3326
+2021,Maine,North Carolina,971
+2021,Maine,North Dakota,0
+2021,Maine,Ohio,365
+2021,Maine,Oklahoma,208
+2021,Maine,Oregon,296
+2021,Maine,Pennsylvania,452
+2021,Maine,Rhode Island,1270
+2021,Maine,South Carolina,246
+2021,Maine,South Dakota,294
+2021,Maine,Tennessee,467
+2021,Maine,Texas,876
+2021,Maine,Utah,0
+2021,Maine,Vermont,739
+2021,Maine,Virginia,989
+2021,Maine,Washington,522
+2021,Maine,West Virginia,197
+2021,Maine,Wisconsin,384
+2021,Maine,Wyoming,337
+2021,Maryland,Alabama,906
+2021,Maryland,Alaska,1201
+2021,Maryland,Arizona,1744
+2021,Maryland,Arkansas,203
+2021,Maryland,California,8406
+2021,Maryland,Colorado,2776
+2021,Maryland,Connecticut,1999
+2021,Maryland,Delaware,6322
+2021,Maryland,District of Columbia ,20950
+2021,Maryland,Florida,7927
+2021,Maryland,Georgia,8937
+2021,Maryland,Hawaii,1110
+2021,Maryland,Idaho,70
+2021,Maryland,Illinois,3948
+2021,Maryland,Indiana,1971
+2021,Maryland,Iowa,21
+2021,Maryland,Kansas,788
+2021,Maryland,Kentucky,523
+2021,Maryland,Louisiana,638
+2021,Maryland,Maine,175
+2021,Maryland,Maryland,N/A
+2021,Maryland,Massachusetts,2299
+2021,Maryland,Michigan,1861
+2021,Maryland,Minnesota,866
+2021,Maryland,Mississippi,846
+2021,Maryland,Missouri,684
+2021,Maryland,Montana,154
+2021,Maryland,Nebraska,625
+2021,Maryland,Nevada,268
+2021,Maryland,New Hampshire,357
+2021,Maryland,New Jersey,5513
+2021,Maryland,New Mexico,911
+2021,Maryland,New York,11578
+2021,Maryland,North Carolina,5139
+2021,Maryland,North Dakota,0
+2021,Maryland,Ohio,2251
+2021,Maryland,Oklahoma,134
+2021,Maryland,Oregon,522
+2021,Maryland,Pennsylvania,14139
+2021,Maryland,Rhode Island,216
+2021,Maryland,South Carolina,2290
+2021,Maryland,South Dakota,203
+2021,Maryland,Tennessee,1088
+2021,Maryland,Texas,6974
+2021,Maryland,Utah,829
+2021,Maryland,Vermont,49
+2021,Maryland,Virginia,25305
+2021,Maryland,Washington,1621
+2021,Maryland,West Virginia,1599
+2021,Maryland,Wisconsin,396
+2021,Maryland,Wyoming,684
+2021,Massachusetts,Alabama,1056
+2021,Massachusetts,Alaska,161
+2021,Massachusetts,Arizona,791
+2021,Massachusetts,Arkansas,0
+2021,Massachusetts,California,15040
+2021,Massachusetts,Colorado,2756
+2021,Massachusetts,Connecticut,12795
+2021,Massachusetts,Delaware,210
+2021,Massachusetts,District of Columbia ,1328
+2021,Massachusetts,Florida,10894
+2021,Massachusetts,Georgia,1625
+2021,Massachusetts,Hawaii,29
+2021,Massachusetts,Idaho,522
+2021,Massachusetts,Illinois,3962
+2021,Massachusetts,Indiana,1199
+2021,Massachusetts,Iowa,715
+2021,Massachusetts,Kansas,67
+2021,Massachusetts,Kentucky,1275
+2021,Massachusetts,Louisiana,799
+2021,Massachusetts,Maine,1685
+2021,Massachusetts,Maryland,4156
+2021,Massachusetts,Massachusetts,N/A
+2021,Massachusetts,Michigan,1844
+2021,Massachusetts,Minnesota,1836
+2021,Massachusetts,Mississippi,42
+2021,Massachusetts,Missouri,631
+2021,Massachusetts,Montana,684
+2021,Massachusetts,Nebraska,169
+2021,Massachusetts,Nevada,1440
+2021,Massachusetts,New Hampshire,11387
+2021,Massachusetts,New Jersey,8539
+2021,Massachusetts,New Mexico,498
+2021,Massachusetts,New York,24489
+2021,Massachusetts,North Carolina,5456
+2021,Massachusetts,North Dakota,0
+2021,Massachusetts,Ohio,3128
+2021,Massachusetts,Oklahoma,610
+2021,Massachusetts,Oregon,1115
+2021,Massachusetts,Pennsylvania,7052
+2021,Massachusetts,Rhode Island,6511
+2021,Massachusetts,South Carolina,1455
+2021,Massachusetts,South Dakota,0
+2021,Massachusetts,Tennessee,2758
+2021,Massachusetts,Texas,5618
+2021,Massachusetts,Utah,772
+2021,Massachusetts,Vermont,2901
+2021,Massachusetts,Virginia,3508
+2021,Massachusetts,Washington,2753
+2021,Massachusetts,West Virginia,0
+2021,Massachusetts,Wisconsin,2015
+2021,Massachusetts,Wyoming,35
+2021,Michigan,Alabama,2032
+2021,Michigan,Alaska,711
+2021,Michigan,Arizona,4251
+2021,Michigan,Arkansas,382
+2021,Michigan,California,11944
+2021,Michigan,Colorado,4890
+2021,Michigan,Connecticut,832
+2021,Michigan,Delaware,1001
+2021,Michigan,District of Columbia ,593
+2021,Michigan,Florida,13202
+2021,Michigan,Georgia,5340
+2021,Michigan,Hawaii,239
+2021,Michigan,Idaho,498
+2021,Michigan,Illinois,12453
+2021,Michigan,Indiana,11998
+2021,Michigan,Iowa,1011
+2021,Michigan,Kansas,595
+2021,Michigan,Kentucky,1441
+2021,Michigan,Louisiana,745
+2021,Michigan,Maine,22
+2021,Michigan,Maryland,2755
+2021,Michigan,Massachusetts,1980
+2021,Michigan,Michigan,N/A
+2021,Michigan,Minnesota,3258
+2021,Michigan,Mississippi,253
+2021,Michigan,Missouri,3862
+2021,Michigan,Montana,474
+2021,Michigan,Nebraska,222
+2021,Michigan,Nevada,1095
+2021,Michigan,New Hampshire,0
+2021,Michigan,New Jersey,3231
+2021,Michigan,New Mexico,289
+2021,Michigan,New York,6385
+2021,Michigan,North Carolina,3711
+2021,Michigan,North Dakota,382
+2021,Michigan,Ohio,8252
+2021,Michigan,Oklahoma,1133
+2021,Michigan,Oregon,1308
+2021,Michigan,Pennsylvania,4216
+2021,Michigan,Rhode Island,364
+2021,Michigan,South Carolina,2117
+2021,Michigan,South Dakota,43
+2021,Michigan,Tennessee,2859
+2021,Michigan,Texas,6589
+2021,Michigan,Utah,1483
+2021,Michigan,Vermont,152
+2021,Michigan,Virginia,3169
+2021,Michigan,Washington,2192
+2021,Michigan,West Virginia,464
+2021,Michigan,Wisconsin,6120
+2021,Michigan,Wyoming,504
+2021,Minnesota,Alabama,104
+2021,Minnesota,Alaska,69
+2021,Minnesota,Arizona,3152
+2021,Minnesota,Arkansas,359
+2021,Minnesota,California,5202
+2021,Minnesota,Colorado,5148
+2021,Minnesota,Connecticut,264
+2021,Minnesota,Delaware,41
+2021,Minnesota,District of Columbia ,211
+2021,Minnesota,Florida,2712
+2021,Minnesota,Georgia,928
+2021,Minnesota,Hawaii,94
+2021,Minnesota,Idaho,495
+2021,Minnesota,Illinois,6163
+2021,Minnesota,Indiana,1252
+2021,Minnesota,Iowa,5523
+2021,Minnesota,Kansas,1417
+2021,Minnesota,Kentucky,889
+2021,Minnesota,Louisiana,496
+2021,Minnesota,Maine,111
+2021,Minnesota,Maryland,363
+2021,Minnesota,Massachusetts,1308
+2021,Minnesota,Michigan,1979
+2021,Minnesota,Minnesota,N/A
+2021,Minnesota,Mississippi,7
+2021,Minnesota,Missouri,3191
+2021,Minnesota,Montana,822
+2021,Minnesota,Nebraska,2219
+2021,Minnesota,Nevada,345
+2021,Minnesota,New Hampshire,99
+2021,Minnesota,New Jersey,156
+2021,Minnesota,New Mexico,631
+2021,Minnesota,New York,2047
+2021,Minnesota,North Carolina,1278
+2021,Minnesota,North Dakota,10092
+2021,Minnesota,Ohio,2539
+2021,Minnesota,Oklahoma,1026
+2021,Minnesota,Oregon,1385
+2021,Minnesota,Pennsylvania,901
+2021,Minnesota,Rhode Island,67
+2021,Minnesota,South Carolina,1145
+2021,Minnesota,South Dakota,2649
+2021,Minnesota,Tennessee,814
+2021,Minnesota,Texas,4889
+2021,Minnesota,Utah,471
+2021,Minnesota,Vermont,56
+2021,Minnesota,Virginia,1464
+2021,Minnesota,Washington,1950
+2021,Minnesota,West Virginia,670
+2021,Minnesota,Wisconsin,13688
+2021,Minnesota,Wyoming,405
+2021,Mississippi,Alabama,3795
+2021,Mississippi,Alaska,1068
+2021,Mississippi,Arizona,676
+2021,Mississippi,Arkansas,2693
+2021,Mississippi,California,2259
+2021,Mississippi,Colorado,1143
+2021,Mississippi,Connecticut,0
+2021,Mississippi,Delaware,0
+2021,Mississippi,District of Columbia ,0
+2021,Mississippi,Florida,2512
+2021,Mississippi,Georgia,2978
+2021,Mississippi,Hawaii,545
+2021,Mississippi,Idaho,0
+2021,Mississippi,Illinois,1835
+2021,Mississippi,Indiana,378
+2021,Mississippi,Iowa,110
+2021,Mississippi,Kansas,637
+2021,Mississippi,Kentucky,1234
+2021,Mississippi,Louisiana,6704
+2021,Mississippi,Maine,117
+2021,Mississippi,Maryland,81
+2021,Mississippi,Massachusetts,581
+2021,Mississippi,Michigan,783
+2021,Mississippi,Minnesota,268
+2021,Mississippi,Mississippi,N/A
+2021,Mississippi,Missouri,1750
+2021,Mississippi,Montana,38
+2021,Mississippi,Nebraska,329
+2021,Mississippi,Nevada,341
+2021,Mississippi,New Hampshire,0
+2021,Mississippi,New Jersey,239
+2021,Mississippi,New Mexico,173
+2021,Mississippi,New York,1804
+2021,Mississippi,North Carolina,830
+2021,Mississippi,North Dakota,156
+2021,Mississippi,Ohio,746
+2021,Mississippi,Oklahoma,204
+2021,Mississippi,Oregon,264
+2021,Mississippi,Pennsylvania,459
+2021,Mississippi,Rhode Island,0
+2021,Mississippi,South Carolina,1302
+2021,Mississippi,South Dakota,0
+2021,Mississippi,Tennessee,7328
+2021,Mississippi,Texas,7027
+2021,Mississippi,Utah,518
+2021,Mississippi,Vermont,32
+2021,Mississippi,Virginia,3114
+2021,Mississippi,Washington,822
+2021,Mississippi,West Virginia,0
+2021,Mississippi,Wisconsin,85
+2021,Mississippi,Wyoming,1801
+2021,Missouri,Alabama,1362
+2021,Missouri,Alaska,414
+2021,Missouri,Arizona,4226
+2021,Missouri,Arkansas,7506
+2021,Missouri,California,13726
+2021,Missouri,Colorado,5441
+2021,Missouri,Connecticut,151
+2021,Missouri,Delaware,0
+2021,Missouri,District of Columbia ,553
+2021,Missouri,Florida,5622
+2021,Missouri,Georgia,2356
+2021,Missouri,Hawaii,313
+2021,Missouri,Idaho,566
+2021,Missouri,Illinois,28457
+2021,Missouri,Indiana,2986
+2021,Missouri,Iowa,5661
+2021,Missouri,Kansas,21602
+2021,Missouri,Kentucky,1565
+2021,Missouri,Louisiana,1450
+2021,Missouri,Maine,64
+2021,Missouri,Maryland,436
+2021,Missouri,Massachusetts,1435
+2021,Missouri,Michigan,1126
+2021,Missouri,Minnesota,933
+2021,Missouri,Mississippi,2718
+2021,Missouri,Missouri,N/A
+2021,Missouri,Montana,502
+2021,Missouri,Nebraska,2652
+2021,Missouri,Nevada,1684
+2021,Missouri,New Hampshire,188
+2021,Missouri,New Jersey,1918
+2021,Missouri,New Mexico,657
+2021,Missouri,New York,3608
+2021,Missouri,North Carolina,4066
+2021,Missouri,North Dakota,756
+2021,Missouri,Ohio,3664
+2021,Missouri,Oklahoma,3089
+2021,Missouri,Oregon,2222
+2021,Missouri,Pennsylvania,1807
+2021,Missouri,Rhode Island,242
+2021,Missouri,South Carolina,1645
+2021,Missouri,South Dakota,402
+2021,Missouri,Tennessee,2107
+2021,Missouri,Texas,12919
+2021,Missouri,Utah,1651
+2021,Missouri,Vermont,111
+2021,Missouri,Virginia,3594
+2021,Missouri,Washington,3489
+2021,Missouri,West Virginia,60
+2021,Missouri,Wisconsin,1804
+2021,Missouri,Wyoming,415
+2021,Montana,Alabama,370
+2021,Montana,Alaska,1101
+2021,Montana,Arizona,2012
+2021,Montana,Arkansas,185
+2021,Montana,California,6034
+2021,Montana,Colorado,4389
+2021,Montana,Connecticut,609
+2021,Montana,Delaware,0
+2021,Montana,District of Columbia ,0
+2021,Montana,Florida,1566
+2021,Montana,Georgia,547
+2021,Montana,Hawaii,153
+2021,Montana,Idaho,2836
+2021,Montana,Illinois,466
+2021,Montana,Indiana,167
+2021,Montana,Iowa,20
+2021,Montana,Kansas,78
+2021,Montana,Kentucky,0
+2021,Montana,Louisiana,568
+2021,Montana,Maine,96
+2021,Montana,Maryland,40
+2021,Montana,Massachusetts,243
+2021,Montana,Michigan,419
+2021,Montana,Minnesota,1089
+2021,Montana,Mississippi,50
+2021,Montana,Missouri,262
+2021,Montana,Montana,N/A
+2021,Montana,Nebraska,257
+2021,Montana,Nevada,2481
+2021,Montana,New Hampshire,0
+2021,Montana,New Jersey,0
+2021,Montana,New Mexico,144
+2021,Montana,New York,325
+2021,Montana,North Carolina,530
+2021,Montana,North Dakota,472
+2021,Montana,Ohio,236
+2021,Montana,Oklahoma,76
+2021,Montana,Oregon,1857
+2021,Montana,Pennsylvania,200
+2021,Montana,Rhode Island,0
+2021,Montana,South Carolina,875
+2021,Montana,South Dakota,308
+2021,Montana,Tennessee,27
+2021,Montana,Texas,2671
+2021,Montana,Utah,728
+2021,Montana,Vermont,90
+2021,Montana,Virginia,223
+2021,Montana,Washington,6758
+2021,Montana,West Virginia,0
+2021,Montana,Wisconsin,1026
+2021,Montana,Wyoming,1947
+2021,Nebraska,Alabama,134
+2021,Nebraska,Alaska,17
+2021,Nebraska,Arizona,1009
+2021,Nebraska,Arkansas,7
+2021,Nebraska,California,4798
+2021,Nebraska,Colorado,2940
+2021,Nebraska,Connecticut,0
+2021,Nebraska,Delaware,313
+2021,Nebraska,District of Columbia ,0
+2021,Nebraska,Florida,1806
+2021,Nebraska,Georgia,254
+2021,Nebraska,Hawaii,248
+2021,Nebraska,Idaho,0
+2021,Nebraska,Illinois,1463
+2021,Nebraska,Indiana,686
+2021,Nebraska,Iowa,6235
+2021,Nebraska,Kansas,1629
+2021,Nebraska,Kentucky,376
+2021,Nebraska,Louisiana,463
+2021,Nebraska,Maine,148
+2021,Nebraska,Maryland,0
+2021,Nebraska,Massachusetts,70
+2021,Nebraska,Michigan,374
+2021,Nebraska,Minnesota,2695
+2021,Nebraska,Mississippi,83
+2021,Nebraska,Missouri,2097
+2021,Nebraska,Montana,375
+2021,Nebraska,Nebraska,N/A
+2021,Nebraska,Nevada,361
+2021,Nebraska,New Hampshire,0
+2021,Nebraska,New Jersey,0
+2021,Nebraska,New Mexico,141
+2021,Nebraska,New York,930
+2021,Nebraska,North Carolina,444
+2021,Nebraska,North Dakota,159
+2021,Nebraska,Ohio,551
+2021,Nebraska,Oklahoma,1336
+2021,Nebraska,Oregon,442
+2021,Nebraska,Pennsylvania,99
+2021,Nebraska,Rhode Island,0
+2021,Nebraska,South Carolina,161
+2021,Nebraska,South Dakota,2140
+2021,Nebraska,Tennessee,462
+2021,Nebraska,Texas,2619
+2021,Nebraska,Utah,1047
+2021,Nebraska,Vermont,0
+2021,Nebraska,Virginia,836
+2021,Nebraska,Washington,715
+2021,Nebraska,West Virginia,0
+2021,Nebraska,Wisconsin,873
+2021,Nebraska,Wyoming,1751
+2021,Nevada,Alabama,492
+2021,Nevada,Alaska,960
+2021,Nevada,Arizona,5792
+2021,Nevada,Arkansas,226
+2021,Nevada,California,62437
+2021,Nevada,Colorado,4875
+2021,Nevada,Connecticut,141
+2021,Nevada,Delaware,720
+2021,Nevada,District of Columbia ,49
+2021,Nevada,Florida,6372
+2021,Nevada,Georgia,1603
+2021,Nevada,Hawaii,2894
+2021,Nevada,Idaho,1601
+2021,Nevada,Illinois,2577
+2021,Nevada,Indiana,1058
+2021,Nevada,Iowa,1574
+2021,Nevada,Kansas,354
+2021,Nevada,Kentucky,218
+2021,Nevada,Louisiana,244
+2021,Nevada,Maine,0
+2021,Nevada,Maryland,494
+2021,Nevada,Massachusetts,580
+2021,Nevada,Michigan,3607
+2021,Nevada,Minnesota,1530
+2021,Nevada,Mississippi,435
+2021,Nevada,Missouri,2251
+2021,Nevada,Montana,1178
+2021,Nevada,Nebraska,108
+2021,Nevada,Nevada,N/A
+2021,Nevada,New Hampshire,41
+2021,Nevada,New Jersey,787
+2021,Nevada,New Mexico,1687
+2021,Nevada,New York,1582
+2021,Nevada,North Carolina,1328
+2021,Nevada,North Dakota,85
+2021,Nevada,Ohio,924
+2021,Nevada,Oklahoma,263
+2021,Nevada,Oregon,2496
+2021,Nevada,Pennsylvania,1588
+2021,Nevada,Rhode Island,212
+2021,Nevada,South Carolina,884
+2021,Nevada,South Dakota,343
+2021,Nevada,Tennessee,719
+2021,Nevada,Texas,4317
+2021,Nevada,Utah,3461
+2021,Nevada,Vermont,0
+2021,Nevada,Virginia,1635
+2021,Nevada,Washington,4071
+2021,Nevada,West Virginia,0
+2021,Nevada,Wisconsin,795
+2021,Nevada,Wyoming,1060
+2021,New Hampshire,Alabama,370
+2021,New Hampshire,Alaska,127
+2021,New Hampshire,Arizona,13
+2021,New Hampshire,Arkansas,0
+2021,New Hampshire,California,2984
+2021,New Hampshire,Colorado,668
+2021,New Hampshire,Connecticut,1726
+2021,New Hampshire,Delaware,38
+2021,New Hampshire,District of Columbia ,357
+2021,New Hampshire,Florida,2758
+2021,New Hampshire,Georgia,187
+2021,New Hampshire,Hawaii,37
+2021,New Hampshire,Idaho,0
+2021,New Hampshire,Illinois,542
+2021,New Hampshire,Indiana,158
+2021,New Hampshire,Iowa,96
+2021,New Hampshire,Kansas,0
+2021,New Hampshire,Kentucky,0
+2021,New Hampshire,Louisiana,0
+2021,New Hampshire,Maine,2198
+2021,New Hampshire,Maryland,450
+2021,New Hampshire,Massachusetts,24752
+2021,New Hampshire,Michigan,0
+2021,New Hampshire,Minnesota,300
+2021,New Hampshire,Mississippi,388
+2021,New Hampshire,Missouri,795
+2021,New Hampshire,Montana,198
+2021,New Hampshire,Nebraska,0
+2021,New Hampshire,Nevada,553
+2021,New Hampshire,New Hampshire,N/A
+2021,New Hampshire,New Jersey,538
+2021,New Hampshire,New Mexico,185
+2021,New Hampshire,New York,4470
+2021,New Hampshire,North Carolina,815
+2021,New Hampshire,North Dakota,0
+2021,New Hampshire,Ohio,205
+2021,New Hampshire,Oklahoma,0
+2021,New Hampshire,Oregon,375
+2021,New Hampshire,Pennsylvania,798
+2021,New Hampshire,Rhode Island,1314
+2021,New Hampshire,South Carolina,119
+2021,New Hampshire,South Dakota,0
+2021,New Hampshire,Tennessee,831
+2021,New Hampshire,Texas,1647
+2021,New Hampshire,Utah,0
+2021,New Hampshire,Vermont,1322
+2021,New Hampshire,Virginia,837
+2021,New Hampshire,Washington,81
+2021,New Hampshire,West Virginia,0
+2021,New Hampshire,Wisconsin,13
+2021,New Hampshire,Wyoming,0
+2021,New Jersey,Alabama,246
+2021,New Jersey,Alaska,0
+2021,New Jersey,Arizona,456
+2021,New Jersey,Arkansas,0
+2021,New Jersey,California,8629
+2021,New Jersey,Colorado,4712
+2021,New Jersey,Connecticut,2061
+2021,New Jersey,Delaware,2044
+2021,New Jersey,District of Columbia ,926
+2021,New Jersey,Florida,7930
+2021,New Jersey,Georgia,1472
+2021,New Jersey,Hawaii,350
+2021,New Jersey,Idaho,283
+2021,New Jersey,Illinois,2083
+2021,New Jersey,Indiana,4098
+2021,New Jersey,Iowa,90
+2021,New Jersey,Kansas,206
+2021,New Jersey,Kentucky,1860
+2021,New Jersey,Louisiana,1495
+2021,New Jersey,Maine,654
+2021,New Jersey,Maryland,3042
+2021,New Jersey,Massachusetts,2749
+2021,New Jersey,Michigan,2119
+2021,New Jersey,Minnesota,385
+2021,New Jersey,Mississippi,0
+2021,New Jersey,Missouri,1601
+2021,New Jersey,Montana,0
+2021,New Jersey,Nebraska,207
+2021,New Jersey,Nevada,165
+2021,New Jersey,New Hampshire,540
+2021,New Jersey,New Jersey,N/A
+2021,New Jersey,New Mexico,717
+2021,New Jersey,New York,91421
+2021,New Jersey,North Carolina,8587
+2021,New Jersey,North Dakota,274
+2021,New Jersey,Ohio,713
+2021,New Jersey,Oklahoma,527
+2021,New Jersey,Oregon,354
+2021,New Jersey,Pennsylvania,29573
+2021,New Jersey,Rhode Island,736
+2021,New Jersey,South Carolina,2491
+2021,New Jersey,South Dakota,290
+2021,New Jersey,Tennessee,1083
+2021,New Jersey,Texas,2402
+2021,New Jersey,Utah,154
+2021,New Jersey,Vermont,88
+2021,New Jersey,Virginia,2854
+2021,New Jersey,Washington,1498
+2021,New Jersey,West Virginia,636
+2021,New Jersey,Wisconsin,988
+2021,New Jersey,Wyoming,39
+2021,New Mexico,Alabama,484
+2021,New Mexico,Alaska,254
+2021,New Mexico,Arizona,3738
+2021,New Mexico,Arkansas,526
+2021,New Mexico,California,9947
+2021,New Mexico,Colorado,8806
+2021,New Mexico,Connecticut,131
+2021,New Mexico,Delaware,0
+2021,New Mexico,District of Columbia ,344
+2021,New Mexico,Florida,4563
+2021,New Mexico,Georgia,713
+2021,New Mexico,Hawaii,82
+2021,New Mexico,Idaho,598
+2021,New Mexico,Illinois,1229
+2021,New Mexico,Indiana,1508
+2021,New Mexico,Iowa,0
+2021,New Mexico,Kansas,244
+2021,New Mexico,Kentucky,340
+2021,New Mexico,Louisiana,1042
+2021,New Mexico,Maine,0
+2021,New Mexico,Maryland,731
+2021,New Mexico,Massachusetts,643
+2021,New Mexico,Michigan,912
+2021,New Mexico,Minnesota,906
+2021,New Mexico,Mississippi,244
+2021,New Mexico,Missouri,454
+2021,New Mexico,Montana,153
+2021,New Mexico,Nebraska,309
+2021,New Mexico,Nevada,1244
+2021,New Mexico,New Hampshire,100
+2021,New Mexico,New Jersey,856
+2021,New Mexico,New Mexico,N/A
+2021,New Mexico,New York,2249
+2021,New Mexico,North Carolina,338
+2021,New Mexico,North Dakota,390
+2021,New Mexico,Ohio,850
+2021,New Mexico,Oklahoma,161
+2021,New Mexico,Oregon,1486
+2021,New Mexico,Pennsylvania,516
+2021,New Mexico,Rhode Island,42
+2021,New Mexico,South Carolina,264
+2021,New Mexico,South Dakota,0
+2021,New Mexico,Tennessee,518
+2021,New Mexico,Texas,10712
+2021,New Mexico,Utah,198
+2021,New Mexico,Vermont,0
+2021,New Mexico,Virginia,1321
+2021,New Mexico,Washington,6064
+2021,New Mexico,West Virginia,492
+2021,New Mexico,Wisconsin,433
+2021,New Mexico,Wyoming,884
+2021,New York,Alabama,1930
+2021,New York,Alaska,1036
+2021,New York,Arizona,2472
+2021,New York,Arkansas,1935
+2021,New York,California,31335
+2021,New York,Colorado,6112
+2021,New York,Connecticut,12538
+2021,New York,Delaware,1521
+2021,New York,District of Columbia ,3010
+2021,New York,Florida,24444
+2021,New York,Georgia,7342
+2021,New York,Hawaii,962
+2021,New York,Idaho,1007
+2021,New York,Illinois,8093
+2021,New York,Indiana,1334
+2021,New York,Iowa,1552
+2021,New York,Kansas,2595
+2021,New York,Kentucky,2365
+2021,New York,Louisiana,2486
+2021,New York,Maine,1742
+2021,New York,Maryland,7749
+2021,New York,Massachusetts,21608
+2021,New York,Michigan,3351
+2021,New York,Minnesota,2538
+2021,New York,Mississippi,151
+2021,New York,Missouri,2875
+2021,New York,Montana,558
+2021,New York,Nebraska,598
+2021,New York,Nevada,1926
+2021,New York,New Hampshire,2045
+2021,New York,New Jersey,38222
+2021,New York,New Mexico,805
+2021,New York,New York,N/A
+2021,New York,North Carolina,7361
+2021,New York,North Dakota,0
+2021,New York,Ohio,4962
+2021,New York,Oklahoma,2134
+2021,New York,Oregon,1990
+2021,New York,Pennsylvania,21804
+2021,New York,Rhode Island,2118
+2021,New York,South Carolina,4591
+2021,New York,South Dakota,292
+2021,New York,Tennessee,3946
+2021,New York,Texas,16818
+2021,New York,Utah,1633
+2021,New York,Vermont,1366
+2021,New York,Virginia,9132
+2021,New York,Washington,8080
+2021,New York,West Virginia,643
+2021,New York,Wisconsin,2142
+2021,New York,Wyoming,0
+2021,North Carolina,Alabama,3276
+2021,North Carolina,Alaska,1730
+2021,North Carolina,Arizona,5929
+2021,North Carolina,Arkansas,3063
+2021,North Carolina,California,22507
+2021,North Carolina,Colorado,6549
+2021,North Carolina,Connecticut,4741
+2021,North Carolina,Delaware,762
+2021,North Carolina,District of Columbia ,653
+2021,North Carolina,Florida,37071
+2021,North Carolina,Georgia,17698
+2021,North Carolina,Hawaii,1591
+2021,North Carolina,Idaho,1520
+2021,North Carolina,Illinois,8920
+2021,North Carolina,Indiana,3678
+2021,North Carolina,Iowa,1260
+2021,North Carolina,Kansas,1105
+2021,North Carolina,Kentucky,2410
+2021,North Carolina,Louisiana,4005
+2021,North Carolina,Maine,1002
+2021,North Carolina,Maryland,15645
+2021,North Carolina,Massachusetts,9378
+2021,North Carolina,Michigan,8406
+2021,North Carolina,Minnesota,2360
+2021,North Carolina,Mississippi,695
+2021,North Carolina,Missouri,2263
+2021,North Carolina,Montana,233
+2021,North Carolina,Nebraska,44
+2021,North Carolina,Nevada,2153
+2021,North Carolina,New Hampshire,948
+2021,North Carolina,New Jersey,14884
+2021,North Carolina,New Mexico,631
+2021,North Carolina,New York,32759
+2021,North Carolina,North Carolina,N/A
+2021,North Carolina,North Dakota,224
+2021,North Carolina,Ohio,11355
+2021,North Carolina,Oklahoma,1502
+2021,North Carolina,Oregon,2443
+2021,North Carolina,Pennsylvania,12408
+2021,North Carolina,Rhode Island,679
+2021,North Carolina,South Carolina,23541
+2021,North Carolina,South Dakota,299
+2021,North Carolina,Tennessee,7365
+2021,North Carolina,Texas,14240
+2021,North Carolina,Utah,1821
+2021,North Carolina,Vermont,2117
+2021,North Carolina,Virginia,29092
+2021,North Carolina,Washington,6676
+2021,North Carolina,West Virginia,497
+2021,North Carolina,Wisconsin,2443
+2021,North Carolina,Wyoming,110
+2021,North Dakota,Alabama,377
+2021,North Dakota,Alaska,445
+2021,North Dakota,Arizona,1419
+2021,North Dakota,Arkansas,0
+2021,North Dakota,California,1525
+2021,North Dakota,Colorado,922
+2021,North Dakota,Connecticut,47
+2021,North Dakota,Delaware,0
+2021,North Dakota,District of Columbia ,0
+2021,North Dakota,Florida,1272
+2021,North Dakota,Georgia,0
+2021,North Dakota,Hawaii,102
+2021,North Dakota,Idaho,0
+2021,North Dakota,Illinois,559
+2021,North Dakota,Indiana,152
+2021,North Dakota,Iowa,755
+2021,North Dakota,Kansas,237
+2021,North Dakota,Kentucky,28
+2021,North Dakota,Louisiana,1405
+2021,North Dakota,Maine,66
+2021,North Dakota,Maryland,36
+2021,North Dakota,Massachusetts,246
+2021,North Dakota,Michigan,675
+2021,North Dakota,Minnesota,15897
+2021,North Dakota,Mississippi,223
+2021,North Dakota,Missouri,732
+2021,North Dakota,Montana,1020
+2021,North Dakota,Nebraska,1056
+2021,North Dakota,Nevada,6
+2021,North Dakota,New Hampshire,28
+2021,North Dakota,New Jersey,73
+2021,North Dakota,New Mexico,611
+2021,North Dakota,New York,149
+2021,North Dakota,North Carolina,73
+2021,North Dakota,North Dakota,N/A
+2021,North Dakota,Ohio,222
+2021,North Dakota,Oklahoma,347
+2021,North Dakota,Oregon,639
+2021,North Dakota,Pennsylvania,189
+2021,North Dakota,Rhode Island,0
+2021,North Dakota,South Carolina,244
+2021,North Dakota,South Dakota,1423
+2021,North Dakota,Tennessee,5
+2021,North Dakota,Texas,2127
+2021,North Dakota,Utah,141
+2021,North Dakota,Vermont,0
+2021,North Dakota,Virginia,736
+2021,North Dakota,Washington,572
+2021,North Dakota,West Virginia,0
+2021,North Dakota,Wisconsin,569
+2021,North Dakota,Wyoming,494
+2021,Ohio,Alabama,2258
+2021,Ohio,Alaska,197
+2021,Ohio,Arizona,2770
+2021,Ohio,Arkansas,1252
+2021,Ohio,California,12849
+2021,Ohio,Colorado,2726
+2021,Ohio,Connecticut,1166
+2021,Ohio,Delaware,238
+2021,Ohio,District of Columbia ,363
+2021,Ohio,Florida,14785
+2021,Ohio,Georgia,3769
+2021,Ohio,Hawaii,715
+2021,Ohio,Idaho,584
+2021,Ohio,Illinois,11845
+2021,Ohio,Indiana,8028
+2021,Ohio,Iowa,1995
+2021,Ohio,Kansas,861
+2021,Ohio,Kentucky,12704
+2021,Ohio,Louisiana,1579
+2021,Ohio,Maine,66
+2021,Ohio,Maryland,3329
+2021,Ohio,Massachusetts,2512
+2021,Ohio,Michigan,11524
+2021,Ohio,Minnesota,2060
+2021,Ohio,Mississippi,1048
+2021,Ohio,Missouri,2773
+2021,Ohio,Montana,100
+2021,Ohio,Nebraska,0
+2021,Ohio,Nevada,2415
+2021,Ohio,New Hampshire,1037
+2021,Ohio,New Jersey,3192
+2021,Ohio,New Mexico,620
+2021,Ohio,New York,11752
+2021,Ohio,North Carolina,6084
+2021,Ohio,North Dakota,935
+2021,Ohio,Ohio,N/A
+2021,Ohio,Oklahoma,1800
+2021,Ohio,Oregon,1631
+2021,Ohio,Pennsylvania,14181
+2021,Ohio,Rhode Island,301
+2021,Ohio,South Carolina,1894
+2021,Ohio,South Dakota,603
+2021,Ohio,Tennessee,5221
+2021,Ohio,Texas,7248
+2021,Ohio,Utah,1435
+2021,Ohio,Vermont,32
+2021,Ohio,Virginia,6125
+2021,Ohio,Washington,3987
+2021,Ohio,West Virginia,7629
+2021,Ohio,Wisconsin,2243
+2021,Ohio,Wyoming,16
+2021,Oklahoma,Alabama,914
+2021,Oklahoma,Alaska,264
+2021,Oklahoma,Arizona,961
+2021,Oklahoma,Arkansas,7390
+2021,Oklahoma,California,12613
+2021,Oklahoma,Colorado,5189
+2021,Oklahoma,Connecticut,19
+2021,Oklahoma,Delaware,85
+2021,Oklahoma,District of Columbia ,670
+2021,Oklahoma,Florida,4484
+2021,Oklahoma,Georgia,1293
+2021,Oklahoma,Hawaii,1386
+2021,Oklahoma,Idaho,853
+2021,Oklahoma,Illinois,3251
+2021,Oklahoma,Indiana,674
+2021,Oklahoma,Iowa,1109
+2021,Oklahoma,Kansas,5899
+2021,Oklahoma,Kentucky,873
+2021,Oklahoma,Louisiana,1915
+2021,Oklahoma,Maine,0
+2021,Oklahoma,Maryland,914
+2021,Oklahoma,Massachusetts,747
+2021,Oklahoma,Michigan,1336
+2021,Oklahoma,Minnesota,1054
+2021,Oklahoma,Mississippi,178
+2021,Oklahoma,Missouri,3106
+2021,Oklahoma,Montana,539
+2021,Oklahoma,Nebraska,592
+2021,Oklahoma,Nevada,1734
+2021,Oklahoma,New Hampshire,81
+2021,Oklahoma,New Jersey,310
+2021,Oklahoma,New Mexico,1262
+2021,Oklahoma,New York,1332
+2021,Oklahoma,North Carolina,1256
+2021,Oklahoma,North Dakota,485
+2021,Oklahoma,Ohio,672
+2021,Oklahoma,Oklahoma,N/A
+2021,Oklahoma,Oregon,1322
+2021,Oklahoma,Pennsylvania,805
+2021,Oklahoma,Rhode Island,0
+2021,Oklahoma,South Carolina,1009
+2021,Oklahoma,South Dakota,0
+2021,Oklahoma,Tennessee,1498
+2021,Oklahoma,Texas,27223
+2021,Oklahoma,Utah,1043
+2021,Oklahoma,Vermont,38
+2021,Oklahoma,Virginia,1971
+2021,Oklahoma,Washington,5754
+2021,Oklahoma,West Virginia,71
+2021,Oklahoma,Wisconsin,2097
+2021,Oklahoma,Wyoming,17
+2021,Oregon,Alabama,487
+2021,Oregon,Alaska,318
+2021,Oregon,Arizona,6545
+2021,Oregon,Arkansas,327
+2021,Oregon,California,51623
+2021,Oregon,Colorado,3850
+2021,Oregon,Connecticut,249
+2021,Oregon,Delaware,94
+2021,Oregon,District of Columbia ,351
+2021,Oregon,Florida,2683
+2021,Oregon,Georgia,1291
+2021,Oregon,Hawaii,1794
+2021,Oregon,Idaho,6445
+2021,Oregon,Illinois,1551
+2021,Oregon,Indiana,801
+2021,Oregon,Iowa,235
+2021,Oregon,Kansas,416
+2021,Oregon,Kentucky,164
+2021,Oregon,Louisiana,1234
+2021,Oregon,Maine,223
+2021,Oregon,Maryland,288
+2021,Oregon,Massachusetts,802
+2021,Oregon,Michigan,1839
+2021,Oregon,Minnesota,1335
+2021,Oregon,Mississippi,781
+2021,Oregon,Missouri,739
+2021,Oregon,Montana,1062
+2021,Oregon,Nebraska,371
+2021,Oregon,Nevada,1602
+2021,Oregon,New Hampshire,425
+2021,Oregon,New Jersey,159
+2021,Oregon,New Mexico,1351
+2021,Oregon,New York,4407
+2021,Oregon,North Carolina,1079
+2021,Oregon,North Dakota,184
+2021,Oregon,Ohio,1975
+2021,Oregon,Oklahoma,457
+2021,Oregon,Oregon,N/A
+2021,Oregon,Pennsylvania,1381
+2021,Oregon,Rhode Island,0
+2021,Oregon,South Carolina,591
+2021,Oregon,South Dakota,178
+2021,Oregon,Tennessee,781
+2021,Oregon,Texas,6469
+2021,Oregon,Utah,3590
+2021,Oregon,Vermont,108
+2021,Oregon,Virginia,824
+2021,Oregon,Washington,18648
+2021,Oregon,West Virginia,0
+2021,Oregon,Wisconsin,808
+2021,Oregon,Wyoming,1020
+2021,Pennsylvania,Alabama,585
+2021,Pennsylvania,Alaska,917
+2021,Pennsylvania,Arizona,2626
+2021,Pennsylvania,Arkansas,737
+2021,Pennsylvania,California,14867
+2021,Pennsylvania,Colorado,4692
+2021,Pennsylvania,Connecticut,3973
+2021,Pennsylvania,Delaware,6699
+2021,Pennsylvania,District of Columbia ,1825
+2021,Pennsylvania,Florida,15020
+2021,Pennsylvania,Georgia,3622
+2021,Pennsylvania,Hawaii,1001
+2021,Pennsylvania,Idaho,502
+2021,Pennsylvania,Illinois,6000
+2021,Pennsylvania,Indiana,2614
+2021,Pennsylvania,Iowa,904
+2021,Pennsylvania,Kansas,2590
+2021,Pennsylvania,Kentucky,1493
+2021,Pennsylvania,Louisiana,689
+2021,Pennsylvania,Maine,363
+2021,Pennsylvania,Maryland,22793
+2021,Pennsylvania,Massachusetts,5682
+2021,Pennsylvania,Michigan,2737
+2021,Pennsylvania,Minnesota,890
+2021,Pennsylvania,Mississippi,373
+2021,Pennsylvania,Missouri,2269
+2021,Pennsylvania,Montana,74
+2021,Pennsylvania,Nebraska,0
+2021,Pennsylvania,Nevada,943
+2021,Pennsylvania,New Hampshire,819
+2021,Pennsylvania,New Jersey,41402
+2021,Pennsylvania,New Mexico,591
+2021,Pennsylvania,New York,49702
+2021,Pennsylvania,North Carolina,6008
+2021,Pennsylvania,North Dakota,187
+2021,Pennsylvania,Ohio,10774
+2021,Pennsylvania,Oklahoma,796
+2021,Pennsylvania,Oregon,1377
+2021,Pennsylvania,Pennsylvania,N/A
+2021,Pennsylvania,Rhode Island,971
+2021,Pennsylvania,South Carolina,2347
+2021,Pennsylvania,South Dakota,122
+2021,Pennsylvania,Tennessee,2354
+2021,Pennsylvania,Texas,9271
+2021,Pennsylvania,Utah,2876
+2021,Pennsylvania,Vermont,1112
+2021,Pennsylvania,Virginia,11637
+2021,Pennsylvania,Washington,6888
+2021,Pennsylvania,West Virginia,2650
+2021,Pennsylvania,Wisconsin,2238
+2021,Pennsylvania,Wyoming,229
+2021,Rhode Island,Alabama,0
+2021,Rhode Island,Alaska,241
+2021,Rhode Island,Arizona,247
+2021,Rhode Island,Arkansas,0
+2021,Rhode Island,California,2857
+2021,Rhode Island,Colorado,610
+2021,Rhode Island,Connecticut,2753
+2021,Rhode Island,Delaware,5
+2021,Rhode Island,District of Columbia ,76
+2021,Rhode Island,Florida,2176
+2021,Rhode Island,Georgia,196
+2021,Rhode Island,Hawaii,0
+2021,Rhode Island,Idaho,0
+2021,Rhode Island,Illinois,949
+2021,Rhode Island,Indiana,677
+2021,Rhode Island,Iowa,248
+2021,Rhode Island,Kansas,0
+2021,Rhode Island,Kentucky,100
+2021,Rhode Island,Louisiana,0
+2021,Rhode Island,Maine,81
+2021,Rhode Island,Maryland,334
+2021,Rhode Island,Massachusetts,12826
+2021,Rhode Island,Michigan,407
+2021,Rhode Island,Minnesota,160
+2021,Rhode Island,Mississippi,0
+2021,Rhode Island,Missouri,29
+2021,Rhode Island,Montana,79
+2021,Rhode Island,Nebraska,0
+2021,Rhode Island,Nevada,282
+2021,Rhode Island,New Hampshire,1775
+2021,Rhode Island,New Jersey,974
+2021,Rhode Island,New Mexico,0
+2021,Rhode Island,New York,7321
+2021,Rhode Island,North Carolina,474
+2021,Rhode Island,North Dakota,575
+2021,Rhode Island,Ohio,281
+2021,Rhode Island,Oklahoma,298
+2021,Rhode Island,Oregon,171
+2021,Rhode Island,Pennsylvania,1592
+2021,Rhode Island,Rhode Island,N/A
+2021,Rhode Island,South Carolina,572
+2021,Rhode Island,South Dakota,0
+2021,Rhode Island,Tennessee,49
+2021,Rhode Island,Texas,762
+2021,Rhode Island,Utah,0
+2021,Rhode Island,Vermont,665
+2021,Rhode Island,Virginia,1935
+2021,Rhode Island,Washington,311
+2021,Rhode Island,West Virginia,160
+2021,Rhode Island,Wisconsin,18
+2021,Rhode Island,Wyoming,0
+2021,South Carolina,Alabama,1472
+2021,South Carolina,Alaska,222
+2021,South Carolina,Arizona,4696
+2021,South Carolina,Arkansas,134
+2021,South Carolina,California,11884
+2021,South Carolina,Colorado,3873
+2021,South Carolina,Connecticut,2836
+2021,South Carolina,Delaware,71
+2021,South Carolina,District of Columbia ,798
+2021,South Carolina,Florida,14905
+2021,South Carolina,Georgia,14963
+2021,South Carolina,Hawaii,211
+2021,South Carolina,Idaho,193
+2021,South Carolina,Illinois,4040
+2021,South Carolina,Indiana,1667
+2021,South Carolina,Iowa,1253
+2021,South Carolina,Kansas,341
+2021,South Carolina,Kentucky,2627
+2021,South Carolina,Louisiana,2269
+2021,South Carolina,Maine,0
+2021,South Carolina,Maryland,7231
+2021,South Carolina,Massachusetts,3619
+2021,South Carolina,Michigan,1830
+2021,South Carolina,Minnesota,1816
+2021,South Carolina,Mississippi,611
+2021,South Carolina,Missouri,1736
+2021,South Carolina,Montana,90
+2021,South Carolina,Nebraska,963
+2021,South Carolina,Nevada,904
+2021,South Carolina,New Hampshire,440
+2021,South Carolina,New Jersey,8294
+2021,South Carolina,New Mexico,1334
+2021,South Carolina,New York,11615
+2021,South Carolina,North Carolina,34327
+2021,South Carolina,North Dakota,38
+2021,South Carolina,Ohio,7865
+2021,South Carolina,Oklahoma,913
+2021,South Carolina,Oregon,1029
+2021,South Carolina,Pennsylvania,10492
+2021,South Carolina,Rhode Island,155
+2021,South Carolina,South Carolina,N/A
+2021,South Carolina,South Dakota,76
+2021,South Carolina,Tennessee,5937
+2021,South Carolina,Texas,5464
+2021,South Carolina,Utah,652
+2021,South Carolina,Vermont,221
+2021,South Carolina,Virginia,12978
+2021,South Carolina,Washington,3147
+2021,South Carolina,West Virginia,1606
+2021,South Carolina,Wisconsin,2362
+2021,South Carolina,Wyoming,0
+2021,South Dakota,Alabama,30
+2021,South Dakota,Alaska,0
+2021,South Dakota,Arizona,529
+2021,South Dakota,Arkansas,0
+2021,South Dakota,California,1670
+2021,South Dakota,Colorado,1977
+2021,South Dakota,Connecticut,0
+2021,South Dakota,Delaware,0
+2021,South Dakota,District of Columbia ,0
+2021,South Dakota,Florida,659
+2021,South Dakota,Georgia,0
+2021,South Dakota,Hawaii,0
+2021,South Dakota,Idaho,0
+2021,South Dakota,Illinois,487
+2021,South Dakota,Indiana,471
+2021,South Dakota,Iowa,3399
+2021,South Dakota,Kansas,322
+2021,South Dakota,Kentucky,103
+2021,South Dakota,Louisiana,408
+2021,South Dakota,Maine,0
+2021,South Dakota,Maryland,42
+2021,South Dakota,Massachusetts,0
+2021,South Dakota,Michigan,488
+2021,South Dakota,Minnesota,4390
+2021,South Dakota,Mississippi,0
+2021,South Dakota,Missouri,354
+2021,South Dakota,Montana,290
+2021,South Dakota,Nebraska,2566
+2021,South Dakota,Nevada,325
+2021,South Dakota,New Hampshire,0
+2021,South Dakota,New Jersey,336
+2021,South Dakota,New Mexico,4
+2021,South Dakota,New York,230
+2021,South Dakota,North Carolina,272
+2021,South Dakota,North Dakota,716
+2021,South Dakota,Ohio,268
+2021,South Dakota,Oklahoma,0
+2021,South Dakota,Oregon,388
+2021,South Dakota,Pennsylvania,956
+2021,South Dakota,Rhode Island,148
+2021,South Dakota,South Carolina,54
+2021,South Dakota,South Dakota,N/A
+2021,South Dakota,Tennessee,138
+2021,South Dakota,Texas,2229
+2021,South Dakota,Utah,166
+2021,South Dakota,Vermont,0
+2021,South Dakota,Virginia,682
+2021,South Dakota,Washington,820
+2021,South Dakota,West Virginia,0
+2021,South Dakota,Wisconsin,216
+2021,South Dakota,Wyoming,1395
+2021,Tennessee,Alabama,9869
+2021,Tennessee,Alaska,456
+2021,Tennessee,Arizona,3625
+2021,Tennessee,Arkansas,3161
+2021,Tennessee,California,22901
+2021,Tennessee,Colorado,5383
+2021,Tennessee,Connecticut,1462
+2021,Tennessee,Delaware,249
+2021,Tennessee,District of Columbia ,281
+2021,Tennessee,Florida,20809
+2021,Tennessee,Georgia,14723
+2021,Tennessee,Hawaii,2939
+2021,Tennessee,Idaho,119
+2021,Tennessee,Illinois,12722
+2021,Tennessee,Indiana,6012
+2021,Tennessee,Iowa,210
+2021,Tennessee,Kansas,1661
+2021,Tennessee,Kentucky,7612
+2021,Tennessee,Louisiana,4785
+2021,Tennessee,Maine,763
+2021,Tennessee,Maryland,2528
+2021,Tennessee,Massachusetts,2782
+2021,Tennessee,Michigan,3550
+2021,Tennessee,Minnesota,1634
+2021,Tennessee,Mississippi,6132
+2021,Tennessee,Missouri,3595
+2021,Tennessee,Montana,1061
+2021,Tennessee,Nebraska,1201
+2021,Tennessee,Nevada,1662
+2021,Tennessee,New Hampshire,142
+2021,Tennessee,New Jersey,2353
+2021,Tennessee,New Mexico,38
+2021,Tennessee,New York,5676
+2021,Tennessee,North Carolina,7468
+2021,Tennessee,North Dakota,91
+2021,Tennessee,Ohio,8220
+2021,Tennessee,Oklahoma,2263
+2021,Tennessee,Oregon,1973
+2021,Tennessee,Pennsylvania,4222
+2021,Tennessee,Rhode Island,1195
+2021,Tennessee,South Carolina,3621
+2021,Tennessee,South Dakota,1397
+2021,Tennessee,Tennessee,N/A
+2021,Tennessee,Texas,15300
+2021,Tennessee,Utah,934
+2021,Tennessee,Vermont,207
+2021,Tennessee,Virginia,9806
+2021,Tennessee,Washington,5955
+2021,Tennessee,West Virginia,2244
+2021,Tennessee,Wisconsin,3049
+2021,Tennessee,Wyoming,550
+2021,Texas,Alabama,9389
+2021,Texas,Alaska,2587
+2021,Texas,Arizona,17609
+2021,Texas,Arkansas,13613
+2021,Texas,California,107546
+2021,Texas,Colorado,30262
+2021,Texas,Connecticut,2506
+2021,Texas,Delaware,756
+2021,Texas,District of Columbia ,1198
+2021,Texas,Florida,31023
+2021,Texas,Georgia,16781
+2021,Texas,Hawaii,7668
+2021,Texas,Idaho,2551
+2021,Texas,Illinois,20819
+2021,Texas,Indiana,10573
+2021,Texas,Iowa,7124
+2021,Texas,Kansas,11039
+2021,Texas,Kentucky,4865
+2021,Texas,Louisiana,28130
+2021,Texas,Maine,786
+2021,Texas,Maryland,8673
+2021,Texas,Massachusetts,8639
+2021,Texas,Michigan,10009
+2021,Texas,Minnesota,9977
+2021,Texas,Mississippi,6079
+2021,Texas,Missouri,11369
+2021,Texas,Montana,1627
+2021,Texas,Nebraska,8782
+2021,Texas,Nevada,7896
+2021,Texas,New Hampshire,2012
+2021,Texas,New Jersey,10916
+2021,Texas,New Mexico,13456
+2021,Texas,New York,24951
+2021,Texas,North Carolina,20142
+2021,Texas,North Dakota,904
+2021,Texas,Ohio,11942
+2021,Texas,Oklahoma,16116
+2021,Texas,Oregon,5287
+2021,Texas,Pennsylvania,9920
+2021,Texas,Rhode Island,14
+2021,Texas,South Carolina,8097
+2021,Texas,South Dakota,1526
+2021,Texas,Tennessee,10446
+2021,Texas,Texas,N/A
+2021,Texas,Utah,6136
+2021,Texas,Vermont,178
+2021,Texas,Virginia,15079
+2021,Texas,Washington,23438
+2021,Texas,West Virginia,348
+2021,Texas,Wisconsin,6187
+2021,Texas,Wyoming,4424
+2021,Utah,Alabama,436
+2021,Utah,Alaska,320
+2021,Utah,Arizona,8279
+2021,Utah,Arkansas,146
+2021,Utah,California,23219
+2021,Utah,Colorado,3712
+2021,Utah,Connecticut,171
+2021,Utah,Delaware,498
+2021,Utah,District of Columbia ,175
+2021,Utah,Florida,3093
+2021,Utah,Georgia,1261
+2021,Utah,Hawaii,995
+2021,Utah,Idaho,7411
+2021,Utah,Illinois,1438
+2021,Utah,Indiana,798
+2021,Utah,Iowa,10
+2021,Utah,Kansas,664
+2021,Utah,Kentucky,282
+2021,Utah,Louisiana,506
+2021,Utah,Maine,37
+2021,Utah,Maryland,932
+2021,Utah,Massachusetts,550
+2021,Utah,Michigan,1233
+2021,Utah,Minnesota,1183
+2021,Utah,Mississippi,217
+2021,Utah,Missouri,952
+2021,Utah,Montana,229
+2021,Utah,Nebraska,378
+2021,Utah,Nevada,3748
+2021,Utah,New Hampshire,0
+2021,Utah,New Jersey,559
+2021,Utah,New Mexico,2211
+2021,Utah,New York,2918
+2021,Utah,North Carolina,1659
+2021,Utah,North Dakota,0
+2021,Utah,Ohio,557
+2021,Utah,Oklahoma,2041
+2021,Utah,Oregon,2758
+2021,Utah,Pennsylvania,1159
+2021,Utah,Rhode Island,865
+2021,Utah,South Carolina,725
+2021,Utah,South Dakota,271
+2021,Utah,Tennessee,2646
+2021,Utah,Texas,6078
+2021,Utah,Utah,N/A
+2021,Utah,Vermont,683
+2021,Utah,Virginia,2775
+2021,Utah,Washington,6294
+2021,Utah,West Virginia,0
+2021,Utah,Wisconsin,1988
+2021,Utah,Wyoming,1991
+2021,Vermont,Alabama,94
+2021,Vermont,Alaska,0
+2021,Vermont,Arizona,101
+2021,Vermont,Arkansas,0
+2021,Vermont,California,1043
+2021,Vermont,Colorado,587
+2021,Vermont,Connecticut,1221
+2021,Vermont,Delaware,41
+2021,Vermont,District of Columbia ,195
+2021,Vermont,Florida,1172
+2021,Vermont,Georgia,284
+2021,Vermont,Hawaii,266
+2021,Vermont,Idaho,0
+2021,Vermont,Illinois,108
+2021,Vermont,Indiana,136
+2021,Vermont,Iowa,292
+2021,Vermont,Kansas,172
+2021,Vermont,Kentucky,191
+2021,Vermont,Louisiana,98
+2021,Vermont,Maine,743
+2021,Vermont,Maryland,712
+2021,Vermont,Massachusetts,6890
+2021,Vermont,Michigan,650
+2021,Vermont,Minnesota,48
+2021,Vermont,Mississippi,0
+2021,Vermont,Missouri,113
+2021,Vermont,Montana,70
+2021,Vermont,Nebraska,0
+2021,Vermont,Nevada,143
+2021,Vermont,New Hampshire,2140
+2021,Vermont,New Jersey,2182
+2021,Vermont,New Mexico,106
+2021,Vermont,New York,5816
+2021,Vermont,North Carolina,349
+2021,Vermont,North Dakota,0
+2021,Vermont,Ohio,546
+2021,Vermont,Oklahoma,90
+2021,Vermont,Oregon,300
+2021,Vermont,Pennsylvania,1242
+2021,Vermont,Rhode Island,687
+2021,Vermont,South Carolina,209
+2021,Vermont,South Dakota,22
+2021,Vermont,Tennessee,336
+2021,Vermont,Texas,576
+2021,Vermont,Utah,229
+2021,Vermont,Vermont,N/A
+2021,Vermont,Virginia,0
+2021,Vermont,Washington,1166
+2021,Vermont,West Virginia,53
+2021,Vermont,Wisconsin,351
+2021,Vermont,Wyoming,39
+2021,Virginia,Alabama,1878
+2021,Virginia,Alaska,1532
+2021,Virginia,Arizona,5698
+2021,Virginia,Arkansas,742
+2021,Virginia,California,21052
+2021,Virginia,Colorado,5002
+2021,Virginia,Connecticut,3396
+2021,Virginia,Delaware,1270
+2021,Virginia,District of Columbia ,13211
+2021,Virginia,Florida,20603
+2021,Virginia,Georgia,10750
+2021,Virginia,Hawaii,2193
+2021,Virginia,Idaho,607
+2021,Virginia,Illinois,4833
+2021,Virginia,Indiana,3159
+2021,Virginia,Iowa,645
+2021,Virginia,Kansas,711
+2021,Virginia,Kentucky,1926
+2021,Virginia,Louisiana,2372
+2021,Virginia,Maine,247
+2021,Virginia,Maryland,27855
+2021,Virginia,Massachusetts,9553
+2021,Virginia,Michigan,3005
+2021,Virginia,Minnesota,1612
+2021,Virginia,Mississippi,1051
+2021,Virginia,Missouri,2607
+2021,Virginia,Montana,771
+2021,Virginia,Nebraska,567
+2021,Virginia,Nevada,2193
+2021,Virginia,New Hampshire,1164
+2021,Virginia,New Jersey,8963
+2021,Virginia,New Mexico,969
+2021,Virginia,New York,13416
+2021,Virginia,North Carolina,27640
+2021,Virginia,North Dakota,442
+2021,Virginia,Ohio,5882
+2021,Virginia,Oklahoma,1311
+2021,Virginia,Oregon,870
+2021,Virginia,Pennsylvania,14436
+2021,Virginia,Rhode Island,1604
+2021,Virginia,South Carolina,9212
+2021,Virginia,South Dakota,211
+2021,Virginia,Tennessee,6574
+2021,Virginia,Texas,13305
+2021,Virginia,Utah,1261
+2021,Virginia,Vermont,483
+2021,Virginia,Virginia,N/A
+2021,Virginia,Washington,6749
+2021,Virginia,West Virginia,5564
+2021,Virginia,Wisconsin,1152
+2021,Virginia,Wyoming,444
+2021,Washington,Alabama,1064
+2021,Washington,Alaska,2242
+2021,Washington,Arizona,10300
+2021,Washington,Arkansas,782
+2021,Washington,California,57576
+2021,Washington,Colorado,7452
+2021,Washington,Connecticut,1536
+2021,Washington,Delaware,0
+2021,Washington,District of Columbia ,203
+2021,Washington,Florida,9637
+2021,Washington,Georgia,4838
+2021,Washington,Hawaii,3770
+2021,Washington,Idaho,9856
+2021,Washington,Illinois,3956
+2021,Washington,Indiana,679
+2021,Washington,Iowa,394
+2021,Washington,Kansas,2923
+2021,Washington,Kentucky,823
+2021,Washington,Louisiana,994
+2021,Washington,Maine,489
+2021,Washington,Maryland,1723
+2021,Washington,Massachusetts,4402
+2021,Washington,Michigan,2139
+2021,Washington,Minnesota,2252
+2021,Washington,Mississippi,1051
+2021,Washington,Missouri,4271
+2021,Washington,Montana,3740
+2021,Washington,Nebraska,853
+2021,Washington,Nevada,4324
+2021,Washington,New Hampshire,905
+2021,Washington,New Jersey,1709
+2021,Washington,New Mexico,950
+2021,Washington,New York,5682
+2021,Washington,North Carolina,2499
+2021,Washington,North Dakota,1285
+2021,Washington,Ohio,4138
+2021,Washington,Oklahoma,2410
+2021,Washington,Oregon,27282
+2021,Washington,Pennsylvania,4958
+2021,Washington,Rhode Island,374
+2021,Washington,South Carolina,2444
+2021,Washington,South Dakota,417
+2021,Washington,Tennessee,1820
+2021,Washington,Texas,10737
+2021,Washington,Utah,4061
+2021,Washington,Vermont,611
+2021,Washington,Virginia,4452
+2021,Washington,Washington,N/A
+2021,Washington,West Virginia,299
+2021,Washington,Wisconsin,2009
+2021,Washington,Wyoming,1995
+2021,West Virginia,Alabama,506
+2021,West Virginia,Alaska,0
+2021,West Virginia,Arizona,1221
+2021,West Virginia,Arkansas,0
+2021,West Virginia,California,368
+2021,West Virginia,Colorado,49
+2021,West Virginia,Connecticut,568
+2021,West Virginia,Delaware,42
+2021,West Virginia,District of Columbia ,0
+2021,West Virginia,Florida,3835
+2021,West Virginia,Georgia,558
+2021,West Virginia,Hawaii,0
+2021,West Virginia,Idaho,0
+2021,West Virginia,Illinois,0
+2021,West Virginia,Indiana,468
+2021,West Virginia,Iowa,0
+2021,West Virginia,Kansas,0
+2021,West Virginia,Kentucky,491
+2021,West Virginia,Louisiana,493
+2021,West Virginia,Maine,217
+2021,West Virginia,Maryland,6792
+2021,West Virginia,Massachusetts,116
+2021,West Virginia,Michigan,121
+2021,West Virginia,Minnesota,127
+2021,West Virginia,Mississippi,0
+2021,West Virginia,Missouri,0
+2021,West Virginia,Montana,0
+2021,West Virginia,Nebraska,0
+2021,West Virginia,Nevada,630
+2021,West Virginia,New Hampshire,0
+2021,West Virginia,New Jersey,1601
+2021,West Virginia,New Mexico,0
+2021,West Virginia,New York,596
+2021,West Virginia,North Carolina,1308
+2021,West Virginia,North Dakota,82
+2021,West Virginia,Ohio,4448
+2021,West Virginia,Oklahoma,86
+2021,West Virginia,Oregon,0
+2021,West Virginia,Pennsylvania,5452
+2021,West Virginia,Rhode Island,70
+2021,West Virginia,South Carolina,893
+2021,West Virginia,South Dakota,94
+2021,West Virginia,Tennessee,214
+2021,West Virginia,Texas,920
+2021,West Virginia,Utah,647
+2021,West Virginia,Vermont,36
+2021,West Virginia,Virginia,10202
+2021,West Virginia,Washington,279
+2021,West Virginia,West Virginia,N/A
+2021,West Virginia,Wisconsin,271
+2021,West Virginia,Wyoming,0
+2021,Wisconsin,Alabama,331
+2021,Wisconsin,Alaska,237
+2021,Wisconsin,Arizona,2859
+2021,Wisconsin,Arkansas,595
+2021,Wisconsin,California,6467
+2021,Wisconsin,Colorado,4412
+2021,Wisconsin,Connecticut,346
+2021,Wisconsin,Delaware,0
+2021,Wisconsin,District of Columbia ,280
+2021,Wisconsin,Florida,5123
+2021,Wisconsin,Georgia,1797
+2021,Wisconsin,Hawaii,338
+2021,Wisconsin,Idaho,305
+2021,Wisconsin,Illinois,29975
+2021,Wisconsin,Indiana,1447
+2021,Wisconsin,Iowa,2272
+2021,Wisconsin,Kansas,538
+2021,Wisconsin,Kentucky,703
+2021,Wisconsin,Louisiana,537
+2021,Wisconsin,Maine,129
+2021,Wisconsin,Maryland,1358
+2021,Wisconsin,Massachusetts,1235
+2021,Wisconsin,Michigan,5756
+2021,Wisconsin,Minnesota,20941
+2021,Wisconsin,Mississippi,205
+2021,Wisconsin,Missouri,2631
+2021,Wisconsin,Montana,191
+2021,Wisconsin,Nebraska,933
+2021,Wisconsin,Nevada,432
+2021,Wisconsin,New Hampshire,519
+2021,Wisconsin,New Jersey,942
+2021,Wisconsin,New Mexico,350
+2021,Wisconsin,New York,2219
+2021,Wisconsin,North Carolina,3296
+2021,Wisconsin,North Dakota,1087
+2021,Wisconsin,Ohio,2637
+2021,Wisconsin,Oklahoma,572
+2021,Wisconsin,Oregon,824
+2021,Wisconsin,Pennsylvania,1683
+2021,Wisconsin,Rhode Island,71
+2021,Wisconsin,South Carolina,737
+2021,Wisconsin,South Dakota,374
+2021,Wisconsin,Tennessee,962
+2021,Wisconsin,Texas,6893
+2021,Wisconsin,Utah,618
+2021,Wisconsin,Vermont,79
+2021,Wisconsin,Virginia,2483
+2021,Wisconsin,Washington,3749
+2021,Wisconsin,West Virginia,44
+2021,Wisconsin,Wisconsin,N/A
+2021,Wisconsin,Wyoming,230
+2021,Wyoming,Alabama,0
+2021,Wyoming,Alaska,113
+2021,Wyoming,Arizona,357
+2021,Wyoming,Arkansas,11
+2021,Wyoming,California,2605
+2021,Wyoming,Colorado,6022
+2021,Wyoming,Connecticut,6
+2021,Wyoming,Delaware,0
+2021,Wyoming,District of Columbia ,114
+2021,Wyoming,Florida,1541
+2021,Wyoming,Georgia,515
+2021,Wyoming,Hawaii,15
+2021,Wyoming,Idaho,705
+2021,Wyoming,Illinois,1275
+2021,Wyoming,Indiana,32
+2021,Wyoming,Iowa,16
+2021,Wyoming,Kansas,610
+2021,Wyoming,Kentucky,138
+2021,Wyoming,Louisiana,148
+2021,Wyoming,Maine,98
+2021,Wyoming,Maryland,34
+2021,Wyoming,Massachusetts,54
+2021,Wyoming,Michigan,121
+2021,Wyoming,Minnesota,236
+2021,Wyoming,Mississippi,36
+2021,Wyoming,Missouri,348
+2021,Wyoming,Montana,810
+2021,Wyoming,Nebraska,593
+2021,Wyoming,Nevada,1128
+2021,Wyoming,New Hampshire,43
+2021,Wyoming,New Jersey,10
+2021,Wyoming,New Mexico,22
+2021,Wyoming,New York,956
+2021,Wyoming,North Carolina,212
+2021,Wyoming,North Dakota,24
+2021,Wyoming,Ohio,509
+2021,Wyoming,Oklahoma,0
+2021,Wyoming,Oregon,739
+2021,Wyoming,Pennsylvania,260
+2021,Wyoming,Rhode Island,0
+2021,Wyoming,South Carolina,24
+2021,Wyoming,South Dakota,1124
+2021,Wyoming,Tennessee,15
+2021,Wyoming,Texas,610
+2021,Wyoming,Utah,2739
+2021,Wyoming,Vermont,0
+2021,Wyoming,Virginia,459
+2021,Wyoming,Washington,1581
+2021,Wyoming,West Virginia,0
+2021,Wyoming,Wisconsin,273
+2021,Wyoming,Wyoming,N/A

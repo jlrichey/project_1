@@ -1,0 +1,2602 @@
+﻿migration_year,current_state,prev_state,migration
+2022,Alabama,Alabama,N/A
+2022,Alabama,Alaska,714
+2022,Alabama,Arizona,1202
+2022,Alabama,Arkansas,1536
+2022,Alabama,California,8012
+2022,Alabama,Colorado,3329
+2022,Alabama,Connecticut,868
+2022,Alabama,Delaware,694
+2022,Alabama,District of Columbia ,85
+2022,Alabama,Florida,18236
+2022,Alabama,Georgia,23155
+2022,Alabama,Hawaii,1256
+2022,Alabama,Idaho,294
+2022,Alabama,Illinois,4328
+2022,Alabama,Indiana,1693
+2022,Alabama,Iowa,363
+2022,Alabama,Kansas,1403
+2022,Alabama,Kentucky,2892
+2022,Alabama,Louisiana,5461
+2022,Alabama,Maine,141
+2022,Alabama,Maryland,1517
+2022,Alabama,Massachusetts,599
+2022,Alabama,Michigan,1033
+2022,Alabama,Minnesota,322
+2022,Alabama,Mississippi,5736
+2022,Alabama,Missouri,1421
+2022,Alabama,Montana,150
+2022,Alabama,Nebraska,102
+2022,Alabama,Nevada,188
+2022,Alabama,New Hampshire,855
+2022,Alabama,New Jersey,1207
+2022,Alabama,New Mexico,536
+2022,Alabama,New York,3827
+2022,Alabama,North Carolina,3320
+2022,Alabama,North Dakota,712
+2022,Alabama,Ohio,2223
+2022,Alabama,Oklahoma,785
+2022,Alabama,Oregon,752
+2022,Alabama,Pennsylvania,3330
+2022,Alabama,Rhode Island,158
+2022,Alabama,South Carolina,6298
+2022,Alabama,South Dakota,259
+2022,Alabama,Tennessee,11634
+2022,Alabama,Texas,10102
+2022,Alabama,Utah,577
+2022,Alabama,Vermont,194
+2022,Alabama,Virginia,3654
+2022,Alabama,Washington,1639
+2022,Alabama,West Virginia,268
+2022,Alabama,Wisconsin,203
+2022,Alabama,Wyoming,0
+2022,Alaska,Alabama,151
+2022,Alaska,Alaska,N/A
+2022,Alaska,Arizona,1645
+2022,Alaska,Arkansas,10
+2022,Alaska,California,3855
+2022,Alaska,Colorado,665
+2022,Alaska,Connecticut,15
+2022,Alaska,Delaware,72
+2022,Alaska,District of Columbia ,14
+2022,Alaska,Florida,1575
+2022,Alaska,Georgia,834
+2022,Alaska,Hawaii,532
+2022,Alaska,Idaho,309
+2022,Alaska,Illinois,130
+2022,Alaska,Indiana,296
+2022,Alaska,Iowa,108
+2022,Alaska,Kansas,352
+2022,Alaska,Kentucky,73
+2022,Alaska,Louisiana,186
+2022,Alaska,Maine,0
+2022,Alaska,Maryland,142
+2022,Alaska,Massachusetts,285
+2022,Alaska,Michigan,40
+2022,Alaska,Minnesota,356
+2022,Alaska,Mississippi,70
+2022,Alaska,Missouri,367
+2022,Alaska,Montana,1160
+2022,Alaska,Nebraska,0
+2022,Alaska,Nevada,256
+2022,Alaska,New Hampshire,62
+2022,Alaska,New Jersey,40
+2022,Alaska,New Mexico,287
+2022,Alaska,New York,2430
+2022,Alaska,North Carolina,3305
+2022,Alaska,North Dakota,120
+2022,Alaska,Ohio,125
+2022,Alaska,Oklahoma,1993
+2022,Alaska,Oregon,1409
+2022,Alaska,Pennsylvania,160
+2022,Alaska,Rhode Island,0
+2022,Alaska,South Carolina,393
+2022,Alaska,South Dakota,113
+2022,Alaska,Tennessee,872
+2022,Alaska,Texas,3135
+2022,Alaska,Utah,4215
+2022,Alaska,Vermont,0
+2022,Alaska,Virginia,345
+2022,Alaska,Washington,3076
+2022,Alaska,West Virginia,0
+2022,Alaska,Wisconsin,943
+2022,Alaska,Wyoming,42
+2022,Arizona,Alabama,727
+2022,Arizona,Alaska,2091
+2022,Arizona,Arizona,N/A
+2022,Arizona,Arkansas,1147
+2022,Arizona,California,74157
+2022,Arizona,Colorado,12232
+2022,Arizona,Connecticut,339
+2022,Arizona,Delaware,970
+2022,Arizona,District of Columbia ,152
+2022,Arizona,Florida,4471
+2022,Arizona,Georgia,3046
+2022,Arizona,Hawaii,1236
+2022,Arizona,Idaho,2628
+2022,Arizona,Illinois,10623
+2022,Arizona,Indiana,3759
+2022,Arizona,Iowa,3228
+2022,Arizona,Kansas,1240
+2022,Arizona,Kentucky,2143
+2022,Arizona,Louisiana,734
+2022,Arizona,Maine,647
+2022,Arizona,Maryland,1955
+2022,Arizona,Massachusetts,3143
+2022,Arizona,Michigan,7449
+2022,Arizona,Minnesota,3927
+2022,Arizona,Mississippi,600
+2022,Arizona,Missouri,7362
+2022,Arizona,Montana,4455
+2022,Arizona,Nebraska,1972
+2022,Arizona,Nevada,8890
+2022,Arizona,New Hampshire,314
+2022,Arizona,New Jersey,3626
+2022,Arizona,New Mexico,6263
+2022,Arizona,New York,5071
+2022,Arizona,North Carolina,3300
+2022,Arizona,North Dakota,2086
+2022,Arizona,Ohio,5280
+2022,Arizona,Oklahoma,3096
+2022,Arizona,Oregon,12093
+2022,Arizona,Pennsylvania,4273
+2022,Arizona,Rhode Island,280
+2022,Arizona,South Carolina,2398
+2022,Arizona,South Dakota,2850
+2022,Arizona,Tennessee,4357
+2022,Arizona,Texas,17404
+2022,Arizona,Utah,10597
+2022,Arizona,Vermont,182
+2022,Arizona,Virginia,3791
+2022,Arizona,Washington,21242
+2022,Arizona,West Virginia,471
+2022,Arizona,Wisconsin,6569
+2022,Arizona,Wyoming,1863
+2022,Arkansas,Alabama,1911
+2022,Arkansas,Alaska,64
+2022,Arkansas,Arizona,1776
+2022,Arkansas,Arkansas,N/A
+2022,Arkansas,California,7783
+2022,Arkansas,Colorado,2562
+2022,Arkansas,Connecticut,210
+2022,Arkansas,Delaware,0
+2022,Arkansas,District of Columbia ,0
+2022,Arkansas,Florida,7065
+2022,Arkansas,Georgia,497
+2022,Arkansas,Hawaii,74
+2022,Arkansas,Idaho,1190
+2022,Arkansas,Illinois,2383
+2022,Arkansas,Indiana,1330
+2022,Arkansas,Iowa,460
+2022,Arkansas,Kansas,1184
+2022,Arkansas,Kentucky,2581
+2022,Arkansas,Louisiana,4994
+2022,Arkansas,Maine,74
+2022,Arkansas,Maryland,1212
+2022,Arkansas,Massachusetts,145
+2022,Arkansas,Michigan,405
+2022,Arkansas,Minnesota,1171
+2022,Arkansas,Mississippi,3380
+2022,Arkansas,Missouri,3905
+2022,Arkansas,Montana,238
+2022,Arkansas,Nebraska,270
+2022,Arkansas,Nevada,630
+2022,Arkansas,New Hampshire,62
+2022,Arkansas,New Jersey,113
+2022,Arkansas,New Mexico,1275
+2022,Arkansas,New York,666
+2022,Arkansas,North Carolina,451
+2022,Arkansas,North Dakota,0
+2022,Arkansas,Ohio,586
+2022,Arkansas,Oklahoma,5995
+2022,Arkansas,Oregon,1809
+2022,Arkansas,Pennsylvania,267
+2022,Arkansas,Rhode Island,35
+2022,Arkansas,South Carolina,400
+2022,Arkansas,South Dakota,0
+2022,Arkansas,Tennessee,4970
+2022,Arkansas,Texas,17105
+2022,Arkansas,Utah,470
+2022,Arkansas,Vermont,146
+2022,Arkansas,Virginia,978
+2022,Arkansas,Washington,2703
+2022,Arkansas,West Virginia,43
+2022,Arkansas,Wisconsin,481
+2022,Arkansas,Wyoming,326
+2022,California,Alabama,5204
+2022,California,Alaska,2040
+2022,California,Arizona,27412
+2022,California,Arkansas,963
+2022,California,California,N/A
+2022,California,Colorado,19970
+2022,California,Connecticut,4977
+2022,California,Delaware,1818
+2022,California,District of Columbia ,4443
+2022,California,Florida,28557
+2022,California,Georgia,11002
+2022,California,Hawaii,10747
+2022,California,Idaho,5567
+2022,California,Illinois,24559
+2022,California,Indiana,5422
+2022,California,Iowa,2187
+2022,California,Kansas,3387
+2022,California,Kentucky,3471
+2022,California,Louisiana,3954
+2022,California,Maine,939
+2022,California,Maryland,7903
+2022,California,Massachusetts,15540
+2022,California,Michigan,11714
+2022,California,Minnesota,5143
+2022,California,Mississippi,880
+2022,California,Missouri,6369
+2022,California,Montana,2432
+2022,California,Nebraska,3047
+2022,California,Nevada,22183
+2022,California,New Hampshire,624
+2022,California,New Jersey,13162
+2022,California,New Mexico,2585
+2022,California,New York,31255
+2022,California,North Carolina,13302
+2022,California,North Dakota,291
+2022,California,Ohio,10031
+2022,California,Oklahoma,2576
+2022,California,Oregon,23792
+2022,California,Pennsylvania,13544
+2022,California,Rhode Island,1755
+2022,California,South Carolina,5581
+2022,California,South Dakota,572
+2022,California,Tennessee,5498
+2022,California,Texas,42279
+2022,California,Utah,13149
+2022,California,Vermont,1206
+2022,California,Virginia,15373
+2022,California,Washington,31866
+2022,California,West Virginia,42
+2022,California,Wisconsin,4407
+2022,California,Wyoming,1083
+2022,Colorado,Alabama,700
+2022,Colorado,Alaska,1961
+2022,Colorado,Arizona,7386
+2022,Colorado,Arkansas,2557
+2022,Colorado,California,33213
+2022,Colorado,Colorado,N/A
+2022,Colorado,Connecticut,653
+2022,Colorado,Delaware,64
+2022,Colorado,District of Columbia ,2679
+2022,Colorado,Florida,11107
+2022,Colorado,Georgia,3360
+2022,Colorado,Hawaii,1070
+2022,Colorado,Idaho,4345
+2022,Colorado,Illinois,9281
+2022,Colorado,Indiana,2455
+2022,Colorado,Iowa,2212
+2022,Colorado,Kansas,3363
+2022,Colorado,Kentucky,1413
+2022,Colorado,Louisiana,1520
+2022,Colorado,Maine,455
+2022,Colorado,Maryland,3033
+2022,Colorado,Massachusetts,3976
+2022,Colorado,Michigan,3711
+2022,Colorado,Minnesota,4690
+2022,Colorado,Mississippi,2175
+2022,Colorado,Missouri,6137
+2022,Colorado,Montana,924
+2022,Colorado,Nebraska,3759
+2022,Colorado,Nevada,2134
+2022,Colorado,New Hampshire,975
+2022,Colorado,New Jersey,3928
+2022,Colorado,New Mexico,3844
+2022,Colorado,New York,8526
+2022,Colorado,North Carolina,6165
+2022,Colorado,North Dakota,752
+2022,Colorado,Ohio,4941
+2022,Colorado,Oklahoma,4516
+2022,Colorado,Oregon,5785
+2022,Colorado,Pennsylvania,4557
+2022,Colorado,Rhode Island,1023
+2022,Colorado,South Carolina,1912
+2022,Colorado,South Dakota,2244
+2022,Colorado,Tennessee,5702
+2022,Colorado,Texas,25466
+2022,Colorado,Utah,4877
+2022,Colorado,Vermont,1316
+2022,Colorado,Virginia,6727
+2022,Colorado,Washington,6796
+2022,Colorado,West Virginia,918
+2022,Colorado,Wisconsin,4080
+2022,Colorado,Wyoming,4493
+2022,Connecticut,Alabama,1005
+2022,Connecticut,Alaska,97
+2022,Connecticut,Arizona,1267
+2022,Connecticut,Arkansas,625
+2022,Connecticut,California,7097
+2022,Connecticut,Colorado,1992
+2022,Connecticut,Connecticut,N/A
+2022,Connecticut,Delaware,51
+2022,Connecticut,District of Columbia ,1607
+2022,Connecticut,Florida,7476
+2022,Connecticut,Georgia,3478
+2022,Connecticut,Hawaii,189
+2022,Connecticut,Idaho,507
+2022,Connecticut,Illinois,3290
+2022,Connecticut,Indiana,674
+2022,Connecticut,Iowa,167
+2022,Connecticut,Kansas,0
+2022,Connecticut,Kentucky,563
+2022,Connecticut,Louisiana,75
+2022,Connecticut,Maine,1137
+2022,Connecticut,Maryland,2460
+2022,Connecticut,Massachusetts,21256
+2022,Connecticut,Michigan,3100
+2022,Connecticut,Minnesota,894
+2022,Connecticut,Mississippi,304
+2022,Connecticut,Missouri,1012
+2022,Connecticut,Montana,40
+2022,Connecticut,Nebraska,78
+2022,Connecticut,Nevada,1073
+2022,Connecticut,New Hampshire,708
+2022,Connecticut,New Jersey,8087
+2022,Connecticut,New Mexico,60
+2022,Connecticut,New York,50670
+2022,Connecticut,North Carolina,3897
+2022,Connecticut,North Dakota,0
+2022,Connecticut,Ohio,595
+2022,Connecticut,Oklahoma,1730
+2022,Connecticut,Oregon,160
+2022,Connecticut,Pennsylvania,2298
+2022,Connecticut,Rhode Island,3977
+2022,Connecticut,South Carolina,701
+2022,Connecticut,South Dakota,0
+2022,Connecticut,Tennessee,507
+2022,Connecticut,Texas,2920
+2022,Connecticut,Utah,347
+2022,Connecticut,Vermont,1414
+2022,Connecticut,Virginia,3481
+2022,Connecticut,Washington,1670
+2022,Connecticut,West Virginia,0
+2022,Connecticut,Wisconsin,579
+2022,Connecticut,Wyoming,0
+2022,Deleware,Alabama,203
+2022,Deleware,Alaska,0
+2022,Deleware,Arizona,949
+2022,Deleware,Arkansas,0
+2022,Deleware,California,660
+2022,Deleware,Colorado,123
+2022,Deleware,Connecticut,198
+2022,Deleware,Delaware,N/A
+2022,Deleware,District of Columbia ,202
+2022,Deleware,Florida,1339
+2022,Deleware,Georgia,293
+2022,Deleware,Hawaii,82
+2022,Deleware,Idaho,0
+2022,Deleware,Illinois,1256
+2022,Deleware,Indiana,153
+2022,Deleware,Iowa,0
+2022,Deleware,Kansas,77
+2022,Deleware,Kentucky,58
+2022,Deleware,Louisiana,0
+2022,Deleware,Maine,352
+2022,Deleware,Maryland,9709
+2022,Deleware,Massachusetts,384
+2022,Deleware,Michigan,462
+2022,Deleware,Minnesota,18
+2022,Deleware,Mississippi,0
+2022,Deleware,Missouri,768
+2022,Deleware,Montana,0
+2022,Deleware,Nebraska,0
+2022,Deleware,Nevada,437
+2022,Deleware,New Hampshire,0
+2022,Deleware,New Jersey,5312
+2022,Deleware,New Mexico,159
+2022,Deleware,New York,4603
+2022,Deleware,North Carolina,2250
+2022,Deleware,North Dakota,0
+2022,Deleware,Ohio,182
+2022,Deleware,Oklahoma,0
+2022,Deleware,Oregon,0
+2022,Deleware,Pennsylvania,11392
+2022,Deleware,Rhode Island,0
+2022,Deleware,South Carolina,1254
+2022,Deleware,South Dakota,178
+2022,Deleware,Tennessee,241
+2022,Deleware,Texas,692
+2022,Deleware,Utah,0
+2022,Deleware,Vermont,0
+2022,Deleware,Virginia,1990
+2022,Deleware,Washington,171
+2022,Deleware,West Virginia,0
+2022,Deleware,Wisconsin,15
+2022,Deleware,Wyoming,0
+2022,District of Columbia ,Alabama,419
+2022,District of Columbia ,Alaska,0
+2022,District of Columbia ,Arizona,712
+2022,District of Columbia ,Arkansas,21
+2022,District of Columbia ,California,4539
+2022,District of Columbia ,Colorado,1187
+2022,District of Columbia ,Connecticut,1401
+2022,District of Columbia ,Delaware,352
+2022,District of Columbia ,District of Columbia ,N/A
+2022,District of Columbia ,Florida,2932
+2022,District of Columbia ,Georgia,2289
+2022,District of Columbia ,Hawaii,41
+2022,District of Columbia ,Idaho,230
+2022,District of Columbia ,Illinois,2548
+2022,District of Columbia ,Indiana,253
+2022,District of Columbia ,Iowa,49
+2022,District of Columbia ,Kansas,136
+2022,District of Columbia ,Kentucky,79
+2022,District of Columbia ,Louisiana,205
+2022,District of Columbia ,Maine,79
+2022,District of Columbia ,Maryland,13093
+2022,District of Columbia ,Massachusetts,1401
+2022,District of Columbia ,Michigan,1337
+2022,District of Columbia ,Minnesota,817
+2022,District of Columbia ,Mississippi,23
+2022,District of Columbia ,Missouri,440
+2022,District of Columbia ,Montana,0
+2022,District of Columbia ,Nebraska,55
+2022,District of Columbia ,Nevada,97
+2022,District of Columbia ,New Hampshire,304
+2022,District of Columbia ,New Jersey,3093
+2022,District of Columbia ,New Mexico,453
+2022,District of Columbia ,New York,5647
+2022,District of Columbia ,North Carolina,1519
+2022,District of Columbia ,North Dakota,0
+2022,District of Columbia ,Ohio,1011
+2022,District of Columbia ,Oklahoma,231
+2022,District of Columbia ,Oregon,264
+2022,District of Columbia ,Pennsylvania,2493
+2022,District of Columbia ,Rhode Island,679
+2022,District of Columbia ,South Carolina,773
+2022,District of Columbia ,South Dakota,137
+2022,District of Columbia ,Tennessee,614
+2022,District of Columbia ,Texas,2788
+2022,District of Columbia ,Utah,387
+2022,District of Columbia ,Vermont,153
+2022,District of Columbia ,Virginia,7496
+2022,District of Columbia ,Washington,1216
+2022,District of Columbia ,West Virginia,96
+2022,District of Columbia ,Wisconsin,417
+2022,District of Columbia ,Wyoming,0
+2022,Florida,Alabama,14734
+2022,Florida,Alaska,1418
+2022,Florida,Arizona,11901
+2022,Florida,Arkansas,3204
+2022,Florida,California,50701
+2022,Florida,Colorado,20980
+2022,Florida,Connecticut,13620
+2022,Florida,Delaware,3118
+2022,Florida,District of Columbia ,2830
+2022,Florida,Florida,N/A
+2022,Florida,Georgia,39990
+2022,Florida,Hawaii,2858
+2022,Florida,Idaho,3374
+2022,Florida,Illinois,35262
+2022,Florida,Indiana,11790
+2022,Florida,Iowa,2163
+2022,Florida,Kansas,5111
+2022,Florida,Kentucky,8141
+2022,Florida,Louisiana,8497
+2022,Florida,Maine,6242
+2022,Florida,Maryland,23422
+2022,Florida,Massachusetts,20320
+2022,Florida,Michigan,23781
+2022,Florida,Minnesota,9192
+2022,Florida,Mississippi,3937
+2022,Florida,Missouri,10919
+2022,Florida,Montana,1302
+2022,Florida,Nebraska,2779
+2022,Florida,Nevada,7516
+2022,Florida,New Hampshire,6001
+2022,Florida,New Jersey,47000
+2022,Florida,New Mexico,3551
+2022,Florida,New York,91201
+2022,Florida,North Carolina,24601
+2022,Florida,North Dakota,347
+2022,Florida,Ohio,27257
+2022,Florida,Oklahoma,2965
+2022,Florida,Oregon,5221
+2022,Florida,Pennsylvania,35384
+2022,Florida,Rhode Island,3816
+2022,Florida,South Carolina,14825
+2022,Florida,South Dakota,2714
+2022,Florida,Tennessee,20651
+2022,Florida,Texas,38207
+2022,Florida,Utah,4551
+2022,Florida,Vermont,1575
+2022,Florida,Virginia,32932
+2022,Florida,Washington,11804
+2022,Florida,West Virginia,4817
+2022,Florida,Wisconsin,10167
+2022,Florida,Wyoming,280
+2022,Georgia,Alabama,21031
+2022,Georgia,Alaska,210
+2022,Georgia,Arizona,1798
+2022,Georgia,Arkansas,531
+2022,Georgia,California,25960
+2022,Georgia,Colorado,5419
+2022,Georgia,Connecticut,2526
+2022,Georgia,Delaware,585
+2022,Georgia,District of Columbia ,1243
+2022,Georgia,Florida,51380
+2022,Georgia,Georgia,N/A
+2022,Georgia,Hawaii,2642
+2022,Georgia,Idaho,1051
+2022,Georgia,Illinois,11096
+2022,Georgia,Indiana,4937
+2022,Georgia,Iowa,530
+2022,Georgia,Kansas,1862
+2022,Georgia,Kentucky,1941
+2022,Georgia,Louisiana,4426
+2022,Georgia,Maine,272
+2022,Georgia,Maryland,6706
+2022,Georgia,Massachusetts,3299
+2022,Georgia,Michigan,5816
+2022,Georgia,Minnesota,1825
+2022,Georgia,Mississippi,1986
+2022,Georgia,Missouri,4341
+2022,Georgia,Montana,966
+2022,Georgia,Nebraska,712
+2022,Georgia,Nevada,3357
+2022,Georgia,New Hampshire,886
+2022,Georgia,New Jersey,8295
+2022,Georgia,New Mexico,1029
+2022,Georgia,New York,16535
+2022,Georgia,North Carolina,23175
+2022,Georgia,North Dakota,218
+2022,Georgia,Ohio,5221
+2022,Georgia,Oklahoma,2077
+2022,Georgia,Oregon,1594
+2022,Georgia,Pennsylvania,9223
+2022,Georgia,Rhode Island,118
+2022,Georgia,South Carolina,18328
+2022,Georgia,South Dakota,297
+2022,Georgia,Tennessee,18785
+2022,Georgia,Texas,23754
+2022,Georgia,Utah,2753
+2022,Georgia,Vermont,0
+2022,Georgia,Virginia,14204
+2022,Georgia,Washington,8761
+2022,Georgia,West Virginia,1635
+2022,Georgia,Wisconsin,2177
+2022,Georgia,Wyoming,282
+2022,Hawaii,Alabama,1611
+2022,Hawaii,Alaska,773
+2022,Hawaii,Arizona,2750
+2022,Hawaii,Arkansas,75
+2022,Hawaii,California,10562
+2022,Hawaii,Colorado,2750
+2022,Hawaii,Connecticut,597
+2022,Hawaii,Delaware,246
+2022,Hawaii,District of Columbia ,74
+2022,Hawaii,Florida,1442
+2022,Hawaii,Georgia,2823
+2022,Hawaii,Hawaii,N/A
+2022,Hawaii,Idaho,120
+2022,Hawaii,Illinois,1133
+2022,Hawaii,Indiana,229
+2022,Hawaii,Iowa,40
+2022,Hawaii,Kansas,254
+2022,Hawaii,Kentucky,820
+2022,Hawaii,Louisiana,782
+2022,Hawaii,Maine,270
+2022,Hawaii,Maryland,1269
+2022,Hawaii,Massachusetts,397
+2022,Hawaii,Michigan,524
+2022,Hawaii,Minnesota,264
+2022,Hawaii,Mississippi,503
+2022,Hawaii,Missouri,627
+2022,Hawaii,Montana,170
+2022,Hawaii,Nebraska,568
+2022,Hawaii,Nevada,1460
+2022,Hawaii,New Hampshire,110
+2022,Hawaii,New Jersey,383
+2022,Hawaii,New Mexico,429
+2022,Hawaii,New York,982
+2022,Hawaii,North Carolina,1931
+2022,Hawaii,North Dakota,222
+2022,Hawaii,Ohio,654
+2022,Hawaii,Oklahoma,52
+2022,Hawaii,Oregon,1734
+2022,Hawaii,Pennsylvania,903
+2022,Hawaii,Rhode Island,0
+2022,Hawaii,South Carolina,1488
+2022,Hawaii,South Dakota,0
+2022,Hawaii,Tennessee,956
+2022,Hawaii,Texas,5966
+2022,Hawaii,Utah,1141
+2022,Hawaii,Vermont,38
+2022,Hawaii,Virginia,1775
+2022,Hawaii,Washington,4090
+2022,Hawaii,West Virginia,0
+2022,Hawaii,Wisconsin,222
+2022,Hawaii,Wyoming,0
+2022,Idaho,Alabama,0
+2022,Idaho,Alaska,411
+2022,Idaho,Arizona,3633
+2022,Idaho,Arkansas,299
+2022,Idaho,California,26887
+2022,Idaho,Colorado,1655
+2022,Idaho,Connecticut,322
+2022,Idaho,Delaware,0
+2022,Idaho,District of Columbia ,0
+2022,Idaho,Florida,1109
+2022,Idaho,Georgia,1548
+2022,Idaho,Hawaii,1046
+2022,Idaho,Idaho,N/A
+2022,Idaho,Illinois,314
+2022,Idaho,Indiana,6
+2022,Idaho,Iowa,218
+2022,Idaho,Kansas,1482
+2022,Idaho,Kentucky,0
+2022,Idaho,Louisiana,120
+2022,Idaho,Maine,44
+2022,Idaho,Maryland,1426
+2022,Idaho,Massachusetts,577
+2022,Idaho,Michigan,523
+2022,Idaho,Minnesota,1315
+2022,Idaho,Mississippi,0
+2022,Idaho,Missouri,501
+2022,Idaho,Montana,1250
+2022,Idaho,Nebraska,1066
+2022,Idaho,Nevada,1894
+2022,Idaho,New Hampshire,61
+2022,Idaho,New Jersey,173
+2022,Idaho,New Mexico,376
+2022,Idaho,New York,880
+2022,Idaho,North Carolina,815
+2022,Idaho,North Dakota,429
+2022,Idaho,Ohio,224
+2022,Idaho,Oklahoma,232
+2022,Idaho,Oregon,8410
+2022,Idaho,Pennsylvania,267
+2022,Idaho,Rhode Island,0
+2022,Idaho,South Carolina,1392
+2022,Idaho,South Dakota,126
+2022,Idaho,Tennessee,191
+2022,Idaho,Texas,2868
+2022,Idaho,Utah,7812
+2022,Idaho,Vermont,0
+2022,Idaho,Virginia,415
+2022,Idaho,Washington,14387
+2022,Idaho,West Virginia,0
+2022,Idaho,Wisconsin,369
+2022,Idaho,Wyoming,876
+2022,Illinois,Alabama,2389
+2022,Illinois,Alaska,434
+2022,Illinois,Arizona,5377
+2022,Illinois,Arkansas,1468
+2022,Illinois,California,20573
+2022,Illinois,Colorado,6720
+2022,Illinois,Connecticut,474
+2022,Illinois,Delaware,218
+2022,Illinois,District of Columbia ,1028
+2022,Illinois,Florida,14078
+2022,Illinois,Georgia,7424
+2022,Illinois,Hawaii,785
+2022,Illinois,Idaho,839
+2022,Illinois,Illinois,N/A
+2022,Illinois,Indiana,13792
+2022,Illinois,Iowa,8532
+2022,Illinois,Kansas,2072
+2022,Illinois,Kentucky,4087
+2022,Illinois,Louisiana,1823
+2022,Illinois,Maine,304
+2022,Illinois,Maryland,2260
+2022,Illinois,Massachusetts,5625
+2022,Illinois,Michigan,12283
+2022,Illinois,Minnesota,3743
+2022,Illinois,Mississippi,853
+2022,Illinois,Missouri,15923
+2022,Illinois,Montana,242
+2022,Illinois,Nebraska,1580
+2022,Illinois,Nevada,1135
+2022,Illinois,New Hampshire,120
+2022,Illinois,New Jersey,3576
+2022,Illinois,New Mexico,827
+2022,Illinois,New York,12072
+2022,Illinois,North Carolina,5384
+2022,Illinois,North Dakota,630
+2022,Illinois,Ohio,11296
+2022,Illinois,Oklahoma,1353
+2022,Illinois,Oregon,1706
+2022,Illinois,Pennsylvania,4475
+2022,Illinois,Rhode Island,91
+2022,Illinois,South Carolina,1706
+2022,Illinois,South Dakota,46
+2022,Illinois,Tennessee,7420
+2022,Illinois,Texas,19949
+2022,Illinois,Utah,349
+2022,Illinois,Vermont,98
+2022,Illinois,Virginia,3866
+2022,Illinois,Washington,3965
+2022,Illinois,West Virginia,105
+2022,Illinois,Wisconsin,12764
+2022,Illinois,Wyoming,449
+2022,Indiana,Alabama,792
+2022,Indiana,Alaska,1118
+2022,Indiana,Arizona,4953
+2022,Indiana,Arkansas,2888
+2022,Indiana,California,7769
+2022,Indiana,Colorado,3586
+2022,Indiana,Connecticut,687
+2022,Indiana,Delaware,25
+2022,Indiana,District of Columbia ,716
+2022,Indiana,Florida,7474
+2022,Indiana,Georgia,2326
+2022,Indiana,Hawaii,1133
+2022,Indiana,Idaho,1994
+2022,Indiana,Illinois,31015
+2022,Indiana,Indiana,N/A
+2022,Indiana,Iowa,1364
+2022,Indiana,Kansas,823
+2022,Indiana,Kentucky,9350
+2022,Indiana,Louisiana,1328
+2022,Indiana,Maine,135
+2022,Indiana,Maryland,1739
+2022,Indiana,Massachusetts,1308
+2022,Indiana,Michigan,13184
+2022,Indiana,Minnesota,1742
+2022,Indiana,Mississippi,116
+2022,Indiana,Missouri,1907
+2022,Indiana,Montana,401
+2022,Indiana,Nebraska,446
+2022,Indiana,Nevada,2049
+2022,Indiana,New Hampshire,554
+2022,Indiana,New Jersey,1907
+2022,Indiana,New Mexico,825
+2022,Indiana,New York,4124
+2022,Indiana,North Carolina,2157
+2022,Indiana,North Dakota,299
+2022,Indiana,Ohio,10634
+2022,Indiana,Oklahoma,521
+2022,Indiana,Oregon,1461
+2022,Indiana,Pennsylvania,2209
+2022,Indiana,Rhode Island,1177
+2022,Indiana,South Carolina,1206
+2022,Indiana,South Dakota,0
+2022,Indiana,Tennessee,3062
+2022,Indiana,Texas,8276
+2022,Indiana,Utah,1655
+2022,Indiana,Vermont,0
+2022,Indiana,Virginia,2315
+2022,Indiana,Washington,2282
+2022,Indiana,West Virginia,147
+2022,Indiana,Wisconsin,2010
+2022,Indiana,Wyoming,142
+2022,Iowa,Alabama,180
+2022,Iowa,Alaska,118
+2022,Iowa,Arizona,2264
+2022,Iowa,Arkansas,580
+2022,Iowa,California,2349
+2022,Iowa,Colorado,1932
+2022,Iowa,Connecticut,4
+2022,Iowa,Delaware,0
+2022,Iowa,District of Columbia ,178
+2022,Iowa,Florida,3546
+2022,Iowa,Georgia,289
+2022,Iowa,Hawaii,1154
+2022,Iowa,Idaho,519
+2022,Iowa,Illinois,16504
+2022,Iowa,Indiana,402
+2022,Iowa,Iowa,N/A
+2022,Iowa,Kansas,780
+2022,Iowa,Kentucky,356
+2022,Iowa,Louisiana,1095
+2022,Iowa,Maine,69
+2022,Iowa,Maryland,653
+2022,Iowa,Massachusetts,3
+2022,Iowa,Michigan,1932
+2022,Iowa,Minnesota,5386
+2022,Iowa,Mississippi,408
+2022,Iowa,Missouri,3657
+2022,Iowa,Montana,199
+2022,Iowa,Nebraska,6777
+2022,Iowa,Nevada,1033
+2022,Iowa,New Hampshire,49
+2022,Iowa,New Jersey,795
+2022,Iowa,New Mexico,232
+2022,Iowa,New York,381
+2022,Iowa,North Carolina,804
+2022,Iowa,North Dakota,320
+2022,Iowa,Ohio,727
+2022,Iowa,Oklahoma,915
+2022,Iowa,Oregon,181
+2022,Iowa,Pennsylvania,923
+2022,Iowa,Rhode Island,121
+2022,Iowa,South Carolina,610
+2022,Iowa,South Dakota,2376
+2022,Iowa,Tennessee,355
+2022,Iowa,Texas,3856
+2022,Iowa,Utah,1250
+2022,Iowa,Vermont,32
+2022,Iowa,Virginia,291
+2022,Iowa,Washington,786
+2022,Iowa,West Virginia,0
+2022,Iowa,Wisconsin,4734
+2022,Iowa,Wyoming,126
+2022,Kansas,Alabama,1371
+2022,Kansas,Alaska,218
+2022,Kansas,Arizona,1519
+2022,Kansas,Arkansas,1016
+2022,Kansas,California,5520
+2022,Kansas,Colorado,7359
+2022,Kansas,Connecticut,0
+2022,Kansas,Delaware,49
+2022,Kansas,District of Columbia ,57
+2022,Kansas,Florida,4694
+2022,Kansas,Georgia,3284
+2022,Kansas,Hawaii,487
+2022,Kansas,Idaho,121
+2022,Kansas,Illinois,2766
+2022,Kansas,Indiana,2828
+2022,Kansas,Iowa,2134
+2022,Kansas,Kansas,N/A
+2022,Kansas,Kentucky,811
+2022,Kansas,Louisiana,1730
+2022,Kansas,Maine,0
+2022,Kansas,Maryland,192
+2022,Kansas,Massachusetts,803
+2022,Kansas,Michigan,936
+2022,Kansas,Minnesota,1606
+2022,Kansas,Mississippi,0
+2022,Kansas,Missouri,20905
+2022,Kansas,Montana,47
+2022,Kansas,Nebraska,3021
+2022,Kansas,Nevada,971
+2022,Kansas,New Hampshire,0
+2022,Kansas,New Jersey,108
+2022,Kansas,New Mexico,477
+2022,Kansas,New York,1865
+2022,Kansas,North Carolina,655
+2022,Kansas,North Dakota,29
+2022,Kansas,Ohio,1834
+2022,Kansas,Oklahoma,6466
+2022,Kansas,Oregon,617
+2022,Kansas,Pennsylvania,373
+2022,Kansas,Rhode Island,0
+2022,Kansas,South Carolina,18
+2022,Kansas,South Dakota,194
+2022,Kansas,Tennessee,2019
+2022,Kansas,Texas,7767
+2022,Kansas,Utah,1366
+2022,Kansas,Vermont,79
+2022,Kansas,Virginia,851
+2022,Kansas,Washington,3475
+2022,Kansas,West Virginia,0
+2022,Kansas,Wisconsin,290
+2022,Kansas,Wyoming,1280
+2022,Kentucky,Alabama,1218
+2022,Kentucky,Alaska,182
+2022,Kentucky,Arizona,2618
+2022,Kentucky,Arkansas,343
+2022,Kentucky,California,5985
+2022,Kentucky,Colorado,2182
+2022,Kentucky,Connecticut,863
+2022,Kentucky,Delaware,0
+2022,Kentucky,District of Columbia ,156
+2022,Kentucky,Florida,8062
+2022,Kentucky,Georgia,4941
+2022,Kentucky,Hawaii,462
+2022,Kentucky,Idaho,787
+2022,Kentucky,Illinois,6821
+2022,Kentucky,Indiana,12947
+2022,Kentucky,Iowa,497
+2022,Kentucky,Kansas,435
+2022,Kentucky,Kentucky,N/A
+2022,Kentucky,Louisiana,397
+2022,Kentucky,Maine,202
+2022,Kentucky,Maryland,903
+2022,Kentucky,Massachusetts,904
+2022,Kentucky,Michigan,2458
+2022,Kentucky,Minnesota,192
+2022,Kentucky,Mississippi,478
+2022,Kentucky,Missouri,2688
+2022,Kentucky,Montana,154
+2022,Kentucky,Nebraska,412
+2022,Kentucky,Nevada,509
+2022,Kentucky,New Hampshire,152
+2022,Kentucky,New Jersey,36
+2022,Kentucky,New Mexico,287
+2022,Kentucky,New York,2200
+2022,Kentucky,North Carolina,3392
+2022,Kentucky,North Dakota,0
+2022,Kentucky,Ohio,12646
+2022,Kentucky,Oklahoma,211
+2022,Kentucky,Oregon,801
+2022,Kentucky,Pennsylvania,1348
+2022,Kentucky,Rhode Island,453
+2022,Kentucky,South Carolina,3322
+2022,Kentucky,South Dakota,0
+2022,Kentucky,Tennessee,12561
+2022,Kentucky,Texas,7630
+2022,Kentucky,Utah,1203
+2022,Kentucky,Vermont,23
+2022,Kentucky,Virginia,2314
+2022,Kentucky,Washington,3235
+2022,Kentucky,West Virginia,2679
+2022,Kentucky,Wisconsin,831
+2022,Kentucky,Wyoming,77
+2022,Louisiana,Alabama,1332
+2022,Louisiana,Alaska,432
+2022,Louisiana,Arizona,315
+2022,Louisiana,Arkansas,2429
+2022,Louisiana,California,4847
+2022,Louisiana,Colorado,3329
+2022,Louisiana,Connecticut,698
+2022,Louisiana,Delaware,0
+2022,Louisiana,District of Columbia ,343
+2022,Louisiana,Florida,5089
+2022,Louisiana,Georgia,3215
+2022,Louisiana,Hawaii,0
+2022,Louisiana,Idaho,277
+2022,Louisiana,Illinois,1223
+2022,Louisiana,Indiana,266
+2022,Louisiana,Iowa,108
+2022,Louisiana,Kansas,159
+2022,Louisiana,Kentucky,685
+2022,Louisiana,Louisiana,N/A
+2022,Louisiana,Maine,83
+2022,Louisiana,Maryland,912
+2022,Louisiana,Massachusetts,211
+2022,Louisiana,Michigan,2062
+2022,Louisiana,Minnesota,719
+2022,Louisiana,Mississippi,3858
+2022,Louisiana,Missouri,1633
+2022,Louisiana,Montana,0
+2022,Louisiana,Nebraska,238
+2022,Louisiana,Nevada,764
+2022,Louisiana,New Hampshire,0
+2022,Louisiana,New Jersey,2288
+2022,Louisiana,New Mexico,191
+2022,Louisiana,New York,2946
+2022,Louisiana,North Carolina,1272
+2022,Louisiana,North Dakota,111
+2022,Louisiana,Ohio,3427
+2022,Louisiana,Oklahoma,2717
+2022,Louisiana,Oregon,421
+2022,Louisiana,Pennsylvania,597
+2022,Louisiana,Rhode Island,205
+2022,Louisiana,South Carolina,1814
+2022,Louisiana,South Dakota,0
+2022,Louisiana,Tennessee,1286
+2022,Louisiana,Texas,17663
+2022,Louisiana,Utah,903
+2022,Louisiana,Vermont,29
+2022,Louisiana,Virginia,1824
+2022,Louisiana,Washington,2021
+2022,Louisiana,West Virginia,45
+2022,Louisiana,Wisconsin,343
+2022,Louisiana,Wyoming,0
+2022,Maine,Alabama,274
+2022,Maine,Alaska,11
+2022,Maine,Arizona,138
+2022,Maine,Arkansas,27
+2022,Maine,California,3552
+2022,Maine,Colorado,1332
+2022,Maine,Connecticut,1243
+2022,Maine,Delaware,0
+2022,Maine,District of Columbia ,220
+2022,Maine,Florida,2911
+2022,Maine,Georgia,358
+2022,Maine,Hawaii,405
+2022,Maine,Idaho,0
+2022,Maine,Illinois,517
+2022,Maine,Indiana,9
+2022,Maine,Iowa,6
+2022,Maine,Kansas,77
+2022,Maine,Kentucky,85
+2022,Maine,Louisiana,139
+2022,Maine,Maine,N/A
+2022,Maine,Maryland,114
+2022,Maine,Massachusetts,8663
+2022,Maine,Michigan,311
+2022,Maine,Minnesota,410
+2022,Maine,Mississippi,90
+2022,Maine,Missouri,420
+2022,Maine,Montana,475
+2022,Maine,Nebraska,285
+2022,Maine,Nevada,324
+2022,Maine,New Hampshire,5733
+2022,Maine,New Jersey,759
+2022,Maine,New Mexico,87
+2022,Maine,New York,2885
+2022,Maine,North Carolina,675
+2022,Maine,North Dakota,0
+2022,Maine,Ohio,403
+2022,Maine,Oklahoma,0
+2022,Maine,Oregon,0
+2022,Maine,Pennsylvania,1711
+2022,Maine,Rhode Island,1134
+2022,Maine,South Carolina,295
+2022,Maine,South Dakota,159
+2022,Maine,Tennessee,520
+2022,Maine,Texas,861
+2022,Maine,Utah,0
+2022,Maine,Vermont,985
+2022,Maine,Virginia,1198
+2022,Maine,Washington,1514
+2022,Maine,West Virginia,41
+2022,Maine,Wisconsin,262
+2022,Maine,Wyoming,0
+2022,Maryland,Alabama,1256
+2022,Maryland,Alaska,364
+2022,Maryland,Arizona,1439
+2022,Maryland,Arkansas,67
+2022,Maryland,California,7198
+2022,Maryland,Colorado,1148
+2022,Maryland,Connecticut,1147
+2022,Maryland,Delaware,4880
+2022,Maryland,District of Columbia ,17770
+2022,Maryland,Florida,8425
+2022,Maryland,Georgia,3193
+2022,Maryland,Hawaii,3306
+2022,Maryland,Idaho,201
+2022,Maryland,Illinois,3134
+2022,Maryland,Indiana,713
+2022,Maryland,Iowa,81
+2022,Maryland,Kansas,569
+2022,Maryland,Kentucky,254
+2022,Maryland,Louisiana,732
+2022,Maryland,Maine,474
+2022,Maryland,Maryland,N/A
+2022,Maryland,Massachusetts,2686
+2022,Maryland,Michigan,1470
+2022,Maryland,Minnesota,1483
+2022,Maryland,Mississippi,1055
+2022,Maryland,Missouri,975
+2022,Maryland,Montana,74
+2022,Maryland,Nebraska,37
+2022,Maryland,Nevada,1288
+2022,Maryland,New Hampshire,572
+2022,Maryland,New Jersey,6151
+2022,Maryland,New Mexico,794
+2022,Maryland,New York,9453
+2022,Maryland,North Carolina,4152
+2022,Maryland,North Dakota,328
+2022,Maryland,Ohio,1963
+2022,Maryland,Oklahoma,235
+2022,Maryland,Oregon,372
+2022,Maryland,Pennsylvania,12481
+2022,Maryland,Rhode Island,1593
+2022,Maryland,South Carolina,5074
+2022,Maryland,South Dakota,51
+2022,Maryland,Tennessee,1688
+2022,Maryland,Texas,4917
+2022,Maryland,Utah,176
+2022,Maryland,Vermont,359
+2022,Maryland,Virginia,19478
+2022,Maryland,Washington,1774
+2022,Maryland,West Virginia,1812
+2022,Maryland,Wisconsin,350
+2022,Maryland,Wyoming,592
+2022,Massachusetts,Alabama,1082
+2022,Massachusetts,Alaska,154
+2022,Massachusetts,Arizona,2251
+2022,Massachusetts,Arkansas,904
+2022,Massachusetts,California,18543
+2022,Massachusetts,Colorado,2186
+2022,Massachusetts,Connecticut,9503
+2022,Massachusetts,Delaware,319
+2022,Massachusetts,District of Columbia ,1540
+2022,Massachusetts,Florida,11098
+2022,Massachusetts,Georgia,2024
+2022,Massachusetts,Hawaii,1440
+2022,Massachusetts,Idaho,345
+2022,Massachusetts,Illinois,4060
+2022,Massachusetts,Indiana,1616
+2022,Massachusetts,Iowa,316
+2022,Massachusetts,Kansas,44
+2022,Massachusetts,Kentucky,499
+2022,Massachusetts,Louisiana,1188
+2022,Massachusetts,Maine,4545
+2022,Massachusetts,Maryland,3404
+2022,Massachusetts,Massachusetts,N/A
+2022,Massachusetts,Michigan,2683
+2022,Massachusetts,Minnesota,1426
+2022,Massachusetts,Mississippi,327
+2022,Massachusetts,Missouri,3450
+2022,Massachusetts,Montana,351
+2022,Massachusetts,Nebraska,222
+2022,Massachusetts,Nevada,467
+2022,Massachusetts,New Hampshire,11502
+2022,Massachusetts,New Jersey,7670
+2022,Massachusetts,New Mexico,330
+2022,Massachusetts,New York,21186
+2022,Massachusetts,North Carolina,3934
+2022,Massachusetts,North Dakota,250
+2022,Massachusetts,Ohio,4031
+2022,Massachusetts,Oklahoma,475
+2022,Massachusetts,Oregon,1632
+2022,Massachusetts,Pennsylvania,8009
+2022,Massachusetts,Rhode Island,11290
+2022,Massachusetts,South Carolina,3379
+2022,Massachusetts,South Dakota,0
+2022,Massachusetts,Tennessee,1407
+2022,Massachusetts,Texas,7517
+2022,Massachusetts,Utah,1491
+2022,Massachusetts,Vermont,2941
+2022,Massachusetts,Virginia,4232
+2022,Massachusetts,Washington,3006
+2022,Massachusetts,West Virginia,240
+2022,Massachusetts,Wisconsin,568
+2022,Massachusetts,Wyoming,0
+2022,Michigan,Alabama,1846
+2022,Michigan,Alaska,487
+2022,Michigan,Arizona,3772
+2022,Michigan,Arkansas,640
+2022,Michigan,California,13939
+2022,Michigan,Colorado,4589
+2022,Michigan,Connecticut,1038
+2022,Michigan,Delaware,510
+2022,Michigan,District of Columbia ,1685
+2022,Michigan,Florida,17557
+2022,Michigan,Georgia,3404
+2022,Michigan,Hawaii,69
+2022,Michigan,Idaho,249
+2022,Michigan,Illinois,10942
+2022,Michigan,Indiana,9723
+2022,Michigan,Iowa,784
+2022,Michigan,Kansas,3274
+2022,Michigan,Kentucky,2067
+2022,Michigan,Louisiana,781
+2022,Michigan,Maine,555
+2022,Michigan,Maryland,1513
+2022,Michigan,Massachusetts,1791
+2022,Michigan,Michigan,N/A
+2022,Michigan,Minnesota,3070
+2022,Michigan,Mississippi,946
+2022,Michigan,Missouri,3446
+2022,Michigan,Montana,745
+2022,Michigan,Nebraska,263
+2022,Michigan,Nevada,3291
+2022,Michigan,New Hampshire,278
+2022,Michigan,New Jersey,3290
+2022,Michigan,New Mexico,685
+2022,Michigan,New York,6161
+2022,Michigan,North Carolina,5852
+2022,Michigan,North Dakota,0
+2022,Michigan,Ohio,10791
+2022,Michigan,Oklahoma,241
+2022,Michigan,Oregon,1832
+2022,Michigan,Pennsylvania,3165
+2022,Michigan,Rhode Island,232
+2022,Michigan,South Carolina,3554
+2022,Michigan,South Dakota,230
+2022,Michigan,Tennessee,4933
+2022,Michigan,Texas,8529
+2022,Michigan,Utah,1855
+2022,Michigan,Vermont,0
+2022,Michigan,Virginia,4323
+2022,Michigan,Washington,1983
+2022,Michigan,West Virginia,33
+2022,Michigan,Wisconsin,5786
+2022,Michigan,Wyoming,1226
+2022,Minnesota,Alabama,732
+2022,Minnesota,Alaska,269
+2022,Minnesota,Arizona,4234
+2022,Minnesota,Arkansas,713
+2022,Minnesota,California,6908
+2022,Minnesota,Colorado,3620
+2022,Minnesota,Connecticut,676
+2022,Minnesota,Delaware,312
+2022,Minnesota,District of Columbia ,466
+2022,Minnesota,Florida,4521
+2022,Minnesota,Georgia,892
+2022,Minnesota,Hawaii,199
+2022,Minnesota,Idaho,340
+2022,Minnesota,Illinois,7131
+2022,Minnesota,Indiana,3276
+2022,Minnesota,Iowa,4403
+2022,Minnesota,Kansas,1105
+2022,Minnesota,Kentucky,179
+2022,Minnesota,Louisiana,316
+2022,Minnesota,Maine,100
+2022,Minnesota,Maryland,2514
+2022,Minnesota,Massachusetts,1005
+2022,Minnesota,Michigan,1923
+2022,Minnesota,Minnesota,N/A
+2022,Minnesota,Mississippi,921
+2022,Minnesota,Missouri,2232
+2022,Minnesota,Montana,1459
+2022,Minnesota,Nebraska,3343
+2022,Minnesota,Nevada,2164
+2022,Minnesota,New Hampshire,48
+2022,Minnesota,New Jersey,829
+2022,Minnesota,New Mexico,671
+2022,Minnesota,New York,3196
+2022,Minnesota,North Carolina,2300
+2022,Minnesota,North Dakota,10946
+2022,Minnesota,Ohio,1567
+2022,Minnesota,Oklahoma,210
+2022,Minnesota,Oregon,1513
+2022,Minnesota,Pennsylvania,3524
+2022,Minnesota,Rhode Island,172
+2022,Minnesota,South Carolina,641
+2022,Minnesota,South Dakota,3757
+2022,Minnesota,Tennessee,65
+2022,Minnesota,Texas,6506
+2022,Minnesota,Utah,563
+2022,Minnesota,Vermont,0
+2022,Minnesota,Virginia,3401
+2022,Minnesota,Washington,2255
+2022,Minnesota,West Virginia,168
+2022,Minnesota,Wisconsin,18702
+2022,Minnesota,Wyoming,29
+2022,Mississippi,Alabama,5444
+2022,Mississippi,Alaska,90
+2022,Mississippi,Arizona,1848
+2022,Mississippi,Arkansas,1290
+2022,Mississippi,California,1638
+2022,Mississippi,Colorado,2701
+2022,Mississippi,Connecticut,26
+2022,Mississippi,Delaware,127
+2022,Mississippi,District of Columbia ,0
+2022,Mississippi,Florida,6611
+2022,Mississippi,Georgia,3094
+2022,Mississippi,Hawaii,559
+2022,Mississippi,Idaho,557
+2022,Mississippi,Illinois,847
+2022,Mississippi,Indiana,872
+2022,Mississippi,Iowa,132
+2022,Mississippi,Kansas,567
+2022,Mississippi,Kentucky,857
+2022,Mississippi,Louisiana,10360
+2022,Mississippi,Maine,10
+2022,Mississippi,Maryland,394
+2022,Mississippi,Massachusetts,402
+2022,Mississippi,Michigan,512
+2022,Mississippi,Minnesota,311
+2022,Mississippi,Mississippi,N/A
+2022,Mississippi,Missouri,686
+2022,Mississippi,Montana,0
+2022,Mississippi,Nebraska,932
+2022,Mississippi,Nevada,693
+2022,Mississippi,New Hampshire,0
+2022,Mississippi,New Jersey,106
+2022,Mississippi,New Mexico,0
+2022,Mississippi,New York,113
+2022,Mississippi,North Carolina,1715
+2022,Mississippi,North Dakota,0
+2022,Mississippi,Ohio,131
+2022,Mississippi,Oklahoma,272
+2022,Mississippi,Oregon,280
+2022,Mississippi,Pennsylvania,335
+2022,Mississippi,Rhode Island,63
+2022,Mississippi,South Carolina,1356
+2022,Mississippi,South Dakota,0
+2022,Mississippi,Tennessee,11406
+2022,Mississippi,Texas,8312
+2022,Mississippi,Utah,63
+2022,Mississippi,Vermont,47
+2022,Mississippi,Virginia,1506
+2022,Mississippi,Washington,2090
+2022,Mississippi,West Virginia,150
+2022,Mississippi,Wisconsin,415
+2022,Mississippi,Wyoming,28
+2022,Missouri,Alabama,570
+2022,Missouri,Alaska,414
+2022,Missouri,Arizona,3576
+2022,Missouri,Arkansas,9590
+2022,Missouri,California,12107
+2022,Missouri,Colorado,8042
+2022,Missouri,Connecticut,203
+2022,Missouri,Delaware,0
+2022,Missouri,District of Columbia ,303
+2022,Missouri,Florida,9758
+2022,Missouri,Georgia,3395
+2022,Missouri,Hawaii,729
+2022,Missouri,Idaho,599
+2022,Missouri,Illinois,20646
+2022,Missouri,Indiana,3411
+2022,Missouri,Iowa,6473
+2022,Missouri,Kansas,22333
+2022,Missouri,Kentucky,735
+2022,Missouri,Louisiana,1359
+2022,Missouri,Maine,380
+2022,Missouri,Maryland,864
+2022,Missouri,Massachusetts,1239
+2022,Missouri,Michigan,1170
+2022,Missouri,Minnesota,3292
+2022,Missouri,Mississippi,1733
+2022,Missouri,Missouri,N/A
+2022,Missouri,Montana,0
+2022,Missouri,Nebraska,2713
+2022,Missouri,Nevada,2291
+2022,Missouri,New Hampshire,441
+2022,Missouri,New Jersey,2037
+2022,Missouri,New Mexico,744
+2022,Missouri,New York,2742
+2022,Missouri,North Carolina,1162
+2022,Missouri,North Dakota,150
+2022,Missouri,Ohio,2876
+2022,Missouri,Oklahoma,3488
+2022,Missouri,Oregon,1124
+2022,Missouri,Pennsylvania,2726
+2022,Missouri,Rhode Island,225
+2022,Missouri,South Carolina,2169
+2022,Missouri,South Dakota,457
+2022,Missouri,Tennessee,1829
+2022,Missouri,Texas,9168
+2022,Missouri,Utah,2206
+2022,Missouri,Vermont,237
+2022,Missouri,Virginia,3701
+2022,Missouri,Washington,4333
+2022,Missouri,West Virginia,511
+2022,Missouri,Wisconsin,2087
+2022,Missouri,Wyoming,916
+2022,Montana,Alabama,168
+2022,Montana,Alaska,498
+2022,Montana,Arizona,2415
+2022,Montana,Arkansas,32
+2022,Montana,California,4660
+2022,Montana,Colorado,3440
+2022,Montana,Connecticut,24
+2022,Montana,Delaware,0
+2022,Montana,District of Columbia ,93
+2022,Montana,Florida,1993
+2022,Montana,Georgia,563
+2022,Montana,Hawaii,612
+2022,Montana,Idaho,2244
+2022,Montana,Illinois,617
+2022,Montana,Indiana,693
+2022,Montana,Iowa,392
+2022,Montana,Kansas,57
+2022,Montana,Kentucky,15
+2022,Montana,Louisiana,857
+2022,Montana,Maine,515
+2022,Montana,Maryland,69
+2022,Montana,Massachusetts,158
+2022,Montana,Michigan,490
+2022,Montana,Minnesota,1234
+2022,Montana,Mississippi,229
+2022,Montana,Missouri,1092
+2022,Montana,Montana,N/A
+2022,Montana,Nebraska,675
+2022,Montana,Nevada,1281
+2022,Montana,New Hampshire,0
+2022,Montana,New Jersey,62
+2022,Montana,New Mexico,582
+2022,Montana,New York,441
+2022,Montana,North Carolina,1507
+2022,Montana,North Dakota,1540
+2022,Montana,Ohio,1095
+2022,Montana,Oklahoma,938
+2022,Montana,Oregon,3691
+2022,Montana,Pennsylvania,176
+2022,Montana,Rhode Island,0
+2022,Montana,South Carolina,41
+2022,Montana,South Dakota,438
+2022,Montana,Tennessee,719
+2022,Montana,Texas,1357
+2022,Montana,Utah,2570
+2022,Montana,Vermont,156
+2022,Montana,Virginia,64
+2022,Montana,Washington,5225
+2022,Montana,West Virginia,0
+2022,Montana,Wisconsin,1436
+2022,Montana,Wyoming,1011
+2022,Nebraska,Alabama,1418
+2022,Nebraska,Alaska,12
+2022,Nebraska,Arizona,3661
+2022,Nebraska,Arkansas,202
+2022,Nebraska,California,1535
+2022,Nebraska,Colorado,6422
+2022,Nebraska,Connecticut,80
+2022,Nebraska,Delaware,105
+2022,Nebraska,District of Columbia ,0
+2022,Nebraska,Florida,1203
+2022,Nebraska,Georgia,447
+2022,Nebraska,Hawaii,174
+2022,Nebraska,Idaho,531
+2022,Nebraska,Illinois,1295
+2022,Nebraska,Indiana,147
+2022,Nebraska,Iowa,5960
+2022,Nebraska,Kansas,2912
+2022,Nebraska,Kentucky,104
+2022,Nebraska,Louisiana,496
+2022,Nebraska,Maine,100
+2022,Nebraska,Maryland,236
+2022,Nebraska,Massachusetts,800
+2022,Nebraska,Michigan,235
+2022,Nebraska,Minnesota,1180
+2022,Nebraska,Mississippi,274
+2022,Nebraska,Missouri,3627
+2022,Nebraska,Montana,425
+2022,Nebraska,Nebraska,N/A
+2022,Nebraska,Nevada,707
+2022,Nebraska,New Hampshire,101
+2022,Nebraska,New Jersey,318
+2022,Nebraska,New Mexico,141
+2022,Nebraska,New York,554
+2022,Nebraska,North Carolina,538
+2022,Nebraska,North Dakota,500
+2022,Nebraska,Ohio,408
+2022,Nebraska,Oklahoma,637
+2022,Nebraska,Oregon,112
+2022,Nebraska,Pennsylvania,698
+2022,Nebraska,Rhode Island,186
+2022,Nebraska,South Carolina,263
+2022,Nebraska,South Dakota,1686
+2022,Nebraska,Tennessee,22
+2022,Nebraska,Texas,4285
+2022,Nebraska,Utah,255
+2022,Nebraska,Vermont,0
+2022,Nebraska,Virginia,180
+2022,Nebraska,Washington,1630
+2022,Nebraska,West Virginia,466
+2022,Nebraska,Wisconsin,258
+2022,Nebraska,Wyoming,1633
+2022,Nevada,Alabama,1007
+2022,Nevada,Alaska,1537
+2022,Nevada,Arizona,6888
+2022,Nevada,Arkansas,771
+2022,Nevada,California,48836
+2022,Nevada,Colorado,4522
+2022,Nevada,Connecticut,587
+2022,Nevada,Delaware,54
+2022,Nevada,District of Columbia ,106
+2022,Nevada,Florida,2360
+2022,Nevada,Georgia,842
+2022,Nevada,Hawaii,3380
+2022,Nevada,Idaho,780
+2022,Nevada,Illinois,3845
+2022,Nevada,Indiana,1436
+2022,Nevada,Iowa,1631
+2022,Nevada,Kansas,234
+2022,Nevada,Kentucky,275
+2022,Nevada,Louisiana,2125
+2022,Nevada,Maine,0
+2022,Nevada,Maryland,317
+2022,Nevada,Massachusetts,748
+2022,Nevada,Michigan,2675
+2022,Nevada,Minnesota,1863
+2022,Nevada,Mississippi,970
+2022,Nevada,Missouri,777
+2022,Nevada,Montana,691
+2022,Nevada,Nebraska,462
+2022,Nevada,Nevada,N/A
+2022,Nevada,New Hampshire,85
+2022,Nevada,New Jersey,829
+2022,Nevada,New Mexico,591
+2022,Nevada,New York,3795
+2022,Nevada,North Carolina,2053
+2022,Nevada,North Dakota,404
+2022,Nevada,Ohio,985
+2022,Nevada,Oklahoma,288
+2022,Nevada,Oregon,2942
+2022,Nevada,Pennsylvania,2167
+2022,Nevada,Rhode Island,0
+2022,Nevada,South Carolina,101
+2022,Nevada,South Dakota,0
+2022,Nevada,Tennessee,2606
+2022,Nevada,Texas,6946
+2022,Nevada,Utah,4113
+2022,Nevada,Vermont,90
+2022,Nevada,Virginia,1436
+2022,Nevada,Washington,6212
+2022,Nevada,West Virginia,201
+2022,Nevada,Wisconsin,1316
+2022,Nevada,Wyoming,527
+2022,New Hampshire,Alabama,0
+2022,New Hampshire,Alaska,209
+2022,New Hampshire,Arizona,430
+2022,New Hampshire,Arkansas,0
+2022,New Hampshire,California,2974
+2022,New Hampshire,Colorado,1025
+2022,New Hampshire,Connecticut,2087
+2022,New Hampshire,Delaware,0
+2022,New Hampshire,District of Columbia ,257
+2022,New Hampshire,Florida,1938
+2022,New Hampshire,Georgia,416
+2022,New Hampshire,Hawaii,251
+2022,New Hampshire,Idaho,0
+2022,New Hampshire,Illinois,412
+2022,New Hampshire,Indiana,249
+2022,New Hampshire,Iowa,130
+2022,New Hampshire,Kansas,0
+2022,New Hampshire,Kentucky,0
+2022,New Hampshire,Louisiana,0
+2022,New Hampshire,Maine,2743
+2022,New Hampshire,Maryland,726
+2022,New Hampshire,Massachusetts,23605
+2022,New Hampshire,Michigan,0
+2022,New Hampshire,Minnesota,275
+2022,New Hampshire,Mississippi,0
+2022,New Hampshire,Missouri,49
+2022,New Hampshire,Montana,83
+2022,New Hampshire,Nebraska,0
+2022,New Hampshire,Nevada,496
+2022,New Hampshire,New Hampshire,N/A
+2022,New Hampshire,New Jersey,699
+2022,New Hampshire,New Mexico,0
+2022,New Hampshire,New York,1939
+2022,New Hampshire,North Carolina,1016
+2022,New Hampshire,North Dakota,0
+2022,New Hampshire,Ohio,579
+2022,New Hampshire,Oklahoma,98
+2022,New Hampshire,Oregon,39
+2022,New Hampshire,Pennsylvania,1247
+2022,New Hampshire,Rhode Island,1000
+2022,New Hampshire,South Carolina,126
+2022,New Hampshire,South Dakota,106
+2022,New Hampshire,Tennessee,244
+2022,New Hampshire,Texas,1239
+2022,New Hampshire,Utah,435
+2022,New Hampshire,Vermont,2073
+2022,New Hampshire,Virginia,529
+2022,New Hampshire,Washington,58
+2022,New Hampshire,West Virginia,0
+2022,New Hampshire,Wisconsin,0
+2022,New Hampshire,Wyoming,0
+2022,New Jersey,Alabama,565
+2022,New Jersey,Alaska,0
+2022,New Jersey,Arizona,1077
+2022,New Jersey,Arkansas,221
+2022,New Jersey,California,6543
+2022,New Jersey,Colorado,1905
+2022,New Jersey,Connecticut,1417
+2022,New Jersey,Delaware,1463
+2022,New Jersey,District of Columbia ,1625
+2022,New Jersey,Florida,9627
+2022,New Jersey,Georgia,961
+2022,New Jersey,Hawaii,1215
+2022,New Jersey,Idaho,0
+2022,New Jersey,Illinois,2484
+2022,New Jersey,Indiana,2710
+2022,New Jersey,Iowa,165
+2022,New Jersey,Kansas,54
+2022,New Jersey,Kentucky,357
+2022,New Jersey,Louisiana,753
+2022,New Jersey,Maine,287
+2022,New Jersey,Maryland,3249
+2022,New Jersey,Massachusetts,4383
+2022,New Jersey,Michigan,985
+2022,New Jersey,Minnesota,1400
+2022,New Jersey,Mississippi,0
+2022,New Jersey,Missouri,299
+2022,New Jersey,Montana,0
+2022,New Jersey,Nebraska,0
+2022,New Jersey,Nevada,965
+2022,New Jersey,New Hampshire,157
+2022,New Jersey,New Jersey,N/A
+2022,New Jersey,New Mexico,228
+2022,New Jersey,New York,75103
+2022,New Jersey,North Carolina,3264
+2022,New Jersey,North Dakota,86
+2022,New Jersey,Ohio,1991
+2022,New Jersey,Oklahoma,922
+2022,New Jersey,Oregon,108
+2022,New Jersey,Pennsylvania,31309
+2022,New Jersey,Rhode Island,883
+2022,New Jersey,South Carolina,2817
+2022,New Jersey,South Dakota,0
+2022,New Jersey,Tennessee,366
+2022,New Jersey,Texas,5690
+2022,New Jersey,Utah,223
+2022,New Jersey,Vermont,310
+2022,New Jersey,Virginia,4689
+2022,New Jersey,Washington,1179
+2022,New Jersey,West Virginia,262
+2022,New Jersey,Wisconsin,726
+2022,New Jersey,Wyoming,0
+2022,New Mexico,Alabama,316
+2022,New Mexico,Alaska,301
+2022,New Mexico,Arizona,6862
+2022,New Mexico,Arkansas,205
+2022,New Mexico,California,8897
+2022,New Mexico,Colorado,7846
+2022,New Mexico,Connecticut,391
+2022,New Mexico,Delaware,61
+2022,New Mexico,District of Columbia ,269
+2022,New Mexico,Florida,2164
+2022,New Mexico,Georgia,1162
+2022,New Mexico,Hawaii,219
+2022,New Mexico,Idaho,866
+2022,New Mexico,Illinois,1261
+2022,New Mexico,Indiana,0
+2022,New Mexico,Iowa,1343
+2022,New Mexico,Kansas,423
+2022,New Mexico,Kentucky,671
+2022,New Mexico,Louisiana,304
+2022,New Mexico,Maine,107
+2022,New Mexico,Maryland,457
+2022,New Mexico,Massachusetts,364
+2022,New Mexico,Michigan,364
+2022,New Mexico,Minnesota,373
+2022,New Mexico,Mississippi,144
+2022,New Mexico,Missouri,1237
+2022,New Mexico,Montana,313
+2022,New Mexico,Nebraska,380
+2022,New Mexico,Nevada,1621
+2022,New Mexico,New Hampshire,210
+2022,New Mexico,New Jersey,844
+2022,New Mexico,New Mexico,N/A
+2022,New Mexico,New York,2467
+2022,New Mexico,North Carolina,1114
+2022,New Mexico,North Dakota,0
+2022,New Mexico,Ohio,1186
+2022,New Mexico,Oklahoma,393
+2022,New Mexico,Oregon,503
+2022,New Mexico,Pennsylvania,1114
+2022,New Mexico,Rhode Island,126
+2022,New Mexico,South Carolina,67
+2022,New Mexico,South Dakota,770
+2022,New Mexico,Tennessee,271
+2022,New Mexico,Texas,16986
+2022,New Mexico,Utah,1959
+2022,New Mexico,Vermont,0
+2022,New Mexico,Virginia,1749
+2022,New Mexico,Washington,2468
+2022,New Mexico,West Virginia,0
+2022,New Mexico,Wisconsin,440
+2022,New Mexico,Wyoming,507
+2022,New York,Alabama,804
+2022,New York,Alaska,387
+2022,New York,Arizona,4661
+2022,New York,Arkansas,430
+2022,New York,California,34681
+2022,New York,Colorado,5720
+2022,New York,Connecticut,14981
+2022,New York,Delaware,2179
+2022,New York,District of Columbia ,5861
+2022,New York,Florida,21300
+2022,New York,Georgia,8889
+2022,New York,Hawaii,475
+2022,New York,Idaho,451
+2022,New York,Illinois,8679
+2022,New York,Indiana,2426
+2022,New York,Iowa,1788
+2022,New York,Kansas,2097
+2022,New York,Kentucky,1167
+2022,New York,Louisiana,719
+2022,New York,Maine,2949
+2022,New York,Maryland,7787
+2022,New York,Massachusetts,20673
+2022,New York,Michigan,3851
+2022,New York,Minnesota,1922
+2022,New York,Mississippi,769
+2022,New York,Missouri,2589
+2022,New York,Montana,1092
+2022,New York,Nebraska,640
+2022,New York,Nevada,2215
+2022,New York,New Hampshire,3663
+2022,New York,New Jersey,38771
+2022,New York,New Mexico,455
+2022,New York,New York,N/A
+2022,New York,North Carolina,10915
+2022,New York,North Dakota,47
+2022,New York,Ohio,3714
+2022,New York,Oklahoma,3095
+2022,New York,Oregon,3883
+2022,New York,Pennsylvania,28184
+2022,New York,Rhode Island,1993
+2022,New York,South Carolina,3432
+2022,New York,South Dakota,219
+2022,New York,Tennessee,2164
+2022,New York,Texas,12233
+2022,New York,Utah,1182
+2022,New York,Vermont,4092
+2022,New York,Virginia,11990
+2022,New York,Washington,4683
+2022,New York,West Virginia,231
+2022,New York,Wisconsin,3411
+2022,New York,Wyoming,922
+2022,North Carolina,Alabama,3872
+2022,North Carolina,Alaska,1900
+2022,North Carolina,Arizona,5619
+2022,North Carolina,Arkansas,2057
+2022,North Carolina,California,22891
+2022,North Carolina,Colorado,7298
+2022,North Carolina,Connecticut,4250
+2022,North Carolina,Delaware,1184
+2022,North Carolina,District of Columbia ,1399
+2022,North Carolina,Florida,34920
+2022,North Carolina,Georgia,22551
+2022,North Carolina,Hawaii,3685
+2022,North Carolina,Idaho,734
+2022,North Carolina,Illinois,7931
+2022,North Carolina,Indiana,4829
+2022,North Carolina,Iowa,1567
+2022,North Carolina,Kansas,2392
+2022,North Carolina,Kentucky,2152
+2022,North Carolina,Louisiana,2191
+2022,North Carolina,Maine,2021
+2022,North Carolina,Maryland,12924
+2022,North Carolina,Massachusetts,6781
+2022,North Carolina,Michigan,4295
+2022,North Carolina,Minnesota,3518
+2022,North Carolina,Mississippi,582
+2022,North Carolina,Missouri,4786
+2022,North Carolina,Montana,231
+2022,North Carolina,Nebraska,641
+2022,North Carolina,Nevada,4196
+2022,North Carolina,New Hampshire,2698
+2022,North Carolina,New Jersey,10750
+2022,North Carolina,New Mexico,936
+2022,North Carolina,New York,25024
+2022,North Carolina,North Carolina,N/A
+2022,North Carolina,North Dakota,116
+2022,North Carolina,Ohio,10094
+2022,North Carolina,Oklahoma,1736
+2022,North Carolina,Oregon,2019
+2022,North Carolina,Pennsylvania,11683
+2022,North Carolina,Rhode Island,1736
+2022,North Carolina,South Carolina,27961
+2022,North Carolina,South Dakota,742
+2022,North Carolina,Tennessee,9049
+2022,North Carolina,Texas,16332
+2022,North Carolina,Utah,2942
+2022,North Carolina,Vermont,550
+2022,North Carolina,Virginia,33919
+2022,North Carolina,Washington,3962
+2022,North Carolina,West Virginia,3016
+2022,North Carolina,Wisconsin,2294
+2022,North Carolina,Wyoming,626
+2022,North Dakota,Alabama,78
+2022,North Dakota,Alaska,453
+2022,North Dakota,Arizona,535
+2022,North Dakota,Arkansas,34
+2022,North Dakota,California,1989
+2022,North Dakota,Colorado,912
+2022,North Dakota,Connecticut,0
+2022,North Dakota,Delaware,0
+2022,North Dakota,District of Columbia ,80
+2022,North Dakota,Florida,675
+2022,North Dakota,Georgia,433
+2022,North Dakota,Hawaii,39
+2022,North Dakota,Idaho,338
+2022,North Dakota,Illinois,458
+2022,North Dakota,Indiana,324
+2022,North Dakota,Iowa,478
+2022,North Dakota,Kansas,78
+2022,North Dakota,Kentucky,19
+2022,North Dakota,Louisiana,506
+2022,North Dakota,Maine,25
+2022,North Dakota,Maryland,94
+2022,North Dakota,Massachusetts,51
+2022,North Dakota,Michigan,124
+2022,North Dakota,Minnesota,13047
+2022,North Dakota,Mississippi,5
+2022,North Dakota,Missouri,144
+2022,North Dakota,Montana,2496
+2022,North Dakota,Nebraska,131
+2022,North Dakota,Nevada,277
+2022,North Dakota,New Hampshire,2
+2022,North Dakota,New Jersey,52
+2022,North Dakota,New Mexico,1281
+2022,North Dakota,New York,526
+2022,North Dakota,North Carolina,23
+2022,North Dakota,North Dakota,N/A
+2022,North Dakota,Ohio,0
+2022,North Dakota,Oklahoma,507
+2022,North Dakota,Oregon,638
+2022,North Dakota,Pennsylvania,128
+2022,North Dakota,Rhode Island,0
+2022,North Dakota,South Carolina,0
+2022,North Dakota,South Dakota,1433
+2022,North Dakota,Tennessee,56
+2022,North Dakota,Texas,1745
+2022,North Dakota,Utah,349
+2022,North Dakota,Vermont,0
+2022,North Dakota,Virginia,113
+2022,North Dakota,Washington,1040
+2022,North Dakota,West Virginia,0
+2022,North Dakota,Wisconsin,2376
+2022,North Dakota,Wyoming,444
+2022,Ohio,Alabama,3028
+2022,Ohio,Alaska,168
+2022,Ohio,Arizona,5224
+2022,Ohio,Arkansas,1804
+2022,Ohio,California,11924
+2022,Ohio,Colorado,4849
+2022,Ohio,Connecticut,675
+2022,Ohio,Delaware,706
+2022,Ohio,District of Columbia ,180
+2022,Ohio,Florida,16831
+2022,Ohio,Georgia,4155
+2022,Ohio,Hawaii,1187
+2022,Ohio,Idaho,514
+2022,Ohio,Illinois,8652
+2022,Ohio,Indiana,12230
+2022,Ohio,Iowa,1380
+2022,Ohio,Kansas,960
+2022,Ohio,Kentucky,13836
+2022,Ohio,Louisiana,2047
+2022,Ohio,Maine,250
+2022,Ohio,Maryland,3284
+2022,Ohio,Massachusetts,3523
+2022,Ohio,Michigan,12753
+2022,Ohio,Minnesota,1972
+2022,Ohio,Mississippi,181
+2022,Ohio,Missouri,2945
+2022,Ohio,Montana,238
+2022,Ohio,Nebraska,274
+2022,Ohio,Nevada,1334
+2022,Ohio,New Hampshire,152
+2022,Ohio,New Jersey,6277
+2022,Ohio,New Mexico,264
+2022,Ohio,New York,8431
+2022,Ohio,North Carolina,5592
+2022,Ohio,North Dakota,478
+2022,Ohio,Ohio,N/A
+2022,Ohio,Oklahoma,510
+2022,Ohio,Oregon,1922
+2022,Ohio,Pennsylvania,11399
+2022,Ohio,Rhode Island,381
+2022,Ohio,South Carolina,4476
+2022,Ohio,South Dakota,205
+2022,Ohio,Tennessee,6283
+2022,Ohio,Texas,10239
+2022,Ohio,Utah,1670
+2022,Ohio,Vermont,516
+2022,Ohio,Virginia,7309
+2022,Ohio,Washington,2929
+2022,Ohio,West Virginia,11095
+2022,Ohio,Wisconsin,3514
+2022,Ohio,Wyoming,63
+2022,Oklahoma,Alabama,846
+2022,Oklahoma,Alaska,1124
+2022,Oklahoma,Arizona,4822
+2022,Oklahoma,Arkansas,4277
+2022,Oklahoma,California,15200
+2022,Oklahoma,Colorado,5902
+2022,Oklahoma,Connecticut,1038
+2022,Oklahoma,Delaware,314
+2022,Oklahoma,District of Columbia ,272
+2022,Oklahoma,Florida,3478
+2022,Oklahoma,Georgia,2576
+2022,Oklahoma,Hawaii,1164
+2022,Oklahoma,Idaho,422
+2022,Oklahoma,Illinois,3052
+2022,Oklahoma,Indiana,449
+2022,Oklahoma,Iowa,380
+2022,Oklahoma,Kansas,7440
+2022,Oklahoma,Kentucky,657
+2022,Oklahoma,Louisiana,2140
+2022,Oklahoma,Maine,205
+2022,Oklahoma,Maryland,213
+2022,Oklahoma,Massachusetts,604
+2022,Oklahoma,Michigan,770
+2022,Oklahoma,Minnesota,778
+2022,Oklahoma,Mississippi,722
+2022,Oklahoma,Missouri,5711
+2022,Oklahoma,Montana,729
+2022,Oklahoma,Nebraska,231
+2022,Oklahoma,Nevada,1989
+2022,Oklahoma,New Hampshire,57
+2022,Oklahoma,New Jersey,60
+2022,Oklahoma,New Mexico,1388
+2022,Oklahoma,New York,1840
+2022,Oklahoma,North Carolina,2613
+2022,Oklahoma,North Dakota,443
+2022,Oklahoma,Ohio,943
+2022,Oklahoma,Oklahoma,N/A
+2022,Oklahoma,Oregon,3187
+2022,Oklahoma,Pennsylvania,757
+2022,Oklahoma,Rhode Island,0
+2022,Oklahoma,South Carolina,658
+2022,Oklahoma,South Dakota,750
+2022,Oklahoma,Tennessee,1988
+2022,Oklahoma,Texas,26440
+2022,Oklahoma,Utah,1003
+2022,Oklahoma,Vermont,0
+2022,Oklahoma,Virginia,2152
+2022,Oklahoma,Washington,3811
+2022,Oklahoma,West Virginia,432
+2022,Oklahoma,Wisconsin,1514
+2022,Oklahoma,Wyoming,247
+2022,Oregon,Alabama,216
+2022,Oregon,Alaska,236
+2022,Oregon,Arizona,6108
+2022,Oregon,Arkansas,422
+2022,Oregon,California,36429
+2022,Oregon,Colorado,4827
+2022,Oregon,Connecticut,267
+2022,Oregon,Delaware,0
+2022,Oregon,District of Columbia ,61
+2022,Oregon,Florida,3501
+2022,Oregon,Georgia,1230
+2022,Oregon,Hawaii,2099
+2022,Oregon,Idaho,7508
+2022,Oregon,Illinois,3266
+2022,Oregon,Indiana,642
+2022,Oregon,Iowa,978
+2022,Oregon,Kansas,562
+2022,Oregon,Kentucky,53
+2022,Oregon,Louisiana,1190
+2022,Oregon,Maine,626
+2022,Oregon,Maryland,687
+2022,Oregon,Massachusetts,2062
+2022,Oregon,Michigan,1139
+2022,Oregon,Minnesota,1525
+2022,Oregon,Mississippi,358
+2022,Oregon,Missouri,120
+2022,Oregon,Montana,2723
+2022,Oregon,Nebraska,726
+2022,Oregon,Nevada,2049
+2022,Oregon,New Hampshire,102
+2022,Oregon,New Jersey,833
+2022,Oregon,New Mexico,1057
+2022,Oregon,New York,3712
+2022,Oregon,North Carolina,775
+2022,Oregon,North Dakota,278
+2022,Oregon,Ohio,2302
+2022,Oregon,Oklahoma,834
+2022,Oregon,Oregon,N/A
+2022,Oregon,Pennsylvania,624
+2022,Oregon,Rhode Island,0
+2022,Oregon,South Carolina,828
+2022,Oregon,South Dakota,261
+2022,Oregon,Tennessee,1819
+2022,Oregon,Texas,3534
+2022,Oregon,Utah,2390
+2022,Oregon,Vermont,260
+2022,Oregon,Virginia,539
+2022,Oregon,Washington,25457
+2022,Oregon,West Virginia,0
+2022,Oregon,Wisconsin,1056
+2022,Oregon,Wyoming,88
+2022,Pennsylvania,Alabama,775
+2022,Pennsylvania,Alaska,519
+2022,Pennsylvania,Arizona,5561
+2022,Pennsylvania,Arkansas,624
+2022,Pennsylvania,California,16336
+2022,Pennsylvania,Colorado,3840
+2022,Pennsylvania,Connecticut,2816
+2022,Pennsylvania,Delaware,8158
+2022,Pennsylvania,District of Columbia ,1664
+2022,Pennsylvania,Florida,16014
+2022,Pennsylvania,Georgia,2982
+2022,Pennsylvania,Hawaii,193
+2022,Pennsylvania,Idaho,1962
+2022,Pennsylvania,Illinois,5659
+2022,Pennsylvania,Indiana,1498
+2022,Pennsylvania,Iowa,1051
+2022,Pennsylvania,Kansas,63
+2022,Pennsylvania,Kentucky,1371
+2022,Pennsylvania,Louisiana,2744
+2022,Pennsylvania,Maine,1205
+2022,Pennsylvania,Maryland,22247
+2022,Pennsylvania,Massachusetts,7541
+2022,Pennsylvania,Michigan,3322
+2022,Pennsylvania,Minnesota,1239
+2022,Pennsylvania,Mississippi,1141
+2022,Pennsylvania,Missouri,1160
+2022,Pennsylvania,Montana,593
+2022,Pennsylvania,Nebraska,75
+2022,Pennsylvania,Nevada,1555
+2022,Pennsylvania,New Hampshire,1260
+2022,Pennsylvania,New Jersey,40517
+2022,Pennsylvania,New Mexico,386
+2022,Pennsylvania,New York,44807
+2022,Pennsylvania,North Carolina,9687
+2022,Pennsylvania,North Dakota,0
+2022,Pennsylvania,Ohio,10436
+2022,Pennsylvania,Oklahoma,263
+2022,Pennsylvania,Oregon,1530
+2022,Pennsylvania,Pennsylvania,N/A
+2022,Pennsylvania,Rhode Island,1206
+2022,Pennsylvania,South Carolina,4706
+2022,Pennsylvania,South Dakota,36
+2022,Pennsylvania,Tennessee,4227
+2022,Pennsylvania,Texas,8544
+2022,Pennsylvania,Utah,293
+2022,Pennsylvania,Vermont,247
+2022,Pennsylvania,Virginia,11888
+2022,Pennsylvania,Washington,2687
+2022,Pennsylvania,West Virginia,2442
+2022,Pennsylvania,Wisconsin,3401
+2022,Pennsylvania,Wyoming,229
+2022,Rhode Island,Alabama,184
+2022,Rhode Island,Alaska,0
+2022,Rhode Island,Arizona,662
+2022,Rhode Island,Arkansas,85
+2022,Rhode Island,California,919
+2022,Rhode Island,Colorado,0
+2022,Rhode Island,Connecticut,2896
+2022,Rhode Island,Delaware,49
+2022,Rhode Island,District of Columbia ,501
+2022,Rhode Island,Florida,3951
+2022,Rhode Island,Georgia,369
+2022,Rhode Island,Hawaii,420
+2022,Rhode Island,Idaho,230
+2022,Rhode Island,Illinois,355
+2022,Rhode Island,Indiana,0
+2022,Rhode Island,Iowa,210
+2022,Rhode Island,Kansas,0
+2022,Rhode Island,Kentucky,84
+2022,Rhode Island,Louisiana,86
+2022,Rhode Island,Maine,310
+2022,Rhode Island,Maryland,1143
+2022,Rhode Island,Massachusetts,12606
+2022,Rhode Island,Michigan,158
+2022,Rhode Island,Minnesota,234
+2022,Rhode Island,Mississippi,67
+2022,Rhode Island,Missouri,1063
+2022,Rhode Island,Montana,0
+2022,Rhode Island,Nebraska,0
+2022,Rhode Island,Nevada,309
+2022,Rhode Island,New Hampshire,261
+2022,Rhode Island,New Jersey,1330
+2022,Rhode Island,New Mexico,97
+2022,Rhode Island,New York,2324
+2022,Rhode Island,North Carolina,468
+2022,Rhode Island,North Dakota,215
+2022,Rhode Island,Ohio,120
+2022,Rhode Island,Oklahoma,0
+2022,Rhode Island,Oregon,152
+2022,Rhode Island,Pennsylvania,1543
+2022,Rhode Island,Rhode Island,N/A
+2022,Rhode Island,South Carolina,1100
+2022,Rhode Island,South Dakota,0
+2022,Rhode Island,Tennessee,172
+2022,Rhode Island,Texas,2684
+2022,Rhode Island,Utah,618
+2022,Rhode Island,Vermont,466
+2022,Rhode Island,Virginia,786
+2022,Rhode Island,Washington,662
+2022,Rhode Island,West Virginia,0
+2022,Rhode Island,Wisconsin,243
+2022,Rhode Island,Wyoming,179
+2022,South Carolina,Alabama,1438
+2022,South Carolina,Alaska,332
+2022,South Carolina,Arizona,2628
+2022,South Carolina,Arkansas,819
+2022,South Carolina,California,15035
+2022,South Carolina,Colorado,2472
+2022,South Carolina,Connecticut,4437
+2022,South Carolina,Delaware,2007
+2022,South Carolina,District of Columbia ,1234
+2022,South Carolina,Florida,14769
+2022,South Carolina,Georgia,19121
+2022,South Carolina,Hawaii,191
+2022,South Carolina,Idaho,387
+2022,South Carolina,Illinois,5342
+2022,South Carolina,Indiana,3136
+2022,South Carolina,Iowa,973
+2022,South Carolina,Kansas,914
+2022,South Carolina,Kentucky,1832
+2022,South Carolina,Louisiana,2225
+2022,South Carolina,Maine,1080
+2022,South Carolina,Maryland,7891
+2022,South Carolina,Massachusetts,5109
+2022,South Carolina,Michigan,1829
+2022,South Carolina,Minnesota,1234
+2022,South Carolina,Mississippi,2505
+2022,South Carolina,Missouri,2362
+2022,South Carolina,Montana,778
+2022,South Carolina,Nebraska,54
+2022,South Carolina,Nevada,388
+2022,South Carolina,New Hampshire,2191
+2022,South Carolina,New Jersey,7926
+2022,South Carolina,New Mexico,804
+2022,South Carolina,New York,15537
+2022,South Carolina,North Carolina,36324
+2022,South Carolina,North Dakota,653
+2022,South Carolina,Ohio,6059
+2022,South Carolina,Oklahoma,1338
+2022,South Carolina,Oregon,1561
+2022,South Carolina,Pennsylvania,9377
+2022,South Carolina,Rhode Island,720
+2022,South Carolina,South Carolina,N/A
+2022,South Carolina,South Dakota,30
+2022,South Carolina,Tennessee,4374
+2022,South Carolina,Texas,8811
+2022,South Carolina,Utah,1118
+2022,South Carolina,Vermont,1206
+2022,South Carolina,Virginia,11446
+2022,South Carolina,Washington,5097
+2022,South Carolina,West Virginia,1195
+2022,South Carolina,Wisconsin,989
+2022,South Carolina,Wyoming,429
+2022,South Dakota,Alabama,0
+2022,South Dakota,Alaska,165
+2022,South Dakota,Arizona,1446
+2022,South Dakota,Arkansas,342
+2022,South Dakota,California,957
+2022,South Dakota,Colorado,726
+2022,South Dakota,Connecticut,0
+2022,South Dakota,Delaware,0
+2022,South Dakota,District of Columbia ,0
+2022,South Dakota,Florida,328
+2022,South Dakota,Georgia,2134
+2022,South Dakota,Hawaii,729
+2022,South Dakota,Idaho,106
+2022,South Dakota,Illinois,29
+2022,South Dakota,Indiana,29
+2022,South Dakota,Iowa,2939
+2022,South Dakota,Kansas,438
+2022,South Dakota,Kentucky,60
+2022,South Dakota,Louisiana,320
+2022,South Dakota,Maine,0
+2022,South Dakota,Maryland,0
+2022,South Dakota,Massachusetts,76
+2022,South Dakota,Michigan,375
+2022,South Dakota,Minnesota,6934
+2022,South Dakota,Mississippi,114
+2022,South Dakota,Missouri,627
+2022,South Dakota,Montana,1363
+2022,South Dakota,Nebraska,2109
+2022,South Dakota,Nevada,838
+2022,South Dakota,New Hampshire,0
+2022,South Dakota,New Jersey,66
+2022,South Dakota,New Mexico,401
+2022,South Dakota,New York,52
+2022,South Dakota,North Carolina,441
+2022,South Dakota,North Dakota,645
+2022,South Dakota,Ohio,120
+2022,South Dakota,Oklahoma,0
+2022,South Dakota,Oregon,1314
+2022,South Dakota,Pennsylvania,129
+2022,South Dakota,Rhode Island,0
+2022,South Dakota,South Carolina,208
+2022,South Dakota,South Dakota,N/A
+2022,South Dakota,Tennessee,340
+2022,South Dakota,Texas,832
+2022,South Dakota,Utah,195
+2022,South Dakota,Vermont,0
+2022,South Dakota,Virginia,373
+2022,South Dakota,Washington,1001
+2022,South Dakota,West Virginia,0
+2022,South Dakota,Wisconsin,487
+2022,South Dakota,Wyoming,1512
+2022,Tennessee,Alabama,9375
+2022,Tennessee,Alaska,1025
+2022,Tennessee,Arizona,4584
+2022,Tennessee,Arkansas,7202
+2022,Tennessee,California,22565
+2022,Tennessee,Colorado,4105
+2022,Tennessee,Connecticut,936
+2022,Tennessee,Delaware,114
+2022,Tennessee,District of Columbia ,391
+2022,Tennessee,Florida,25318
+2022,Tennessee,Georgia,14770
+2022,Tennessee,Hawaii,430
+2022,Tennessee,Idaho,1332
+2022,Tennessee,Illinois,12602
+2022,Tennessee,Indiana,4067
+2022,Tennessee,Iowa,332
+2022,Tennessee,Kansas,744
+2022,Tennessee,Kentucky,8227
+2022,Tennessee,Louisiana,4772
+2022,Tennessee,Maine,0
+2022,Tennessee,Maryland,2635
+2022,Tennessee,Massachusetts,2424
+2022,Tennessee,Michigan,5843
+2022,Tennessee,Minnesota,1809
+2022,Tennessee,Mississippi,9491
+2022,Tennessee,Missouri,3102
+2022,Tennessee,Montana,556
+2022,Tennessee,Nebraska,981
+2022,Tennessee,Nevada,1034
+2022,Tennessee,New Hampshire,528
+2022,Tennessee,New Jersey,3517
+2022,Tennessee,New Mexico,146
+2022,Tennessee,New York,5821
+2022,Tennessee,North Carolina,7391
+2022,Tennessee,North Dakota,94
+2022,Tennessee,Ohio,5708
+2022,Tennessee,Oklahoma,1548
+2022,Tennessee,Oregon,2016
+2022,Tennessee,Pennsylvania,6568
+2022,Tennessee,Rhode Island,688
+2022,Tennessee,South Carolina,6557
+2022,Tennessee,South Dakota,592
+2022,Tennessee,Tennessee,N/A
+2022,Tennessee,Texas,12862
+2022,Tennessee,Utah,2567
+2022,Tennessee,Vermont,184
+2022,Tennessee,Virginia,9450
+2022,Tennessee,Washington,4661
+2022,Tennessee,West Virginia,486
+2022,Tennessee,Wisconsin,3494
+2022,Tennessee,Wyoming,325
+2022,Texas,Alabama,8618
+2022,Texas,Alaska,3943
+2022,Texas,Arizona,22634
+2022,Texas,Arkansas,18562
+2022,Texas,California,102442
+2022,Texas,Colorado,24511
+2022,Texas,Connecticut,4973
+2022,Texas,Delaware,1817
+2022,Texas,District of Columbia ,1461
+2022,Texas,Florida,41747
+2022,Texas,Georgia,22324
+2022,Texas,Hawaii,6970
+2022,Texas,Idaho,3553
+2022,Texas,Illinois,25272
+2022,Texas,Indiana,10167
+2022,Texas,Iowa,7080
+2022,Texas,Kansas,8257
+2022,Texas,Kentucky,8006
+2022,Texas,Louisiana,25192
+2022,Texas,Maine,1910
+2022,Texas,Maryland,13711
+2022,Texas,Massachusetts,9565
+2022,Texas,Michigan,13692
+2022,Texas,Minnesota,9423
+2022,Texas,Mississippi,8177
+2022,Texas,Missouri,12766
+2022,Texas,Montana,2224
+2022,Texas,Nebraska,4296
+2022,Texas,Nevada,12645
+2022,Texas,New Hampshire,1593
+2022,Texas,New Jersey,12949
+2022,Texas,New Mexico,17455
+2022,Texas,New York,30890
+2022,Texas,North Carolina,17975
+2022,Texas,North Dakota,2791
+2022,Texas,Ohio,12423
+2022,Texas,Oklahoma,24318
+2022,Texas,Oregon,12894
+2022,Texas,Pennsylvania,12578
+2022,Texas,Rhode Island,346
+2022,Texas,South Carolina,6016
+2022,Texas,South Dakota,1940
+2022,Texas,Tennessee,12617
+2022,Texas,Texas,N/A
+2022,Texas,Utah,10887
+2022,Texas,Vermont,416
+2022,Texas,Virginia,20705
+2022,Texas,Washington,21083
+2022,Texas,West Virginia,1232
+2022,Texas,Wisconsin,9388
+2022,Texas,Wyoming,1904
+2022,Utah,Alabama,609
+2022,Utah,Alaska,338
+2022,Utah,Arizona,5357
+2022,Utah,Arkansas,690
+2022,Utah,California,18669
+2022,Utah,Colorado,5327
+2022,Utah,Connecticut,161
+2022,Utah,Delaware,0
+2022,Utah,District of Columbia ,0
+2022,Utah,Florida,3025
+2022,Utah,Georgia,398
+2022,Utah,Hawaii,1299
+2022,Utah,Idaho,7774
+2022,Utah,Illinois,1456
+2022,Utah,Indiana,111
+2022,Utah,Iowa,60
+2022,Utah,Kansas,247
+2022,Utah,Kentucky,702
+2022,Utah,Louisiana,34
+2022,Utah,Maine,501
+2022,Utah,Maryland,1030
+2022,Utah,Massachusetts,1391
+2022,Utah,Michigan,1263
+2022,Utah,Minnesota,980
+2022,Utah,Mississippi,79
+2022,Utah,Missouri,1723
+2022,Utah,Montana,709
+2022,Utah,Nebraska,233
+2022,Utah,Nevada,3549
+2022,Utah,New Hampshire,208
+2022,Utah,New Jersey,563
+2022,Utah,New Mexico,1338
+2022,Utah,New York,2236
+2022,Utah,North Carolina,1348
+2022,Utah,North Dakota,227
+2022,Utah,Ohio,929
+2022,Utah,Oklahoma,547
+2022,Utah,Oregon,2413
+2022,Utah,Pennsylvania,1366
+2022,Utah,Rhode Island,367
+2022,Utah,South Carolina,1196
+2022,Utah,South Dakota,85
+2022,Utah,Tennessee,730
+2022,Utah,Texas,7070
+2022,Utah,Utah,N/A
+2022,Utah,Vermont,554
+2022,Utah,Virginia,1675
+2022,Utah,Washington,8845
+2022,Utah,West Virginia,108
+2022,Utah,Wisconsin,391
+2022,Utah,Wyoming,1430
+2022,Vermont,Alabama,0
+2022,Vermont,Alaska,203
+2022,Vermont,Arizona,264
+2022,Vermont,Arkansas,428
+2022,Vermont,California,855
+2022,Vermont,Colorado,230
+2022,Vermont,Connecticut,1247
+2022,Vermont,Delaware,142
+2022,Vermont,District of Columbia ,307
+2022,Vermont,Florida,873
+2022,Vermont,Georgia,143
+2022,Vermont,Hawaii,121
+2022,Vermont,Idaho,145
+2022,Vermont,Illinois,404
+2022,Vermont,Indiana,219
+2022,Vermont,Iowa,333
+2022,Vermont,Kansas,0
+2022,Vermont,Kentucky,320
+2022,Vermont,Louisiana,25
+2022,Vermont,Maine,1068
+2022,Vermont,Maryland,842
+2022,Vermont,Massachusetts,4760
+2022,Vermont,Michigan,201
+2022,Vermont,Minnesota,47
+2022,Vermont,Mississippi,140
+2022,Vermont,Missouri,19
+2022,Vermont,Montana,327
+2022,Vermont,Nebraska,0
+2022,Vermont,Nevada,208
+2022,Vermont,New Hampshire,1826
+2022,Vermont,New Jersey,1659
+2022,Vermont,New Mexico,103
+2022,Vermont,New York,3196
+2022,Vermont,North Carolina,996
+2022,Vermont,North Dakota,0
+2022,Vermont,Ohio,20
+2022,Vermont,Oklahoma,0
+2022,Vermont,Oregon,287
+2022,Vermont,Pennsylvania,873
+2022,Vermont,Rhode Island,80
+2022,Vermont,South Carolina,93
+2022,Vermont,South Dakota,0
+2022,Vermont,Tennessee,18
+2022,Vermont,Texas,1128
+2022,Vermont,Utah,12
+2022,Vermont,Vermont,N/A
+2022,Vermont,Virginia,1215
+2022,Vermont,Washington,646
+2022,Vermont,West Virginia,0
+2022,Vermont,Wisconsin,128
+2022,Vermont,Wyoming,0
+2022,Virginia,Alabama,1794
+2022,Virginia,Alaska,1513
+2022,Virginia,Arizona,3478
+2022,Virginia,Arkansas,301
+2022,Virginia,California,19036
+2022,Virginia,Colorado,4485
+2022,Virginia,Connecticut,1792
+2022,Virginia,Delaware,707
+2022,Virginia,District of Columbia ,13582
+2022,Virginia,Florida,23766
+2022,Virginia,Georgia,6689
+2022,Virginia,Hawaii,1852
+2022,Virginia,Idaho,1353
+2022,Virginia,Illinois,5881
+2022,Virginia,Indiana,4800
+2022,Virginia,Iowa,792
+2022,Virginia,Kansas,3130
+2022,Virginia,Kentucky,2105
+2022,Virginia,Louisiana,1978
+2022,Virginia,Maine,161
+2022,Virginia,Maryland,28470
+2022,Virginia,Massachusetts,4709
+2022,Virginia,Michigan,3808
+2022,Virginia,Minnesota,1703
+2022,Virginia,Mississippi,2049
+2022,Virginia,Missouri,2025
+2022,Virginia,Montana,534
+2022,Virginia,Nebraska,824
+2022,Virginia,Nevada,1536
+2022,Virginia,New Hampshire,616
+2022,Virginia,New Jersey,11155
+2022,Virginia,New Mexico,610
+2022,Virginia,New York,17516
+2022,Virginia,North Carolina,21395
+2022,Virginia,North Dakota,0
+2022,Virginia,Ohio,6151
+2022,Virginia,Oklahoma,2290
+2022,Virginia,Oregon,2428
+2022,Virginia,Pennsylvania,16830
+2022,Virginia,Rhode Island,384
+2022,Virginia,South Carolina,7680
+2022,Virginia,South Dakota,0
+2022,Virginia,Tennessee,5249
+2022,Virginia,Texas,13359
+2022,Virginia,Utah,1079
+2022,Virginia,Vermont,324
+2022,Virginia,Virginia,N/A
+2022,Virginia,Washington,6877
+2022,Virginia,West Virginia,4811
+2022,Virginia,Wisconsin,3312
+2022,Virginia,Wyoming,51
+2022,Washington,Alabama,488
+2022,Washington,Alaska,3048
+2022,Washington,Arizona,7237
+2022,Washington,Arkansas,1105
+2022,Washington,California,49968
+2022,Washington,Colorado,9396
+2022,Washington,Connecticut,795
+2022,Washington,Delaware,146
+2022,Washington,District of Columbia ,279
+2022,Washington,Florida,8368
+2022,Washington,Georgia,5574
+2022,Washington,Hawaii,7392
+2022,Washington,Idaho,10557
+2022,Washington,Illinois,4772
+2022,Washington,Indiana,1118
+2022,Washington,Iowa,1512
+2022,Washington,Kansas,1161
+2022,Washington,Kentucky,816
+2022,Washington,Louisiana,1222
+2022,Washington,Maine,835
+2022,Washington,Maryland,2038
+2022,Washington,Massachusetts,5773
+2022,Washington,Michigan,3541
+2022,Washington,Minnesota,5002
+2022,Washington,Mississippi,680
+2022,Washington,Missouri,3187
+2022,Washington,Montana,3245
+2022,Washington,Nebraska,766
+2022,Washington,Nevada,5524
+2022,Washington,New Hampshire,731
+2022,Washington,New Jersey,2943
+2022,Washington,New Mexico,2014
+2022,Washington,New York,4732
+2022,Washington,North Carolina,5849
+2022,Washington,North Dakota,230
+2022,Washington,Ohio,3515
+2022,Washington,Oklahoma,1088
+2022,Washington,Oregon,36061
+2022,Washington,Pennsylvania,3789
+2022,Washington,Rhode Island,463
+2022,Washington,South Carolina,3831
+2022,Washington,South Dakota,593
+2022,Washington,Tennessee,3331
+2022,Washington,Texas,19245
+2022,Washington,Utah,5400
+2022,Washington,Vermont,392
+2022,Washington,Virginia,7406
+2022,Washington,Washington,N/A
+2022,Washington,West Virginia,121
+2022,Washington,Wisconsin,823
+2022,Washington,Wyoming,253
+2022,West Virginia,Alabama,478
+2022,West Virginia,Alaska,0
+2022,West Virginia,Arizona,240
+2022,West Virginia,Arkansas,121
+2022,West Virginia,California,879
+2022,West Virginia,Colorado,210
+2022,West Virginia,Connecticut,395
+2022,West Virginia,Delaware,58
+2022,West Virginia,District of Columbia ,237
+2022,West Virginia,Florida,3418
+2022,West Virginia,Georgia,2903
+2022,West Virginia,Hawaii,35
+2022,West Virginia,Idaho,0
+2022,West Virginia,Illinois,806
+2022,West Virginia,Indiana,1159
+2022,West Virginia,Iowa,0
+2022,West Virginia,Kansas,170
+2022,West Virginia,Kentucky,981
+2022,West Virginia,Louisiana,371
+2022,West Virginia,Maine,0
+2022,West Virginia,Maryland,5246
+2022,West Virginia,Massachusetts,8
+2022,West Virginia,Michigan,1056
+2022,West Virginia,Minnesota,31
+2022,West Virginia,Mississippi,91
+2022,West Virginia,Missouri,0
+2022,West Virginia,Montana,384
+2022,West Virginia,Nebraska,0
+2022,West Virginia,Nevada,407
+2022,West Virginia,New Hampshire,0
+2022,West Virginia,New Jersey,290
+2022,West Virginia,New Mexico,138
+2022,West Virginia,New York,949
+2022,West Virginia,North Carolina,2217
+2022,West Virginia,North Dakota,0
+2022,West Virginia,Ohio,4356
+2022,West Virginia,Oklahoma,98
+2022,West Virginia,Oregon,332
+2022,West Virginia,Pennsylvania,4299
+2022,West Virginia,Rhode Island,0
+2022,West Virginia,South Carolina,333
+2022,West Virginia,South Dakota,126
+2022,West Virginia,Tennessee,458
+2022,West Virginia,Texas,580
+2022,West Virginia,Utah,766
+2022,West Virginia,Vermont,226
+2022,West Virginia,Virginia,8279
+2022,West Virginia,Washington,0
+2022,West Virginia,West Virginia,N/A
+2022,West Virginia,Wisconsin,192
+2022,West Virginia,Wyoming,170
+2022,Wisconsin,Alabama,635
+2022,Wisconsin,Alaska,774
+2022,Wisconsin,Arizona,3474
+2022,Wisconsin,Arkansas,694
+2022,Wisconsin,California,7537
+2022,Wisconsin,Colorado,2564
+2022,Wisconsin,Connecticut,200
+2022,Wisconsin,Delaware,0
+2022,Wisconsin,District of Columbia ,254
+2022,Wisconsin,Florida,6762
+2022,Wisconsin,Georgia,1064
+2022,Wisconsin,Hawaii,121
+2022,Wisconsin,Idaho,784
+2022,Wisconsin,Illinois,27369
+2022,Wisconsin,Indiana,2299
+2022,Wisconsin,Iowa,2188
+2022,Wisconsin,Kansas,136
+2022,Wisconsin,Kentucky,589
+2022,Wisconsin,Louisiana,1137
+2022,Wisconsin,Maine,235
+2022,Wisconsin,Maryland,548
+2022,Wisconsin,Massachusetts,877
+2022,Wisconsin,Michigan,4250
+2022,Wisconsin,Minnesota,19307
+2022,Wisconsin,Mississippi,378
+2022,Wisconsin,Missouri,2679
+2022,Wisconsin,Montana,339
+2022,Wisconsin,Nebraska,568
+2022,Wisconsin,Nevada,1145
+2022,Wisconsin,New Hampshire,0
+2022,Wisconsin,New Jersey,704
+2022,Wisconsin,New Mexico,964
+2022,Wisconsin,New York,1626
+2022,Wisconsin,North Carolina,3591
+2022,Wisconsin,North Dakota,1208
+2022,Wisconsin,Ohio,2740
+2022,Wisconsin,Oklahoma,917
+2022,Wisconsin,Oregon,1308
+2022,Wisconsin,Pennsylvania,1761
+2022,Wisconsin,Rhode Island,0
+2022,Wisconsin,South Carolina,662
+2022,Wisconsin,South Dakota,649
+2022,Wisconsin,Tennessee,1827
+2022,Wisconsin,Texas,6088
+2022,Wisconsin,Utah,1300
+2022,Wisconsin,Vermont,54
+2022,Wisconsin,Virginia,1360
+2022,Wisconsin,Washington,4207
+2022,Wisconsin,West Virginia,216
+2022,Wisconsin,Wisconsin,N/A
+2022,Wisconsin,Wyoming,345
+2022,Wyoming,Alabama,0
+2022,Wyoming,Alaska,0
+2022,Wyoming,Arizona,2132
+2022,Wyoming,Arkansas,57
+2022,Wyoming,California,1558
+2022,Wyoming,Colorado,5076
+2022,Wyoming,Connecticut,0
+2022,Wyoming,Delaware,17
+2022,Wyoming,District of Columbia ,0
+2022,Wyoming,Florida,1063
+2022,Wyoming,Georgia,425
+2022,Wyoming,Hawaii,503
+2022,Wyoming,Idaho,1528
+2022,Wyoming,Illinois,319
+2022,Wyoming,Indiana,34
+2022,Wyoming,Iowa,142
+2022,Wyoming,Kansas,0
+2022,Wyoming,Kentucky,17
+2022,Wyoming,Louisiana,261
+2022,Wyoming,Maine,17
+2022,Wyoming,Maryland,253
+2022,Wyoming,Massachusetts,91
+2022,Wyoming,Michigan,47
+2022,Wyoming,Minnesota,463
+2022,Wyoming,Mississippi,71
+2022,Wyoming,Missouri,665
+2022,Wyoming,Montana,1176
+2022,Wyoming,Nebraska,729
+2022,Wyoming,Nevada,769
+2022,Wyoming,New Hampshire,14
+2022,Wyoming,New Jersey,21
+2022,Wyoming,New Mexico,67
+2022,Wyoming,New York,463
+2022,Wyoming,North Carolina,845
+2022,Wyoming,North Dakota,164
+2022,Wyoming,Ohio,236
+2022,Wyoming,Oklahoma,65
+2022,Wyoming,Oregon,1426
+2022,Wyoming,Pennsylvania,133
+2022,Wyoming,Rhode Island,0
+2022,Wyoming,South Carolina,359
+2022,Wyoming,South Dakota,1382
+2022,Wyoming,Tennessee,210
+2022,Wyoming,Texas,2211
+2022,Wyoming,Utah,2008
+2022,Wyoming,Vermont,0
+2022,Wyoming,Virginia,337
+2022,Wyoming,Washington,1225
+2022,Wyoming,West Virginia,0
+2022,Wyoming,Wisconsin,369
+2022,Wyoming,Wyoming,N/A

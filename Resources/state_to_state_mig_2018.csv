@@ -1,0 +1,2602 @@
+﻿migration_year,current_state,prev_state,migration
+2018,Alabama,Alabama,N/A
+2018,Alabama,Alaska,419
+2018,Alabama,Arizona,1915
+2018,Alabama,Arkansas,1051
+2018,Alabama,California,2659
+2018,Alabama,Colorado,1672
+2018,Alabama,Connecticut,747
+2018,Alabama,Delaware,826
+2018,Alabama,District of Columbia ,0
+2018,Alabama,Florida,14298
+2018,Alabama,Georgia,18433
+2018,Alabama,Hawaii,627
+2018,Alabama,Idaho,0
+2018,Alabama,Illinois,3310
+2018,Alabama,Indiana,1874
+2018,Alabama,Iowa,704
+2018,Alabama,Kansas,357
+2018,Alabama,Kentucky,4216
+2018,Alabama,Louisiana,2837
+2018,Alabama,Maine,0
+2018,Alabama,Maryland,493
+2018,Alabama,Massachusetts,445
+2018,Alabama,Michigan,2231
+2018,Alabama,Minnesota,915
+2018,Alabama,Mississippi,7653
+2018,Alabama,Missouri,1851
+2018,Alabama,Montana,76
+2018,Alabama,Nebraska,756
+2018,Alabama,Nevada,97
+2018,Alabama,New Hampshire,0
+2018,Alabama,New Jersey,1213
+2018,Alabama,New Mexico,58
+2018,Alabama,New York,3226
+2018,Alabama,North Carolina,2224
+2018,Alabama,North Dakota,0
+2018,Alabama,Ohio,1299
+2018,Alabama,Oklahoma,931
+2018,Alabama,Oregon,0
+2018,Alabama,Pennsylvania,1771
+2018,Alabama,Rhode Island,0
+2018,Alabama,South Carolina,1218
+2018,Alabama,South Dakota,281
+2018,Alabama,Tennessee,12228
+2018,Alabama,Texas,5719
+2018,Alabama,Utah,79
+2018,Alabama,Vermont,0
+2018,Alabama,Virginia,5221
+2018,Alabama,Washington,2125
+2018,Alabama,West Virginia,176
+2018,Alabama,Wisconsin,996
+2018,Alabama,Wyoming,74
+2018,Alaska,Alabama,518
+2018,Alaska,Alaska,N/A
+2018,Alaska,Arizona,910
+2018,Alaska,Arkansas,722
+2018,Alaska,California,3455
+2018,Alaska,Colorado,1847
+2018,Alaska,Connecticut,0
+2018,Alaska,Delaware,0
+2018,Alaska,District of Columbia ,74
+2018,Alaska,Florida,1172
+2018,Alaska,Georgia,565
+2018,Alaska,Hawaii,1029
+2018,Alaska,Idaho,497
+2018,Alaska,Illinois,1024
+2018,Alaska,Indiana,165
+2018,Alaska,Iowa,26
+2018,Alaska,Kansas,800
+2018,Alaska,Kentucky,162
+2018,Alaska,Louisiana,83
+2018,Alaska,Maine,16
+2018,Alaska,Maryland,548
+2018,Alaska,Massachusetts,170
+2018,Alaska,Michigan,791
+2018,Alaska,Minnesota,586
+2018,Alaska,Mississippi,330
+2018,Alaska,Missouri,938
+2018,Alaska,Montana,534
+2018,Alaska,Nebraska,413
+2018,Alaska,Nevada,2013
+2018,Alaska,New Hampshire,0
+2018,Alaska,New Jersey,335
+2018,Alaska,New Mexico,489
+2018,Alaska,New York,380
+2018,Alaska,North Carolina,1676
+2018,Alaska,North Dakota,210
+2018,Alaska,Ohio,176
+2018,Alaska,Oklahoma,184
+2018,Alaska,Oregon,1896
+2018,Alaska,Pennsylvania,111
+2018,Alaska,Rhode Island,38
+2018,Alaska,South Carolina,389
+2018,Alaska,South Dakota,175
+2018,Alaska,Tennessee,171
+2018,Alaska,Texas,2322
+2018,Alaska,Utah,410
+2018,Alaska,Vermont,5
+2018,Alaska,Virginia,654
+2018,Alaska,Washington,2558
+2018,Alaska,West Virginia,0
+2018,Alaska,Wisconsin,340
+2018,Alaska,Wyoming,192
+2018,Arizona,Alabama,2801
+2018,Arizona,Alaska,2743
+2018,Arizona,Arizona,N/A
+2018,Arizona,Arkansas,1487
+2018,Arizona,California,68516
+2018,Arizona,Colorado,11517
+2018,Arizona,Connecticut,503
+2018,Arizona,Delaware,49
+2018,Arizona,District of Columbia ,26
+2018,Arizona,Florida,6701
+2018,Arizona,Georgia,3149
+2018,Arizona,Hawaii,591
+2018,Arizona,Idaho,2733
+2018,Arizona,Illinois,13247
+2018,Arizona,Indiana,2555
+2018,Arizona,Iowa,3049
+2018,Arizona,Kansas,3802
+2018,Arizona,Kentucky,1265
+2018,Arizona,Louisiana,1416
+2018,Arizona,Maine,353
+2018,Arizona,Maryland,2955
+2018,Arizona,Massachusetts,1299
+2018,Arizona,Michigan,4477
+2018,Arizona,Minnesota,6206
+2018,Arizona,Mississippi,1780
+2018,Arizona,Missouri,4476
+2018,Arizona,Montana,1419
+2018,Arizona,Nebraska,1663
+2018,Arizona,Nevada,8057
+2018,Arizona,New Hampshire,1500
+2018,Arizona,New Jersey,4084
+2018,Arizona,New Mexico,6866
+2018,Arizona,New York,5281
+2018,Arizona,North Carolina,6587
+2018,Arizona,North Dakota,2169
+2018,Arizona,Ohio,6322
+2018,Arizona,Oklahoma,2530
+2018,Arizona,Oregon,13697
+2018,Arizona,Pennsylvania,3692
+2018,Arizona,Rhode Island,323
+2018,Arizona,South Carolina,2252
+2018,Arizona,South Dakota,913
+2018,Arizona,Tennessee,1291
+2018,Arizona,Texas,20245
+2018,Arizona,Utah,5828
+2018,Arizona,Vermont,37
+2018,Arizona,Virginia,4956
+2018,Arizona,Washington,17560
+2018,Arizona,West Virginia,29
+2018,Arizona,Wisconsin,7788
+2018,Arizona,Wyoming,929
+2018,Arkansas,Alabama,438
+2018,Arkansas,Alaska,413
+2018,Arkansas,Arizona,602
+2018,Arkansas,Arkansas,N/A
+2018,Arkansas,California,3728
+2018,Arkansas,Colorado,3255
+2018,Arkansas,Connecticut,159
+2018,Arkansas,Delaware,126
+2018,Arkansas,District of Columbia ,0
+2018,Arkansas,Florida,3966
+2018,Arkansas,Georgia,929
+2018,Arkansas,Hawaii,468
+2018,Arkansas,Idaho,0
+2018,Arkansas,Illinois,3359
+2018,Arkansas,Indiana,1241
+2018,Arkansas,Iowa,119
+2018,Arkansas,Kansas,1072
+2018,Arkansas,Kentucky,831
+2018,Arkansas,Louisiana,2311
+2018,Arkansas,Maine,27
+2018,Arkansas,Maryland,470
+2018,Arkansas,Massachusetts,139
+2018,Arkansas,Michigan,584
+2018,Arkansas,Minnesota,196
+2018,Arkansas,Mississippi,2568
+2018,Arkansas,Missouri,9400
+2018,Arkansas,Montana,76
+2018,Arkansas,Nebraska,76
+2018,Arkansas,Nevada,84
+2018,Arkansas,New Hampshire,156
+2018,Arkansas,New Jersey,277
+2018,Arkansas,New Mexico,214
+2018,Arkansas,New York,139
+2018,Arkansas,North Carolina,638
+2018,Arkansas,North Dakota,225
+2018,Arkansas,Ohio,857
+2018,Arkansas,Oklahoma,8490
+2018,Arkansas,Oregon,254
+2018,Arkansas,Pennsylvania,860
+2018,Arkansas,Rhode Island,0
+2018,Arkansas,South Carolina,121
+2018,Arkansas,South Dakota,146
+2018,Arkansas,Tennessee,5492
+2018,Arkansas,Texas,15531
+2018,Arkansas,Utah,712
+2018,Arkansas,Vermont,0
+2018,Arkansas,Virginia,900
+2018,Arkansas,Washington,1328
+2018,Arkansas,West Virginia,72
+2018,Arkansas,Wisconsin,130
+2018,Arkansas,Wyoming,0
+2018,California,Alabama,4591
+2018,California,Alaska,2155
+2018,California,Arizona,33670
+2018,California,Arkansas,2573
+2018,California,California,N/A
+2018,California,Colorado,18755
+2018,California,Connecticut,6366
+2018,California,Delaware,1143
+2018,California,District of Columbia ,5063
+2018,California,Florida,22464
+2018,California,Georgia,11753
+2018,California,Hawaii,12848
+2018,California,Idaho,4224
+2018,California,Illinois,22165
+2018,California,Indiana,6313
+2018,California,Iowa,2461
+2018,California,Kansas,4826
+2018,California,Kentucky,2010
+2018,California,Louisiana,4441
+2018,California,Maine,1294
+2018,California,Maryland,11042
+2018,California,Massachusetts,17529
+2018,California,Michigan,10335
+2018,California,Minnesota,6221
+2018,California,Mississippi,2393
+2018,California,Missouri,7981
+2018,California,Montana,2481
+2018,California,Nebraska,3619
+2018,California,Nevada,22433
+2018,California,New Hampshire,682
+2018,California,New Jersey,11666
+2018,California,New Mexico,3822
+2018,California,New York,34848
+2018,California,North Carolina,11400
+2018,California,North Dakota,1909
+2018,California,Ohio,13999
+2018,California,Oklahoma,4901
+2018,California,Oregon,24050
+2018,California,Pennsylvania,11848
+2018,California,Rhode Island,1738
+2018,California,South Carolina,4896
+2018,California,South Dakota,1296
+2018,California,Tennessee,8060
+2018,California,Texas,37810
+2018,California,Utah,9440
+2018,California,Vermont,1641
+2018,California,Virginia,17725
+2018,California,Washington,38007
+2018,California,West Virginia,1246
+2018,California,Wisconsin,5364
+2018,California,Wyoming,1526
+2018,Colorado,Alabama,3597
+2018,Colorado,Alaska,2102
+2018,Colorado,Arizona,7987
+2018,Colorado,Arkansas,1442
+2018,Colorado,California,28288
+2018,Colorado,Colorado,N/A
+2018,Colorado,Connecticut,1498
+2018,Colorado,Delaware,190
+2018,Colorado,District of Columbia ,1119
+2018,Colorado,Florida,14017
+2018,Colorado,Georgia,8239
+2018,Colorado,Hawaii,3356
+2018,Colorado,Idaho,1268
+2018,Colorado,Illinois,7783
+2018,Colorado,Indiana,2945
+2018,Colorado,Iowa,2385
+2018,Colorado,Kansas,5071
+2018,Colorado,Kentucky,2754
+2018,Colorado,Louisiana,1216
+2018,Colorado,Maine,912
+2018,Colorado,Maryland,3454
+2018,Colorado,Massachusetts,3949
+2018,Colorado,Michigan,4253
+2018,Colorado,Minnesota,5208
+2018,Colorado,Mississippi,597
+2018,Colorado,Missouri,6803
+2018,Colorado,Montana,3731
+2018,Colorado,Nebraska,6025
+2018,Colorado,Nevada,3455
+2018,Colorado,New Hampshire,183
+2018,Colorado,New Jersey,1780
+2018,Colorado,New Mexico,11444
+2018,Colorado,New York,6362
+2018,Colorado,North Carolina,6336
+2018,Colorado,North Dakota,1118
+2018,Colorado,Ohio,3169
+2018,Colorado,Oklahoma,5956
+2018,Colorado,Oregon,2890
+2018,Colorado,Pennsylvania,4701
+2018,Colorado,Rhode Island,706
+2018,Colorado,South Carolina,3203
+2018,Colorado,South Dakota,2176
+2018,Colorado,Tennessee,1444
+2018,Colorado,Texas,26930
+2018,Colorado,Utah,4833
+2018,Colorado,Vermont,1043
+2018,Colorado,Virginia,9260
+2018,Colorado,Washington,6686
+2018,Colorado,West Virginia,238
+2018,Colorado,Wisconsin,3100
+2018,Colorado,Wyoming,1951
+2018,Connecticut,Alabama,1054
+2018,Connecticut,Alaska,8
+2018,Connecticut,Arizona,1204
+2018,Connecticut,Arkansas,51
+2018,Connecticut,California,3870
+2018,Connecticut,Colorado,1105
+2018,Connecticut,Connecticut,N/A
+2018,Connecticut,Delaware,1015
+2018,Connecticut,District of Columbia ,506
+2018,Connecticut,Florida,4563
+2018,Connecticut,Georgia,2606
+2018,Connecticut,Hawaii,472
+2018,Connecticut,Idaho,0
+2018,Connecticut,Illinois,1513
+2018,Connecticut,Indiana,237
+2018,Connecticut,Iowa,86
+2018,Connecticut,Kansas,79
+2018,Connecticut,Kentucky,233
+2018,Connecticut,Louisiana,597
+2018,Connecticut,Maine,1342
+2018,Connecticut,Maryland,1182
+2018,Connecticut,Massachusetts,7630
+2018,Connecticut,Michigan,819
+2018,Connecticut,Minnesota,106
+2018,Connecticut,Mississippi,0
+2018,Connecticut,Missouri,69
+2018,Connecticut,Montana,35
+2018,Connecticut,Nebraska,0
+2018,Connecticut,Nevada,149
+2018,Connecticut,New Hampshire,939
+2018,Connecticut,New Jersey,4573
+2018,Connecticut,New Mexico,0
+2018,Connecticut,New York,27361
+2018,Connecticut,North Carolina,1145
+2018,Connecticut,North Dakota,0
+2018,Connecticut,Ohio,1410
+2018,Connecticut,Oklahoma,172
+2018,Connecticut,Oregon,642
+2018,Connecticut,Pennsylvania,3446
+2018,Connecticut,Rhode Island,2136
+2018,Connecticut,South Carolina,1811
+2018,Connecticut,South Dakota,0
+2018,Connecticut,Tennessee,743
+2018,Connecticut,Texas,4044
+2018,Connecticut,Utah,1305
+2018,Connecticut,Vermont,595
+2018,Connecticut,Virginia,2294
+2018,Connecticut,Washington,1062
+2018,Connecticut,West Virginia,181
+2018,Connecticut,Wisconsin,328
+2018,Connecticut,Wyoming,0
+2018,Deleware,Alabama,39
+2018,Deleware,Alaska,0
+2018,Deleware,Arizona,115
+2018,Deleware,Arkansas,0
+2018,Deleware,California,551
+2018,Deleware,Colorado,0
+2018,Deleware,Connecticut,487
+2018,Deleware,Delaware,N/A
+2018,Deleware,District of Columbia ,136
+2018,Deleware,Florida,1122
+2018,Deleware,Georgia,118
+2018,Deleware,Hawaii,0
+2018,Deleware,Idaho,0
+2018,Deleware,Illinois,191
+2018,Deleware,Indiana,50
+2018,Deleware,Iowa,205
+2018,Deleware,Kansas,747
+2018,Deleware,Kentucky,94
+2018,Deleware,Louisiana,468
+2018,Deleware,Maine,101
+2018,Deleware,Maryland,5639
+2018,Deleware,Massachusetts,481
+2018,Deleware,Michigan,153
+2018,Deleware,Minnesota,0
+2018,Deleware,Mississippi,148
+2018,Deleware,Missouri,0
+2018,Deleware,Montana,0
+2018,Deleware,Nebraska,86
+2018,Deleware,Nevada,0
+2018,Deleware,New Hampshire,157
+2018,Deleware,New Jersey,6112
+2018,Deleware,New Mexico,30
+2018,Deleware,New York,2907
+2018,Deleware,North Carolina,586
+2018,Deleware,North Dakota,167
+2018,Deleware,Ohio,446
+2018,Deleware,Oklahoma,0
+2018,Deleware,Oregon,0
+2018,Deleware,Pennsylvania,9991
+2018,Deleware,Rhode Island,187
+2018,Deleware,South Carolina,470
+2018,Deleware,South Dakota,0
+2018,Deleware,Tennessee,103
+2018,Deleware,Texas,378
+2018,Deleware,Utah,99
+2018,Deleware,Vermont,305
+2018,Deleware,Virginia,1458
+2018,Deleware,Washington,0
+2018,Deleware,West Virginia,124
+2018,Deleware,Wisconsin,0
+2018,Deleware,Wyoming,0
+2018,District of Columbia ,Alabama,174
+2018,District of Columbia ,Alaska,0
+2018,District of Columbia ,Arizona,204
+2018,District of Columbia ,Arkansas,0
+2018,District of Columbia ,California,3803
+2018,District of Columbia ,Colorado,336
+2018,District of Columbia ,Connecticut,262
+2018,District of Columbia ,Delaware,182
+2018,District of Columbia ,District of Columbia ,N/A
+2018,District of Columbia ,Florida,1789
+2018,District of Columbia ,Georgia,647
+2018,District of Columbia ,Hawaii,124
+2018,District of Columbia ,Idaho,0
+2018,District of Columbia ,Illinois,1066
+2018,District of Columbia ,Indiana,146
+2018,District of Columbia ,Iowa,162
+2018,District of Columbia ,Kansas,0
+2018,District of Columbia ,Kentucky,110
+2018,District of Columbia ,Louisiana,0
+2018,District of Columbia ,Maine,61
+2018,District of Columbia ,Maryland,12735
+2018,District of Columbia ,Massachusetts,1664
+2018,District of Columbia ,Michigan,486
+2018,District of Columbia ,Minnesota,143
+2018,District of Columbia ,Mississippi,146
+2018,District of Columbia ,Missouri,201
+2018,District of Columbia ,Montana,92
+2018,District of Columbia ,Nebraska,0
+2018,District of Columbia ,Nevada,36
+2018,District of Columbia ,New Hampshire,130
+2018,District of Columbia ,New Jersey,2382
+2018,District of Columbia ,New Mexico,0
+2018,District of Columbia ,New York,4642
+2018,District of Columbia ,North Carolina,1026
+2018,District of Columbia ,North Dakota,0
+2018,District of Columbia ,Ohio,1592
+2018,District of Columbia ,Oklahoma,0
+2018,District of Columbia ,Oregon,80
+2018,District of Columbia ,Pennsylvania,1617
+2018,District of Columbia ,Rhode Island,87
+2018,District of Columbia ,South Carolina,408
+2018,District of Columbia ,South Dakota,0
+2018,District of Columbia ,Tennessee,690
+2018,District of Columbia ,Texas,1036
+2018,District of Columbia ,Utah,215
+2018,District of Columbia ,Vermont,213
+2018,District of Columbia ,Virginia,7773
+2018,District of Columbia ,Washington,387
+2018,District of Columbia ,West Virginia,294
+2018,District of Columbia ,Wisconsin,346
+2018,District of Columbia ,Wyoming,68
+2018,Florida,Alabama,12870
+2018,Florida,Alaska,1388
+2018,Florida,Arizona,4542
+2018,Florida,Arkansas,3239
+2018,Florida,California,26888
+2018,Florida,Colorado,15746
+2018,Florida,Connecticut,18291
+2018,Florida,Delaware,4124
+2018,Florida,District of Columbia ,983
+2018,Florida,Florida,N/A
+2018,Florida,Georgia,35350
+2018,Florida,Hawaii,3008
+2018,Florida,Idaho,1594
+2018,Florida,Illinois,27622
+2018,Florida,Indiana,11784
+2018,Florida,Iowa,3538
+2018,Florida,Kansas,2970
+2018,Florida,Kentucky,11330
+2018,Florida,Louisiana,4389
+2018,Florida,Maine,2783
+2018,Florida,Maryland,15173
+2018,Florida,Massachusetts,20314
+2018,Florida,Michigan,20852
+2018,Florida,Minnesota,6820
+2018,Florida,Mississippi,2984
+2018,Florida,Missouri,9774
+2018,Florida,Montana,1007
+2018,Florida,Nebraska,3893
+2018,Florida,Nevada,3772
+2018,Florida,New Hampshire,5137
+2018,Florida,New Jersey,30105
+2018,Florida,New Mexico,2558
+2018,Florida,New York,63033
+2018,Florida,North Carolina,26708
+2018,Florida,North Dakota,1485
+2018,Florida,Ohio,22452
+2018,Florida,Oklahoma,3190
+2018,Florida,Oregon,3639
+2018,Florida,Pennsylvania,31712
+2018,Florida,Rhode Island,4219
+2018,Florida,South Carolina,15250
+2018,Florida,South Dakota,3062
+2018,Florida,Tennessee,13285
+2018,Florida,Texas,24197
+2018,Florida,Utah,3558
+2018,Florida,Vermont,1723
+2018,Florida,Virginia,31798
+2018,Florida,Washington,9045
+2018,Florida,West Virginia,5760
+2018,Florida,Wisconsin,7573
+2018,Florida,Wyoming,744
+2018,Georgia,Alabama,15589
+2018,Georgia,Alaska,917
+2018,Georgia,Arizona,2255
+2018,Georgia,Arkansas,1900
+2018,Georgia,California,16745
+2018,Georgia,Colorado,3497
+2018,Georgia,Connecticut,5574
+2018,Georgia,Delaware,520
+2018,Georgia,District of Columbia ,571
+2018,Georgia,Florida,51020
+2018,Georgia,Georgia,N/A
+2018,Georgia,Hawaii,2335
+2018,Georgia,Idaho,193
+2018,Georgia,Illinois,6146
+2018,Georgia,Indiana,4151
+2018,Georgia,Iowa,1995
+2018,Georgia,Kansas,1110
+2018,Georgia,Kentucky,2027
+2018,Georgia,Louisiana,3082
+2018,Georgia,Maine,89
+2018,Georgia,Maryland,5797
+2018,Georgia,Massachusetts,2577
+2018,Georgia,Michigan,5592
+2018,Georgia,Minnesota,1042
+2018,Georgia,Mississippi,2967
+2018,Georgia,Missouri,2889
+2018,Georgia,Montana,1018
+2018,Georgia,Nebraska,2097
+2018,Georgia,Nevada,674
+2018,Georgia,New Hampshire,103
+2018,Georgia,New Jersey,9055
+2018,Georgia,New Mexico,1619
+2018,Georgia,New York,10754
+2018,Georgia,North Carolina,16957
+2018,Georgia,North Dakota,364
+2018,Georgia,Ohio,6935
+2018,Georgia,Oklahoma,3297
+2018,Georgia,Oregon,909
+2018,Georgia,Pennsylvania,4527
+2018,Georgia,Rhode Island,196
+2018,Georgia,South Carolina,16328
+2018,Georgia,South Dakota,522
+2018,Georgia,Tennessee,18283
+2018,Georgia,Texas,22746
+2018,Georgia,Utah,1123
+2018,Georgia,Vermont,431
+2018,Georgia,Virginia,6992
+2018,Georgia,Washington,3520
+2018,Georgia,West Virginia,1277
+2018,Georgia,Wisconsin,2627
+2018,Georgia,Wyoming,1339
+2018,Hawaii,Alabama,484
+2018,Hawaii,Alaska,1509
+2018,Hawaii,Arizona,2167
+2018,Hawaii,Arkansas,0
+2018,Hawaii,California,10456
+2018,Hawaii,Colorado,3164
+2018,Hawaii,Connecticut,114
+2018,Hawaii,Delaware,52
+2018,Hawaii,District of Columbia ,768
+2018,Hawaii,Florida,3085
+2018,Hawaii,Georgia,2192
+2018,Hawaii,Hawaii,N/A
+2018,Hawaii,Idaho,1027
+2018,Hawaii,Illinois,583
+2018,Hawaii,Indiana,306
+2018,Hawaii,Iowa,586
+2018,Hawaii,Kansas,1385
+2018,Hawaii,Kentucky,170
+2018,Hawaii,Louisiana,320
+2018,Hawaii,Maine,124
+2018,Hawaii,Maryland,574
+2018,Hawaii,Massachusetts,656
+2018,Hawaii,Michigan,115
+2018,Hawaii,Minnesota,363
+2018,Hawaii,Mississippi,219
+2018,Hawaii,Missouri,1129
+2018,Hawaii,Montana,165
+2018,Hawaii,Nebraska,481
+2018,Hawaii,Nevada,502
+2018,Hawaii,New Hampshire,0
+2018,Hawaii,New Jersey,24
+2018,Hawaii,New Mexico,122
+2018,Hawaii,New York,1416
+2018,Hawaii,North Carolina,843
+2018,Hawaii,North Dakota,0
+2018,Hawaii,Ohio,510
+2018,Hawaii,Oklahoma,1172
+2018,Hawaii,Oregon,1615
+2018,Hawaii,Pennsylvania,580
+2018,Hawaii,Rhode Island,0
+2018,Hawaii,South Carolina,1072
+2018,Hawaii,South Dakota,50
+2018,Hawaii,Tennessee,723
+2018,Hawaii,Texas,4180
+2018,Hawaii,Utah,413
+2018,Hawaii,Vermont,0
+2018,Hawaii,Virginia,3987
+2018,Hawaii,Washington,4351
+2018,Hawaii,West Virginia,0
+2018,Hawaii,Wisconsin,142
+2018,Hawaii,Wyoming,178
+2018,Idaho,Alabama,84
+2018,Idaho,Alaska,1179
+2018,Idaho,Arizona,3852
+2018,Idaho,Arkansas,496
+2018,Idaho,California,21018
+2018,Idaho,Colorado,1505
+2018,Idaho,Connecticut,1905
+2018,Idaho,Delaware,0
+2018,Idaho,District of Columbia ,0
+2018,Idaho,Florida,1406
+2018,Idaho,Georgia,436
+2018,Idaho,Hawaii,0
+2018,Idaho,Idaho,N/A
+2018,Idaho,Illinois,120
+2018,Idaho,Indiana,521
+2018,Idaho,Iowa,178
+2018,Idaho,Kansas,571
+2018,Idaho,Kentucky,40
+2018,Idaho,Louisiana,264
+2018,Idaho,Maine,0
+2018,Idaho,Maryland,75
+2018,Idaho,Massachusetts,0
+2018,Idaho,Michigan,212
+2018,Idaho,Minnesota,631
+2018,Idaho,Mississippi,209
+2018,Idaho,Missouri,359
+2018,Idaho,Montana,2880
+2018,Idaho,Nebraska,146
+2018,Idaho,Nevada,3736
+2018,Idaho,New Hampshire,0
+2018,Idaho,New Jersey,27
+2018,Idaho,New Mexico,181
+2018,Idaho,New York,2943
+2018,Idaho,North Carolina,1331
+2018,Idaho,North Dakota,261
+2018,Idaho,Ohio,82
+2018,Idaho,Oklahoma,795
+2018,Idaho,Oregon,4735
+2018,Idaho,Pennsylvania,937
+2018,Idaho,Rhode Island,0
+2018,Idaho,South Carolina,62
+2018,Idaho,South Dakota,0
+2018,Idaho,Tennessee,482
+2018,Idaho,Texas,2605
+2018,Idaho,Utah,6626
+2018,Idaho,Vermont,64
+2018,Idaho,Virginia,804
+2018,Idaho,Washington,14955
+2018,Idaho,West Virginia,154
+2018,Idaho,Wisconsin,42
+2018,Idaho,Wyoming,856
+2018,Illinois,Alabama,1280
+2018,Illinois,Alaska,1400
+2018,Illinois,Arizona,5818
+2018,Illinois,Arkansas,1188
+2018,Illinois,California,16518
+2018,Illinois,Colorado,3208
+2018,Illinois,Connecticut,1911
+2018,Illinois,Delaware,9
+2018,Illinois,District of Columbia ,1020
+2018,Illinois,Florida,13561
+2018,Illinois,Georgia,4106
+2018,Illinois,Hawaii,459
+2018,Illinois,Idaho,1093
+2018,Illinois,Illinois,N/A
+2018,Illinois,Indiana,16223
+2018,Illinois,Iowa,7727
+2018,Illinois,Kansas,2047
+2018,Illinois,Kentucky,3289
+2018,Illinois,Louisiana,2373
+2018,Illinois,Maine,0
+2018,Illinois,Maryland,3011
+2018,Illinois,Massachusetts,3956
+2018,Illinois,Michigan,9210
+2018,Illinois,Minnesota,4498
+2018,Illinois,Mississippi,2169
+2018,Illinois,Missouri,15055
+2018,Illinois,Montana,317
+2018,Illinois,Nebraska,881
+2018,Illinois,Nevada,1555
+2018,Illinois,New Hampshire,42
+2018,Illinois,New Jersey,3488
+2018,Illinois,New Mexico,1041
+2018,Illinois,New York,8838
+2018,Illinois,North Carolina,4544
+2018,Illinois,North Dakota,540
+2018,Illinois,Ohio,6423
+2018,Illinois,Oklahoma,1041
+2018,Illinois,Oregon,1112
+2018,Illinois,Pennsylvania,5261
+2018,Illinois,Rhode Island,414
+2018,Illinois,South Carolina,3542
+2018,Illinois,South Dakota,746
+2018,Illinois,Tennessee,7084
+2018,Illinois,Texas,13412
+2018,Illinois,Utah,2642
+2018,Illinois,Vermont,76
+2018,Illinois,Virginia,4710
+2018,Illinois,Washington,2855
+2018,Illinois,West Virginia,869
+2018,Illinois,Wisconsin,13965
+2018,Illinois,Wyoming,93
+2018,Indiana,Alabama,966
+2018,Indiana,Alaska,138
+2018,Indiana,Arizona,3009
+2018,Indiana,Arkansas,1271
+2018,Indiana,California,6811
+2018,Indiana,Colorado,4695
+2018,Indiana,Connecticut,722
+2018,Indiana,Delaware,868
+2018,Indiana,District of Columbia ,32
+2018,Indiana,Florida,8650
+2018,Indiana,Georgia,4525
+2018,Indiana,Hawaii,47
+2018,Indiana,Idaho,887
+2018,Indiana,Illinois,31556
+2018,Indiana,Indiana,N/A
+2018,Indiana,Iowa,311
+2018,Indiana,Kansas,918
+2018,Indiana,Kentucky,9224
+2018,Indiana,Louisiana,747
+2018,Indiana,Maine,128
+2018,Indiana,Maryland,1192
+2018,Indiana,Massachusetts,1010
+2018,Indiana,Michigan,7972
+2018,Indiana,Minnesota,1345
+2018,Indiana,Mississippi,1134
+2018,Indiana,Missouri,4404
+2018,Indiana,Montana,248
+2018,Indiana,Nebraska,286
+2018,Indiana,Nevada,1470
+2018,Indiana,New Hampshire,348
+2018,Indiana,New Jersey,2482
+2018,Indiana,New Mexico,666
+2018,Indiana,New York,1512
+2018,Indiana,North Carolina,2589
+2018,Indiana,North Dakota,0
+2018,Indiana,Ohio,14794
+2018,Indiana,Oklahoma,1316
+2018,Indiana,Oregon,1020
+2018,Indiana,Pennsylvania,2764
+2018,Indiana,Rhode Island,0
+2018,Indiana,South Carolina,2473
+2018,Indiana,South Dakota,0
+2018,Indiana,Tennessee,5409
+2018,Indiana,Texas,6321
+2018,Indiana,Utah,608
+2018,Indiana,Vermont,30
+2018,Indiana,Virginia,2453
+2018,Indiana,Washington,1192
+2018,Indiana,West Virginia,477
+2018,Indiana,Wisconsin,3228
+2018,Indiana,Wyoming,1008
+2018,Iowa,Alabama,148
+2018,Iowa,Alaska,66
+2018,Iowa,Arizona,2021
+2018,Iowa,Arkansas,410
+2018,Iowa,California,4408
+2018,Iowa,Colorado,4856
+2018,Iowa,Connecticut,23
+2018,Iowa,Delaware,0
+2018,Iowa,District of Columbia ,382
+2018,Iowa,Florida,1931
+2018,Iowa,Georgia,140
+2018,Iowa,Hawaii,689
+2018,Iowa,Idaho,111
+2018,Iowa,Illinois,15699
+2018,Iowa,Indiana,1251
+2018,Iowa,Iowa,N/A
+2018,Iowa,Kansas,2274
+2018,Iowa,Kentucky,393
+2018,Iowa,Louisiana,360
+2018,Iowa,Maine,101
+2018,Iowa,Maryland,0
+2018,Iowa,Massachusetts,514
+2018,Iowa,Michigan,1504
+2018,Iowa,Minnesota,6286
+2018,Iowa,Mississippi,379
+2018,Iowa,Missouri,4338
+2018,Iowa,Montana,499
+2018,Iowa,Nebraska,8119
+2018,Iowa,Nevada,817
+2018,Iowa,New Hampshire,0
+2018,Iowa,New Jersey,20
+2018,Iowa,New Mexico,358
+2018,Iowa,New York,438
+2018,Iowa,North Carolina,502
+2018,Iowa,North Dakota,495
+2018,Iowa,Ohio,969
+2018,Iowa,Oklahoma,711
+2018,Iowa,Oregon,173
+2018,Iowa,Pennsylvania,367
+2018,Iowa,Rhode Island,0
+2018,Iowa,South Carolina,174
+2018,Iowa,South Dakota,1664
+2018,Iowa,Tennessee,588
+2018,Iowa,Texas,3400
+2018,Iowa,Utah,506
+2018,Iowa,Vermont,0
+2018,Iowa,Virginia,298
+2018,Iowa,Washington,1244
+2018,Iowa,West Virginia,0
+2018,Iowa,Wisconsin,4333
+2018,Iowa,Wyoming,240
+2018,Kansas,Alabama,476
+2018,Kansas,Alaska,378
+2018,Kansas,Arizona,1801
+2018,Kansas,Arkansas,1507
+2018,Kansas,California,5660
+2018,Kansas,Colorado,3808
+2018,Kansas,Connecticut,322
+2018,Kansas,Delaware,0
+2018,Kansas,District of Columbia ,350
+2018,Kansas,Florida,3991
+2018,Kansas,Georgia,1072
+2018,Kansas,Hawaii,564
+2018,Kansas,Idaho,449
+2018,Kansas,Illinois,2839
+2018,Kansas,Indiana,731
+2018,Kansas,Iowa,3704
+2018,Kansas,Kansas,N/A
+2018,Kansas,Kentucky,739
+2018,Kansas,Louisiana,1097
+2018,Kansas,Maine,0
+2018,Kansas,Maryland,871
+2018,Kansas,Massachusetts,1424
+2018,Kansas,Michigan,825
+2018,Kansas,Minnesota,835
+2018,Kansas,Mississippi,176
+2018,Kansas,Missouri,27726
+2018,Kansas,Montana,411
+2018,Kansas,Nebraska,2042
+2018,Kansas,Nevada,636
+2018,Kansas,New Hampshire,0
+2018,Kansas,New Jersey,613
+2018,Kansas,New Mexico,683
+2018,Kansas,New York,1656
+2018,Kansas,North Carolina,1178
+2018,Kansas,North Dakota,0
+2018,Kansas,Ohio,3377
+2018,Kansas,Oklahoma,7757
+2018,Kansas,Oregon,456
+2018,Kansas,Pennsylvania,967
+2018,Kansas,Rhode Island,0
+2018,Kansas,South Carolina,287
+2018,Kansas,South Dakota,381
+2018,Kansas,Tennessee,1159
+2018,Kansas,Texas,7554
+2018,Kansas,Utah,1170
+2018,Kansas,Vermont,0
+2018,Kansas,Virginia,1368
+2018,Kansas,Washington,1064
+2018,Kansas,West Virginia,90
+2018,Kansas,Wisconsin,948
+2018,Kansas,Wyoming,606
+2018,Kentucky,Alabama,2055
+2018,Kentucky,Alaska,115
+2018,Kentucky,Arizona,1480
+2018,Kentucky,Arkansas,397
+2018,Kentucky,California,2052
+2018,Kentucky,Colorado,1643
+2018,Kentucky,Connecticut,327
+2018,Kentucky,Delaware,389
+2018,Kentucky,District of Columbia ,175
+2018,Kentucky,Florida,7426
+2018,Kentucky,Georgia,3638
+2018,Kentucky,Hawaii,402
+2018,Kentucky,Idaho,2215
+2018,Kentucky,Illinois,5108
+2018,Kentucky,Indiana,11241
+2018,Kentucky,Iowa,265
+2018,Kentucky,Kansas,3016
+2018,Kentucky,Kentucky,N/A
+2018,Kentucky,Louisiana,722
+2018,Kentucky,Maine,118
+2018,Kentucky,Maryland,1689
+2018,Kentucky,Massachusetts,239
+2018,Kentucky,Michigan,2912
+2018,Kentucky,Minnesota,434
+2018,Kentucky,Mississippi,407
+2018,Kentucky,Missouri,2910
+2018,Kentucky,Montana,109
+2018,Kentucky,Nebraska,90
+2018,Kentucky,Nevada,270
+2018,Kentucky,New Hampshire,179
+2018,Kentucky,New Jersey,114
+2018,Kentucky,New Mexico,598
+2018,Kentucky,New York,3283
+2018,Kentucky,North Carolina,3796
+2018,Kentucky,North Dakota,61
+2018,Kentucky,Ohio,15246
+2018,Kentucky,Oklahoma,1130
+2018,Kentucky,Oregon,1044
+2018,Kentucky,Pennsylvania,1908
+2018,Kentucky,Rhode Island,0
+2018,Kentucky,South Carolina,1440
+2018,Kentucky,South Dakota,132
+2018,Kentucky,Tennessee,12498
+2018,Kentucky,Texas,6360
+2018,Kentucky,Utah,1201
+2018,Kentucky,Vermont,0
+2018,Kentucky,Virginia,3673
+2018,Kentucky,Washington,1238
+2018,Kentucky,West Virginia,3776
+2018,Kentucky,Wisconsin,935
+2018,Kentucky,Wyoming,0
+2018,Louisiana,Alabama,1462
+2018,Louisiana,Alaska,515
+2018,Louisiana,Arizona,276
+2018,Louisiana,Arkansas,1653
+2018,Louisiana,California,5743
+2018,Louisiana,Colorado,2397
+2018,Louisiana,Connecticut,584
+2018,Louisiana,Delaware,53
+2018,Louisiana,District of Columbia ,196
+2018,Louisiana,Florida,2878
+2018,Louisiana,Georgia,5901
+2018,Louisiana,Hawaii,1117
+2018,Louisiana,Idaho,69
+2018,Louisiana,Illinois,2205
+2018,Louisiana,Indiana,458
+2018,Louisiana,Iowa,100
+2018,Louisiana,Kansas,1056
+2018,Louisiana,Kentucky,3041
+2018,Louisiana,Louisiana,N/A
+2018,Louisiana,Maine,35
+2018,Louisiana,Maryland,516
+2018,Louisiana,Massachusetts,630
+2018,Louisiana,Michigan,1637
+2018,Louisiana,Minnesota,274
+2018,Louisiana,Mississippi,7505
+2018,Louisiana,Missouri,679
+2018,Louisiana,Montana,222
+2018,Louisiana,Nebraska,44
+2018,Louisiana,Nevada,2065
+2018,Louisiana,New Hampshire,0
+2018,Louisiana,New Jersey,629
+2018,Louisiana,New Mexico,1235
+2018,Louisiana,New York,2106
+2018,Louisiana,North Carolina,813
+2018,Louisiana,North Dakota,0
+2018,Louisiana,Ohio,963
+2018,Louisiana,Oklahoma,469
+2018,Louisiana,Oregon,609
+2018,Louisiana,Pennsylvania,687
+2018,Louisiana,Rhode Island,0
+2018,Louisiana,South Carolina,1205
+2018,Louisiana,South Dakota,291
+2018,Louisiana,Tennessee,1561
+2018,Louisiana,Texas,23588
+2018,Louisiana,Utah,603
+2018,Louisiana,Vermont,0
+2018,Louisiana,Virginia,1330
+2018,Louisiana,Washington,884
+2018,Louisiana,West Virginia,567
+2018,Louisiana,Wisconsin,407
+2018,Louisiana,Wyoming,97
+2018,Maine,Alabama,0
+2018,Maine,Alaska,47
+2018,Maine,Arizona,765
+2018,Maine,Arkansas,0
+2018,Maine,California,850
+2018,Maine,Colorado,840
+2018,Maine,Connecticut,1734
+2018,Maine,Delaware,29
+2018,Maine,District of Columbia ,235
+2018,Maine,Florida,2082
+2018,Maine,Georgia,235
+2018,Maine,Hawaii,55
+2018,Maine,Idaho,308
+2018,Maine,Illinois,180
+2018,Maine,Indiana,204
+2018,Maine,Iowa,0
+2018,Maine,Kansas,67
+2018,Maine,Kentucky,512
+2018,Maine,Louisiana,38
+2018,Maine,Maine,N/A
+2018,Maine,Maryland,377
+2018,Maine,Massachusetts,5775
+2018,Maine,Michigan,1320
+2018,Maine,Minnesota,75
+2018,Maine,Mississippi,214
+2018,Maine,Missouri,349
+2018,Maine,Montana,246
+2018,Maine,Nebraska,0
+2018,Maine,Nevada,23
+2018,Maine,New Hampshire,4731
+2018,Maine,New Jersey,389
+2018,Maine,New Mexico,97
+2018,Maine,New York,2909
+2018,Maine,North Carolina,1049
+2018,Maine,North Dakota,134
+2018,Maine,Ohio,788
+2018,Maine,Oklahoma,217
+2018,Maine,Oregon,181
+2018,Maine,Pennsylvania,1393
+2018,Maine,Rhode Island,317
+2018,Maine,South Carolina,503
+2018,Maine,South Dakota,71
+2018,Maine,Tennessee,583
+2018,Maine,Texas,2386
+2018,Maine,Utah,142
+2018,Maine,Vermont,997
+2018,Maine,Virginia,874
+2018,Maine,Washington,283
+2018,Maine,West Virginia,0
+2018,Maine,Wisconsin,102
+2018,Maine,Wyoming,0
+2018,Maryland,Alabama,647
+2018,Maryland,Alaska,485
+2018,Maryland,Arizona,2240
+2018,Maryland,Arkansas,785
+2018,Maryland,California,7924
+2018,Maryland,Colorado,1168
+2018,Maryland,Connecticut,1890
+2018,Maryland,Delaware,5811
+2018,Maryland,District of Columbia ,21093
+2018,Maryland,Florida,11989
+2018,Maryland,Georgia,3676
+2018,Maryland,Hawaii,892
+2018,Maryland,Idaho,470
+2018,Maryland,Illinois,1827
+2018,Maryland,Indiana,1048
+2018,Maryland,Iowa,322
+2018,Maryland,Kansas,573
+2018,Maryland,Kentucky,745
+2018,Maryland,Louisiana,1281
+2018,Maryland,Maine,990
+2018,Maryland,Maryland,N/A
+2018,Maryland,Massachusetts,1753
+2018,Maryland,Michigan,1635
+2018,Maryland,Minnesota,284
+2018,Maryland,Mississippi,888
+2018,Maryland,Missouri,1253
+2018,Maryland,Montana,223
+2018,Maryland,Nebraska,576
+2018,Maryland,Nevada,120
+2018,Maryland,New Hampshire,1065
+2018,Maryland,New Jersey,6333
+2018,Maryland,New Mexico,1195
+2018,Maryland,New York,8372
+2018,Maryland,North Carolina,6582
+2018,Maryland,North Dakota,291
+2018,Maryland,Ohio,3098
+2018,Maryland,Oklahoma,831
+2018,Maryland,Oregon,916
+2018,Maryland,Pennsylvania,12461
+2018,Maryland,Rhode Island,138
+2018,Maryland,South Carolina,2515
+2018,Maryland,South Dakota,154
+2018,Maryland,Tennessee,1670
+2018,Maryland,Texas,7408
+2018,Maryland,Utah,1852
+2018,Maryland,Vermont,44
+2018,Maryland,Virginia,26522
+2018,Maryland,Washington,1881
+2018,Maryland,West Virginia,5422
+2018,Maryland,Wisconsin,1731
+2018,Maryland,Wyoming,147
+2018,Massachusetts,Alabama,483
+2018,Massachusetts,Alaska,241
+2018,Massachusetts,Arizona,1554
+2018,Massachusetts,Arkansas,222
+2018,Massachusetts,California,13901
+2018,Massachusetts,Colorado,1174
+2018,Massachusetts,Connecticut,14224
+2018,Massachusetts,Delaware,887
+2018,Massachusetts,District of Columbia ,1557
+2018,Massachusetts,Florida,9455
+2018,Massachusetts,Georgia,2988
+2018,Massachusetts,Hawaii,257
+2018,Massachusetts,Idaho,44
+2018,Massachusetts,Illinois,3415
+2018,Massachusetts,Indiana,819
+2018,Massachusetts,Iowa,79
+2018,Massachusetts,Kansas,747
+2018,Massachusetts,Kentucky,399
+2018,Massachusetts,Louisiana,633
+2018,Massachusetts,Maine,3188
+2018,Massachusetts,Maryland,3439
+2018,Massachusetts,Massachusetts,N/A
+2018,Massachusetts,Michigan,2118
+2018,Massachusetts,Minnesota,1578
+2018,Massachusetts,Mississippi,78
+2018,Massachusetts,Missouri,1227
+2018,Massachusetts,Montana,216
+2018,Massachusetts,Nebraska,194
+2018,Massachusetts,Nevada,321
+2018,Massachusetts,New Hampshire,11251
+2018,Massachusetts,New Jersey,8026
+2018,Massachusetts,New Mexico,78
+2018,Massachusetts,New York,19960
+2018,Massachusetts,North Carolina,3170
+2018,Massachusetts,North Dakota,0
+2018,Massachusetts,Ohio,1123
+2018,Massachusetts,Oklahoma,261
+2018,Massachusetts,Oregon,1013
+2018,Massachusetts,Pennsylvania,6014
+2018,Massachusetts,Rhode Island,10630
+2018,Massachusetts,South Carolina,1135
+2018,Massachusetts,South Dakota,52
+2018,Massachusetts,Tennessee,2139
+2018,Massachusetts,Texas,4116
+2018,Massachusetts,Utah,466
+2018,Massachusetts,Vermont,1979
+2018,Massachusetts,Virginia,4260
+2018,Massachusetts,Washington,2069
+2018,Massachusetts,West Virginia,115
+2018,Massachusetts,Wisconsin,703
+2018,Massachusetts,Wyoming,44
+2018,Michigan,Alabama,537
+2018,Michigan,Alaska,1025
+2018,Michigan,Arizona,4028
+2018,Michigan,Arkansas,755
+2018,Michigan,California,11239
+2018,Michigan,Colorado,3337
+2018,Michigan,Connecticut,1388
+2018,Michigan,Delaware,86
+2018,Michigan,District of Columbia ,256
+2018,Michigan,Florida,12601
+2018,Michigan,Georgia,1477
+2018,Michigan,Hawaii,496
+2018,Michigan,Idaho,509
+2018,Michigan,Illinois,10193
+2018,Michigan,Indiana,12702
+2018,Michigan,Iowa,506
+2018,Michigan,Kansas,1825
+2018,Michigan,Kentucky,2221
+2018,Michigan,Louisiana,1254
+2018,Michigan,Maine,410
+2018,Michigan,Maryland,1174
+2018,Michigan,Massachusetts,3536
+2018,Michigan,Michigan,N/A
+2018,Michigan,Minnesota,1195
+2018,Michigan,Mississippi,1124
+2018,Michigan,Missouri,1926
+2018,Michigan,Montana,527
+2018,Michigan,Nebraska,1147
+2018,Michigan,Nevada,1684
+2018,Michigan,New Hampshire,622
+2018,Michigan,New Jersey,2313
+2018,Michigan,New Mexico,331
+2018,Michigan,New York,6478
+2018,Michigan,North Carolina,3767
+2018,Michigan,North Dakota,311
+2018,Michigan,Ohio,13625
+2018,Michigan,Oklahoma,396
+2018,Michigan,Oregon,1265
+2018,Michigan,Pennsylvania,4263
+2018,Michigan,Rhode Island,42
+2018,Michigan,South Carolina,2627
+2018,Michigan,South Dakota,354
+2018,Michigan,Tennessee,4017
+2018,Michigan,Texas,7873
+2018,Michigan,Utah,599
+2018,Michigan,Vermont,142
+2018,Michigan,Virginia,4095
+2018,Michigan,Washington,3169
+2018,Michigan,West Virginia,115
+2018,Michigan,Wisconsin,3613
+2018,Michigan,Wyoming,101
+2018,Minnesota,Alabama,976
+2018,Minnesota,Alaska,363
+2018,Minnesota,Arizona,2176
+2018,Minnesota,Arkansas,621
+2018,Minnesota,California,4915
+2018,Minnesota,Colorado,2605
+2018,Minnesota,Connecticut,342
+2018,Minnesota,Delaware,0
+2018,Minnesota,District of Columbia ,141
+2018,Minnesota,Florida,5720
+2018,Minnesota,Georgia,727
+2018,Minnesota,Hawaii,241
+2018,Minnesota,Idaho,544
+2018,Minnesota,Illinois,8454
+2018,Minnesota,Indiana,1388
+2018,Minnesota,Iowa,4626
+2018,Minnesota,Kansas,936
+2018,Minnesota,Kentucky,443
+2018,Minnesota,Louisiana,382
+2018,Minnesota,Maine,249
+2018,Minnesota,Maryland,1330
+2018,Minnesota,Massachusetts,819
+2018,Minnesota,Michigan,2043
+2018,Minnesota,Minnesota,N/A
+2018,Minnesota,Mississippi,415
+2018,Minnesota,Missouri,2483
+2018,Minnesota,Montana,812
+2018,Minnesota,Nebraska,1830
+2018,Minnesota,Nevada,848
+2018,Minnesota,New Hampshire,110
+2018,Minnesota,New Jersey,231
+2018,Minnesota,New Mexico,406
+2018,Minnesota,New York,3536
+2018,Minnesota,North Carolina,1934
+2018,Minnesota,North Dakota,9793
+2018,Minnesota,Ohio,1134
+2018,Minnesota,Oklahoma,1111
+2018,Minnesota,Oregon,974
+2018,Minnesota,Pennsylvania,1282
+2018,Minnesota,Rhode Island,202
+2018,Minnesota,South Carolina,151
+2018,Minnesota,South Dakota,3896
+2018,Minnesota,Tennessee,1220
+2018,Minnesota,Texas,4757
+2018,Minnesota,Utah,626
+2018,Minnesota,Vermont,85
+2018,Minnesota,Virginia,810
+2018,Minnesota,Washington,5889
+2018,Minnesota,West Virginia,0
+2018,Minnesota,Wisconsin,15270
+2018,Minnesota,Wyoming,424
+2018,Mississippi,Alabama,8401
+2018,Mississippi,Alaska,191
+2018,Mississippi,Arizona,674
+2018,Mississippi,Arkansas,696
+2018,Mississippi,California,2066
+2018,Mississippi,Colorado,284
+2018,Mississippi,Connecticut,0
+2018,Mississippi,Delaware,0
+2018,Mississippi,District of Columbia ,99
+2018,Mississippi,Florida,3369
+2018,Mississippi,Georgia,3358
+2018,Mississippi,Hawaii,489
+2018,Mississippi,Idaho,0
+2018,Mississippi,Illinois,3245
+2018,Mississippi,Indiana,2858
+2018,Mississippi,Iowa,70
+2018,Mississippi,Kansas,583
+2018,Mississippi,Kentucky,251
+2018,Mississippi,Louisiana,12049
+2018,Mississippi,Maine,52
+2018,Mississippi,Maryland,391
+2018,Mississippi,Massachusetts,346
+2018,Mississippi,Michigan,675
+2018,Mississippi,Minnesota,28
+2018,Mississippi,Mississippi,N/A
+2018,Mississippi,Missouri,1991
+2018,Mississippi,Montana,432
+2018,Mississippi,Nebraska,59
+2018,Mississippi,Nevada,1023
+2018,Mississippi,New Hampshire,0
+2018,Mississippi,New Jersey,154
+2018,Mississippi,New Mexico,0
+2018,Mississippi,New York,1319
+2018,Mississippi,North Carolina,357
+2018,Mississippi,North Dakota,71
+2018,Mississippi,Ohio,799
+2018,Mississippi,Oklahoma,413
+2018,Mississippi,Oregon,55
+2018,Mississippi,Pennsylvania,1071
+2018,Mississippi,Rhode Island,0
+2018,Mississippi,South Carolina,658
+2018,Mississippi,South Dakota,0
+2018,Mississippi,Tennessee,10004
+2018,Mississippi,Texas,5853
+2018,Mississippi,Utah,468
+2018,Mississippi,Vermont,0
+2018,Mississippi,Virginia,695
+2018,Mississippi,Washington,128
+2018,Mississippi,West Virginia,285
+2018,Mississippi,Wisconsin,1243
+2018,Mississippi,Wyoming,747
+2018,Missouri,Alabama,2378
+2018,Missouri,Alaska,882
+2018,Missouri,Arizona,2009
+2018,Missouri,Arkansas,8166
+2018,Missouri,California,8156
+2018,Missouri,Colorado,8782
+2018,Missouri,Connecticut,361
+2018,Missouri,Delaware,235
+2018,Missouri,District of Columbia ,461
+2018,Missouri,Florida,7112
+2018,Missouri,Georgia,1919
+2018,Missouri,Hawaii,322
+2018,Missouri,Idaho,276
+2018,Missouri,Illinois,20041
+2018,Missouri,Indiana,3462
+2018,Missouri,Iowa,4904
+2018,Missouri,Kansas,21037
+2018,Missouri,Kentucky,2042
+2018,Missouri,Louisiana,2063
+2018,Missouri,Maine,182
+2018,Missouri,Maryland,682
+2018,Missouri,Massachusetts,497
+2018,Missouri,Michigan,2369
+2018,Missouri,Minnesota,2160
+2018,Missouri,Mississippi,2814
+2018,Missouri,Missouri,N/A
+2018,Missouri,Montana,499
+2018,Missouri,Nebraska,2071
+2018,Missouri,Nevada,1481
+2018,Missouri,New Hampshire,0
+2018,Missouri,New Jersey,1628
+2018,Missouri,New Mexico,605
+2018,Missouri,New York,3210
+2018,Missouri,North Carolina,2432
+2018,Missouri,North Dakota,190
+2018,Missouri,Ohio,2286
+2018,Missouri,Oklahoma,4602
+2018,Missouri,Oregon,546
+2018,Missouri,Pennsylvania,1605
+2018,Missouri,Rhode Island,40
+2018,Missouri,South Carolina,2259
+2018,Missouri,South Dakota,522
+2018,Missouri,Tennessee,3153
+2018,Missouri,Texas,10799
+2018,Missouri,Utah,2886
+2018,Missouri,Vermont,236
+2018,Missouri,Virginia,3228
+2018,Missouri,Washington,2521
+2018,Missouri,West Virginia,59
+2018,Missouri,Wisconsin,1546
+2018,Missouri,Wyoming,610
+2018,Montana,Alabama,540
+2018,Montana,Alaska,986
+2018,Montana,Arizona,1787
+2018,Montana,Arkansas,19
+2018,Montana,California,4991
+2018,Montana,Colorado,2921
+2018,Montana,Connecticut,323
+2018,Montana,Delaware,0
+2018,Montana,District of Columbia ,0
+2018,Montana,Florida,1263
+2018,Montana,Georgia,892
+2018,Montana,Hawaii,225
+2018,Montana,Idaho,2157
+2018,Montana,Illinois,549
+2018,Montana,Indiana,391
+2018,Montana,Iowa,142
+2018,Montana,Kansas,1031
+2018,Montana,Kentucky,26
+2018,Montana,Louisiana,106
+2018,Montana,Maine,54
+2018,Montana,Maryland,0
+2018,Montana,Massachusetts,413
+2018,Montana,Michigan,142
+2018,Montana,Minnesota,2505
+2018,Montana,Mississippi,0
+2018,Montana,Missouri,187
+2018,Montana,Montana,N/A
+2018,Montana,Nebraska,93
+2018,Montana,Nevada,251
+2018,Montana,New Hampshire,257
+2018,Montana,New Jersey,90
+2018,Montana,New Mexico,1118
+2018,Montana,New York,183
+2018,Montana,North Carolina,372
+2018,Montana,North Dakota,1978
+2018,Montana,Ohio,733
+2018,Montana,Oklahoma,239
+2018,Montana,Oregon,3284
+2018,Montana,Pennsylvania,271
+2018,Montana,Rhode Island,0
+2018,Montana,South Carolina,675
+2018,Montana,South Dakota,375
+2018,Montana,Tennessee,240
+2018,Montana,Texas,2198
+2018,Montana,Utah,891
+2018,Montana,Vermont,56
+2018,Montana,Virginia,248
+2018,Montana,Washington,5450
+2018,Montana,West Virginia,0
+2018,Montana,Wisconsin,774
+2018,Montana,Wyoming,1949
+2018,Nebraska,Alabama,268
+2018,Nebraska,Alaska,34
+2018,Nebraska,Arizona,1351
+2018,Nebraska,Arkansas,236
+2018,Nebraska,California,4148
+2018,Nebraska,Colorado,4835
+2018,Nebraska,Connecticut,348
+2018,Nebraska,Delaware,0
+2018,Nebraska,District of Columbia ,100
+2018,Nebraska,Florida,1111
+2018,Nebraska,Georgia,982
+2018,Nebraska,Hawaii,420
+2018,Nebraska,Idaho,19
+2018,Nebraska,Illinois,1696
+2018,Nebraska,Indiana,669
+2018,Nebraska,Iowa,6072
+2018,Nebraska,Kansas,4355
+2018,Nebraska,Kentucky,607
+2018,Nebraska,Louisiana,199
+2018,Nebraska,Maine,7
+2018,Nebraska,Maryland,579
+2018,Nebraska,Massachusetts,512
+2018,Nebraska,Michigan,665
+2018,Nebraska,Minnesota,2242
+2018,Nebraska,Mississippi,353
+2018,Nebraska,Missouri,2835
+2018,Nebraska,Montana,108
+2018,Nebraska,Nebraska,N/A
+2018,Nebraska,Nevada,567
+2018,Nebraska,New Hampshire,0
+2018,Nebraska,New Jersey,255
+2018,Nebraska,New Mexico,455
+2018,Nebraska,New York,770
+2018,Nebraska,North Carolina,1362
+2018,Nebraska,North Dakota,393
+2018,Nebraska,Ohio,771
+2018,Nebraska,Oklahoma,795
+2018,Nebraska,Oregon,818
+2018,Nebraska,Pennsylvania,285
+2018,Nebraska,Rhode Island,70
+2018,Nebraska,South Carolina,72
+2018,Nebraska,South Dakota,2753
+2018,Nebraska,Tennessee,920
+2018,Nebraska,Texas,6429
+2018,Nebraska,Utah,448
+2018,Nebraska,Vermont,0
+2018,Nebraska,Virginia,674
+2018,Nebraska,Washington,654
+2018,Nebraska,West Virginia,41
+2018,Nebraska,Wisconsin,336
+2018,Nebraska,Wyoming,960
+2018,Nevada,Alabama,397
+2018,Nevada,Alaska,458
+2018,Nevada,Arizona,6999
+2018,Nevada,Arkansas,49
+2018,Nevada,California,50707
+2018,Nevada,Colorado,3724
+2018,Nevada,Connecticut,198
+2018,Nevada,Delaware,98
+2018,Nevada,District of Columbia ,43
+2018,Nevada,Florida,4018
+2018,Nevada,Georgia,1511
+2018,Nevada,Hawaii,4959
+2018,Nevada,Idaho,875
+2018,Nevada,Illinois,2938
+2018,Nevada,Indiana,850
+2018,Nevada,Iowa,508
+2018,Nevada,Kansas,412
+2018,Nevada,Kentucky,846
+2018,Nevada,Louisiana,657
+2018,Nevada,Maine,0
+2018,Nevada,Maryland,474
+2018,Nevada,Massachusetts,1992
+2018,Nevada,Michigan,1157
+2018,Nevada,Minnesota,1070
+2018,Nevada,Mississippi,459
+2018,Nevada,Missouri,1130
+2018,Nevada,Montana,515
+2018,Nevada,Nebraska,671
+2018,Nevada,Nevada,N/A
+2018,Nevada,New Hampshire,165
+2018,Nevada,New Jersey,2179
+2018,Nevada,New Mexico,2121
+2018,Nevada,New York,2770
+2018,Nevada,North Carolina,903
+2018,Nevada,North Dakota,0
+2018,Nevada,Ohio,1913
+2018,Nevada,Oklahoma,1304
+2018,Nevada,Oregon,3113
+2018,Nevada,Pennsylvania,1559
+2018,Nevada,Rhode Island,88
+2018,Nevada,South Carolina,615
+2018,Nevada,South Dakota,3
+2018,Nevada,Tennessee,837
+2018,Nevada,Texas,5129
+2018,Nevada,Utah,7133
+2018,Nevada,Vermont,26
+2018,Nevada,Virginia,1616
+2018,Nevada,Washington,6231
+2018,Nevada,West Virginia,0
+2018,Nevada,Wisconsin,1151
+2018,Nevada,Wyoming,791
+2018,New Hampshire,Alabama,158
+2018,New Hampshire,Alaska,45
+2018,New Hampshire,Arizona,704
+2018,New Hampshire,Arkansas,569
+2018,New Hampshire,California,1263
+2018,New Hampshire,Colorado,385
+2018,New Hampshire,Connecticut,1298
+2018,New Hampshire,Delaware,238
+2018,New Hampshire,District of Columbia ,95
+2018,New Hampshire,Florida,3806
+2018,New Hampshire,Georgia,533
+2018,New Hampshire,Hawaii,151
+2018,New Hampshire,Idaho,0
+2018,New Hampshire,Illinois,0
+2018,New Hampshire,Indiana,327
+2018,New Hampshire,Iowa,14
+2018,New Hampshire,Kansas,41
+2018,New Hampshire,Kentucky,270
+2018,New Hampshire,Louisiana,0
+2018,New Hampshire,Maine,4016
+2018,New Hampshire,Maryland,423
+2018,New Hampshire,Massachusetts,20416
+2018,New Hampshire,Michigan,1002
+2018,New Hampshire,Minnesota,52
+2018,New Hampshire,Mississippi,0
+2018,New Hampshire,Missouri,359
+2018,New Hampshire,Montana,0
+2018,New Hampshire,Nebraska,0
+2018,New Hampshire,Nevada,453
+2018,New Hampshire,New Hampshire,N/A
+2018,New Hampshire,New Jersey,534
+2018,New Hampshire,New Mexico,102
+2018,New Hampshire,New York,1276
+2018,New Hampshire,North Carolina,1714
+2018,New Hampshire,North Dakota,60
+2018,New Hampshire,Ohio,258
+2018,New Hampshire,Oklahoma,79
+2018,New Hampshire,Oregon,230
+2018,New Hampshire,Pennsylvania,1585
+2018,New Hampshire,Rhode Island,864
+2018,New Hampshire,South Carolina,1027
+2018,New Hampshire,South Dakota,0
+2018,New Hampshire,Tennessee,246
+2018,New Hampshire,Texas,786
+2018,New Hampshire,Utah,31
+2018,New Hampshire,Vermont,1725
+2018,New Hampshire,Virginia,836
+2018,New Hampshire,Washington,198
+2018,New Hampshire,West Virginia,0
+2018,New Hampshire,Wisconsin,198
+2018,New Hampshire,Wyoming,0
+2018,New Jersey,Alabama,147
+2018,New Jersey,Alaska,67
+2018,New Jersey,Arizona,1626
+2018,New Jersey,Arkansas,0
+2018,New Jersey,California,9613
+2018,New Jersey,Colorado,1505
+2018,New Jersey,Connecticut,2187
+2018,New Jersey,Delaware,1720
+2018,New Jersey,District of Columbia ,1187
+2018,New Jersey,Florida,13591
+2018,New Jersey,Georgia,1817
+2018,New Jersey,Hawaii,305
+2018,New Jersey,Idaho,255
+2018,New Jersey,Illinois,972
+2018,New Jersey,Indiana,312
+2018,New Jersey,Iowa,163
+2018,New Jersey,Kansas,248
+2018,New Jersey,Kentucky,112
+2018,New Jersey,Louisiana,353
+2018,New Jersey,Maine,101
+2018,New Jersey,Maryland,2788
+2018,New Jersey,Massachusetts,4754
+2018,New Jersey,Michigan,960
+2018,New Jersey,Minnesota,353
+2018,New Jersey,Mississippi,239
+2018,New Jersey,Missouri,336
+2018,New Jersey,Montana,0
+2018,New Jersey,Nebraska,167
+2018,New Jersey,Nevada,204
+2018,New Jersey,New Hampshire,946
+2018,New Jersey,New Jersey,N/A
+2018,New Jersey,New Mexico,0
+2018,New Jersey,New York,64810
+2018,New Jersey,North Carolina,6359
+2018,New Jersey,North Dakota,288
+2018,New Jersey,Ohio,4034
+2018,New Jersey,Oklahoma,254
+2018,New Jersey,Oregon,195
+2018,New Jersey,Pennsylvania,24132
+2018,New Jersey,Rhode Island,223
+2018,New Jersey,South Carolina,1242
+2018,New Jersey,South Dakota,0
+2018,New Jersey,Tennessee,431
+2018,New Jersey,Texas,6504
+2018,New Jersey,Utah,19
+2018,New Jersey,Vermont,0
+2018,New Jersey,Virginia,2011
+2018,New Jersey,Washington,1507
+2018,New Jersey,West Virginia,304
+2018,New Jersey,Wisconsin,505
+2018,New Jersey,Wyoming,0
+2018,New Mexico,Alabama,1099
+2018,New Mexico,Alaska,197
+2018,New Mexico,Arizona,3284
+2018,New Mexico,Arkansas,352
+2018,New Mexico,California,7524
+2018,New Mexico,Colorado,4877
+2018,New Mexico,Connecticut,55
+2018,New Mexico,Delaware,0
+2018,New Mexico,District of Columbia ,30
+2018,New Mexico,Florida,2196
+2018,New Mexico,Georgia,232
+2018,New Mexico,Hawaii,313
+2018,New Mexico,Idaho,665
+2018,New Mexico,Illinois,482
+2018,New Mexico,Indiana,0
+2018,New Mexico,Iowa,434
+2018,New Mexico,Kansas,378
+2018,New Mexico,Kentucky,129
+2018,New Mexico,Louisiana,524
+2018,New Mexico,Maine,257
+2018,New Mexico,Maryland,162
+2018,New Mexico,Massachusetts,449
+2018,New Mexico,Michigan,851
+2018,New Mexico,Minnesota,641
+2018,New Mexico,Mississippi,1010
+2018,New Mexico,Missouri,675
+2018,New Mexico,Montana,303
+2018,New Mexico,Nebraska,344
+2018,New Mexico,Nevada,868
+2018,New Mexico,New Hampshire,538
+2018,New Mexico,New Jersey,1021
+2018,New Mexico,New Mexico,N/A
+2018,New Mexico,New York,1099
+2018,New Mexico,North Carolina,405
+2018,New Mexico,North Dakota,205
+2018,New Mexico,Ohio,1090
+2018,New Mexico,Oklahoma,2159
+2018,New Mexico,Oregon,2009
+2018,New Mexico,Pennsylvania,1086
+2018,New Mexico,Rhode Island,0
+2018,New Mexico,South Carolina,1270
+2018,New Mexico,South Dakota,0
+2018,New Mexico,Tennessee,776
+2018,New Mexico,Texas,14250
+2018,New Mexico,Utah,1199
+2018,New Mexico,Vermont,192
+2018,New Mexico,Virginia,987
+2018,New Mexico,Washington,2714
+2018,New Mexico,West Virginia,204
+2018,New Mexico,Wisconsin,285
+2018,New Mexico,Wyoming,248
+2018,New York,Alabama,1395
+2018,New York,Alaska,415
+2018,New York,Arizona,3541
+2018,New York,Arkansas,52
+2018,New York,California,25255
+2018,New York,Colorado,4553
+2018,New York,Connecticut,14420
+2018,New York,Delaware,1328
+2018,New York,District of Columbia ,2802
+2018,New York,Florida,24084
+2018,New York,Georgia,7994
+2018,New York,Hawaii,1181
+2018,New York,Idaho,491
+2018,New York,Illinois,5977
+2018,New York,Indiana,2007
+2018,New York,Iowa,2352
+2018,New York,Kansas,1262
+2018,New York,Kentucky,986
+2018,New York,Louisiana,2069
+2018,New York,Maine,731
+2018,New York,Maryland,7775
+2018,New York,Massachusetts,13568
+2018,New York,Michigan,3743
+2018,New York,Minnesota,1286
+2018,New York,Mississippi,447
+2018,New York,Missouri,2335
+2018,New York,Montana,372
+2018,New York,Nebraska,866
+2018,New York,Nevada,1853
+2018,New York,New Hampshire,2474
+2018,New York,New Jersey,36401
+2018,New York,New Mexico,647
+2018,New York,New York,N/A
+2018,New York,North Carolina,9270
+2018,New York,North Dakota,294
+2018,New York,Ohio,5284
+2018,New York,Oklahoma,1303
+2018,New York,Oregon,1414
+2018,New York,Pennsylvania,19339
+2018,New York,Rhode Island,1362
+2018,New York,South Carolina,4457
+2018,New York,South Dakota,431
+2018,New York,Tennessee,3144
+2018,New York,Texas,14708
+2018,New York,Utah,364
+2018,New York,Vermont,4072
+2018,New York,Virginia,9302
+2018,New York,Washington,1962
+2018,New York,West Virginia,1126
+2018,New York,Wisconsin,1935
+2018,New York,Wyoming,18
+2018,North Carolina,Alabama,3287
+2018,North Carolina,Alaska,1562
+2018,North Carolina,Arizona,2622
+2018,North Carolina,Arkansas,1897
+2018,North Carolina,California,17536
+2018,North Carolina,Colorado,5471
+2018,North Carolina,Connecticut,2702
+2018,North Carolina,Delaware,1988
+2018,North Carolina,District of Columbia ,2031
+2018,North Carolina,Florida,37585
+2018,North Carolina,Georgia,17020
+2018,North Carolina,Hawaii,3402
+2018,North Carolina,Idaho,244
+2018,North Carolina,Illinois,6544
+2018,North Carolina,Indiana,3506
+2018,North Carolina,Iowa,1976
+2018,North Carolina,Kansas,1815
+2018,North Carolina,Kentucky,3906
+2018,North Carolina,Louisiana,2454
+2018,North Carolina,Maine,1235
+2018,North Carolina,Maryland,8717
+2018,North Carolina,Massachusetts,5822
+2018,North Carolina,Michigan,5793
+2018,North Carolina,Minnesota,3342
+2018,North Carolina,Mississippi,3441
+2018,North Carolina,Missouri,2993
+2018,North Carolina,Montana,331
+2018,North Carolina,Nebraska,1052
+2018,North Carolina,Nevada,857
+2018,North Carolina,New Hampshire,1862
+2018,North Carolina,New Jersey,11947
+2018,North Carolina,New Mexico,2306
+2018,North Carolina,New York,25596
+2018,North Carolina,North Carolina,N/A
+2018,North Carolina,North Dakota,177
+2018,North Carolina,Ohio,9431
+2018,North Carolina,Oklahoma,2034
+2018,North Carolina,Oregon,3066
+2018,North Carolina,Pennsylvania,12058
+2018,North Carolina,Rhode Island,1535
+2018,North Carolina,South Carolina,26091
+2018,North Carolina,South Dakota,57
+2018,North Carolina,Tennessee,7476
+2018,North Carolina,Texas,18748
+2018,North Carolina,Utah,1735
+2018,North Carolina,Vermont,1208
+2018,North Carolina,Virginia,27843
+2018,North Carolina,Washington,6790
+2018,North Carolina,West Virginia,4624
+2018,North Carolina,Wisconsin,1920
+2018,North Carolina,Wyoming,1046
+2018,North Dakota,Alabama,4
+2018,North Dakota,Alaska,112
+2018,North Dakota,Arizona,530
+2018,North Dakota,Arkansas,464
+2018,North Dakota,California,1040
+2018,North Dakota,Colorado,522
+2018,North Dakota,Connecticut,0
+2018,North Dakota,Delaware,0
+2018,North Dakota,District of Columbia ,53
+2018,North Dakota,Florida,1355
+2018,North Dakota,Georgia,1194
+2018,North Dakota,Hawaii,204
+2018,North Dakota,Idaho,433
+2018,North Dakota,Illinois,467
+2018,North Dakota,Indiana,113
+2018,North Dakota,Iowa,166
+2018,North Dakota,Kansas,306
+2018,North Dakota,Kentucky,0
+2018,North Dakota,Louisiana,778
+2018,North Dakota,Maine,0
+2018,North Dakota,Maryland,281
+2018,North Dakota,Massachusetts,0
+2018,North Dakota,Michigan,411
+2018,North Dakota,Minnesota,10670
+2018,North Dakota,Mississippi,275
+2018,North Dakota,Missouri,540
+2018,North Dakota,Montana,2167
+2018,North Dakota,Nebraska,13
+2018,North Dakota,Nevada,14
+2018,North Dakota,New Hampshire,0
+2018,North Dakota,New Jersey,170
+2018,North Dakota,New Mexico,1285
+2018,North Dakota,New York,2105
+2018,North Dakota,North Carolina,179
+2018,North Dakota,North Dakota,N/A
+2018,North Dakota,Ohio,139
+2018,North Dakota,Oklahoma,1631
+2018,North Dakota,Oregon,399
+2018,North Dakota,Pennsylvania,733
+2018,North Dakota,Rhode Island,0
+2018,North Dakota,South Carolina,114
+2018,North Dakota,South Dakota,1225
+2018,North Dakota,Tennessee,644
+2018,North Dakota,Texas,1098
+2018,North Dakota,Utah,321
+2018,North Dakota,Vermont,0
+2018,North Dakota,Virginia,132
+2018,North Dakota,Washington,683
+2018,North Dakota,West Virginia,0
+2018,North Dakota,Wisconsin,475
+2018,North Dakota,Wyoming,290
+2018,Ohio,Alabama,1744
+2018,Ohio,Alaska,1200
+2018,Ohio,Arizona,2432
+2018,Ohio,Arkansas,583
+2018,Ohio,California,8799
+2018,Ohio,Colorado,2216
+2018,Ohio,Connecticut,2510
+2018,Ohio,Delaware,996
+2018,Ohio,District of Columbia ,789
+2018,Ohio,Florida,15037
+2018,Ohio,Georgia,5178
+2018,Ohio,Hawaii,735
+2018,Ohio,Idaho,334
+2018,Ohio,Illinois,9797
+2018,Ohio,Indiana,14252
+2018,Ohio,Iowa,2395
+2018,Ohio,Kansas,803
+2018,Ohio,Kentucky,16598
+2018,Ohio,Louisiana,1463
+2018,Ohio,Maine,761
+2018,Ohio,Maryland,2272
+2018,Ohio,Massachusetts,3415
+2018,Ohio,Michigan,15409
+2018,Ohio,Minnesota,1405
+2018,Ohio,Mississippi,2527
+2018,Ohio,Missouri,3410
+2018,Ohio,Montana,677
+2018,Ohio,Nebraska,1796
+2018,Ohio,Nevada,1460
+2018,Ohio,New Hampshire,28
+2018,Ohio,New Jersey,3585
+2018,Ohio,New Mexico,1148
+2018,Ohio,New York,9067
+2018,Ohio,North Carolina,5818
+2018,Ohio,North Dakota,221
+2018,Ohio,Ohio,N/A
+2018,Ohio,Oklahoma,35
+2018,Ohio,Oregon,1737
+2018,Ohio,Pennsylvania,16881
+2018,Ohio,Rhode Island,42
+2018,Ohio,South Carolina,4605
+2018,Ohio,South Dakota,134
+2018,Ohio,Tennessee,5467
+2018,Ohio,Texas,8189
+2018,Ohio,Utah,1922
+2018,Ohio,Vermont,314
+2018,Ohio,Virginia,6695
+2018,Ohio,Washington,2032
+2018,Ohio,West Virginia,6260
+2018,Ohio,Wisconsin,2778
+2018,Ohio,Wyoming,75
+2018,Oklahoma,Alabama,541
+2018,Oklahoma,Alaska,661
+2018,Oklahoma,Arizona,3631
+2018,Oklahoma,Arkansas,8526
+2018,Oklahoma,California,8330
+2018,Oklahoma,Colorado,4039
+2018,Oklahoma,Connecticut,0
+2018,Oklahoma,Delaware,0
+2018,Oklahoma,District of Columbia ,0
+2018,Oklahoma,Florida,5489
+2018,Oklahoma,Georgia,1590
+2018,Oklahoma,Hawaii,931
+2018,Oklahoma,Idaho,216
+2018,Oklahoma,Illinois,3201
+2018,Oklahoma,Indiana,813
+2018,Oklahoma,Iowa,603
+2018,Oklahoma,Kansas,5393
+2018,Oklahoma,Kentucky,214
+2018,Oklahoma,Louisiana,2107
+2018,Oklahoma,Maine,0
+2018,Oklahoma,Maryland,871
+2018,Oklahoma,Massachusetts,701
+2018,Oklahoma,Michigan,1395
+2018,Oklahoma,Minnesota,1167
+2018,Oklahoma,Mississippi,446
+2018,Oklahoma,Missouri,5861
+2018,Oklahoma,Montana,46
+2018,Oklahoma,Nebraska,965
+2018,Oklahoma,Nevada,1106
+2018,Oklahoma,New Hampshire,0
+2018,Oklahoma,New Jersey,390
+2018,Oklahoma,New Mexico,1528
+2018,Oklahoma,New York,1221
+2018,Oklahoma,North Carolina,819
+2018,Oklahoma,North Dakota,13
+2018,Oklahoma,Ohio,932
+2018,Oklahoma,Oklahoma,N/A
+2018,Oklahoma,Oregon,1595
+2018,Oklahoma,Pennsylvania,941
+2018,Oklahoma,Rhode Island,56
+2018,Oklahoma,South Carolina,803
+2018,Oklahoma,South Dakota,302
+2018,Oklahoma,Tennessee,2210
+2018,Oklahoma,Texas,31551
+2018,Oklahoma,Utah,1944
+2018,Oklahoma,Vermont,152
+2018,Oklahoma,Virginia,1352
+2018,Oklahoma,Washington,1258
+2018,Oklahoma,West Virginia,0
+2018,Oklahoma,Wisconsin,392
+2018,Oklahoma,Wyoming,641
+2018,Oregon,Alabama,315
+2018,Oregon,Alaska,4317
+2018,Oregon,Arizona,7736
+2018,Oregon,Arkansas,436
+2018,Oregon,California,43058
+2018,Oregon,Colorado,3292
+2018,Oregon,Connecticut,157
+2018,Oregon,Delaware,0
+2018,Oregon,District of Columbia ,226
+2018,Oregon,Florida,3824
+2018,Oregon,Georgia,1203
+2018,Oregon,Hawaii,2729
+2018,Oregon,Idaho,5745
+2018,Oregon,Illinois,2022
+2018,Oregon,Indiana,854
+2018,Oregon,Iowa,139
+2018,Oregon,Kansas,899
+2018,Oregon,Kentucky,942
+2018,Oregon,Louisiana,238
+2018,Oregon,Maine,406
+2018,Oregon,Maryland,327
+2018,Oregon,Massachusetts,1425
+2018,Oregon,Michigan,2412
+2018,Oregon,Minnesota,1693
+2018,Oregon,Mississippi,1070
+2018,Oregon,Missouri,681
+2018,Oregon,Montana,1515
+2018,Oregon,Nebraska,96
+2018,Oregon,Nevada,5375
+2018,Oregon,New Hampshire,0
+2018,Oregon,New Jersey,1143
+2018,Oregon,New Mexico,1440
+2018,Oregon,New York,2842
+2018,Oregon,North Carolina,3570
+2018,Oregon,North Dakota,238
+2018,Oregon,Ohio,1390
+2018,Oregon,Oklahoma,700
+2018,Oregon,Oregon,N/A
+2018,Oregon,Pennsylvania,1107
+2018,Oregon,Rhode Island,0
+2018,Oregon,South Carolina,817
+2018,Oregon,South Dakota,354
+2018,Oregon,Tennessee,303
+2018,Oregon,Texas,5403
+2018,Oregon,Utah,2512
+2018,Oregon,Vermont,495
+2018,Oregon,Virginia,1628
+2018,Oregon,Washington,21672
+2018,Oregon,West Virginia,185
+2018,Oregon,Wisconsin,419
+2018,Oregon,Wyoming,1277
+2018,Pennsylvania,Alabama,1202
+2018,Pennsylvania,Alaska,553
+2018,Pennsylvania,Arizona,3269
+2018,Pennsylvania,Arkansas,1486
+2018,Pennsylvania,California,11568
+2018,Pennsylvania,Colorado,4822
+2018,Pennsylvania,Connecticut,3891
+2018,Pennsylvania,Delaware,5999
+2018,Pennsylvania,District of Columbia ,1336
+2018,Pennsylvania,Florida,17029
+2018,Pennsylvania,Georgia,4255
+2018,Pennsylvania,Hawaii,783
+2018,Pennsylvania,Idaho,110
+2018,Pennsylvania,Illinois,3659
+2018,Pennsylvania,Indiana,2045
+2018,Pennsylvania,Iowa,365
+2018,Pennsylvania,Kansas,1065
+2018,Pennsylvania,Kentucky,921
+2018,Pennsylvania,Louisiana,986
+2018,Pennsylvania,Maine,916
+2018,Pennsylvania,Maryland,20660
+2018,Pennsylvania,Massachusetts,5651
+2018,Pennsylvania,Michigan,3138
+2018,Pennsylvania,Minnesota,2019
+2018,Pennsylvania,Mississippi,1287
+2018,Pennsylvania,Missouri,979
+2018,Pennsylvania,Montana,328
+2018,Pennsylvania,Nebraska,328
+2018,Pennsylvania,Nevada,409
+2018,Pennsylvania,New Hampshire,917
+2018,Pennsylvania,New Jersey,43726
+2018,Pennsylvania,New Mexico,1335
+2018,Pennsylvania,New York,43048
+2018,Pennsylvania,North Carolina,7579
+2018,Pennsylvania,North Dakota,446
+2018,Pennsylvania,Ohio,12317
+2018,Pennsylvania,Oklahoma,1576
+2018,Pennsylvania,Oregon,1451
+2018,Pennsylvania,Pennsylvania,N/A
+2018,Pennsylvania,Rhode Island,535
+2018,Pennsylvania,South Carolina,3272
+2018,Pennsylvania,South Dakota,455
+2018,Pennsylvania,Tennessee,2566
+2018,Pennsylvania,Texas,9760
+2018,Pennsylvania,Utah,2041
+2018,Pennsylvania,Vermont,1002
+2018,Pennsylvania,Virginia,10010
+2018,Pennsylvania,Washington,3059
+2018,Pennsylvania,West Virginia,5485
+2018,Pennsylvania,Wisconsin,1725
+2018,Pennsylvania,Wyoming,156
+2018,Rhode Island,Alabama,183
+2018,Rhode Island,Alaska,0
+2018,Rhode Island,Arizona,50
+2018,Rhode Island,Arkansas,0
+2018,Rhode Island,California,2219
+2018,Rhode Island,Colorado,504
+2018,Rhode Island,Connecticut,4791
+2018,Rhode Island,Delaware,0
+2018,Rhode Island,District of Columbia ,45
+2018,Rhode Island,Florida,657
+2018,Rhode Island,Georgia,739
+2018,Rhode Island,Hawaii,0
+2018,Rhode Island,Idaho,42
+2018,Rhode Island,Illinois,293
+2018,Rhode Island,Indiana,0
+2018,Rhode Island,Iowa,0
+2018,Rhode Island,Kansas,0
+2018,Rhode Island,Kentucky,86
+2018,Rhode Island,Louisiana,0
+2018,Rhode Island,Maine,606
+2018,Rhode Island,Maryland,521
+2018,Rhode Island,Massachusetts,11413
+2018,Rhode Island,Michigan,151
+2018,Rhode Island,Minnesota,0
+2018,Rhode Island,Mississippi,0
+2018,Rhode Island,Missouri,287
+2018,Rhode Island,Montana,0
+2018,Rhode Island,Nebraska,37
+2018,Rhode Island,Nevada,42
+2018,Rhode Island,New Hampshire,677
+2018,Rhode Island,New Jersey,1038
+2018,Rhode Island,New Mexico,43
+2018,Rhode Island,New York,3252
+2018,Rhode Island,North Carolina,673
+2018,Rhode Island,North Dakota,173
+2018,Rhode Island,Ohio,623
+2018,Rhode Island,Oklahoma,0
+2018,Rhode Island,Oregon,87
+2018,Rhode Island,Pennsylvania,422
+2018,Rhode Island,Rhode Island,N/A
+2018,Rhode Island,South Carolina,43
+2018,Rhode Island,South Dakota,0
+2018,Rhode Island,Tennessee,0
+2018,Rhode Island,Texas,960
+2018,Rhode Island,Utah,194
+2018,Rhode Island,Vermont,134
+2018,Rhode Island,Virginia,1278
+2018,Rhode Island,Washington,501
+2018,Rhode Island,West Virginia,0
+2018,Rhode Island,Wisconsin,77
+2018,Rhode Island,Wyoming,0
+2018,South Carolina,Alabama,4636
+2018,South Carolina,Alaska,715
+2018,South Carolina,Arizona,1460
+2018,South Carolina,Arkansas,1382
+2018,South Carolina,California,12103
+2018,South Carolina,Colorado,1622
+2018,South Carolina,Connecticut,6800
+2018,South Carolina,Delaware,978
+2018,South Carolina,District of Columbia ,743
+2018,South Carolina,Florida,15772
+2018,South Carolina,Georgia,16110
+2018,South Carolina,Hawaii,857
+2018,South Carolina,Idaho,0
+2018,South Carolina,Illinois,3454
+2018,South Carolina,Indiana,3095
+2018,South Carolina,Iowa,1036
+2018,South Carolina,Kansas,1091
+2018,South Carolina,Kentucky,1408
+2018,South Carolina,Louisiana,1913
+2018,South Carolina,Maine,192
+2018,South Carolina,Maryland,7826
+2018,South Carolina,Massachusetts,4451
+2018,South Carolina,Michigan,2721
+2018,South Carolina,Minnesota,366
+2018,South Carolina,Mississippi,895
+2018,South Carolina,Missouri,2960
+2018,South Carolina,Montana,553
+2018,South Carolina,Nebraska,541
+2018,South Carolina,Nevada,375
+2018,South Carolina,New Hampshire,787
+2018,South Carolina,New Jersey,4921
+2018,South Carolina,New Mexico,944
+2018,South Carolina,New York,12721
+2018,South Carolina,North Carolina,27734
+2018,South Carolina,North Dakota,498
+2018,South Carolina,Ohio,5784
+2018,South Carolina,Oklahoma,228
+2018,South Carolina,Oregon,748
+2018,South Carolina,Pennsylvania,7040
+2018,South Carolina,Rhode Island,1684
+2018,South Carolina,South Carolina,N/A
+2018,South Carolina,South Dakota,200
+2018,South Carolina,Tennessee,5666
+2018,South Carolina,Texas,5387
+2018,South Carolina,Utah,2112
+2018,South Carolina,Vermont,439
+2018,South Carolina,Virginia,6507
+2018,South Carolina,Washington,3842
+2018,South Carolina,West Virginia,1299
+2018,South Carolina,Wisconsin,1643
+2018,South Carolina,Wyoming,266
+2018,South Dakota,Alabama,84
+2018,South Dakota,Alaska,0
+2018,South Dakota,Arizona,241
+2018,South Dakota,Arkansas,0
+2018,South Dakota,California,2073
+2018,South Dakota,Colorado,797
+2018,South Dakota,Connecticut,0
+2018,South Dakota,Delaware,0
+2018,South Dakota,District of Columbia ,0
+2018,South Dakota,Florida,2128
+2018,South Dakota,Georgia,968
+2018,South Dakota,Hawaii,0
+2018,South Dakota,Idaho,297
+2018,South Dakota,Illinois,841
+2018,South Dakota,Indiana,144
+2018,South Dakota,Iowa,3275
+2018,South Dakota,Kansas,906
+2018,South Dakota,Kentucky,57
+2018,South Dakota,Louisiana,408
+2018,South Dakota,Maine,0
+2018,South Dakota,Maryland,144
+2018,South Dakota,Massachusetts,0
+2018,South Dakota,Michigan,150
+2018,South Dakota,Minnesota,3822
+2018,South Dakota,Mississippi,231
+2018,South Dakota,Missouri,191
+2018,South Dakota,Montana,428
+2018,South Dakota,Nebraska,3735
+2018,South Dakota,Nevada,56
+2018,South Dakota,New Hampshire,56
+2018,South Dakota,New Jersey,0
+2018,South Dakota,New Mexico,299
+2018,South Dakota,New York,359
+2018,South Dakota,North Carolina,188
+2018,South Dakota,North Dakota,1986
+2018,South Dakota,Ohio,0
+2018,South Dakota,Oklahoma,0
+2018,South Dakota,Oregon,37
+2018,South Dakota,Pennsylvania,194
+2018,South Dakota,Rhode Island,0
+2018,South Dakota,South Carolina,612
+2018,South Dakota,South Dakota,N/A
+2018,South Dakota,Tennessee,301
+2018,South Dakota,Texas,279
+2018,South Dakota,Utah,76
+2018,South Dakota,Vermont,0
+2018,South Dakota,Virginia,157
+2018,South Dakota,Washington,567
+2018,South Dakota,West Virginia,0
+2018,South Dakota,Wisconsin,37
+2018,South Dakota,Wyoming,651
+2018,Tennessee,Alabama,8547
+2018,Tennessee,Alaska,1137
+2018,Tennessee,Arizona,2886
+2018,Tennessee,Arkansas,4841
+2018,Tennessee,California,9682
+2018,Tennessee,Colorado,5410
+2018,Tennessee,Connecticut,1784
+2018,Tennessee,Delaware,53
+2018,Tennessee,District of Columbia ,203
+2018,Tennessee,Florida,26724
+2018,Tennessee,Georgia,17439
+2018,Tennessee,Hawaii,1515
+2018,Tennessee,Idaho,148
+2018,Tennessee,Illinois,9857
+2018,Tennessee,Indiana,4928
+2018,Tennessee,Iowa,588
+2018,Tennessee,Kansas,796
+2018,Tennessee,Kentucky,13720
+2018,Tennessee,Louisiana,2226
+2018,Tennessee,Maine,576
+2018,Tennessee,Maryland,1470
+2018,Tennessee,Massachusetts,3592
+2018,Tennessee,Michigan,4814
+2018,Tennessee,Minnesota,375
+2018,Tennessee,Mississippi,11641
+2018,Tennessee,Missouri,5139
+2018,Tennessee,Montana,122
+2018,Tennessee,Nebraska,913
+2018,Tennessee,Nevada,789
+2018,Tennessee,New Hampshire,649
+2018,Tennessee,New Jersey,2231
+2018,Tennessee,New Mexico,366
+2018,Tennessee,New York,5312
+2018,Tennessee,North Carolina,9388
+2018,Tennessee,North Dakota,285
+2018,Tennessee,Ohio,6273
+2018,Tennessee,Oklahoma,2130
+2018,Tennessee,Oregon,2314
+2018,Tennessee,Pennsylvania,2504
+2018,Tennessee,Rhode Island,183
+2018,Tennessee,South Carolina,6061
+2018,Tennessee,South Dakota,1722
+2018,Tennessee,Tennessee,N/A
+2018,Tennessee,Texas,12046
+2018,Tennessee,Utah,1186
+2018,Tennessee,Vermont,77
+2018,Tennessee,Virginia,8172
+2018,Tennessee,Washington,3245
+2018,Tennessee,West Virginia,1705
+2018,Tennessee,Wisconsin,1492
+2018,Tennessee,Wyoming,121
+2018,Texas,Alabama,5945
+2018,Texas,Alaska,2375
+2018,Texas,Arizona,18628
+2018,Texas,Arkansas,14377
+2018,Texas,California,86164
+2018,Texas,Colorado,21509
+2018,Texas,Connecticut,3762
+2018,Texas,Delaware,1275
+2018,Texas,District of Columbia ,1059
+2018,Texas,Florida,37262
+2018,Texas,Georgia,14235
+2018,Texas,Hawaii,7986
+2018,Texas,Idaho,3494
+2018,Texas,Illinois,19241
+2018,Texas,Indiana,9704
+2018,Texas,Iowa,6379
+2018,Texas,Kansas,12049
+2018,Texas,Kentucky,3841
+2018,Texas,Louisiana,29108
+2018,Texas,Maine,815
+2018,Texas,Maryland,13777
+2018,Texas,Massachusetts,5528
+2018,Texas,Michigan,8070
+2018,Texas,Minnesota,7291
+2018,Texas,Mississippi,8663
+2018,Texas,Missouri,21257
+2018,Texas,Montana,1626
+2018,Texas,Nebraska,2959
+2018,Texas,Nevada,6215
+2018,Texas,New Hampshire,1166
+2018,Texas,New Jersey,5906
+2018,Texas,New Mexico,17670
+2018,Texas,New York,18925
+2018,Texas,North Carolina,17954
+2018,Texas,North Dakota,2456
+2018,Texas,Ohio,9600
+2018,Texas,Oklahoma,24590
+2018,Texas,Oregon,6457
+2018,Texas,Pennsylvania,9143
+2018,Texas,Rhode Island,933
+2018,Texas,South Carolina,8806
+2018,Texas,South Dakota,1979
+2018,Texas,Tennessee,12229
+2018,Texas,Texas,N/A
+2018,Texas,Utah,6287
+2018,Texas,Vermont,569
+2018,Texas,Virginia,18731
+2018,Texas,Washington,16855
+2018,Texas,West Virginia,924
+2018,Texas,Wisconsin,5844
+2018,Texas,Wyoming,2327
+2018,Utah,Alabama,315
+2018,Utah,Alaska,494
+2018,Utah,Arizona,6827
+2018,Utah,Arkansas,896
+2018,Utah,California,18025
+2018,Utah,Colorado,4181
+2018,Utah,Connecticut,720
+2018,Utah,Delaware,61
+2018,Utah,District of Columbia ,149
+2018,Utah,Florida,2743
+2018,Utah,Georgia,2665
+2018,Utah,Hawaii,2533
+2018,Utah,Idaho,8574
+2018,Utah,Illinois,1737
+2018,Utah,Indiana,355
+2018,Utah,Iowa,754
+2018,Utah,Kansas,964
+2018,Utah,Kentucky,368
+2018,Utah,Louisiana,241
+2018,Utah,Maine,98
+2018,Utah,Maryland,743
+2018,Utah,Massachusetts,1909
+2018,Utah,Michigan,1477
+2018,Utah,Minnesota,531
+2018,Utah,Mississippi,216
+2018,Utah,Missouri,977
+2018,Utah,Montana,1548
+2018,Utah,Nebraska,377
+2018,Utah,Nevada,4383
+2018,Utah,New Hampshire,269
+2018,Utah,New Jersey,646
+2018,Utah,New Mexico,1014
+2018,Utah,New York,3413
+2018,Utah,North Carolina,767
+2018,Utah,North Dakota,482
+2018,Utah,Ohio,1382
+2018,Utah,Oklahoma,127
+2018,Utah,Oregon,5136
+2018,Utah,Pennsylvania,1104
+2018,Utah,Rhode Island,50
+2018,Utah,South Carolina,246
+2018,Utah,South Dakota,318
+2018,Utah,Tennessee,814
+2018,Utah,Texas,7528
+2018,Utah,Utah,N/A
+2018,Utah,Vermont,0
+2018,Utah,Virginia,1526
+2018,Utah,Washington,8186
+2018,Utah,West Virginia,75
+2018,Utah,Wisconsin,1346
+2018,Utah,Wyoming,1534
+2018,Vermont,Alabama,124
+2018,Vermont,Alaska,0
+2018,Vermont,Arizona,205
+2018,Vermont,Arkansas,0
+2018,Vermont,California,1380
+2018,Vermont,Colorado,649
+2018,Vermont,Connecticut,2251
+2018,Vermont,Delaware,0
+2018,Vermont,District of Columbia ,134
+2018,Vermont,Florida,2105
+2018,Vermont,Georgia,170
+2018,Vermont,Hawaii,98
+2018,Vermont,Idaho,0
+2018,Vermont,Illinois,75
+2018,Vermont,Indiana,31
+2018,Vermont,Iowa,53
+2018,Vermont,Kansas,0
+2018,Vermont,Kentucky,740
+2018,Vermont,Louisiana,24
+2018,Vermont,Maine,455
+2018,Vermont,Maryland,357
+2018,Vermont,Massachusetts,3819
+2018,Vermont,Michigan,107
+2018,Vermont,Minnesota,461
+2018,Vermont,Mississippi,0
+2018,Vermont,Missouri,126
+2018,Vermont,Montana,0
+2018,Vermont,Nebraska,27
+2018,Vermont,Nevada,110
+2018,Vermont,New Hampshire,2877
+2018,Vermont,New Jersey,1343
+2018,Vermont,New Mexico,101
+2018,Vermont,New York,4535
+2018,Vermont,North Carolina,266
+2018,Vermont,North Dakota,0
+2018,Vermont,Ohio,201
+2018,Vermont,Oklahoma,71
+2018,Vermont,Oregon,125
+2018,Vermont,Pennsylvania,520
+2018,Vermont,Rhode Island,235
+2018,Vermont,South Carolina,178
+2018,Vermont,South Dakota,0
+2018,Vermont,Tennessee,305
+2018,Vermont,Texas,427
+2018,Vermont,Utah,329
+2018,Vermont,Vermont,N/A
+2018,Vermont,Virginia,903
+2018,Vermont,Washington,165
+2018,Vermont,West Virginia,0
+2018,Vermont,Wisconsin,179
+2018,Vermont,Wyoming,45
+2018,Virginia,Alabama,3426
+2018,Virginia,Alaska,1235
+2018,Virginia,Arizona,4162
+2018,Virginia,Arkansas,1002
+2018,Virginia,California,21210
+2018,Virginia,Colorado,4557
+2018,Virginia,Connecticut,3254
+2018,Virginia,Delaware,1306
+2018,Virginia,District of Columbia ,11821
+2018,Virginia,Florida,20272
+2018,Virginia,Georgia,7894
+2018,Virginia,Hawaii,3116
+2018,Virginia,Idaho,166
+2018,Virginia,Illinois,7025
+2018,Virginia,Indiana,2259
+2018,Virginia,Iowa,1388
+2018,Virginia,Kansas,1875
+2018,Virginia,Kentucky,2431
+2018,Virginia,Louisiana,2609
+2018,Virginia,Maine,535
+2018,Virginia,Maryland,28366
+2018,Virginia,Massachusetts,5622
+2018,Virginia,Michigan,3135
+2018,Virginia,Minnesota,1616
+2018,Virginia,Mississippi,2832
+2018,Virginia,Missouri,4988
+2018,Virginia,Montana,0
+2018,Virginia,Nebraska,407
+2018,Virginia,Nevada,1198
+2018,Virginia,New Hampshire,1464
+2018,Virginia,New Jersey,9605
+2018,Virginia,New Mexico,1394
+2018,Virginia,New York,17983
+2018,Virginia,North Carolina,23916
+2018,Virginia,North Dakota,470
+2018,Virginia,Ohio,6308
+2018,Virginia,Oklahoma,1778
+2018,Virginia,Oregon,497
+2018,Virginia,Pennsylvania,13013
+2018,Virginia,Rhode Island,1810
+2018,Virginia,South Carolina,8776
+2018,Virginia,South Dakota,223
+2018,Virginia,Tennessee,7963
+2018,Virginia,Texas,14918
+2018,Virginia,Utah,2847
+2018,Virginia,Vermont,607
+2018,Virginia,Virginia,N/A
+2018,Virginia,Washington,6404
+2018,Virginia,West Virginia,2423
+2018,Virginia,Wisconsin,1631
+2018,Virginia,Wyoming,266
+2018,Washington,Alabama,4
+2018,Washington,Alaska,3520
+2018,Washington,Arizona,14252
+2018,Washington,Arkansas,953
+2018,Washington,California,55467
+2018,Washington,Colorado,10122
+2018,Washington,Connecticut,1785
+2018,Washington,Delaware,131
+2018,Washington,District of Columbia ,1837
+2018,Washington,Florida,8084
+2018,Washington,Georgia,5899
+2018,Washington,Hawaii,3416
+2018,Washington,Idaho,11911
+2018,Washington,Illinois,5382
+2018,Washington,Indiana,1118
+2018,Washington,Iowa,647
+2018,Washington,Kansas,1318
+2018,Washington,Kentucky,475
+2018,Washington,Louisiana,1278
+2018,Washington,Maine,421
+2018,Washington,Maryland,4526
+2018,Washington,Massachusetts,4418
+2018,Washington,Michigan,3607
+2018,Washington,Minnesota,2131
+2018,Washington,Mississippi,614
+2018,Washington,Missouri,2837
+2018,Washington,Montana,4467
+2018,Washington,Nebraska,1354
+2018,Washington,Nevada,4222
+2018,Washington,New Hampshire,580
+2018,Washington,New Jersey,4488
+2018,Washington,New Mexico,1950
+2018,Washington,New York,7539
+2018,Washington,North Carolina,5432
+2018,Washington,North Dakota,1414
+2018,Washington,Ohio,3080
+2018,Washington,Oklahoma,3423
+2018,Washington,Oregon,31642
+2018,Washington,Pennsylvania,3105
+2018,Washington,Rhode Island,225
+2018,Washington,South Carolina,2025
+2018,Washington,South Dakota,163
+2018,Washington,Tennessee,2567
+2018,Washington,Texas,18425
+2018,Washington,Utah,7466
+2018,Washington,Vermont,8
+2018,Washington,Virginia,5887
+2018,Washington,Washington,N/A
+2018,Washington,West Virginia,182
+2018,Washington,Wisconsin,3381
+2018,Washington,Wyoming,1237
+2018,West Virginia,Alabama,83
+2018,West Virginia,Alaska,0
+2018,West Virginia,Arizona,272
+2018,West Virginia,Arkansas,288
+2018,West Virginia,California,524
+2018,West Virginia,Colorado,798
+2018,West Virginia,Connecticut,639
+2018,West Virginia,Delaware,419
+2018,West Virginia,District of Columbia ,328
+2018,West Virginia,Florida,1722
+2018,West Virginia,Georgia,582
+2018,West Virginia,Hawaii,42
+2018,West Virginia,Idaho,0
+2018,West Virginia,Illinois,564
+2018,West Virginia,Indiana,1227
+2018,West Virginia,Iowa,0
+2018,West Virginia,Kansas,113
+2018,West Virginia,Kentucky,1061
+2018,West Virginia,Louisiana,572
+2018,West Virginia,Maine,74
+2018,West Virginia,Maryland,3876
+2018,West Virginia,Massachusetts,384
+2018,West Virginia,Michigan,321
+2018,West Virginia,Minnesota,70
+2018,West Virginia,Mississippi,0
+2018,West Virginia,Missouri,71
+2018,West Virginia,Montana,0
+2018,West Virginia,Nebraska,0
+2018,West Virginia,Nevada,27
+2018,West Virginia,New Hampshire,0
+2018,West Virginia,New Jersey,546
+2018,West Virginia,New Mexico,35
+2018,West Virginia,New York,640
+2018,West Virginia,North Carolina,1889
+2018,West Virginia,North Dakota,0
+2018,West Virginia,Ohio,7299
+2018,West Virginia,Oklahoma,49
+2018,West Virginia,Oregon,135
+2018,West Virginia,Pennsylvania,6291
+2018,West Virginia,Rhode Island,0
+2018,West Virginia,South Carolina,2329
+2018,West Virginia,South Dakota,45
+2018,West Virginia,Tennessee,2631
+2018,West Virginia,Texas,516
+2018,West Virginia,Utah,111
+2018,West Virginia,Vermont,0
+2018,West Virginia,Virginia,6646
+2018,West Virginia,Washington,185
+2018,West Virginia,West Virginia,N/A
+2018,West Virginia,Wisconsin,437
+2018,West Virginia,Wyoming,0
+2018,Wisconsin,Alabama,572
+2018,Wisconsin,Alaska,484
+2018,Wisconsin,Arizona,2883
+2018,Wisconsin,Arkansas,292
+2018,Wisconsin,California,6642
+2018,Wisconsin,Colorado,3321
+2018,Wisconsin,Connecticut,614
+2018,Wisconsin,Delaware,211
+2018,Wisconsin,District of Columbia ,109
+2018,Wisconsin,Florida,5593
+2018,Wisconsin,Georgia,2016
+2018,Wisconsin,Hawaii,449
+2018,Wisconsin,Idaho,129
+2018,Wisconsin,Illinois,25155
+2018,Wisconsin,Indiana,2663
+2018,Wisconsin,Iowa,3072
+2018,Wisconsin,Kansas,1186
+2018,Wisconsin,Kentucky,1661
+2018,Wisconsin,Louisiana,518
+2018,Wisconsin,Maine,186
+2018,Wisconsin,Maryland,579
+2018,Wisconsin,Massachusetts,1160
+2018,Wisconsin,Michigan,4737
+2018,Wisconsin,Minnesota,19632
+2018,Wisconsin,Mississippi,559
+2018,Wisconsin,Missouri,2670
+2018,Wisconsin,Montana,410
+2018,Wisconsin,Nebraska,345
+2018,Wisconsin,Nevada,1350
+2018,Wisconsin,New Hampshire,251
+2018,Wisconsin,New Jersey,1098
+2018,Wisconsin,New Mexico,1950
+2018,Wisconsin,New York,1246
+2018,Wisconsin,North Carolina,1853
+2018,Wisconsin,North Dakota,414
+2018,Wisconsin,Ohio,3759
+2018,Wisconsin,Oklahoma,790
+2018,Wisconsin,Oregon,1550
+2018,Wisconsin,Pennsylvania,1537
+2018,Wisconsin,Rhode Island,27
+2018,Wisconsin,South Carolina,619
+2018,Wisconsin,South Dakota,374
+2018,Wisconsin,Tennessee,1330
+2018,Wisconsin,Texas,3977
+2018,Wisconsin,Utah,1252
+2018,Wisconsin,Vermont,110
+2018,Wisconsin,Virginia,869
+2018,Wisconsin,Washington,1938
+2018,Wisconsin,West Virginia,265
+2018,Wisconsin,Wisconsin,N/A
+2018,Wisconsin,Wyoming,206
+2018,Wyoming,Alabama,639
+2018,Wyoming,Alaska,0
+2018,Wyoming,Arizona,934
+2018,Wyoming,Arkansas,392
+2018,Wyoming,California,1604
+2018,Wyoming,Colorado,5632
+2018,Wyoming,Connecticut,12
+2018,Wyoming,Delaware,0
+2018,Wyoming,District of Columbia ,0
+2018,Wyoming,Florida,1159
+2018,Wyoming,Georgia,40
+2018,Wyoming,Hawaii,55
+2018,Wyoming,Idaho,367
+2018,Wyoming,Illinois,214
+2018,Wyoming,Indiana,227
+2018,Wyoming,Iowa,30
+2018,Wyoming,Kansas,675
+2018,Wyoming,Kentucky,568
+2018,Wyoming,Louisiana,72
+2018,Wyoming,Maine,15
+2018,Wyoming,Maryland,0
+2018,Wyoming,Massachusetts,251
+2018,Wyoming,Michigan,1117
+2018,Wyoming,Minnesota,59
+2018,Wyoming,Mississippi,65
+2018,Wyoming,Missouri,914
+2018,Wyoming,Montana,1501
+2018,Wyoming,Nebraska,782
+2018,Wyoming,Nevada,286
+2018,Wyoming,New Hampshire,335
+2018,Wyoming,New Jersey,5
+2018,Wyoming,New Mexico,512
+2018,Wyoming,New York,393
+2018,Wyoming,North Carolina,367
+2018,Wyoming,North Dakota,721
+2018,Wyoming,Ohio,473
+2018,Wyoming,Oklahoma,306
+2018,Wyoming,Oregon,888
+2018,Wyoming,Pennsylvania,146
+2018,Wyoming,Rhode Island,88
+2018,Wyoming,South Carolina,54
+2018,Wyoming,South Dakota,750
+2018,Wyoming,Tennessee,104
+2018,Wyoming,Texas,1354
+2018,Wyoming,Utah,911
+2018,Wyoming,Vermont,0
+2018,Wyoming,Virginia,197
+2018,Wyoming,Washington,373
+2018,Wyoming,West Virginia,118
+2018,Wyoming,Wisconsin,29
+2018,Wyoming,Wyoming,N/A

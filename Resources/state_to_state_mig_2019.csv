@@ -1,0 +1,2602 @@
+﻿migration_year,current_state,prev_state,migration
+2019,Alabama,Alabama,N/A
+2019,Alabama,Alaska,1105
+2019,Alabama,Arizona,904
+2019,Alabama,Arkansas,813
+2019,Alabama,California,3690
+2019,Alabama,Colorado,2042
+2019,Alabama,Connecticut,705
+2019,Alabama,Delaware,0
+2019,Alabama,District of Columbia ,248
+2019,Alabama,Florida,15519
+2019,Alabama,Georgia,13993
+2019,Alabama,Hawaii,668
+2019,Alabama,Idaho,0
+2019,Alabama,Illinois,1962
+2019,Alabama,Indiana,3451
+2019,Alabama,Iowa,722
+2019,Alabama,Kansas,1212
+2019,Alabama,Kentucky,1500
+2019,Alabama,Louisiana,3789
+2019,Alabama,Maine,140
+2019,Alabama,Maryland,808
+2019,Alabama,Massachusetts,1452
+2019,Alabama,Michigan,1893
+2019,Alabama,Minnesota,41
+2019,Alabama,Mississippi,4377
+2019,Alabama,Missouri,864
+2019,Alabama,Montana,151
+2019,Alabama,Nebraska,386
+2019,Alabama,Nevada,771
+2019,Alabama,New Hampshire,176
+2019,Alabama,New Jersey,599
+2019,Alabama,New Mexico,53
+2019,Alabama,New York,1996
+2019,Alabama,North Carolina,3597
+2019,Alabama,North Dakota,17
+2019,Alabama,Ohio,2364
+2019,Alabama,Oklahoma,541
+2019,Alabama,Oregon,245
+2019,Alabama,Pennsylvania,2336
+2019,Alabama,Rhode Island,257
+2019,Alabama,South Carolina,2448
+2019,Alabama,South Dakota,0
+2019,Alabama,Tennessee,9970
+2019,Alabama,Texas,8405
+2019,Alabama,Utah,2083
+2019,Alabama,Vermont,0
+2019,Alabama,Virginia,2876
+2019,Alabama,Washington,1883
+2019,Alabama,West Virginia,421
+2019,Alabama,Wisconsin,1307
+2019,Alabama,Wyoming,0
+2019,Alaska,Alabama,260
+2019,Alaska,Alaska,N/A
+2019,Alaska,Arizona,886
+2019,Alaska,Arkansas,12
+2019,Alaska,California,2547
+2019,Alaska,Colorado,685
+2019,Alaska,Connecticut,153
+2019,Alaska,Delaware,224
+2019,Alaska,District of Columbia ,69
+2019,Alaska,Florida,2473
+2019,Alaska,Georgia,743
+2019,Alaska,Hawaii,217
+2019,Alaska,Idaho,1644
+2019,Alaska,Illinois,952
+2019,Alaska,Indiana,0
+2019,Alaska,Iowa,143
+2019,Alaska,Kansas,1296
+2019,Alaska,Kentucky,1017
+2019,Alaska,Louisiana,529
+2019,Alaska,Maine,77
+2019,Alaska,Maryland,339
+2019,Alaska,Massachusetts,515
+2019,Alaska,Michigan,310
+2019,Alaska,Minnesota,417
+2019,Alaska,Mississippi,86
+2019,Alaska,Missouri,890
+2019,Alaska,Montana,113
+2019,Alaska,Nebraska,1
+2019,Alaska,Nevada,986
+2019,Alaska,New Hampshire,0
+2019,Alaska,New Jersey,0
+2019,Alaska,New Mexico,878
+2019,Alaska,New York,329
+2019,Alaska,North Carolina,2557
+2019,Alaska,North Dakota,187
+2019,Alaska,Ohio,29
+2019,Alaska,Oklahoma,359
+2019,Alaska,Oregon,750
+2019,Alaska,Pennsylvania,385
+2019,Alaska,Rhode Island,0
+2019,Alaska,South Carolina,448
+2019,Alaska,South Dakota,280
+2019,Alaska,Tennessee,301
+2019,Alaska,Texas,4332
+2019,Alaska,Utah,1092
+2019,Alaska,Vermont,44
+2019,Alaska,Virginia,2216
+2019,Alaska,Washington,1435
+2019,Alaska,West Virginia,355
+2019,Alaska,Wisconsin,228
+2019,Alaska,Wyoming,242
+2019,Arizona,Alabama,1750
+2019,Arizona,Alaska,1561
+2019,Arizona,Arizona,N/A
+2019,Arizona,Arkansas,1022
+2019,Arizona,California,59713
+2019,Arizona,Colorado,14684
+2019,Arizona,Connecticut,895
+2019,Arizona,Delaware,653
+2019,Arizona,District of Columbia ,239
+2019,Arizona,Florida,7358
+2019,Arizona,Georgia,3947
+2019,Arizona,Hawaii,4942
+2019,Arizona,Idaho,2961
+2019,Arizona,Illinois,10915
+2019,Arizona,Indiana,3156
+2019,Arizona,Iowa,2982
+2019,Arizona,Kansas,3742
+2019,Arizona,Kentucky,383
+2019,Arizona,Louisiana,1650
+2019,Arizona,Maine,218
+2019,Arizona,Maryland,1905
+2019,Arizona,Massachusetts,2745
+2019,Arizona,Michigan,7914
+2019,Arizona,Minnesota,5868
+2019,Arizona,Mississippi,393
+2019,Arizona,Missouri,2248
+2019,Arizona,Montana,1636
+2019,Arizona,Nebraska,2307
+2019,Arizona,Nevada,7514
+2019,Arizona,New Hampshire,392
+2019,Arizona,New Jersey,3221
+2019,Arizona,New Mexico,7251
+2019,Arizona,New York,6079
+2019,Arizona,North Carolina,4038
+2019,Arizona,North Dakota,1012
+2019,Arizona,Ohio,5178
+2019,Arizona,Oklahoma,2042
+2019,Arizona,Oregon,6979
+2019,Arizona,Pennsylvania,4906
+2019,Arizona,Rhode Island,227
+2019,Arizona,South Carolina,304
+2019,Arizona,South Dakota,989
+2019,Arizona,Tennessee,2253
+2019,Arizona,Texas,17482
+2019,Arizona,Utah,8917
+2019,Arizona,Vermont,662
+2019,Arizona,Virginia,3837
+2019,Arizona,Washington,17636
+2019,Arizona,West Virginia,237
+2019,Arizona,Wisconsin,3688
+2019,Arizona,Wyoming,664
+2019,Arkansas,Alabama,636
+2019,Arkansas,Alaska,98
+2019,Arkansas,Arizona,692
+2019,Arkansas,Arkansas,N/A
+2019,Arkansas,California,4967
+2019,Arkansas,Colorado,1585
+2019,Arkansas,Connecticut,87
+2019,Arkansas,Delaware,0
+2019,Arkansas,District of Columbia ,295
+2019,Arkansas,Florida,2118
+2019,Arkansas,Georgia,1352
+2019,Arkansas,Hawaii,118
+2019,Arkansas,Idaho,157
+2019,Arkansas,Illinois,1308
+2019,Arkansas,Indiana,438
+2019,Arkansas,Iowa,674
+2019,Arkansas,Kansas,1139
+2019,Arkansas,Kentucky,265
+2019,Arkansas,Louisiana,4089
+2019,Arkansas,Maine,39
+2019,Arkansas,Maryland,535
+2019,Arkansas,Massachusetts,97
+2019,Arkansas,Michigan,820
+2019,Arkansas,Minnesota,1142
+2019,Arkansas,Mississippi,1867
+2019,Arkansas,Missouri,4368
+2019,Arkansas,Montana,74
+2019,Arkansas,Nebraska,380
+2019,Arkansas,Nevada,962
+2019,Arkansas,New Hampshire,0
+2019,Arkansas,New Jersey,420
+2019,Arkansas,New Mexico,0
+2019,Arkansas,New York,642
+2019,Arkansas,North Carolina,369
+2019,Arkansas,North Dakota,39
+2019,Arkansas,Ohio,569
+2019,Arkansas,Oklahoma,5826
+2019,Arkansas,Oregon,501
+2019,Arkansas,Pennsylvania,533
+2019,Arkansas,Rhode Island,0
+2019,Arkansas,South Carolina,443
+2019,Arkansas,South Dakota,0
+2019,Arkansas,Tennessee,3237
+2019,Arkansas,Texas,12851
+2019,Arkansas,Utah,710
+2019,Arkansas,Vermont,0
+2019,Arkansas,Virginia,671
+2019,Arkansas,Washington,571
+2019,Arkansas,West Virginia,133
+2019,Arkansas,Wisconsin,797
+2019,Arkansas,Wyoming,1109
+2019,California,Alabama,3310
+2019,California,Alaska,5064
+2019,California,Arizona,28226
+2019,California,Arkansas,3104
+2019,California,California,N/A
+2019,California,Colorado,15085
+2019,California,Connecticut,4067
+2019,California,Delaware,1630
+2019,California,District of Columbia ,3075
+2019,California,Florida,22692
+2019,California,Georgia,14496
+2019,California,Hawaii,11985
+2019,California,Idaho,4372
+2019,California,Illinois,24085
+2019,California,Indiana,4923
+2019,California,Iowa,1956
+2019,California,Kansas,2941
+2019,California,Kentucky,2606
+2019,California,Louisiana,5347
+2019,California,Maine,2335
+2019,California,Maryland,11775
+2019,California,Massachusetts,16158
+2019,California,Michigan,6406
+2019,California,Minnesota,8951
+2019,California,Mississippi,2354
+2019,California,Missouri,7638
+2019,California,Montana,1974
+2019,California,Nebraska,2587
+2019,California,Nevada,26433
+2019,California,New Hampshire,709
+2019,California,New Jersey,10812
+2019,California,New Mexico,3418
+2019,California,New York,37567
+2019,California,North Carolina,13863
+2019,California,North Dakota,710
+2019,California,Ohio,9098
+2019,California,Oklahoma,3747
+2019,California,Oregon,17265
+2019,California,Pennsylvania,12578
+2019,California,Rhode Island,2839
+2019,California,South Carolina,5803
+2019,California,South Dakota,1345
+2019,California,Tennessee,5863
+2019,California,Texas,37063
+2019,California,Utah,8504
+2019,California,Vermont,784
+2019,California,Virginia,24506
+2019,California,Washington,31882
+2019,California,West Virginia,303
+2019,California,Wisconsin,4811
+2019,California,Wyoming,1159
+2019,Colorado,Alabama,3422
+2019,Colorado,Alaska,862
+2019,Colorado,Arizona,10616
+2019,Colorado,Arkansas,1022
+2019,Colorado,California,29350
+2019,Colorado,Colorado,N/A
+2019,Colorado,Connecticut,942
+2019,Colorado,Delaware,0
+2019,Colorado,District of Columbia ,259
+2019,Colorado,Florida,14124
+2019,Colorado,Georgia,6985
+2019,Colorado,Hawaii,2782
+2019,Colorado,Idaho,798
+2019,Colorado,Illinois,10153
+2019,Colorado,Indiana,3114
+2019,Colorado,Iowa,2589
+2019,Colorado,Kansas,6544
+2019,Colorado,Kentucky,1455
+2019,Colorado,Louisiana,3901
+2019,Colorado,Maine,900
+2019,Colorado,Maryland,3555
+2019,Colorado,Massachusetts,6053
+2019,Colorado,Michigan,3101
+2019,Colorado,Minnesota,5523
+2019,Colorado,Mississippi,554
+2019,Colorado,Missouri,4801
+2019,Colorado,Montana,1984
+2019,Colorado,Nebraska,4861
+2019,Colorado,Nevada,3888
+2019,Colorado,New Hampshire,196
+2019,Colorado,New Jersey,3677
+2019,Colorado,New Mexico,4895
+2019,Colorado,New York,7965
+2019,Colorado,North Carolina,4930
+2019,Colorado,North Dakota,2084
+2019,Colorado,Ohio,4432
+2019,Colorado,Oklahoma,4412
+2019,Colorado,Oregon,3619
+2019,Colorado,Pennsylvania,3362
+2019,Colorado,Rhode Island,820
+2019,Colorado,South Carolina,1081
+2019,Colorado,South Dakota,1581
+2019,Colorado,Tennessee,5549
+2019,Colorado,Texas,32295
+2019,Colorado,Utah,2458
+2019,Colorado,Vermont,161
+2019,Colorado,Virginia,6796
+2019,Colorado,Washington,7333
+2019,Colorado,West Virginia,502
+2019,Colorado,Wisconsin,4454
+2019,Colorado,Wyoming,3860
+2019,Connecticut,Alabama,248
+2019,Connecticut,Alaska,220
+2019,Connecticut,Arizona,441
+2019,Connecticut,Arkansas,0
+2019,Connecticut,California,4049
+2019,Connecticut,Colorado,1165
+2019,Connecticut,Connecticut,N/A
+2019,Connecticut,Delaware,45
+2019,Connecticut,District of Columbia ,313
+2019,Connecticut,Florida,7501
+2019,Connecticut,Georgia,1266
+2019,Connecticut,Hawaii,912
+2019,Connecticut,Idaho,0
+2019,Connecticut,Illinois,1389
+2019,Connecticut,Indiana,309
+2019,Connecticut,Iowa,165
+2019,Connecticut,Kansas,94
+2019,Connecticut,Kentucky,135
+2019,Connecticut,Louisiana,764
+2019,Connecticut,Maine,743
+2019,Connecticut,Maryland,1720
+2019,Connecticut,Massachusetts,13020
+2019,Connecticut,Michigan,1091
+2019,Connecticut,Minnesota,676
+2019,Connecticut,Mississippi,0
+2019,Connecticut,Missouri,212
+2019,Connecticut,Montana,0
+2019,Connecticut,Nebraska,189
+2019,Connecticut,Nevada,174
+2019,Connecticut,New Hampshire,741
+2019,Connecticut,New Jersey,5297
+2019,Connecticut,New Mexico,0
+2019,Connecticut,New York,27606
+2019,Connecticut,North Carolina,2640
+2019,Connecticut,North Dakota,0
+2019,Connecticut,Ohio,1369
+2019,Connecticut,Oklahoma,199
+2019,Connecticut,Oregon,523
+2019,Connecticut,Pennsylvania,3711
+2019,Connecticut,Rhode Island,3788
+2019,Connecticut,South Carolina,910
+2019,Connecticut,South Dakota,539
+2019,Connecticut,Tennessee,921
+2019,Connecticut,Texas,2141
+2019,Connecticut,Utah,120
+2019,Connecticut,Vermont,103
+2019,Connecticut,Virginia,1764
+2019,Connecticut,Washington,191
+2019,Connecticut,West Virginia,408
+2019,Connecticut,Wisconsin,232
+2019,Connecticut,Wyoming,0
+2019,Deleware,Alabama,0
+2019,Deleware,Alaska,294
+2019,Deleware,Arizona,0
+2019,Deleware,Arkansas,0
+2019,Deleware,California,161
+2019,Deleware,Colorado,530
+2019,Deleware,Connecticut,415
+2019,Deleware,Delaware,N/A
+2019,Deleware,District of Columbia ,442
+2019,Deleware,Florida,939
+2019,Deleware,Georgia,344
+2019,Deleware,Hawaii,0
+2019,Deleware,Idaho,0
+2019,Deleware,Illinois,562
+2019,Deleware,Indiana,0
+2019,Deleware,Iowa,0
+2019,Deleware,Kansas,189
+2019,Deleware,Kentucky,0
+2019,Deleware,Louisiana,41
+2019,Deleware,Maine,0
+2019,Deleware,Maryland,8646
+2019,Deleware,Massachusetts,548
+2019,Deleware,Michigan,0
+2019,Deleware,Minnesota,0
+2019,Deleware,Mississippi,26
+2019,Deleware,Missouri,37
+2019,Deleware,Montana,29
+2019,Deleware,Nebraska,262
+2019,Deleware,Nevada,149
+2019,Deleware,New Hampshire,78
+2019,Deleware,New Jersey,6955
+2019,Deleware,New Mexico,177
+2019,Deleware,New York,3044
+2019,Deleware,North Carolina,1167
+2019,Deleware,North Dakota,0
+2019,Deleware,Ohio,34
+2019,Deleware,Oklahoma,1025
+2019,Deleware,Oregon,0
+2019,Deleware,Pennsylvania,8902
+2019,Deleware,Rhode Island,258
+2019,Deleware,South Carolina,8
+2019,Deleware,South Dakota,0
+2019,Deleware,Tennessee,409
+2019,Deleware,Texas,744
+2019,Deleware,Utah,75
+2019,Deleware,Vermont,0
+2019,Deleware,Virginia,1260
+2019,Deleware,Washington,45
+2019,Deleware,West Virginia,219
+2019,Deleware,Wisconsin,0
+2019,Deleware,Wyoming,0
+2019,District of Columbia ,Alabama,462
+2019,District of Columbia ,Alaska,338
+2019,District of Columbia ,Arizona,291
+2019,District of Columbia ,Arkansas,0
+2019,District of Columbia ,California,3437
+2019,District of Columbia ,Colorado,870
+2019,District of Columbia ,Connecticut,1298
+2019,District of Columbia ,Delaware,0
+2019,District of Columbia ,District of Columbia ,N/A
+2019,District of Columbia ,Florida,1496
+2019,District of Columbia ,Georgia,1190
+2019,District of Columbia ,Hawaii,0
+2019,District of Columbia ,Idaho,28
+2019,District of Columbia ,Illinois,1361
+2019,District of Columbia ,Indiana,427
+2019,District of Columbia ,Iowa,59
+2019,District of Columbia ,Kansas,41
+2019,District of Columbia ,Kentucky,131
+2019,District of Columbia ,Louisiana,452
+2019,District of Columbia ,Maine,448
+2019,District of Columbia ,Maryland,15499
+2019,District of Columbia ,Massachusetts,2383
+2019,District of Columbia ,Michigan,758
+2019,District of Columbia ,Minnesota,278
+2019,District of Columbia ,Mississippi,265
+2019,District of Columbia ,Missouri,976
+2019,District of Columbia ,Montana,4
+2019,District of Columbia ,Nebraska,49
+2019,District of Columbia ,Nevada,0
+2019,District of Columbia ,New Hampshire,49
+2019,District of Columbia ,New Jersey,2758
+2019,District of Columbia ,New Mexico,466
+2019,District of Columbia ,New York,4314
+2019,District of Columbia ,North Carolina,1481
+2019,District of Columbia ,North Dakota,0
+2019,District of Columbia ,Ohio,755
+2019,District of Columbia ,Oklahoma,185
+2019,District of Columbia ,Oregon,172
+2019,District of Columbia ,Pennsylvania,1718
+2019,District of Columbia ,Rhode Island,138
+2019,District of Columbia ,South Carolina,568
+2019,District of Columbia ,South Dakota,250
+2019,District of Columbia ,Tennessee,991
+2019,District of Columbia ,Texas,2073
+2019,District of Columbia ,Utah,0
+2019,District of Columbia ,Vermont,54
+2019,District of Columbia ,Virginia,8828
+2019,District of Columbia ,Washington,852
+2019,District of Columbia ,West Virginia,324
+2019,District of Columbia ,Wisconsin,362
+2019,District of Columbia ,Wyoming,0
+2019,Florida,Alabama,15153
+2019,Florida,Alaska,4906
+2019,Florida,Arizona,7054
+2019,Florida,Arkansas,3544
+2019,Florida,California,28628
+2019,Florida,Colorado,13656
+2019,Florida,Connecticut,13227
+2019,Florida,Delaware,3083
+2019,Florida,District of Columbia ,2705
+2019,Florida,Florida,N/A
+2019,Florida,Georgia,49681
+2019,Florida,Hawaii,4103
+2019,Florida,Idaho,1032
+2019,Florida,Illinois,24425
+2019,Florida,Indiana,18175
+2019,Florida,Iowa,3669
+2019,Florida,Kansas,1813
+2019,Florida,Kentucky,10545
+2019,Florida,Louisiana,8606
+2019,Florida,Maine,4812
+2019,Florida,Maryland,14831
+2019,Florida,Massachusetts,17056
+2019,Florida,Michigan,21668
+2019,Florida,Minnesota,6239
+2019,Florida,Mississippi,4572
+2019,Florida,Missouri,11326
+2019,Florida,Montana,591
+2019,Florida,Nebraska,1948
+2019,Florida,Nevada,3674
+2019,Florida,New Hampshire,3529
+2019,Florida,New Jersey,28222
+2019,Florida,New Mexico,2349
+2019,Florida,New York,57488
+2019,Florida,North Carolina,28207
+2019,Florida,North Dakota,1230
+2019,Florida,Ohio,30335
+2019,Florida,Oklahoma,6488
+2019,Florida,Oregon,4309
+2019,Florida,Pennsylvania,34965
+2019,Florida,Rhode Island,2685
+2019,Florida,South Carolina,9909
+2019,Florida,South Dakota,1364
+2019,Florida,Tennessee,14573
+2019,Florida,Texas,26174
+2019,Florida,Utah,3433
+2019,Florida,Vermont,3355
+2019,Florida,Virginia,26031
+2019,Florida,Washington,6870
+2019,Florida,West Virginia,2186
+2019,Florida,Wisconsin,6563
+2019,Florida,Wyoming,624
+2019,Georgia,Alabama,14169
+2019,Georgia,Alaska,1378
+2019,Georgia,Arizona,2362
+2019,Georgia,Arkansas,3322
+2019,Georgia,California,15437
+2019,Georgia,Colorado,2904
+2019,Georgia,Connecticut,2927
+2019,Georgia,Delaware,1076
+2019,Georgia,District of Columbia ,934
+2019,Georgia,Florida,46235
+2019,Georgia,Georgia,N/A
+2019,Georgia,Hawaii,2069
+2019,Georgia,Idaho,159
+2019,Georgia,Illinois,14438
+2019,Georgia,Indiana,3020
+2019,Georgia,Iowa,1566
+2019,Georgia,Kansas,3931
+2019,Georgia,Kentucky,2614
+2019,Georgia,Louisiana,2845
+2019,Georgia,Maine,252
+2019,Georgia,Maryland,1992
+2019,Georgia,Massachusetts,2876
+2019,Georgia,Michigan,4281
+2019,Georgia,Minnesota,968
+2019,Georgia,Mississippi,5502
+2019,Georgia,Missouri,5863
+2019,Georgia,Montana,359
+2019,Georgia,Nebraska,2881
+2019,Georgia,Nevada,1991
+2019,Georgia,New Hampshire,686
+2019,Georgia,New Jersey,8455
+2019,Georgia,New Mexico,102
+2019,Georgia,New York,14641
+2019,Georgia,North Carolina,15580
+2019,Georgia,North Dakota,0
+2019,Georgia,Ohio,5146
+2019,Georgia,Oklahoma,1538
+2019,Georgia,Oregon,1024
+2019,Georgia,Pennsylvania,7726
+2019,Georgia,Rhode Island,1016
+2019,Georgia,South Carolina,18828
+2019,Georgia,South Dakota,500
+2019,Georgia,Tennessee,17210
+2019,Georgia,Texas,22452
+2019,Georgia,Utah,1182
+2019,Georgia,Vermont,265
+2019,Georgia,Virginia,11686
+2019,Georgia,Washington,2879
+2019,Georgia,West Virginia,408
+2019,Georgia,Wisconsin,3898
+2019,Georgia,Wyoming,968
+2019,Hawaii,Alabama,502
+2019,Hawaii,Alaska,907
+2019,Hawaii,Arizona,803
+2019,Hawaii,Arkansas,169
+2019,Hawaii,California,10954
+2019,Hawaii,Colorado,2190
+2019,Hawaii,Connecticut,414
+2019,Hawaii,Delaware,0
+2019,Hawaii,District of Columbia ,189
+2019,Hawaii,Florida,1858
+2019,Hawaii,Georgia,1836
+2019,Hawaii,Hawaii,N/A
+2019,Hawaii,Idaho,1294
+2019,Hawaii,Illinois,568
+2019,Hawaii,Indiana,318
+2019,Hawaii,Iowa,0
+2019,Hawaii,Kansas,466
+2019,Hawaii,Kentucky,471
+2019,Hawaii,Louisiana,117
+2019,Hawaii,Maine,0
+2019,Hawaii,Maryland,352
+2019,Hawaii,Massachusetts,489
+2019,Hawaii,Michigan,90
+2019,Hawaii,Minnesota,500
+2019,Hawaii,Mississippi,0
+2019,Hawaii,Missouri,729
+2019,Hawaii,Montana,625
+2019,Hawaii,Nebraska,200
+2019,Hawaii,Nevada,2641
+2019,Hawaii,New Hampshire,48
+2019,Hawaii,New Jersey,668
+2019,Hawaii,New Mexico,402
+2019,Hawaii,New York,1940
+2019,Hawaii,North Carolina,3524
+2019,Hawaii,North Dakota,302
+2019,Hawaii,Ohio,1271
+2019,Hawaii,Oklahoma,131
+2019,Hawaii,Oregon,1613
+2019,Hawaii,Pennsylvania,23
+2019,Hawaii,Rhode Island,116
+2019,Hawaii,South Carolina,189
+2019,Hawaii,South Dakota,0
+2019,Hawaii,Tennessee,586
+2019,Hawaii,Texas,1667
+2019,Hawaii,Utah,772
+2019,Hawaii,Vermont,65
+2019,Hawaii,Virginia,3107
+2019,Hawaii,Washington,4322
+2019,Hawaii,West Virginia,197
+2019,Hawaii,Wisconsin,83
+2019,Hawaii,Wyoming,0
+2019,Idaho,Alabama,19
+2019,Idaho,Alaska,674
+2019,Idaho,Arizona,5018
+2019,Idaho,Arkansas,386
+2019,Idaho,California,17722
+2019,Idaho,Colorado,3970
+2019,Idaho,Connecticut,247
+2019,Idaho,Delaware,58
+2019,Idaho,District of Columbia ,0
+2019,Idaho,Florida,895
+2019,Idaho,Georgia,397
+2019,Idaho,Hawaii,599
+2019,Idaho,Idaho,N/A
+2019,Idaho,Illinois,268
+2019,Idaho,Indiana,454
+2019,Idaho,Iowa,14
+2019,Idaho,Kansas,179
+2019,Idaho,Kentucky,183
+2019,Idaho,Louisiana,117
+2019,Idaho,Maine,231
+2019,Idaho,Maryland,385
+2019,Idaho,Massachusetts,168
+2019,Idaho,Michigan,607
+2019,Idaho,Minnesota,324
+2019,Idaho,Mississippi,192
+2019,Idaho,Missouri,404
+2019,Idaho,Montana,3026
+2019,Idaho,Nebraska,304
+2019,Idaho,Nevada,2093
+2019,Idaho,New Hampshire,0
+2019,Idaho,New Jersey,0
+2019,Idaho,New Mexico,325
+2019,Idaho,New York,194
+2019,Idaho,North Carolina,541
+2019,Idaho,North Dakota,179
+2019,Idaho,Ohio,403
+2019,Idaho,Oklahoma,1903
+2019,Idaho,Oregon,7570
+2019,Idaho,Pennsylvania,653
+2019,Idaho,Rhode Island,0
+2019,Idaho,South Carolina,305
+2019,Idaho,South Dakota,308
+2019,Idaho,Tennessee,344
+2019,Idaho,Texas,3198
+2019,Idaho,Utah,7371
+2019,Idaho,Vermont,0
+2019,Idaho,Virginia,1715
+2019,Idaho,Washington,13505
+2019,Idaho,West Virginia,0
+2019,Idaho,Wisconsin,620
+2019,Idaho,Wyoming,662
+2019,Illinois,Alabama,1658
+2019,Illinois,Alaska,135
+2019,Illinois,Arizona,5054
+2019,Illinois,Arkansas,1202
+2019,Illinois,California,14692
+2019,Illinois,Colorado,3455
+2019,Illinois,Connecticut,1783
+2019,Illinois,Delaware,213
+2019,Illinois,District of Columbia ,865
+2019,Illinois,Florida,14534
+2019,Illinois,Georgia,3610
+2019,Illinois,Hawaii,767
+2019,Illinois,Idaho,106
+2019,Illinois,Illinois,N/A
+2019,Illinois,Indiana,17156
+2019,Illinois,Iowa,10294
+2019,Illinois,Kansas,2307
+2019,Illinois,Kentucky,3514
+2019,Illinois,Louisiana,805
+2019,Illinois,Maine,564
+2019,Illinois,Maryland,2572
+2019,Illinois,Massachusetts,3693
+2019,Illinois,Michigan,10396
+2019,Illinois,Minnesota,3930
+2019,Illinois,Mississippi,765
+2019,Illinois,Missouri,13389
+2019,Illinois,Montana,37
+2019,Illinois,Nebraska,1772
+2019,Illinois,Nevada,1394
+2019,Illinois,New Hampshire,507
+2019,Illinois,New Jersey,3562
+2019,Illinois,New Mexico,631
+2019,Illinois,New York,8032
+2019,Illinois,North Carolina,4792
+2019,Illinois,North Dakota,445
+2019,Illinois,Ohio,7684
+2019,Illinois,Oklahoma,2326
+2019,Illinois,Oregon,1214
+2019,Illinois,Pennsylvania,4591
+2019,Illinois,Rhode Island,143
+2019,Illinois,South Carolina,1518
+2019,Illinois,South Dakota,285
+2019,Illinois,Tennessee,2518
+2019,Illinois,Texas,9106
+2019,Illinois,Utah,326
+2019,Illinois,Vermont,74
+2019,Illinois,Virginia,5338
+2019,Illinois,Washington,4364
+2019,Illinois,West Virginia,379
+2019,Illinois,Wisconsin,12021
+2019,Illinois,Wyoming,109
+2019,Indiana,Alabama,1481
+2019,Indiana,Alaska,184
+2019,Indiana,Arizona,4067
+2019,Indiana,Arkansas,1056
+2019,Indiana,California,7255
+2019,Indiana,Colorado,2050
+2019,Indiana,Connecticut,2165
+2019,Indiana,Delaware,48
+2019,Indiana,District of Columbia ,251
+2019,Indiana,Florida,11926
+2019,Indiana,Georgia,2117
+2019,Indiana,Hawaii,90
+2019,Indiana,Idaho,0
+2019,Indiana,Illinois,36328
+2019,Indiana,Indiana,N/A
+2019,Indiana,Iowa,1744
+2019,Indiana,Kansas,1349
+2019,Indiana,Kentucky,12483
+2019,Indiana,Louisiana,621
+2019,Indiana,Maine,146
+2019,Indiana,Maryland,542
+2019,Indiana,Massachusetts,469
+2019,Indiana,Michigan,8509
+2019,Indiana,Minnesota,1599
+2019,Indiana,Mississippi,699
+2019,Indiana,Missouri,2373
+2019,Indiana,Montana,326
+2019,Indiana,Nebraska,204
+2019,Indiana,Nevada,2016
+2019,Indiana,New Hampshire,0
+2019,Indiana,New Jersey,1391
+2019,Indiana,New Mexico,429
+2019,Indiana,New York,4199
+2019,Indiana,North Carolina,5054
+2019,Indiana,North Dakota,42
+2019,Indiana,Ohio,12038
+2019,Indiana,Oklahoma,986
+2019,Indiana,Oregon,951
+2019,Indiana,Pennsylvania,5331
+2019,Indiana,Rhode Island,37
+2019,Indiana,South Carolina,1312
+2019,Indiana,South Dakota,409
+2019,Indiana,Tennessee,3169
+2019,Indiana,Texas,7095
+2019,Indiana,Utah,490
+2019,Indiana,Vermont,40
+2019,Indiana,Virginia,2096
+2019,Indiana,Washington,2186
+2019,Indiana,West Virginia,10
+2019,Indiana,Wisconsin,1962
+2019,Indiana,Wyoming,118
+2019,Iowa,Alabama,70
+2019,Iowa,Alaska,425
+2019,Iowa,Arizona,2175
+2019,Iowa,Arkansas,188
+2019,Iowa,California,5819
+2019,Iowa,Colorado,4472
+2019,Iowa,Connecticut,142
+2019,Iowa,Delaware,0
+2019,Iowa,District of Columbia ,7
+2019,Iowa,Florida,4397
+2019,Iowa,Georgia,498
+2019,Iowa,Hawaii,71
+2019,Iowa,Idaho,1382
+2019,Iowa,Illinois,10843
+2019,Iowa,Indiana,836
+2019,Iowa,Iowa,N/A
+2019,Iowa,Kansas,1295
+2019,Iowa,Kentucky,376
+2019,Iowa,Louisiana,502
+2019,Iowa,Maine,0
+2019,Iowa,Maryland,1444
+2019,Iowa,Massachusetts,271
+2019,Iowa,Michigan,350
+2019,Iowa,Minnesota,5358
+2019,Iowa,Mississippi,424
+2019,Iowa,Missouri,3461
+2019,Iowa,Montana,402
+2019,Iowa,Nebraska,7454
+2019,Iowa,Nevada,492
+2019,Iowa,New Hampshire,0
+2019,Iowa,New Jersey,85
+2019,Iowa,New Mexico,366
+2019,Iowa,New York,489
+2019,Iowa,North Carolina,1307
+2019,Iowa,North Dakota,76
+2019,Iowa,Ohio,1358
+2019,Iowa,Oklahoma,261
+2019,Iowa,Oregon,981
+2019,Iowa,Pennsylvania,318
+2019,Iowa,Rhode Island,34
+2019,Iowa,South Carolina,64
+2019,Iowa,South Dakota,2276
+2019,Iowa,Tennessee,546
+2019,Iowa,Texas,3936
+2019,Iowa,Utah,3
+2019,Iowa,Vermont,0
+2019,Iowa,Virginia,1051
+2019,Iowa,Washington,781
+2019,Iowa,West Virginia,409
+2019,Iowa,Wisconsin,4722
+2019,Iowa,Wyoming,434
+2019,Kansas,Alabama,1021
+2019,Kansas,Alaska,7
+2019,Kansas,Arizona,2367
+2019,Kansas,Arkansas,1830
+2019,Kansas,California,4957
+2019,Kansas,Colorado,7224
+2019,Kansas,Connecticut,208
+2019,Kansas,Delaware,379
+2019,Kansas,District of Columbia ,266
+2019,Kansas,Florida,3828
+2019,Kansas,Georgia,3105
+2019,Kansas,Hawaii,167
+2019,Kansas,Idaho,76
+2019,Kansas,Illinois,2449
+2019,Kansas,Indiana,1609
+2019,Kansas,Iowa,1010
+2019,Kansas,Kansas,N/A
+2019,Kansas,Kentucky,1297
+2019,Kansas,Louisiana,313
+2019,Kansas,Maine,0
+2019,Kansas,Maryland,219
+2019,Kansas,Massachusetts,6
+2019,Kansas,Michigan,537
+2019,Kansas,Minnesota,2373
+2019,Kansas,Mississippi,521
+2019,Kansas,Missouri,27065
+2019,Kansas,Montana,1227
+2019,Kansas,Nebraska,2836
+2019,Kansas,Nevada,147
+2019,Kansas,New Hampshire,92
+2019,Kansas,New Jersey,509
+2019,Kansas,New Mexico,403
+2019,Kansas,New York,1497
+2019,Kansas,North Carolina,1757
+2019,Kansas,North Dakota,515
+2019,Kansas,Ohio,309
+2019,Kansas,Oklahoma,4258
+2019,Kansas,Oregon,553
+2019,Kansas,Pennsylvania,2189
+2019,Kansas,Rhode Island,0
+2019,Kansas,South Carolina,308
+2019,Kansas,South Dakota,39
+2019,Kansas,Tennessee,1316
+2019,Kansas,Texas,8374
+2019,Kansas,Utah,378
+2019,Kansas,Vermont,0
+2019,Kansas,Virginia,1556
+2019,Kansas,Washington,2325
+2019,Kansas,West Virginia,174
+2019,Kansas,Wisconsin,610
+2019,Kansas,Wyoming,442
+2019,Kentucky,Alabama,4390
+2019,Kentucky,Alaska,855
+2019,Kentucky,Arizona,990
+2019,Kentucky,Arkansas,521
+2019,Kentucky,California,3410
+2019,Kentucky,Colorado,1177
+2019,Kentucky,Connecticut,310
+2019,Kentucky,Delaware,0
+2019,Kentucky,District of Columbia ,133
+2019,Kentucky,Florida,7139
+2019,Kentucky,Georgia,3740
+2019,Kentucky,Hawaii,804
+2019,Kentucky,Idaho,0
+2019,Kentucky,Illinois,4843
+2019,Kentucky,Indiana,11424
+2019,Kentucky,Iowa,1573
+2019,Kentucky,Kansas,565
+2019,Kentucky,Kentucky,N/A
+2019,Kentucky,Louisiana,668
+2019,Kentucky,Maine,1893
+2019,Kentucky,Maryland,1076
+2019,Kentucky,Massachusetts,301
+2019,Kentucky,Michigan,3825
+2019,Kentucky,Minnesota,310
+2019,Kentucky,Mississippi,246
+2019,Kentucky,Missouri,1498
+2019,Kentucky,Montana,8
+2019,Kentucky,Nebraska,341
+2019,Kentucky,Nevada,645
+2019,Kentucky,New Hampshire,0
+2019,Kentucky,New Jersey,509
+2019,Kentucky,New Mexico,544
+2019,Kentucky,New York,2693
+2019,Kentucky,North Carolina,2922
+2019,Kentucky,North Dakota,162
+2019,Kentucky,Ohio,13309
+2019,Kentucky,Oklahoma,378
+2019,Kentucky,Oregon,255
+2019,Kentucky,Pennsylvania,3235
+2019,Kentucky,Rhode Island,0
+2019,Kentucky,South Carolina,1040
+2019,Kentucky,South Dakota,63
+2019,Kentucky,Tennessee,8070
+2019,Kentucky,Texas,2878
+2019,Kentucky,Utah,1746
+2019,Kentucky,Vermont,95
+2019,Kentucky,Virginia,4170
+2019,Kentucky,Washington,2232
+2019,Kentucky,West Virginia,983
+2019,Kentucky,Wisconsin,2088
+2019,Kentucky,Wyoming,0
+2019,Louisiana,Alabama,2567
+2019,Louisiana,Alaska,1194
+2019,Louisiana,Arizona,1357
+2019,Louisiana,Arkansas,2497
+2019,Louisiana,California,4228
+2019,Louisiana,Colorado,1881
+2019,Louisiana,Connecticut,109
+2019,Louisiana,Delaware,0
+2019,Louisiana,District of Columbia ,31
+2019,Louisiana,Florida,5296
+2019,Louisiana,Georgia,2809
+2019,Louisiana,Hawaii,175
+2019,Louisiana,Idaho,142
+2019,Louisiana,Illinois,712
+2019,Louisiana,Indiana,258
+2019,Louisiana,Iowa,330
+2019,Louisiana,Kansas,133
+2019,Louisiana,Kentucky,171
+2019,Louisiana,Louisiana,N/A
+2019,Louisiana,Maine,0
+2019,Louisiana,Maryland,812
+2019,Louisiana,Massachusetts,277
+2019,Louisiana,Michigan,554
+2019,Louisiana,Minnesota,112
+2019,Louisiana,Mississippi,5395
+2019,Louisiana,Missouri,920
+2019,Louisiana,Montana,248
+2019,Louisiana,Nebraska,317
+2019,Louisiana,Nevada,829
+2019,Louisiana,New Hampshire,341
+2019,Louisiana,New Jersey,229
+2019,Louisiana,New Mexico,374
+2019,Louisiana,New York,1359
+2019,Louisiana,North Carolina,1412
+2019,Louisiana,North Dakota,109
+2019,Louisiana,Ohio,1190
+2019,Louisiana,Oklahoma,1973
+2019,Louisiana,Oregon,162
+2019,Louisiana,Pennsylvania,710
+2019,Louisiana,Rhode Island,102
+2019,Louisiana,South Carolina,1549
+2019,Louisiana,South Dakota,3
+2019,Louisiana,Tennessee,1948
+2019,Louisiana,Texas,19675
+2019,Louisiana,Utah,129
+2019,Louisiana,Vermont,112
+2019,Louisiana,Virginia,1526
+2019,Louisiana,Washington,805
+2019,Louisiana,West Virginia,49
+2019,Louisiana,Wisconsin,529
+2019,Louisiana,Wyoming,0
+2019,Maine,Alabama,73
+2019,Maine,Alaska,318
+2019,Maine,Arizona,317
+2019,Maine,Arkansas,183
+2019,Maine,California,1644
+2019,Maine,Colorado,982
+2019,Maine,Connecticut,3092
+2019,Maine,Delaware,675
+2019,Maine,District of Columbia ,210
+2019,Maine,Florida,2797
+2019,Maine,Georgia,244
+2019,Maine,Hawaii,372
+2019,Maine,Idaho,21
+2019,Maine,Illinois,436
+2019,Maine,Indiana,151
+2019,Maine,Iowa,183
+2019,Maine,Kansas,0
+2019,Maine,Kentucky,236
+2019,Maine,Louisiana,136
+2019,Maine,Maine,N/A
+2019,Maine,Maryland,787
+2019,Maine,Massachusetts,7005
+2019,Maine,Michigan,494
+2019,Maine,Minnesota,0
+2019,Maine,Mississippi,0
+2019,Maine,Missouri,67
+2019,Maine,Montana,548
+2019,Maine,Nebraska,0
+2019,Maine,Nevada,32
+2019,Maine,New Hampshire,5838
+2019,Maine,New Jersey,422
+2019,Maine,New Mexico,124
+2019,Maine,New York,1273
+2019,Maine,North Carolina,2042
+2019,Maine,North Dakota,0
+2019,Maine,Ohio,446
+2019,Maine,Oklahoma,29
+2019,Maine,Oregon,306
+2019,Maine,Pennsylvania,1249
+2019,Maine,Rhode Island,351
+2019,Maine,South Carolina,306
+2019,Maine,South Dakota,19
+2019,Maine,Tennessee,377
+2019,Maine,Texas,459
+2019,Maine,Utah,161
+2019,Maine,Vermont,424
+2019,Maine,Virginia,307
+2019,Maine,Washington,541
+2019,Maine,West Virginia,11
+2019,Maine,Wisconsin,353
+2019,Maine,Wyoming,88
+2019,Maryland,Alabama,1597
+2019,Maryland,Alaska,0
+2019,Maryland,Arizona,1770
+2019,Maryland,Arkansas,274
+2019,Maryland,California,10092
+2019,Maryland,Colorado,1960
+2019,Maryland,Connecticut,1885
+2019,Maryland,Delaware,5429
+2019,Maryland,District of Columbia ,17718
+2019,Maryland,Florida,7766
+2019,Maryland,Georgia,3720
+2019,Maryland,Hawaii,1059
+2019,Maryland,Idaho,0
+2019,Maryland,Illinois,1929
+2019,Maryland,Indiana,512
+2019,Maryland,Iowa,130
+2019,Maryland,Kansas,91
+2019,Maryland,Kentucky,161
+2019,Maryland,Louisiana,1000
+2019,Maryland,Maine,213
+2019,Maryland,Maryland,N/A
+2019,Maryland,Massachusetts,2248
+2019,Maryland,Michigan,1017
+2019,Maryland,Minnesota,542
+2019,Maryland,Mississippi,396
+2019,Maryland,Missouri,263
+2019,Maryland,Montana,0
+2019,Maryland,Nebraska,80
+2019,Maryland,Nevada,472
+2019,Maryland,New Hampshire,725
+2019,Maryland,New Jersey,8021
+2019,Maryland,New Mexico,875
+2019,Maryland,New York,6018
+2019,Maryland,North Carolina,5453
+2019,Maryland,North Dakota,173
+2019,Maryland,Ohio,2849
+2019,Maryland,Oklahoma,591
+2019,Maryland,Oregon,399
+2019,Maryland,Pennsylvania,14376
+2019,Maryland,Rhode Island,177
+2019,Maryland,South Carolina,1147
+2019,Maryland,South Dakota,0
+2019,Maryland,Tennessee,640
+2019,Maryland,Texas,4954
+2019,Maryland,Utah,1186
+2019,Maryland,Vermont,368
+2019,Maryland,Virginia,23429
+2019,Maryland,Washington,1338
+2019,Maryland,West Virginia,4933
+2019,Maryland,Wisconsin,1790
+2019,Maryland,Wyoming,0
+2019,Massachusetts,Alabama,1099
+2019,Massachusetts,Alaska,553
+2019,Massachusetts,Arizona,1228
+2019,Massachusetts,Arkansas,0
+2019,Massachusetts,California,11430
+2019,Massachusetts,Colorado,2094
+2019,Massachusetts,Connecticut,11690
+2019,Massachusetts,Delaware,13
+2019,Massachusetts,District of Columbia ,956
+2019,Massachusetts,Florida,10360
+2019,Massachusetts,Georgia,4290
+2019,Massachusetts,Hawaii,449
+2019,Massachusetts,Idaho,162
+2019,Massachusetts,Illinois,4050
+2019,Massachusetts,Indiana,1366
+2019,Massachusetts,Iowa,390
+2019,Massachusetts,Kansas,274
+2019,Massachusetts,Kentucky,621
+2019,Massachusetts,Louisiana,1831
+2019,Massachusetts,Maine,6122
+2019,Massachusetts,Maryland,3521
+2019,Massachusetts,Massachusetts,N/A
+2019,Massachusetts,Michigan,1260
+2019,Massachusetts,Minnesota,1344
+2019,Massachusetts,Mississippi,297
+2019,Massachusetts,Missouri,662
+2019,Massachusetts,Montana,392
+2019,Massachusetts,Nebraska,96
+2019,Massachusetts,Nevada,869
+2019,Massachusetts,New Hampshire,11731
+2019,Massachusetts,New Jersey,5638
+2019,Massachusetts,New Mexico,41
+2019,Massachusetts,New York,17143
+2019,Massachusetts,North Carolina,3812
+2019,Massachusetts,North Dakota,140
+2019,Massachusetts,Ohio,2190
+2019,Massachusetts,Oklahoma,69
+2019,Massachusetts,Oregon,1288
+2019,Massachusetts,Pennsylvania,6043
+2019,Massachusetts,Rhode Island,7784
+2019,Massachusetts,South Carolina,2647
+2019,Massachusetts,South Dakota,41
+2019,Massachusetts,Tennessee,1933
+2019,Massachusetts,Texas,6088
+2019,Massachusetts,Utah,1286
+2019,Massachusetts,Vermont,2167
+2019,Massachusetts,Virginia,3768
+2019,Massachusetts,Washington,2353
+2019,Massachusetts,West Virginia,63
+2019,Massachusetts,Wisconsin,281
+2019,Massachusetts,Wyoming,154
+2019,Michigan,Alabama,1997
+2019,Michigan,Alaska,222
+2019,Michigan,Arizona,3447
+2019,Michigan,Arkansas,464
+2019,Michigan,California,8672
+2019,Michigan,Colorado,2459
+2019,Michigan,Connecticut,1569
+2019,Michigan,Delaware,0
+2019,Michigan,District of Columbia ,214
+2019,Michigan,Florida,9941
+2019,Michigan,Georgia,5249
+2019,Michigan,Hawaii,1124
+2019,Michigan,Idaho,205
+2019,Michigan,Illinois,10177
+2019,Michigan,Indiana,11026
+2019,Michigan,Iowa,600
+2019,Michigan,Kansas,1039
+2019,Michigan,Kentucky,1961
+2019,Michigan,Louisiana,686
+2019,Michigan,Maine,1716
+2019,Michigan,Maryland,984
+2019,Michigan,Massachusetts,2271
+2019,Michigan,Michigan,N/A
+2019,Michigan,Minnesota,1747
+2019,Michigan,Mississippi,1502
+2019,Michigan,Missouri,2800
+2019,Michigan,Montana,75
+2019,Michigan,Nebraska,948
+2019,Michigan,Nevada,1348
+2019,Michigan,New Hampshire,742
+2019,Michigan,New Jersey,1267
+2019,Michigan,New Mexico,1061
+2019,Michigan,New York,6078
+2019,Michigan,North Carolina,2971
+2019,Michigan,North Dakota,717
+2019,Michigan,Ohio,12261
+2019,Michigan,Oklahoma,780
+2019,Michigan,Oregon,1110
+2019,Michigan,Pennsylvania,5074
+2019,Michigan,Rhode Island,99
+2019,Michigan,South Carolina,1241
+2019,Michigan,South Dakota,320
+2019,Michigan,Tennessee,4489
+2019,Michigan,Texas,8434
+2019,Michigan,Utah,428
+2019,Michigan,Vermont,32
+2019,Michigan,Virginia,3468
+2019,Michigan,Washington,1726
+2019,Michigan,West Virginia,767
+2019,Michigan,Wisconsin,4361
+2019,Michigan,Wyoming,139
+2019,Minnesota,Alabama,433
+2019,Minnesota,Alaska,1240
+2019,Minnesota,Arizona,1748
+2019,Minnesota,Arkansas,296
+2019,Minnesota,California,6232
+2019,Minnesota,Colorado,3647
+2019,Minnesota,Connecticut,386
+2019,Minnesota,Delaware,6
+2019,Minnesota,District of Columbia ,209
+2019,Minnesota,Florida,4070
+2019,Minnesota,Georgia,1862
+2019,Minnesota,Hawaii,30
+2019,Minnesota,Idaho,850
+2019,Minnesota,Illinois,8348
+2019,Minnesota,Indiana,2085
+2019,Minnesota,Iowa,5739
+2019,Minnesota,Kansas,607
+2019,Minnesota,Kentucky,445
+2019,Minnesota,Louisiana,192
+2019,Minnesota,Maine,207
+2019,Minnesota,Maryland,826
+2019,Minnesota,Massachusetts,2442
+2019,Minnesota,Michigan,3106
+2019,Minnesota,Minnesota,N/A
+2019,Minnesota,Mississippi,495
+2019,Minnesota,Missouri,1568
+2019,Minnesota,Montana,1379
+2019,Minnesota,Nebraska,1365
+2019,Minnesota,Nevada,1081
+2019,Minnesota,New Hampshire,0
+2019,Minnesota,New Jersey,602
+2019,Minnesota,New Mexico,506
+2019,Minnesota,New York,2549
+2019,Minnesota,North Carolina,1175
+2019,Minnesota,North Dakota,8360
+2019,Minnesota,Ohio,2935
+2019,Minnesota,Oklahoma,204
+2019,Minnesota,Oregon,1119
+2019,Minnesota,Pennsylvania,1349
+2019,Minnesota,Rhode Island,0
+2019,Minnesota,South Carolina,275
+2019,Minnesota,South Dakota,3941
+2019,Minnesota,Tennessee,1262
+2019,Minnesota,Texas,5916
+2019,Minnesota,Utah,314
+2019,Minnesota,Vermont,0
+2019,Minnesota,Virginia,1743
+2019,Minnesota,Washington,5166
+2019,Minnesota,West Virginia,0
+2019,Minnesota,Wisconsin,18403
+2019,Minnesota,Wyoming,207
+2019,Mississippi,Alabama,3512
+2019,Mississippi,Alaska,80
+2019,Mississippi,Arizona,495
+2019,Mississippi,Arkansas,2625
+2019,Mississippi,California,3024
+2019,Mississippi,Colorado,421
+2019,Mississippi,Connecticut,0
+2019,Mississippi,Delaware,0
+2019,Mississippi,District of Columbia ,28
+2019,Mississippi,Florida,4712
+2019,Mississippi,Georgia,2271
+2019,Mississippi,Hawaii,221
+2019,Mississippi,Idaho,135
+2019,Mississippi,Illinois,3133
+2019,Mississippi,Indiana,234
+2019,Mississippi,Iowa,246
+2019,Mississippi,Kansas,220
+2019,Mississippi,Kentucky,463
+2019,Mississippi,Louisiana,9257
+2019,Mississippi,Maine,0
+2019,Mississippi,Maryland,975
+2019,Mississippi,Massachusetts,252
+2019,Mississippi,Michigan,309
+2019,Mississippi,Minnesota,0
+2019,Mississippi,Mississippi,N/A
+2019,Mississippi,Missouri,528
+2019,Mississippi,Montana,133
+2019,Mississippi,Nebraska,290
+2019,Mississippi,Nevada,298
+2019,Mississippi,New Hampshire,37
+2019,Mississippi,New Jersey,183
+2019,Mississippi,New Mexico,0
+2019,Mississippi,New York,2124
+2019,Mississippi,North Carolina,1383
+2019,Mississippi,North Dakota,291
+2019,Mississippi,Ohio,2153
+2019,Mississippi,Oklahoma,292
+2019,Mississippi,Oregon,565
+2019,Mississippi,Pennsylvania,917
+2019,Mississippi,Rhode Island,0
+2019,Mississippi,South Carolina,1016
+2019,Mississippi,South Dakota,0
+2019,Mississippi,Tennessee,9192
+2019,Mississippi,Texas,4689
+2019,Mississippi,Utah,406
+2019,Mississippi,Vermont,10
+2019,Mississippi,Virginia,2244
+2019,Mississippi,Washington,526
+2019,Mississippi,West Virginia,647
+2019,Mississippi,Wisconsin,1146
+2019,Mississippi,Wyoming,0
+2019,Missouri,Alabama,2246
+2019,Missouri,Alaska,927
+2019,Missouri,Arizona,3184
+2019,Missouri,Arkansas,4768
+2019,Missouri,California,7970
+2019,Missouri,Colorado,4032
+2019,Missouri,Connecticut,997
+2019,Missouri,Delaware,160
+2019,Missouri,District of Columbia ,74
+2019,Missouri,Florida,6848
+2019,Missouri,Georgia,5492
+2019,Missouri,Hawaii,875
+2019,Missouri,Idaho,1066
+2019,Missouri,Illinois,17366
+2019,Missouri,Indiana,5811
+2019,Missouri,Iowa,5774
+2019,Missouri,Kansas,20685
+2019,Missouri,Kentucky,2042
+2019,Missouri,Louisiana,1488
+2019,Missouri,Maine,644
+2019,Missouri,Maryland,1210
+2019,Missouri,Massachusetts,464
+2019,Missouri,Michigan,1328
+2019,Missouri,Minnesota,1321
+2019,Missouri,Mississippi,2091
+2019,Missouri,Missouri,N/A
+2019,Missouri,Montana,589
+2019,Missouri,Nebraska,3190
+2019,Missouri,Nevada,877
+2019,Missouri,New Hampshire,277
+2019,Missouri,New Jersey,1515
+2019,Missouri,New Mexico,482
+2019,Missouri,New York,2247
+2019,Missouri,North Carolina,5552
+2019,Missouri,North Dakota,873
+2019,Missouri,Ohio,1691
+2019,Missouri,Oklahoma,4644
+2019,Missouri,Oregon,761
+2019,Missouri,Pennsylvania,1320
+2019,Missouri,Rhode Island,246
+2019,Missouri,South Carolina,987
+2019,Missouri,South Dakota,494
+2019,Missouri,Tennessee,4106
+2019,Missouri,Texas,11507
+2019,Missouri,Utah,1567
+2019,Missouri,Vermont,1094
+2019,Missouri,Virginia,2682
+2019,Missouri,Washington,2903
+2019,Missouri,West Virginia,829
+2019,Missouri,Wisconsin,3004
+2019,Missouri,Wyoming,45
+2019,Montana,Alabama,400
+2019,Montana,Alaska,1124
+2019,Montana,Arizona,1271
+2019,Montana,Arkansas,68
+2019,Montana,California,5298
+2019,Montana,Colorado,3831
+2019,Montana,Connecticut,346
+2019,Montana,Delaware,0
+2019,Montana,District of Columbia ,0
+2019,Montana,Florida,1715
+2019,Montana,Georgia,149
+2019,Montana,Hawaii,32
+2019,Montana,Idaho,2197
+2019,Montana,Illinois,1045
+2019,Montana,Indiana,84
+2019,Montana,Iowa,350
+2019,Montana,Kansas,137
+2019,Montana,Kentucky,49
+2019,Montana,Louisiana,954
+2019,Montana,Maine,72
+2019,Montana,Maryland,21
+2019,Montana,Massachusetts,374
+2019,Montana,Michigan,346
+2019,Montana,Minnesota,996
+2019,Montana,Mississippi,30
+2019,Montana,Missouri,487
+2019,Montana,Montana,N/A
+2019,Montana,Nebraska,424
+2019,Montana,Nevada,1928
+2019,Montana,New Hampshire,63
+2019,Montana,New Jersey,0
+2019,Montana,New Mexico,117
+2019,Montana,New York,1239
+2019,Montana,North Carolina,718
+2019,Montana,North Dakota,792
+2019,Montana,Ohio,500
+2019,Montana,Oklahoma,455
+2019,Montana,Oregon,1977
+2019,Montana,Pennsylvania,651
+2019,Montana,Rhode Island,0
+2019,Montana,South Carolina,0
+2019,Montana,South Dakota,188
+2019,Montana,Tennessee,0
+2019,Montana,Texas,780
+2019,Montana,Utah,1900
+2019,Montana,Vermont,134
+2019,Montana,Virginia,768
+2019,Montana,Washington,4907
+2019,Montana,West Virginia,176
+2019,Montana,Wisconsin,107
+2019,Montana,Wyoming,1662
+2019,Nebraska,Alabama,812
+2019,Nebraska,Alaska,127
+2019,Nebraska,Arizona,1968
+2019,Nebraska,Arkansas,273
+2019,Nebraska,California,2035
+2019,Nebraska,Colorado,2816
+2019,Nebraska,Connecticut,261
+2019,Nebraska,Delaware,9
+2019,Nebraska,District of Columbia ,0
+2019,Nebraska,Florida,1474
+2019,Nebraska,Georgia,358
+2019,Nebraska,Hawaii,438
+2019,Nebraska,Idaho,386
+2019,Nebraska,Illinois,1158
+2019,Nebraska,Indiana,448
+2019,Nebraska,Iowa,6952
+2019,Nebraska,Kansas,4054
+2019,Nebraska,Kentucky,182
+2019,Nebraska,Louisiana,59
+2019,Nebraska,Maine,47
+2019,Nebraska,Maryland,1092
+2019,Nebraska,Massachusetts,218
+2019,Nebraska,Michigan,510
+2019,Nebraska,Minnesota,1615
+2019,Nebraska,Mississippi,238
+2019,Nebraska,Missouri,1679
+2019,Nebraska,Montana,302
+2019,Nebraska,Nebraska,N/A
+2019,Nebraska,Nevada,35
+2019,Nebraska,New Hampshire,0
+2019,Nebraska,New Jersey,110
+2019,Nebraska,New Mexico,792
+2019,Nebraska,New York,472
+2019,Nebraska,North Carolina,828
+2019,Nebraska,North Dakota,968
+2019,Nebraska,Ohio,233
+2019,Nebraska,Oklahoma,1582
+2019,Nebraska,Oregon,78
+2019,Nebraska,Pennsylvania,157
+2019,Nebraska,Rhode Island,62
+2019,Nebraska,South Carolina,87
+2019,Nebraska,South Dakota,2070
+2019,Nebraska,Tennessee,351
+2019,Nebraska,Texas,4199
+2019,Nebraska,Utah,1111
+2019,Nebraska,Vermont,0
+2019,Nebraska,Virginia,1180
+2019,Nebraska,Washington,365
+2019,Nebraska,West Virginia,148
+2019,Nebraska,Wisconsin,725
+2019,Nebraska,Wyoming,1000
+2019,Nevada,Alabama,239
+2019,Nevada,Alaska,2850
+2019,Nevada,Arizona,8636
+2019,Nevada,Arkansas,356
+2019,Nevada,California,47322
+2019,Nevada,Colorado,3206
+2019,Nevada,Connecticut,694
+2019,Nevada,Delaware,0
+2019,Nevada,District of Columbia ,259
+2019,Nevada,Florida,5429
+2019,Nevada,Georgia,1432
+2019,Nevada,Hawaii,3612
+2019,Nevada,Idaho,1660
+2019,Nevada,Illinois,4239
+2019,Nevada,Indiana,594
+2019,Nevada,Iowa,1706
+2019,Nevada,Kansas,559
+2019,Nevada,Kentucky,211
+2019,Nevada,Louisiana,1276
+2019,Nevada,Maine,0
+2019,Nevada,Maryland,2540
+2019,Nevada,Massachusetts,407
+2019,Nevada,Michigan,1229
+2019,Nevada,Minnesota,782
+2019,Nevada,Mississippi,1861
+2019,Nevada,Missouri,995
+2019,Nevada,Montana,1206
+2019,Nevada,Nebraska,90
+2019,Nevada,Nevada,N/A
+2019,Nevada,New Hampshire,460
+2019,Nevada,New Jersey,960
+2019,Nevada,New Mexico,4823
+2019,Nevada,New York,2711
+2019,Nevada,North Carolina,798
+2019,Nevada,North Dakota,678
+2019,Nevada,Ohio,1658
+2019,Nevada,Oklahoma,968
+2019,Nevada,Oregon,3392
+2019,Nevada,Pennsylvania,1582
+2019,Nevada,Rhode Island,0
+2019,Nevada,South Carolina,767
+2019,Nevada,South Dakota,417
+2019,Nevada,Tennessee,1372
+2019,Nevada,Texas,5240
+2019,Nevada,Utah,6593
+2019,Nevada,Vermont,0
+2019,Nevada,Virginia,1959
+2019,Nevada,Washington,3906
+2019,Nevada,West Virginia,74
+2019,Nevada,Wisconsin,1156
+2019,Nevada,Wyoming,46
+2019,New Hampshire,Alabama,379
+2019,New Hampshire,Alaska,392
+2019,New Hampshire,Arizona,970
+2019,New Hampshire,Arkansas,154
+2019,New Hampshire,California,1110
+2019,New Hampshire,Colorado,372
+2019,New Hampshire,Connecticut,1701
+2019,New Hampshire,Delaware,106
+2019,New Hampshire,District of Columbia ,661
+2019,New Hampshire,Florida,1182
+2019,New Hampshire,Georgia,216
+2019,New Hampshire,Hawaii,153
+2019,New Hampshire,Idaho,126
+2019,New Hampshire,Illinois,390
+2019,New Hampshire,Indiana,524
+2019,New Hampshire,Iowa,56
+2019,New Hampshire,Kansas,0
+2019,New Hampshire,Kentucky,376
+2019,New Hampshire,Louisiana,391
+2019,New Hampshire,Maine,4524
+2019,New Hampshire,Maryland,927
+2019,New Hampshire,Massachusetts,18723
+2019,New Hampshire,Michigan,581
+2019,New Hampshire,Minnesota,92
+2019,New Hampshire,Mississippi,0
+2019,New Hampshire,Missouri,0
+2019,New Hampshire,Montana,278
+2019,New Hampshire,Nebraska,57
+2019,New Hampshire,Nevada,160
+2019,New Hampshire,New Hampshire,N/A
+2019,New Hampshire,New Jersey,1012
+2019,New Hampshire,New Mexico,97
+2019,New Hampshire,New York,3556
+2019,New Hampshire,North Carolina,269
+2019,New Hampshire,North Dakota,0
+2019,New Hampshire,Ohio,986
+2019,New Hampshire,Oklahoma,0
+2019,New Hampshire,Oregon,317
+2019,New Hampshire,Pennsylvania,1306
+2019,New Hampshire,Rhode Island,1022
+2019,New Hampshire,South Carolina,413
+2019,New Hampshire,South Dakota,126
+2019,New Hampshire,Tennessee,801
+2019,New Hampshire,Texas,892
+2019,New Hampshire,Utah,272
+2019,New Hampshire,Vermont,2370
+2019,New Hampshire,Virginia,890
+2019,New Hampshire,Washington,582
+2019,New Hampshire,West Virginia,155
+2019,New Hampshire,Wisconsin,621
+2019,New Hampshire,Wyoming,0
+2019,New Jersey,Alabama,357
+2019,New Jersey,Alaska,457
+2019,New Jersey,Arizona,806
+2019,New Jersey,Arkansas,261
+2019,New Jersey,California,9155
+2019,New Jersey,Colorado,3314
+2019,New Jersey,Connecticut,3484
+2019,New Jersey,Delaware,1066
+2019,New Jersey,District of Columbia ,629
+2019,New Jersey,Florida,12032
+2019,New Jersey,Georgia,1915
+2019,New Jersey,Hawaii,218
+2019,New Jersey,Idaho,73
+2019,New Jersey,Illinois,1854
+2019,New Jersey,Indiana,664
+2019,New Jersey,Iowa,61
+2019,New Jersey,Kansas,480
+2019,New Jersey,Kentucky,537
+2019,New Jersey,Louisiana,449
+2019,New Jersey,Maine,916
+2019,New Jersey,Maryland,3772
+2019,New Jersey,Massachusetts,2726
+2019,New Jersey,Michigan,1657
+2019,New Jersey,Minnesota,98
+2019,New Jersey,Mississippi,499
+2019,New Jersey,Missouri,296
+2019,New Jersey,Montana,30
+2019,New Jersey,Nebraska,384
+2019,New Jersey,Nevada,717
+2019,New Jersey,New Hampshire,829
+2019,New Jersey,New Jersey,N/A
+2019,New Jersey,New Mexico,127
+2019,New Jersey,New York,58664
+2019,New Jersey,North Carolina,4294
+2019,New Jersey,North Dakota,0
+2019,New Jersey,Ohio,628
+2019,New Jersey,Oklahoma,122
+2019,New Jersey,Oregon,398
+2019,New Jersey,Pennsylvania,22445
+2019,New Jersey,Rhode Island,137
+2019,New Jersey,South Carolina,412
+2019,New Jersey,South Dakota,0
+2019,New Jersey,Tennessee,527
+2019,New Jersey,Texas,4489
+2019,New Jersey,Utah,540
+2019,New Jersey,Vermont,133
+2019,New Jersey,Virginia,4810
+2019,New Jersey,Washington,996
+2019,New Jersey,West Virginia,494
+2019,New Jersey,Wisconsin,308
+2019,New Jersey,Wyoming,0
+2019,New Mexico,Alabama,751
+2019,New Mexico,Alaska,950
+2019,New Mexico,Arizona,4255
+2019,New Mexico,Arkansas,416
+2019,New Mexico,California,5915
+2019,New Mexico,Colorado,5038
+2019,New Mexico,Connecticut,598
+2019,New Mexico,Delaware,108
+2019,New Mexico,District of Columbia ,32
+2019,New Mexico,Florida,1804
+2019,New Mexico,Georgia,1019
+2019,New Mexico,Hawaii,949
+2019,New Mexico,Idaho,318
+2019,New Mexico,Illinois,836
+2019,New Mexico,Indiana,368
+2019,New Mexico,Iowa,4
+2019,New Mexico,Kansas,475
+2019,New Mexico,Kentucky,78
+2019,New Mexico,Louisiana,365
+2019,New Mexico,Maine,119
+2019,New Mexico,Maryland,384
+2019,New Mexico,Massachusetts,259
+2019,New Mexico,Michigan,216
+2019,New Mexico,Minnesota,356
+2019,New Mexico,Mississippi,83
+2019,New Mexico,Missouri,372
+2019,New Mexico,Montana,468
+2019,New Mexico,Nebraska,0
+2019,New Mexico,Nevada,2303
+2019,New Mexico,New Hampshire,97
+2019,New Mexico,New Jersey,811
+2019,New Mexico,New Mexico,N/A
+2019,New Mexico,New York,608
+2019,New Mexico,North Carolina,1263
+2019,New Mexico,North Dakota,10
+2019,New Mexico,Ohio,209
+2019,New Mexico,Oklahoma,702
+2019,New Mexico,Oregon,976
+2019,New Mexico,Pennsylvania,791
+2019,New Mexico,Rhode Island,83
+2019,New Mexico,South Carolina,355
+2019,New Mexico,South Dakota,85
+2019,New Mexico,Tennessee,599
+2019,New Mexico,Texas,15762
+2019,New Mexico,Utah,766
+2019,New Mexico,Vermont,102
+2019,New Mexico,Virginia,564
+2019,New Mexico,Washington,1330
+2019,New Mexico,West Virginia,0
+2019,New Mexico,Wisconsin,142
+2019,New Mexico,Wyoming,1451
+2019,New York,Alabama,851
+2019,New York,Alaska,596
+2019,New York,Arizona,2185
+2019,New York,Arkansas,1130
+2019,New York,California,24332
+2019,New York,Colorado,5754
+2019,New York,Connecticut,15040
+2019,New York,Delaware,1655
+2019,New York,District of Columbia ,3325
+2019,New York,Florida,18976
+2019,New York,Georgia,5938
+2019,New York,Hawaii,1301
+2019,New York,Idaho,138
+2019,New York,Illinois,6447
+2019,New York,Indiana,1470
+2019,New York,Iowa,1554
+2019,New York,Kansas,1329
+2019,New York,Kentucky,1553
+2019,New York,Louisiana,1757
+2019,New York,Maine,1918
+2019,New York,Maryland,6015
+2019,New York,Massachusetts,17910
+2019,New York,Michigan,5504
+2019,New York,Minnesota,2237
+2019,New York,Mississippi,444
+2019,New York,Missouri,1054
+2019,New York,Montana,194
+2019,New York,Nebraska,746
+2019,New York,Nevada,2366
+2019,New York,New Hampshire,2417
+2019,New York,New Jersey,31942
+2019,New York,New Mexico,1139
+2019,New York,New York,N/A
+2019,New York,North Carolina,9847
+2019,New York,North Dakota,247
+2019,New York,Ohio,5629
+2019,New York,Oklahoma,530
+2019,New York,Oregon,2091
+2019,New York,Pennsylvania,22641
+2019,New York,Rhode Island,1623
+2019,New York,South Carolina,3169
+2019,New York,South Dakota,68
+2019,New York,Tennessee,5513
+2019,New York,Texas,13033
+2019,New York,Utah,1185
+2019,New York,Vermont,3084
+2019,New York,Virginia,12180
+2019,New York,Washington,2697
+2019,New York,West Virginia,530
+2019,New York,Wisconsin,1450
+2019,New York,Wyoming,72
+2019,North Carolina,Alabama,4697
+2019,North Carolina,Alaska,1568
+2019,North Carolina,Arizona,5319
+2019,North Carolina,Arkansas,1976
+2019,North Carolina,California,18023
+2019,North Carolina,Colorado,6089
+2019,North Carolina,Connecticut,5840
+2019,North Carolina,Delaware,1595
+2019,North Carolina,District of Columbia ,1700
+2019,North Carolina,Florida,30032
+2019,North Carolina,Georgia,19017
+2019,North Carolina,Hawaii,2955
+2019,North Carolina,Idaho,476
+2019,North Carolina,Illinois,6527
+2019,North Carolina,Indiana,5646
+2019,North Carolina,Iowa,1227
+2019,North Carolina,Kansas,857
+2019,North Carolina,Kentucky,4793
+2019,North Carolina,Louisiana,1272
+2019,North Carolina,Maine,526
+2019,North Carolina,Maryland,13408
+2019,North Carolina,Massachusetts,5389
+2019,North Carolina,Michigan,6302
+2019,North Carolina,Minnesota,2447
+2019,North Carolina,Mississippi,818
+2019,North Carolina,Missouri,2982
+2019,North Carolina,Montana,1004
+2019,North Carolina,Nebraska,217
+2019,North Carolina,Nevada,1094
+2019,North Carolina,New Hampshire,867
+2019,North Carolina,New Jersey,15297
+2019,North Carolina,New Mexico,1270
+2019,North Carolina,New York,23571
+2019,North Carolina,North Carolina,N/A
+2019,North Carolina,North Dakota,980
+2019,North Carolina,Ohio,9698
+2019,North Carolina,Oklahoma,1705
+2019,North Carolina,Oregon,1976
+2019,North Carolina,Pennsylvania,13341
+2019,North Carolina,Rhode Island,1531
+2019,North Carolina,South Carolina,27740
+2019,North Carolina,South Dakota,185
+2019,North Carolina,Tennessee,9970
+2019,North Carolina,Texas,14226
+2019,North Carolina,Utah,1125
+2019,North Carolina,Vermont,435
+2019,North Carolina,Virginia,29764
+2019,North Carolina,Washington,2984
+2019,North Carolina,West Virginia,2950
+2019,North Carolina,Wisconsin,1643
+2019,North Carolina,Wyoming,161
+2019,North Dakota,Alabama,0
+2019,North Dakota,Alaska,214
+2019,North Dakota,Arizona,945
+2019,North Dakota,Arkansas,46
+2019,North Dakota,California,404
+2019,North Dakota,Colorado,585
+2019,North Dakota,Connecticut,65
+2019,North Dakota,Delaware,0
+2019,North Dakota,District of Columbia ,0
+2019,North Dakota,Florida,1168
+2019,North Dakota,Georgia,903
+2019,North Dakota,Hawaii,0
+2019,North Dakota,Idaho,60
+2019,North Dakota,Illinois,451
+2019,North Dakota,Indiana,174
+2019,North Dakota,Iowa,652
+2019,North Dakota,Kansas,292
+2019,North Dakota,Kentucky,0
+2019,North Dakota,Louisiana,144
+2019,North Dakota,Maine,82
+2019,North Dakota,Maryland,33
+2019,North Dakota,Massachusetts,113
+2019,North Dakota,Michigan,1015
+2019,North Dakota,Minnesota,13506
+2019,North Dakota,Mississippi,0
+2019,North Dakota,Missouri,1050
+2019,North Dakota,Montana,1660
+2019,North Dakota,Nebraska,288
+2019,North Dakota,Nevada,270
+2019,North Dakota,New Hampshire,72
+2019,North Dakota,New Jersey,1713
+2019,North Dakota,New Mexico,677
+2019,North Dakota,New York,445
+2019,North Dakota,North Carolina,134
+2019,North Dakota,North Dakota,N/A
+2019,North Dakota,Ohio,13
+2019,North Dakota,Oklahoma,0
+2019,North Dakota,Oregon,253
+2019,North Dakota,Pennsylvania,19
+2019,North Dakota,Rhode Island,0
+2019,North Dakota,South Carolina,95
+2019,North Dakota,South Dakota,2329
+2019,North Dakota,Tennessee,175
+2019,North Dakota,Texas,3075
+2019,North Dakota,Utah,444
+2019,North Dakota,Vermont,0
+2019,North Dakota,Virginia,302
+2019,North Dakota,Washington,1759
+2019,North Dakota,West Virginia,0
+2019,North Dakota,Wisconsin,313
+2019,North Dakota,Wyoming,730
+2019,Ohio,Alabama,1203
+2019,Ohio,Alaska,468
+2019,Ohio,Arizona,3591
+2019,Ohio,Arkansas,1195
+2019,Ohio,California,12277
+2019,Ohio,Colorado,3905
+2019,Ohio,Connecticut,3076
+2019,Ohio,Delaware,205
+2019,Ohio,District of Columbia ,306
+2019,Ohio,Florida,16590
+2019,Ohio,Georgia,7669
+2019,Ohio,Hawaii,587
+2019,Ohio,Idaho,327
+2019,Ohio,Illinois,7615
+2019,Ohio,Indiana,12714
+2019,Ohio,Iowa,1005
+2019,Ohio,Kansas,1318
+2019,Ohio,Kentucky,17884
+2019,Ohio,Louisiana,538
+2019,Ohio,Maine,251
+2019,Ohio,Maryland,2889
+2019,Ohio,Massachusetts,2304
+2019,Ohio,Michigan,14049
+2019,Ohio,Minnesota,1540
+2019,Ohio,Mississippi,1413
+2019,Ohio,Missouri,3289
+2019,Ohio,Montana,599
+2019,Ohio,Nebraska,691
+2019,Ohio,Nevada,2525
+2019,Ohio,New Hampshire,493
+2019,Ohio,New Jersey,5205
+2019,Ohio,New Mexico,848
+2019,Ohio,New York,8780
+2019,Ohio,North Carolina,4799
+2019,Ohio,North Dakota,1354
+2019,Ohio,Ohio,N/A
+2019,Ohio,Oklahoma,696
+2019,Ohio,Oregon,1972
+2019,Ohio,Pennsylvania,16792
+2019,Ohio,Rhode Island,108
+2019,Ohio,South Carolina,3247
+2019,Ohio,South Dakota,722
+2019,Ohio,Tennessee,4196
+2019,Ohio,Texas,13564
+2019,Ohio,Utah,2629
+2019,Ohio,Vermont,582
+2019,Ohio,Virginia,5339
+2019,Ohio,Washington,2155
+2019,Ohio,West Virginia,6056
+2019,Ohio,Wisconsin,3490
+2019,Ohio,Wyoming,492
+2019,Oklahoma,Alabama,241
+2019,Oklahoma,Alaska,188
+2019,Oklahoma,Arizona,2962
+2019,Oklahoma,Arkansas,7421
+2019,Oklahoma,California,7408
+2019,Oklahoma,Colorado,9020
+2019,Oklahoma,Connecticut,430
+2019,Oklahoma,Delaware,0
+2019,Oklahoma,District of Columbia ,0
+2019,Oklahoma,Florida,4109
+2019,Oklahoma,Georgia,1888
+2019,Oklahoma,Hawaii,1531
+2019,Oklahoma,Idaho,429
+2019,Oklahoma,Illinois,2401
+2019,Oklahoma,Indiana,2397
+2019,Oklahoma,Iowa,551
+2019,Oklahoma,Kansas,4371
+2019,Oklahoma,Kentucky,537
+2019,Oklahoma,Louisiana,1942
+2019,Oklahoma,Maine,17
+2019,Oklahoma,Maryland,672
+2019,Oklahoma,Massachusetts,255
+2019,Oklahoma,Michigan,794
+2019,Oklahoma,Minnesota,638
+2019,Oklahoma,Mississippi,271
+2019,Oklahoma,Missouri,4166
+2019,Oklahoma,Montana,617
+2019,Oklahoma,Nebraska,973
+2019,Oklahoma,Nevada,1018
+2019,Oklahoma,New Hampshire,0
+2019,Oklahoma,New Jersey,467
+2019,Oklahoma,New Mexico,3447
+2019,Oklahoma,New York,1505
+2019,Oklahoma,North Carolina,2745
+2019,Oklahoma,North Dakota,92
+2019,Oklahoma,Ohio,1163
+2019,Oklahoma,Oklahoma,N/A
+2019,Oklahoma,Oregon,432
+2019,Oklahoma,Pennsylvania,881
+2019,Oklahoma,Rhode Island,65
+2019,Oklahoma,South Carolina,85
+2019,Oklahoma,South Dakota,880
+2019,Oklahoma,Tennessee,1143
+2019,Oklahoma,Texas,26383
+2019,Oklahoma,Utah,155
+2019,Oklahoma,Vermont,363
+2019,Oklahoma,Virginia,2146
+2019,Oklahoma,Washington,2039
+2019,Oklahoma,West Virginia,216
+2019,Oklahoma,Wisconsin,64
+2019,Oklahoma,Wyoming,326
+2019,Oregon,Alabama,162
+2019,Oregon,Alaska,2068
+2019,Oregon,Arizona,6540
+2019,Oregon,Arkansas,425
+2019,Oregon,California,37927
+2019,Oregon,Colorado,5730
+2019,Oregon,Connecticut,377
+2019,Oregon,Delaware,0
+2019,Oregon,District of Columbia ,135
+2019,Oregon,Florida,4218
+2019,Oregon,Georgia,848
+2019,Oregon,Hawaii,2798
+2019,Oregon,Idaho,5623
+2019,Oregon,Illinois,1602
+2019,Oregon,Indiana,681
+2019,Oregon,Iowa,802
+2019,Oregon,Kansas,954
+2019,Oregon,Kentucky,219
+2019,Oregon,Louisiana,765
+2019,Oregon,Maine,630
+2019,Oregon,Maryland,103
+2019,Oregon,Massachusetts,1689
+2019,Oregon,Michigan,1250
+2019,Oregon,Minnesota,1368
+2019,Oregon,Mississippi,10
+2019,Oregon,Missouri,947
+2019,Oregon,Montana,2927
+2019,Oregon,Nebraska,312
+2019,Oregon,Nevada,3592
+2019,Oregon,New Hampshire,0
+2019,Oregon,New Jersey,185
+2019,Oregon,New Mexico,1251
+2019,Oregon,New York,3462
+2019,Oregon,North Carolina,1692
+2019,Oregon,North Dakota,414
+2019,Oregon,Ohio,852
+2019,Oregon,Oklahoma,1350
+2019,Oregon,Oregon,N/A
+2019,Oregon,Pennsylvania,1678
+2019,Oregon,Rhode Island,62
+2019,Oregon,South Carolina,568
+2019,Oregon,South Dakota,4
+2019,Oregon,Tennessee,1113
+2019,Oregon,Texas,4441
+2019,Oregon,Utah,3684
+2019,Oregon,Vermont,298
+2019,Oregon,Virginia,1582
+2019,Oregon,Washington,21339
+2019,Oregon,West Virginia,0
+2019,Oregon,Wisconsin,564
+2019,Oregon,Wyoming,680
+2019,Pennsylvania,Alabama,1898
+2019,Pennsylvania,Alaska,1008
+2019,Pennsylvania,Arizona,3104
+2019,Pennsylvania,Arkansas,502
+2019,Pennsylvania,California,13048
+2019,Pennsylvania,Colorado,1631
+2019,Pennsylvania,Connecticut,4853
+2019,Pennsylvania,Delaware,6387
+2019,Pennsylvania,District of Columbia ,1978
+2019,Pennsylvania,Florida,19629
+2019,Pennsylvania,Georgia,7481
+2019,Pennsylvania,Hawaii,1325
+2019,Pennsylvania,Idaho,183
+2019,Pennsylvania,Illinois,3996
+2019,Pennsylvania,Indiana,2276
+2019,Pennsylvania,Iowa,278
+2019,Pennsylvania,Kansas,1073
+2019,Pennsylvania,Kentucky,1222
+2019,Pennsylvania,Louisiana,1657
+2019,Pennsylvania,Maine,1787
+2019,Pennsylvania,Maryland,21659
+2019,Pennsylvania,Massachusetts,4551
+2019,Pennsylvania,Michigan,1969
+2019,Pennsylvania,Minnesota,2708
+2019,Pennsylvania,Mississippi,65
+2019,Pennsylvania,Missouri,1760
+2019,Pennsylvania,Montana,15
+2019,Pennsylvania,Nebraska,2007
+2019,Pennsylvania,Nevada,721
+2019,Pennsylvania,New Hampshire,1148
+2019,Pennsylvania,New Jersey,43295
+2019,Pennsylvania,New Mexico,163
+2019,Pennsylvania,New York,46618
+2019,Pennsylvania,North Carolina,7221
+2019,Pennsylvania,North Dakota,697
+2019,Pennsylvania,Ohio,12752
+2019,Pennsylvania,Oklahoma,1975
+2019,Pennsylvania,Oregon,1004
+2019,Pennsylvania,Pennsylvania,N/A
+2019,Pennsylvania,Rhode Island,850
+2019,Pennsylvania,South Carolina,4742
+2019,Pennsylvania,South Dakota,507
+2019,Pennsylvania,Tennessee,2564
+2019,Pennsylvania,Texas,11490
+2019,Pennsylvania,Utah,869
+2019,Pennsylvania,Vermont,1483
+2019,Pennsylvania,Virginia,12193
+2019,Pennsylvania,Washington,2394
+2019,Pennsylvania,West Virginia,3763
+2019,Pennsylvania,Wisconsin,942
+2019,Pennsylvania,Wyoming,24
+2019,Rhode Island,Alabama,0
+2019,Rhode Island,Alaska,0
+2019,Rhode Island,Arizona,423
+2019,Rhode Island,Arkansas,0
+2019,Rhode Island,California,1854
+2019,Rhode Island,Colorado,238
+2019,Rhode Island,Connecticut,2561
+2019,Rhode Island,Delaware,16
+2019,Rhode Island,District of Columbia ,0
+2019,Rhode Island,Florida,3084
+2019,Rhode Island,Georgia,84
+2019,Rhode Island,Hawaii,0
+2019,Rhode Island,Idaho,0
+2019,Rhode Island,Illinois,624
+2019,Rhode Island,Indiana,150
+2019,Rhode Island,Iowa,413
+2019,Rhode Island,Kansas,0
+2019,Rhode Island,Kentucky,148
+2019,Rhode Island,Louisiana,53
+2019,Rhode Island,Maine,475
+2019,Rhode Island,Maryland,243
+2019,Rhode Island,Massachusetts,12742
+2019,Rhode Island,Michigan,49
+2019,Rhode Island,Minnesota,0
+2019,Rhode Island,Mississippi,49
+2019,Rhode Island,Missouri,135
+2019,Rhode Island,Montana,0
+2019,Rhode Island,Nebraska,17
+2019,Rhode Island,Nevada,0
+2019,Rhode Island,New Hampshire,290
+2019,Rhode Island,New Jersey,1420
+2019,Rhode Island,New Mexico,51
+2019,Rhode Island,New York,2359
+2019,Rhode Island,North Carolina,887
+2019,Rhode Island,North Dakota,0
+2019,Rhode Island,Ohio,441
+2019,Rhode Island,Oklahoma,0
+2019,Rhode Island,Oregon,387
+2019,Rhode Island,Pennsylvania,1538
+2019,Rhode Island,Rhode Island,N/A
+2019,Rhode Island,South Carolina,680
+2019,Rhode Island,South Dakota,0
+2019,Rhode Island,Tennessee,136
+2019,Rhode Island,Texas,1597
+2019,Rhode Island,Utah,186
+2019,Rhode Island,Vermont,428
+2019,Rhode Island,Virginia,863
+2019,Rhode Island,Washington,144
+2019,Rhode Island,West Virginia,83
+2019,Rhode Island,Wisconsin,136
+2019,Rhode Island,Wyoming,0
+2019,South Carolina,Alabama,873
+2019,South Carolina,Alaska,680
+2019,South Carolina,Arizona,1704
+2019,South Carolina,Arkansas,579
+2019,South Carolina,California,7785
+2019,South Carolina,Colorado,1506
+2019,South Carolina,Connecticut,2880
+2019,South Carolina,Delaware,595
+2019,South Carolina,District of Columbia ,454
+2019,South Carolina,Florida,14136
+2019,South Carolina,Georgia,16644
+2019,South Carolina,Hawaii,1280
+2019,South Carolina,Idaho,754
+2019,South Carolina,Illinois,4210
+2019,South Carolina,Indiana,1596
+2019,South Carolina,Iowa,871
+2019,South Carolina,Kansas,1043
+2019,South Carolina,Kentucky,3545
+2019,South Carolina,Louisiana,1721
+2019,South Carolina,Maine,833
+2019,South Carolina,Maryland,6663
+2019,South Carolina,Massachusetts,3094
+2019,South Carolina,Michigan,2251
+2019,South Carolina,Minnesota,685
+2019,South Carolina,Mississippi,546
+2019,South Carolina,Missouri,656
+2019,South Carolina,Montana,0
+2019,South Carolina,Nebraska,205
+2019,South Carolina,Nevada,1087
+2019,South Carolina,New Hampshire,146
+2019,South Carolina,New Jersey,6233
+2019,South Carolina,New Mexico,1581
+2019,South Carolina,New York,10416
+2019,South Carolina,North Carolina,33940
+2019,South Carolina,North Dakota,971
+2019,South Carolina,Ohio,5641
+2019,South Carolina,Oklahoma,812
+2019,South Carolina,Oregon,410
+2019,South Carolina,Pennsylvania,7227
+2019,South Carolina,Rhode Island,993
+2019,South Carolina,South Carolina,N/A
+2019,South Carolina,South Dakota,547
+2019,South Carolina,Tennessee,4184
+2019,South Carolina,Texas,7631
+2019,South Carolina,Utah,548
+2019,South Carolina,Vermont,336
+2019,South Carolina,Virginia,10143
+2019,South Carolina,Washington,2112
+2019,South Carolina,West Virginia,1559
+2019,South Carolina,Wisconsin,1702
+2019,South Carolina,Wyoming,0
+2019,South Dakota,Alabama,339
+2019,South Dakota,Alaska,14
+2019,South Dakota,Arizona,650
+2019,South Dakota,Arkansas,141
+2019,South Dakota,California,1778
+2019,South Dakota,Colorado,818
+2019,South Dakota,Connecticut,0
+2019,South Dakota,Delaware,0
+2019,South Dakota,District of Columbia ,0
+2019,South Dakota,Florida,550
+2019,South Dakota,Georgia,436
+2019,South Dakota,Hawaii,131
+2019,South Dakota,Idaho,112
+2019,South Dakota,Illinois,1300
+2019,South Dakota,Indiana,771
+2019,South Dakota,Iowa,3613
+2019,South Dakota,Kansas,581
+2019,South Dakota,Kentucky,0
+2019,South Dakota,Louisiana,0
+2019,South Dakota,Maine,0
+2019,South Dakota,Maryland,290
+2019,South Dakota,Massachusetts,0
+2019,South Dakota,Michigan,128
+2019,South Dakota,Minnesota,5777
+2019,South Dakota,Mississippi,24
+2019,South Dakota,Missouri,445
+2019,South Dakota,Montana,674
+2019,South Dakota,Nebraska,1620
+2019,South Dakota,Nevada,34
+2019,South Dakota,New Hampshire,116
+2019,South Dakota,New Jersey,349
+2019,South Dakota,New Mexico,92
+2019,South Dakota,New York,0
+2019,South Dakota,North Carolina,419
+2019,South Dakota,North Dakota,1218
+2019,South Dakota,Ohio,107
+2019,South Dakota,Oklahoma,374
+2019,South Dakota,Oregon,958
+2019,South Dakota,Pennsylvania,28
+2019,South Dakota,Rhode Island,0
+2019,South Dakota,South Carolina,162
+2019,South Dakota,South Dakota,N/A
+2019,South Dakota,Tennessee,386
+2019,South Dakota,Texas,1080
+2019,South Dakota,Utah,199
+2019,South Dakota,Vermont,0
+2019,South Dakota,Virginia,76
+2019,South Dakota,Washington,280
+2019,South Dakota,West Virginia,0
+2019,South Dakota,Wisconsin,391
+2019,South Dakota,Wyoming,473
+2019,Tennessee,Alabama,6294
+2019,Tennessee,Alaska,1506
+2019,Tennessee,Arizona,1457
+2019,Tennessee,Arkansas,5252
+2019,Tennessee,California,11874
+2019,Tennessee,Colorado,4674
+2019,Tennessee,Connecticut,740
+2019,Tennessee,Delaware,689
+2019,Tennessee,District of Columbia ,157
+2019,Tennessee,Florida,21539
+2019,Tennessee,Georgia,12668
+2019,Tennessee,Hawaii,522
+2019,Tennessee,Idaho,532
+2019,Tennessee,Illinois,8607
+2019,Tennessee,Indiana,5630
+2019,Tennessee,Iowa,857
+2019,Tennessee,Kansas,1204
+2019,Tennessee,Kentucky,11500
+2019,Tennessee,Louisiana,1964
+2019,Tennessee,Maine,339
+2019,Tennessee,Maryland,1744
+2019,Tennessee,Massachusetts,1109
+2019,Tennessee,Michigan,6548
+2019,Tennessee,Minnesota,1215
+2019,Tennessee,Mississippi,12011
+2019,Tennessee,Missouri,2492
+2019,Tennessee,Montana,700
+2019,Tennessee,Nebraska,419
+2019,Tennessee,Nevada,2101
+2019,Tennessee,New Hampshire,297
+2019,Tennessee,New Jersey,2382
+2019,Tennessee,New Mexico,1094
+2019,Tennessee,New York,6594
+2019,Tennessee,North Carolina,13551
+2019,Tennessee,North Dakota,0
+2019,Tennessee,Ohio,5547
+2019,Tennessee,Oklahoma,935
+2019,Tennessee,Oregon,1453
+2019,Tennessee,Pennsylvania,1833
+2019,Tennessee,Rhode Island,399
+2019,Tennessee,South Carolina,4872
+2019,Tennessee,South Dakota,490
+2019,Tennessee,Tennessee,N/A
+2019,Tennessee,Texas,15068
+2019,Tennessee,Utah,1240
+2019,Tennessee,Vermont,336
+2019,Tennessee,Virginia,8040
+2019,Tennessee,Washington,3821
+2019,Tennessee,West Virginia,1235
+2019,Tennessee,Wisconsin,1188
+2019,Tennessee,Wyoming,46
+2019,Texas,Alabama,8791
+2019,Texas,Alaska,4622
+2019,Texas,Arizona,21205
+2019,Texas,Arkansas,12341
+2019,Texas,California,82235
+2019,Texas,Colorado,18189
+2019,Texas,Connecticut,2085
+2019,Texas,Delaware,930
+2019,Texas,District of Columbia ,711
+2019,Texas,Florida,41238
+2019,Texas,Georgia,24209
+2019,Texas,Hawaii,6977
+2019,Texas,Idaho,2836
+2019,Texas,Illinois,23747
+2019,Texas,Indiana,6244
+2019,Texas,Iowa,3306
+2019,Texas,Kansas,12823
+2019,Texas,Kentucky,6239
+2019,Texas,Louisiana,24513
+2019,Texas,Maine,1212
+2019,Texas,Maryland,8660
+2019,Texas,Massachusetts,8277
+2019,Texas,Michigan,11061
+2019,Texas,Minnesota,5949
+2019,Texas,Mississippi,6316
+2019,Texas,Missouri,8085
+2019,Texas,Montana,2136
+2019,Texas,Nebraska,3842
+2019,Texas,Nevada,10529
+2019,Texas,New Hampshire,2098
+2019,Texas,New Jersey,10319
+2019,Texas,New Mexico,23425
+2019,Texas,New York,18078
+2019,Texas,North Carolina,15838
+2019,Texas,North Dakota,944
+2019,Texas,Ohio,8975
+2019,Texas,Oklahoma,23535
+2019,Texas,Oregon,4430
+2019,Texas,Pennsylvania,9352
+2019,Texas,Rhode Island,556
+2019,Texas,South Carolina,9240
+2019,Texas,South Dakota,1918
+2019,Texas,Tennessee,9833
+2019,Texas,Texas,N/A
+2019,Texas,Utah,10072
+2019,Texas,Vermont,445
+2019,Texas,Virginia,18973
+2019,Texas,Washington,15128
+2019,Texas,West Virginia,1059
+2019,Texas,Wisconsin,4824
+2019,Texas,Wyoming,1311
+2019,Utah,Alabama,1027
+2019,Utah,Alaska,526
+2019,Utah,Arizona,6301
+2019,Utah,Arkansas,888
+2019,Utah,California,17821
+2019,Utah,Colorado,7856
+2019,Utah,Connecticut,2830
+2019,Utah,Delaware,0
+2019,Utah,District of Columbia ,252
+2019,Utah,Florida,2451
+2019,Utah,Georgia,668
+2019,Utah,Hawaii,773
+2019,Utah,Idaho,6752
+2019,Utah,Illinois,4238
+2019,Utah,Indiana,2256
+2019,Utah,Iowa,929
+2019,Utah,Kansas,552
+2019,Utah,Kentucky,194
+2019,Utah,Louisiana,1046
+2019,Utah,Maine,0
+2019,Utah,Maryland,1152
+2019,Utah,Massachusetts,545
+2019,Utah,Michigan,748
+2019,Utah,Minnesota,770
+2019,Utah,Mississippi,168
+2019,Utah,Missouri,995
+2019,Utah,Montana,1294
+2019,Utah,Nebraska,640
+2019,Utah,Nevada,4423
+2019,Utah,New Hampshire,222
+2019,Utah,New Jersey,588
+2019,Utah,New Mexico,663
+2019,Utah,New York,2073
+2019,Utah,North Carolina,1809
+2019,Utah,North Dakota,147
+2019,Utah,Ohio,1455
+2019,Utah,Oklahoma,775
+2019,Utah,Oregon,2873
+2019,Utah,Pennsylvania,478
+2019,Utah,Rhode Island,572
+2019,Utah,South Carolina,1295
+2019,Utah,South Dakota,16
+2019,Utah,Tennessee,1622
+2019,Utah,Texas,4871
+2019,Utah,Utah,N/A
+2019,Utah,Vermont,233
+2019,Utah,Virginia,922
+2019,Utah,Washington,4481
+2019,Utah,West Virginia,322
+2019,Utah,Wisconsin,547
+2019,Utah,Wyoming,1549
+2019,Vermont,Alabama,77
+2019,Vermont,Alaska,402
+2019,Vermont,Arizona,41
+2019,Vermont,Arkansas,0
+2019,Vermont,California,1048
+2019,Vermont,Colorado,687
+2019,Vermont,Connecticut,798
+2019,Vermont,Delaware,0
+2019,Vermont,District of Columbia ,253
+2019,Vermont,Florida,637
+2019,Vermont,Georgia,285
+2019,Vermont,Hawaii,2
+2019,Vermont,Idaho,81
+2019,Vermont,Illinois,670
+2019,Vermont,Indiana,99
+2019,Vermont,Iowa,56
+2019,Vermont,Kansas,0
+2019,Vermont,Kentucky,12
+2019,Vermont,Louisiana,0
+2019,Vermont,Maine,565
+2019,Vermont,Maryland,316
+2019,Vermont,Massachusetts,4045
+2019,Vermont,Michigan,103
+2019,Vermont,Minnesota,56
+2019,Vermont,Mississippi,0
+2019,Vermont,Missouri,113
+2019,Vermont,Montana,0
+2019,Vermont,Nebraska,14
+2019,Vermont,Nevada,128
+2019,Vermont,New Hampshire,2076
+2019,Vermont,New Jersey,799
+2019,Vermont,New Mexico,184
+2019,Vermont,New York,3276
+2019,Vermont,North Carolina,90
+2019,Vermont,North Dakota,0
+2019,Vermont,Ohio,97
+2019,Vermont,Oklahoma,0
+2019,Vermont,Oregon,152
+2019,Vermont,Pennsylvania,1401
+2019,Vermont,Rhode Island,216
+2019,Vermont,South Carolina,257
+2019,Vermont,South Dakota,0
+2019,Vermont,Tennessee,63
+2019,Vermont,Texas,1082
+2019,Vermont,Utah,41
+2019,Vermont,Vermont,N/A
+2019,Vermont,Virginia,527
+2019,Vermont,Washington,413
+2019,Vermont,West Virginia,20
+2019,Vermont,Wisconsin,0
+2019,Vermont,Wyoming,30
+2019,Virginia,Alabama,4028
+2019,Virginia,Alaska,1256
+2019,Virginia,Arizona,2513
+2019,Virginia,Arkansas,1011
+2019,Virginia,California,16994
+2019,Virginia,Colorado,4588
+2019,Virginia,Connecticut,2838
+2019,Virginia,Delaware,1187
+2019,Virginia,District of Columbia ,9540
+2019,Virginia,Florida,21432
+2019,Virginia,Georgia,9246
+2019,Virginia,Hawaii,1807
+2019,Virginia,Idaho,659
+2019,Virginia,Illinois,6562
+2019,Virginia,Indiana,2413
+2019,Virginia,Iowa,1827
+2019,Virginia,Kansas,973
+2019,Virginia,Kentucky,2619
+2019,Virginia,Louisiana,2609
+2019,Virginia,Maine,856
+2019,Virginia,Maryland,27172
+2019,Virginia,Massachusetts,5480
+2019,Virginia,Michigan,6012
+2019,Virginia,Minnesota,1033
+2019,Virginia,Mississippi,1512
+2019,Virginia,Missouri,3137
+2019,Virginia,Montana,1211
+2019,Virginia,Nebraska,556
+2019,Virginia,Nevada,2302
+2019,Virginia,New Hampshire,655
+2019,Virginia,New Jersey,9511
+2019,Virginia,New Mexico,1468
+2019,Virginia,New York,15618
+2019,Virginia,North Carolina,26435
+2019,Virginia,North Dakota,158
+2019,Virginia,Ohio,5498
+2019,Virginia,Oklahoma,1486
+2019,Virginia,Oregon,1042
+2019,Virginia,Pennsylvania,12284
+2019,Virginia,Rhode Island,1098
+2019,Virginia,South Carolina,9721
+2019,Virginia,South Dakota,122
+2019,Virginia,Tennessee,5310
+2019,Virginia,Texas,13924
+2019,Virginia,Utah,1736
+2019,Virginia,Vermont,1633
+2019,Virginia,Virginia,N/A
+2019,Virginia,Washington,6580
+2019,Virginia,West Virginia,5518
+2019,Virginia,Wisconsin,1518
+2019,Virginia,Wyoming,167
+2019,Washington,Alabama,1060
+2019,Washington,Alaska,4255
+2019,Washington,Arizona,8263
+2019,Washington,Arkansas,83
+2019,Washington,California,46791
+2019,Washington,Colorado,6829
+2019,Washington,Connecticut,3098
+2019,Washington,Delaware,0
+2019,Washington,District of Columbia ,1510
+2019,Washington,Florida,7925
+2019,Washington,Georgia,2611
+2019,Washington,Hawaii,5855
+2019,Washington,Idaho,12599
+2019,Washington,Illinois,3829
+2019,Washington,Indiana,2244
+2019,Washington,Iowa,644
+2019,Washington,Kansas,1924
+2019,Washington,Kentucky,953
+2019,Washington,Louisiana,1298
+2019,Washington,Maine,864
+2019,Washington,Maryland,2017
+2019,Washington,Massachusetts,3526
+2019,Washington,Michigan,3703
+2019,Washington,Minnesota,2378
+2019,Washington,Mississippi,136
+2019,Washington,Missouri,1938
+2019,Washington,Montana,6017
+2019,Washington,Nebraska,1780
+2019,Washington,Nevada,2556
+2019,Washington,New Hampshire,2011
+2019,Washington,New Jersey,824
+2019,Washington,New Mexico,1137
+2019,Washington,New York,6885
+2019,Washington,North Carolina,1479
+2019,Washington,North Dakota,904
+2019,Washington,Ohio,2897
+2019,Washington,Oklahoma,1383
+2019,Washington,Oregon,33712
+2019,Washington,Pennsylvania,4833
+2019,Washington,Rhode Island,373
+2019,Washington,South Carolina,2327
+2019,Washington,South Dakota,18
+2019,Washington,Tennessee,3115
+2019,Washington,Texas,18528
+2019,Washington,Utah,5440
+2019,Washington,Vermont,391
+2019,Washington,Virginia,6656
+2019,Washington,Washington,N/A
+2019,Washington,West Virginia,275
+2019,Washington,Wisconsin,1456
+2019,Washington,Wyoming,626
+2019,West Virginia,Alabama,245
+2019,West Virginia,Alaska,192
+2019,West Virginia,Arizona,356
+2019,West Virginia,Arkansas,120
+2019,West Virginia,California,940
+2019,West Virginia,Colorado,266
+2019,West Virginia,Connecticut,0
+2019,West Virginia,Delaware,127
+2019,West Virginia,District of Columbia ,154
+2019,West Virginia,Florida,3052
+2019,West Virginia,Georgia,658
+2019,West Virginia,Hawaii,256
+2019,West Virginia,Idaho,30
+2019,West Virginia,Illinois,380
+2019,West Virginia,Indiana,178
+2019,West Virginia,Iowa,119
+2019,West Virginia,Kansas,45
+2019,West Virginia,Kentucky,1518
+2019,West Virginia,Louisiana,0
+2019,West Virginia,Maine,223
+2019,West Virginia,Maryland,3976
+2019,West Virginia,Massachusetts,425
+2019,West Virginia,Michigan,316
+2019,West Virginia,Minnesota,433
+2019,West Virginia,Mississippi,0
+2019,West Virginia,Missouri,361
+2019,West Virginia,Montana,0
+2019,West Virginia,Nebraska,96
+2019,West Virginia,Nevada,64
+2019,West Virginia,New Hampshire,37
+2019,West Virginia,New Jersey,527
+2019,West Virginia,New Mexico,0
+2019,West Virginia,New York,546
+2019,West Virginia,North Carolina,2515
+2019,West Virginia,North Dakota,0
+2019,West Virginia,Ohio,4985
+2019,West Virginia,Oklahoma,117
+2019,West Virginia,Oregon,53
+2019,West Virginia,Pennsylvania,5706
+2019,West Virginia,Rhode Island,124
+2019,West Virginia,South Carolina,2882
+2019,West Virginia,South Dakota,0
+2019,West Virginia,Tennessee,402
+2019,West Virginia,Texas,927
+2019,West Virginia,Utah,0
+2019,West Virginia,Vermont,19
+2019,West Virginia,Virginia,6008
+2019,West Virginia,Washington,129
+2019,West Virginia,West Virginia,N/A
+2019,West Virginia,Wisconsin,41
+2019,West Virginia,Wyoming,0
+2019,Wisconsin,Alabama,678
+2019,Wisconsin,Alaska,1070
+2019,Wisconsin,Arizona,1917
+2019,Wisconsin,Arkansas,290
+2019,Wisconsin,California,6886
+2019,Wisconsin,Colorado,3125
+2019,Wisconsin,Connecticut,826
+2019,Wisconsin,Delaware,0
+2019,Wisconsin,District of Columbia ,298
+2019,Wisconsin,Florida,5168
+2019,Wisconsin,Georgia,1783
+2019,Wisconsin,Hawaii,283
+2019,Wisconsin,Idaho,93
+2019,Wisconsin,Illinois,22402
+2019,Wisconsin,Indiana,1951
+2019,Wisconsin,Iowa,4289
+2019,Wisconsin,Kansas,1421
+2019,Wisconsin,Kentucky,1468
+2019,Wisconsin,Louisiana,1167
+2019,Wisconsin,Maine,175
+2019,Wisconsin,Maryland,241
+2019,Wisconsin,Massachusetts,584
+2019,Wisconsin,Michigan,5307
+2019,Wisconsin,Minnesota,17524
+2019,Wisconsin,Mississippi,581
+2019,Wisconsin,Missouri,2796
+2019,Wisconsin,Montana,130
+2019,Wisconsin,Nebraska,872
+2019,Wisconsin,Nevada,747
+2019,Wisconsin,New Hampshire,401
+2019,Wisconsin,New Jersey,331
+2019,Wisconsin,New Mexico,237
+2019,Wisconsin,New York,2337
+2019,Wisconsin,North Carolina,1645
+2019,Wisconsin,North Dakota,1369
+2019,Wisconsin,Ohio,1049
+2019,Wisconsin,Oklahoma,346
+2019,Wisconsin,Oregon,639
+2019,Wisconsin,Pennsylvania,990
+2019,Wisconsin,Rhode Island,146
+2019,Wisconsin,South Carolina,948
+2019,Wisconsin,South Dakota,763
+2019,Wisconsin,Tennessee,1294
+2019,Wisconsin,Texas,5049
+2019,Wisconsin,Utah,808
+2019,Wisconsin,Vermont,0
+2019,Wisconsin,Virginia,1878
+2019,Wisconsin,Washington,1682
+2019,Wisconsin,West Virginia,572
+2019,Wisconsin,Wisconsin,N/A
+2019,Wisconsin,Wyoming,1417
+2019,Wyoming,Alabama,1227
+2019,Wyoming,Alaska,54
+2019,Wyoming,Arizona,757
+2019,Wyoming,Arkansas,298
+2019,Wyoming,California,3211
+2019,Wyoming,Colorado,3129
+2019,Wyoming,Connecticut,109
+2019,Wyoming,Delaware,0
+2019,Wyoming,District of Columbia ,0
+2019,Wyoming,Florida,909
+2019,Wyoming,Georgia,203
+2019,Wyoming,Hawaii,33
+2019,Wyoming,Idaho,1792
+2019,Wyoming,Illinois,49
+2019,Wyoming,Indiana,616
+2019,Wyoming,Iowa,23
+2019,Wyoming,Kansas,366
+2019,Wyoming,Kentucky,149
+2019,Wyoming,Louisiana,201
+2019,Wyoming,Maine,136
+2019,Wyoming,Maryland,0
+2019,Wyoming,Massachusetts,100
+2019,Wyoming,Michigan,93
+2019,Wyoming,Minnesota,492
+2019,Wyoming,Mississippi,0
+2019,Wyoming,Missouri,582
+2019,Wyoming,Montana,1850
+2019,Wyoming,Nebraska,927
+2019,Wyoming,Nevada,2881
+2019,Wyoming,New Hampshire,473
+2019,Wyoming,New Jersey,187
+2019,Wyoming,New Mexico,377
+2019,Wyoming,New York,389
+2019,Wyoming,North Carolina,4
+2019,Wyoming,North Dakota,265
+2019,Wyoming,Ohio,97
+2019,Wyoming,Oklahoma,564
+2019,Wyoming,Oregon,514
+2019,Wyoming,Pennsylvania,447
+2019,Wyoming,Rhode Island,0
+2019,Wyoming,South Carolina,509
+2019,Wyoming,South Dakota,1041
+2019,Wyoming,Tennessee,116
+2019,Wyoming,Texas,1696
+2019,Wyoming,Utah,1746
+2019,Wyoming,Vermont,0
+2019,Wyoming,Virginia,415
+2019,Wyoming,Washington,885
+2019,Wyoming,West Virginia,308
+2019,Wyoming,Wisconsin,27
+2019,Wyoming,Wyoming,N/A
