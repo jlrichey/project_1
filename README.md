@@ -87,8 +87,9 @@ As noted in the line graph below, California's fall in home price appreciation w
 
 What we found is that CPI, HPI, and Migration are strongly correlated in Florida, reasonably correlated in Texas, and not correlated in California. This outcome is logical since California has seen home prices rise despite their significant negative net migration and alludes to a complex causality in California's real estate values. In comparison, Texas and Florida have both seen a rise in population, inflation, and real estate values justifying their stronger correlations between state variables. 
 
-## Sources:
+## Sources
 
-* [Department of Finance](https://dof.ca.gov/forecasting/economics/economic-indicators/inflation/)
-* [Department of Finance](https://dof.ca.gov/forecasting/economics/economic-indicators/inflation/)
-
+* [Medium Cloropleth Map - Plotly](https://towardsdatascience.com/simplest-way-of-creating-a-choropleth-map-by-u-s-states-in-python-f359ada7735e)
+* [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
+* [stackoverflow](https://stackoverflow.com/questions/44678829/how-to-transpose-dataframe-columns-into-rows-in-pandas)
+* UCB FinTech classroom lectures
