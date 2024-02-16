@@ -32,9 +32,7 @@ Most of the subject entities provided the datasets in `.xls` or `.csv` format. A
 All datasets were read into Python Pandas dataframes using the `read_csv` function and cleaned using functions such as `.strip()`, among others. 
 Unneeded colums were dropped using `.drop()` and `.isin()` was used to filter unneeded data such as years and quarters outside of the study from rows. Nulls were dropped with `.dropna()`.
 
-## Migration
-
-#### Necessary Libraries and Dependencies
+### Necessary Libraries and Dependencies
 
 ```python
 from pathlib import Path
@@ -45,6 +43,16 @@ import numpy as np
 import seaborn as sns
 %matplotlib inline
 ```
+The importing, cleaning, and analysis was conducted in four Jupyter Labs notebooks
+
+* [Consumer Price Index (HPI)](CPI.ipynb)
+* [House Price Index (HPI) and Median House Price](HPI-MedianHP.ipynb)
+* [Migration](Migrationk.ipynb)
+* [Correlations](Correlations.ipynb)
+
+## Migration
+
+
 #### Goal
 
 The goal of this section is to identify and quantify migration trends between states over the ten year period. At the end of this analysis we will know precisely each state's net migration for each year.
